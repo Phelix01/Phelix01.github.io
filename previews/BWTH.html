@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/BWTH-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>BWTH visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/BWTH-files/logo.png" />
+	<img class="preload-hidden" src="/sets/BWTH-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="BWTH"><img src="/sets/BWTH-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/BWTH-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\BWTH-files\img\10_Entry Fee.png" id="10_Entry Fee" data-flag="@X" onclick="openSidebar('10_Entry Fee',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\46_Aria, Waketide Soloist.png" id="46_Aria, Waketide Soloist" data-flag="@X" onclick="openSidebar('46_Aria, Waketide Soloist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\88_Bonky-Fists, The Freakshow.png" id="88_Bonky-Fists, The Freakshow" data-flag="@X" onclick="openSidebar('88_Bonky-Fists, The Freakshow',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\140_Danger Game.png" id="140_Danger Game" data-flag="@X" onclick="openSidebar('140_Danger Game',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\183_Dusk Rose Shambler.png" id="183_Dusk Rose Shambler" data-flag="@X" onclick="openSidebar('183_Dusk Rose Shambler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\15_Fyrn, Prima Ballerina.png" id="15_Fyrn, Prima Ballerina" data-flag="@X" onclick="openSidebar('15_Fyrn, Prima Ballerina',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\47_Blind Hierophant.png" id="47_Blind Hierophant" data-flag="@X" onclick="openSidebar('47_Blind Hierophant',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\107_Enter the Puppet Show.png" id="107_Enter the Puppet Show" data-flag="@X" onclick="openSidebar('107_Enter the Puppet Show',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\161_Revelry Crasher.png" id="161_Revelry Crasher" data-flag="@X" onclick="openSidebar('161_Revelry Crasher',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\204_Rykiki, Hundred-Eyed Bloom.png" id="204_Rykiki, Hundred-Eyed Bloom" data-flag="@X" onclick="openSidebar('204_Rykiki, Hundred-Eyed Bloom',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\36_Sideshow Trio.png" id="36_Sideshow Trio" data-flag="@X" onclick="openSidebar('36_Sideshow Trio',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\53_Cyril of the Living Chorus.png" id="53_Cyril of the Living Chorus" data-flag="@X" onclick="openSidebar('53_Cyril of the Living Chorus',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\125_Syr Nyxil, Night Shepherd.png" id="125_Syr Nyxil, Night Shepherd" data-flag="@X" onclick="openSidebar('125_Syr Nyxil, Night Shepherd',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\169_Thesprax, Party Animal.png" id="169_Thesprax, Party Animal" data-flag="@X" onclick="openSidebar('169_Thesprax, Party Animal',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\205_Showstopping Strength.png" id="205_Showstopping Strength" data-flag="@X" onclick="openSidebar('205_Showstopping Strength',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\4_Chorus of Joy.png" id="4_Chorus of Joy" data-flag="@X" onclick="openSidebar('4_Chorus of Joy',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\48_Choreographed Denial.png" id="48_Choreographed Denial" data-flag="@X" onclick="openSidebar('48_Choreographed Denial',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\92_Celessa, Maestro's Muse.png" id="92_Celessa, Maestros Muse" data-flag="@X" onclick="openSidebar('92_Celessa, Maestros Muse',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\130_Ashen Soprano.png" id="130_Ashen Soprano" data-flag="@X" onclick="openSidebar('130_Ashen Soprano',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\195_Masquebloom Hydra.png" id="195_Masquebloom Hydra" data-flag="@X" onclick="openSidebar('195_Masquebloom Hydra',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\14_Finale Swan.png" id="14_Finale Swan" data-flag="@X" onclick="openSidebar('14_Finale Swan',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\50_Clear the Room.png" id="50_Clear the Room" data-flag="@X" onclick="openSidebar('50_Clear the Room',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\93_Chorus of Woe.png" id="93_Chorus of Woe" data-flag="@X" onclick="openSidebar('93_Chorus of Woe',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\132_Brassfire Crescendo.png" id="132_Brassfire Crescendo" data-flag="@X" onclick="openSidebar('132_Brassfire Crescendo',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\197_Memoirs of a Rose.png" id="197_Memoirs of a Rose" data-flag="@X" onclick="openSidebar('197_Memoirs of a Rose',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\17_Intermission.png" id="17_Intermission" data-flag="@X" onclick="openSidebar('17_Intermission',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\55_Elistair, Esteemed Director.png" id="55_Elistair, Esteemed Director" data-flag="@X" onclick="openSidebar('55_Elistair, Esteemed Director',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\99_Curtainfall.png" id="99_Curtainfall" data-flag="@X" onclick="openSidebar('99_Curtainfall',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\136_Coffers to Coffins.png" id="136_Coffers to Coffins" data-flag="@X" onclick="openSidebar('136_Coffers to Coffins',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\200_Omnya, The Illusive Bloom.png" id="200_Omnya, The Illusive Bloom" data-flag="@X" onclick="openSidebar('200_Omnya, The Illusive Bloom',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\18_Ivory Adjudicator.png" id="18_Ivory Adjudicator" data-flag="@X" onclick="openSidebar('18_Ivory Adjudicator',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\56_Ephemeral Exchange.png" id="56_Ephemeral Exchange" data-flag="@X" onclick="openSidebar('56_Ephemeral Exchange',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\100_Cynical Showman.png" id="100_Cynical Showman" data-flag="@X" onclick="openSidebar('100_Cynical Showman',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\152_Heartflare Anthem.png" id="152_Heartflare Anthem" data-flag="@X" onclick="openSidebar('152_Heartflare Anthem',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\202_Resurgent Awakening.png" id="202_Resurgent Awakening" data-flag="@X" onclick="openSidebar('202_Resurgent Awakening',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\24_Only One Shall Wake.png" id="24_Only One Shall Wake" data-flag="@X" onclick="openSidebar('24_Only One Shall Wake',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\61_Leading Role Vulpine.png" id="61_Leading Role Vulpine" data-flag="@X" onclick="openSidebar('61_Leading Role Vulpine',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\105_Duskcaller Necromancer.png" id="105_Duskcaller Necromancer" data-flag="@X" onclick="openSidebar('105_Duskcaller Necromancer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\159_Radiant Ovationeer.png" id="159_Radiant Ovationeer" data-flag="@X" onclick="openSidebar('159_Radiant Ovationeer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\206_Tearing the Veil.png" id="206_Tearing the Veil" data-flag="@X" onclick="openSidebar('206_Tearing the Veil',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\30_Radiant Parade.png" id="30_Radiant Parade" data-flag="@X" onclick="openSidebar('30_Radiant Parade',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\77_Royal Garden Wisp.png" id="77_Royal Garden Wisp" data-flag="@X" onclick="openSidebar('77_Royal Garden Wisp',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\108_Evaron, Besotted Maestro.png" id="108_Evaron, Besotted Maestro" data-flag="@X" onclick="openSidebar('108_Evaron, Besotted Maestro',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\165_Step Right Up.png" id="165_Step Right Up" data-flag="@X" onclick="openSidebar('165_Step Right Up',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\207_Thissara, Mind Weaver.png" id="207_Thissara, Mind Weaver" data-flag="@X" onclick="openSidebar('207_Thissara, Mind Weaver',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\31_Renthilda, Lead Lutenist.png" id="31_Renthilda, Lead Lutenist" data-flag="@X" onclick="openSidebar('31_Renthilda, Lead Lutenist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\82_Silken Kelpie.png" id="82_Silken Kelpie" data-flag="@X" onclick="openSidebar('82_Silken Kelpie',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\111_Final Audition.png" id="111_Final Audition" data-flag="@X" onclick="openSidebar('111_Final Audition',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\170_Untamed Howler.png" id="170_Untamed Howler" data-flag="@X" onclick="openSidebar('170_Untamed Howler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\208_Thorn-Gilded Matron.png" id="208_Thorn-Gilded Matron" data-flag="@X" onclick="openSidebar('208_Thorn-Gilded Matron',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\33_Reverent Duelist.png" id="33_Reverent Duelist" data-flag="@X" onclick="openSidebar('33_Reverent Duelist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\84_Symphonic Bloom.png" id="84_Symphonic Bloom" data-flag="@X" onclick="openSidebar('84_Symphonic Bloom',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\117_Life From Decay.png" id="117_Life From Decay" data-flag="@X" onclick="openSidebar('117_Life From Decay',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\171_Voltspasm Arsonist.png" id="171_Voltspasm Arsonist" data-flag="@X" onclick="openSidebar('171_Voltspasm Arsonist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\212_Verdant Roots.png" id="212_Verdant Roots" data-flag="@X" onclick="openSidebar('212_Verdant Roots',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\7_Director's Will.png" id="7_Directors Will" data-flag="@X" onclick="openSidebar('7_Directors Will',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\45_Aerial Windcaster.png" id="45_Aerial Windcaster" data-flag="@X" onclick="openSidebar('45_Aerial Windcaster',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\87_Beyond the Stage.png" id="87_Beyond the Stage" data-flag="@X" onclick="openSidebar('87_Beyond the Stage',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\135_Cinderstep Parade.png" id="135_Cinderstep Parade" data-flag="@X" onclick="openSidebar('135_Cinderstep Parade',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\173_Alluring Aroma.png" id="173_Alluring Aroma" data-flag="@X" onclick="openSidebar('173_Alluring Aroma',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\11_Exhibition Duelist.png" id="11_Exhibition Duelist" data-flag="@X" onclick="openSidebar('11_Exhibition Duelist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\51_Covert Analyst.png" id="51_Covert Analyst" data-flag="@X" onclick="openSidebar('51_Covert Analyst',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\90_Cadaverous Nimblist.png" id="90_Cadaverous Nimblist" data-flag="@X" onclick="openSidebar('90_Cadaverous Nimblist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\139_The Crowd Roars.png" id="139_The Crowd Roars" data-flag="@X" onclick="openSidebar('139_The Crowd Roars',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\174_Bannerhorn Charger.png" id="174_Bannerhorn Charger" data-flag="@X" onclick="openSidebar('174_Bannerhorn Charger',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\13_Festival Courier.png" id="13_Festival Courier" data-flag="@X" onclick="openSidebar('13_Festival Courier',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\58_Fleeting Insight.png" id="58_Fleeting Insight" data-flag="@X" onclick="openSidebar('58_Fleeting Insight',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\95_Crumbling Facade.png" id="95_Crumbling Facade" data-flag="@X" onclick="openSidebar('95_Crumbling Facade',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\143_Emberjuggle Trickster.png" id="143_Emberjuggle Trickster" data-flag="@X" onclick="openSidebar('143_Emberjuggle Trickster',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\181_Carnival Vinecrawler.png" id="181_Carnival Vinecrawler" data-flag="@X" onclick="openSidebar('181_Carnival Vinecrawler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\16_Inconspicuous Inspector.png" id="16_Inconspicuous Inspector" data-flag="@X" onclick="openSidebar('16_Inconspicuous Inspector',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\59_Flow Form.png" id="59_Flow Form" data-flag="@X" onclick="openSidebar('59_Flow Form',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\97_Curtain Call Catastrophe.png" id="97_Curtain Call Catastrophe" data-flag="@X" onclick="openSidebar('97_Curtain Call Catastrophe',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\146_Festival Drake.png" id="146_Festival Drake" data-flag="@X" onclick="openSidebar('146_Festival Drake',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\186_Festival Rootwarden.png" id="186_Festival Rootwarden" data-flag="@X" onclick="openSidebar('186_Festival Rootwarden',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\21_March of the Halo.png" id="21_March of the Halo" data-flag="@X" onclick="openSidebar('21_March of the Halo',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\62_Lumina Jelly.png" id="62_Lumina Jelly" data-flag="@X" onclick="openSidebar('62_Lumina Jelly',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\104_Dress the Stage.png" id="104_Dress the Stage" data-flag="@X" onclick="openSidebar('104_Dress the Stage',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\147_Festival Fever.png" id="147_Festival Fever" data-flag="@X" onclick="openSidebar('147_Festival Fever',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\191_Garland-Vines.png" id="191_Garland-Vines" data-flag="@X" onclick="openSidebar('191_Garland-Vines',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\23_Moonblade Aspirant.png" id="23_Moonblade Aspirant" data-flag="@X" onclick="openSidebar('23_Moonblade Aspirant',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\64_Masqued Echomage.png" id="64_Masqued Echomage" data-flag="@X" onclick="openSidebar('64_Masqued Echomage',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\109_Eye of the Stage.png" id="109_Eye of the Stage" data-flag="@X" onclick="openSidebar('109_Eye of the Stage',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\151_Furnace Dancer.png" id="151_Furnace Dancer" data-flag="@X" onclick="openSidebar('151_Furnace Dancer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\192_Gravemarch Myconid.png" id="192_Gravemarch Myconid" data-flag="@X" onclick="openSidebar('192_Gravemarch Myconid',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\29_Poised Retribution.png" id="29_Poised Retribution" data-flag="@X" onclick="openSidebar('29_Poised Retribution',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\68_Misty Step.png" id="68_Misty Step" data-flag="@X" onclick="openSidebar('68_Misty Step',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\112_Gleam of Despair.png" id="112_Gleam of Despair" data-flag="@X" onclick="openSidebar('112_Gleam of Despair',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\156_Party Favors.png" id="156_Party Favors" data-flag="@X" onclick="openSidebar('156_Party Favors',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\193_Grove Marauder.png" id="193_Grove Marauder" data-flag="@X" onclick="openSidebar('193_Grove Marauder',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\32_Revelry Archivist.png" id="32_Revelry Archivist" data-flag="@X" onclick="openSidebar('32_Revelry Archivist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\69_Momentary Exhibition.png" id="69_Momentary Exhibition" data-flag="@X" onclick="openSidebar('69_Momentary Exhibition',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\113_Graveside Minstrel.png" id="113_Graveside Minstrel" data-flag="@X" onclick="openSidebar('113_Graveside Minstrel',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\157_Party Virtuoso.png" id="157_Party Virtuoso" data-flag="@X" onclick="openSidebar('157_Party Virtuoso',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\194_The Land Remembers.png" id="194_The Land Remembers" data-flag="@X" onclick="openSidebar('194_The Land Remembers',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\35_Scrollgarden Steward.png" id="35_Scrollgarden Steward" data-flag="@X" onclick="openSidebar('35_Scrollgarden Steward',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\71_Motley Masquerade.png" id="71_Motley Masquerade" data-flag="@X" onclick="openSidebar('71_Motley Masquerade',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\118_Marrow Dancer.png" id="118_Marrow Dancer" data-flag="@X" onclick="openSidebar('118_Marrow Dancer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\160_Radiant Pyromancer.png" id="160_Radiant Pyromancer" data-flag="@X" onclick="openSidebar('160_Radiant Pyromancer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\203_Roots Beyond Memory.png" id="203_Roots Beyond Memory" data-flag="@X" onclick="openSidebar('203_Roots Beyond Memory',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\40_Stolen Visage.png" id="40_Stolen Visage" data-flag="@X" onclick="openSidebar('40_Stolen Visage',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\76_Rootkarma Colossus.png" id="76_Rootkarma Colossus" data-flag="@X" onclick="openSidebar('76_Rootkarma Colossus',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\122_Punchline Predator.png" id="122_Punchline Predator" data-flag="@X" onclick="openSidebar('122_Punchline Predator',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\162_Revelry in Twilight.png" id="162_Revelry in Twilight" data-flag="@X" onclick="openSidebar('162_Revelry in Twilight',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\210_Twilight Mantle.png" id="210_Twilight Mantle" data-flag="@X" onclick="openSidebar('210_Twilight Mantle',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\41_Transpuppify.png" id="41_Transpuppify" data-flag="@X" onclick="openSidebar('41_Transpuppify',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\81_Shifting Facade.png" id="81_Shifting Facade" data-flag="@X" onclick="openSidebar('81_Shifting Facade',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\128_Ventriloquist's Vice.png" id="128_Ventriloquists Vice" data-flag="@X" onclick="openSidebar('128_Ventriloquists Vice',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\168_Suffocating Phantom.png" id="168_Suffocating Phantom" data-flag="@X" onclick="openSidebar('168_Suffocating Phantom',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\211_Verdant Kin Caller.png" id="211_Verdant Kin Caller" data-flag="@X" onclick="openSidebar('211_Verdant Kin Caller',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\42_Trumpet Herald.png" id="42_Trumpet Herald" data-flag="@X" onclick="openSidebar('42_Trumpet Herald',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\85_Unforeseen Current.png" id="85_Unforeseen Current" data-flag="@X" onclick="openSidebar('85_Unforeseen Current',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\129_VIP Entrance.png" id="129_VIP Entrance" data-flag="@X" onclick="openSidebar('129_VIP Entrance',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\172_Wicked Whirl.png" id="172_Wicked Whirl" data-flag="@X" onclick="openSidebar('172_Wicked Whirl',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\215_Wildsong Blessing.png" id="215_Wildsong Blessing" data-flag="@X" onclick="openSidebar('215_Wildsong Blessing',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\1_Ceremonious Knight.png" id="1_Ceremonious Knight" data-flag="@X" onclick="openSidebar('1_Ceremonious Knight',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\44_Aegiswing Arbiter.png" id="44_Aegiswing Arbiter" data-flag="@X" onclick="openSidebar('44_Aegiswing Arbiter',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\89_Cackling Comeback.png" id="89_Cackling Comeback" data-flag="@X" onclick="openSidebar('89_Cackling Comeback',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\131_Banner-Whirl Acrobat.png" id="131_Banner-Whirl Acrobat" data-flag="@X" onclick="openSidebar('131_Banner-Whirl Acrobat',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\175_Beneath the Canopy.png" id="175_Beneath the Canopy" data-flag="@X" onclick="openSidebar('175_Beneath the Canopy',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\2_Choreographed Sentry.png" id="2_Choreographed Sentry" data-flag="@X" onclick="openSidebar('2_Choreographed Sentry',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\49_Choreographed Dismissal.png" id="49_Choreographed Dismissal" data-flag="@X" onclick="openSidebar('49_Choreographed Dismissal',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\91_Catacomb Marionette.png" id="91_Catacomb Marionette" data-flag="@X" onclick="openSidebar('91_Catacomb Marionette',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\133_Brimwreath Greeter.png" id="133_Brimwreath Greeter" data-flag="@X" onclick="openSidebar('133_Brimwreath Greeter',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\176_Bloom-Strider.png" id="176_Bloom-Strider" data-flag="@X" onclick="openSidebar('176_Bloom-Strider',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\3_Choreographed Strike.png" id="3_Choreographed Strike" data-flag="@X" onclick="openSidebar('3_Choreographed Strike',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\52_Curtain of Mist.png" id="52_Curtain of Mist" data-flag="@X" onclick="openSidebar('52_Curtain of Mist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\94_Confetti Collector.png" id="94_Confetti Collector" data-flag="@X" onclick="openSidebar('94_Confetti Collector',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\134_Charpyre Scamp.png" id="134_Charpyre Scamp" data-flag="@X" onclick="openSidebar('134_Charpyre Scamp',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\177_Bloompath Dancer.png" id="177_Bloompath Dancer" data-flag="@X" onclick="openSidebar('177_Bloompath Dancer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\5_Confetti Elemental.png" id="5_Confetti Elemental" data-flag="@X" onclick="openSidebar('5_Confetti Elemental',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\54_Doomed to Party.png" id="54_Doomed to Party" data-flag="@X" onclick="openSidebar('54_Doomed to Party',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\96_Cryptmask Swarmer.png" id="96_Cryptmask Swarmer" data-flag="@X" onclick="openSidebar('96_Cryptmask Swarmer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\137_Crackfire Devil.png" id="137_Crackfire Devil" data-flag="@X" onclick="openSidebar('137_Crackfire Devil',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\178_Brimwreath Trailblazer.png" id="178_Brimwreath Trailblazer" data-flag="@X" onclick="openSidebar('178_Brimwreath Trailblazer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\6_Contagious Laughter.png" id="6_Contagious Laughter" data-flag="@X" onclick="openSidebar('6_Contagious Laughter',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\57_Ethereal Flutist.png" id="57_Ethereal Flutist" data-flag="@X" onclick="openSidebar('57_Ethereal Flutist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\98_Curtain Wailer.png" id="98_Curtain Wailer" data-flag="@X" onclick="openSidebar('98_Curtain Wailer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\138_Crimson Welcoming.png" id="138_Crimson Welcoming" data-flag="@X" onclick="openSidebar('138_Crimson Welcoming',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\179_Burial Rites.png" id="179_Burial Rites" data-flag="@X" onclick="openSidebar('179_Burial Rites',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\8_Dwarven Flash Mob.png" id="8_Dwarven Flash Mob" data-flag="@X" onclick="openSidebar('8_Dwarven Flash Mob',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\60_Gildscroll Playwright.png" id="60_Gildscroll Playwright" data-flag="@X" onclick="openSidebar('60_Gildscroll Playwright',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\101_Deadly Encore.png" id="101_Deadly Encore" data-flag="@X" onclick="openSidebar('101_Deadly Encore',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\141_Daredevil Harlequin.png" id="141_Daredevil Harlequin" data-flag="@X" onclick="openSidebar('141_Daredevil Harlequin',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\180_Canopy Vinedancer.png" id="180_Canopy Vinedancer" data-flag="@X" onclick="openSidebar('180_Canopy Vinedancer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\9_Encore of Triumph.png" id="9_Encore of Triumph" data-flag="@X" onclick="openSidebar('9_Encore of Triumph',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\63_Maskscroll Familiar.png" id="63_Maskscroll Familiar" data-flag="@X" onclick="openSidebar('63_Maskscroll Familiar',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\102_Deadly Waltz.png" id="102_Deadly Waltz" data-flag="@X" onclick="openSidebar('102_Deadly Waltz',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\142_Ember Harrier.png" id="142_Ember Harrier" data-flag="@X" onclick="openSidebar('142_Ember Harrier',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\182_Cryptmask Scout.png" id="182_Cryptmask Scout" data-flag="@X" onclick="openSidebar('182_Cryptmask Scout',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\12_Festival Banner-Bearer.png" id="12_Festival Banner-Bearer" data-flag="@X" onclick="openSidebar('12_Festival Banner-Bearer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\65_Measured Flourish.png" id="65_Measured Flourish" data-flag="@X" onclick="openSidebar('65_Measured Flourish',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\103_Dramatic Interlude.png" id="103_Dramatic Interlude" data-flag="@X" onclick="openSidebar('103_Dramatic Interlude',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\144_Explosive Ovation.png" id="144_Explosive Ovation" data-flag="@X" onclick="openSidebar('144_Explosive Ovation',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\184_Emeraldback Spindler.png" id="184_Emeraldback Spindler" data-flag="@X" onclick="openSidebar('184_Emeraldback Spindler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\19_Lanternlight Charge.png" id="19_Lanternlight Charge" data-flag="@X" onclick="openSidebar('19_Lanternlight Charge',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\66_Mirrorleaf Shaper.png" id="66_Mirrorleaf Shaper" data-flag="@X" onclick="openSidebar('66_Mirrorleaf Shaper',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\106_Duskcaller Undertaker.png" id="106_Duskcaller Undertaker" data-flag="@X" onclick="openSidebar('106_Duskcaller Undertaker',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\145_Fatal Banter.png" id="145_Fatal Banter" data-flag="@X" onclick="openSidebar('145_Fatal Banter',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\185_Eulogist's Puppet.png" id="185_Eulogists Puppet" data-flag="@X" onclick="openSidebar('185_Eulogists Puppet',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\20_Luminary Protector.png" id="20_Luminary Protector" data-flag="@X" onclick="openSidebar('20_Luminary Protector',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\67_Mistveil Echo.png" id="67_Mistveil Echo" data-flag="@X" onclick="openSidebar('67_Mistveil Echo',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\110_Faceless Truth.png" id="110_Faceless Truth" data-flag="@X" onclick="openSidebar('110_Faceless Truth',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\148_Festival Flamewhirl.png" id="148_Festival Flamewhirl" data-flag="@X" onclick="openSidebar('148_Festival Flamewhirl',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\187_Flourish.png" id="187_Flourish" data-flag="@X" onclick="openSidebar('187_Flourish',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\22_Moment of Benediction.png" id="22_Moment of Benediction" data-flag="@X" onclick="openSidebar('22_Moment of Benediction',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\70_Moonlit Waltz.png" id="70_Moonlit Waltz" data-flag="@X" onclick="openSidebar('70_Moonlit Waltz',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\114_Helltongue Flame Eater.png" id="114_Helltongue Flame Eater" data-flag="@X" onclick="openSidebar('114_Helltongue Flame Eater',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\149_Firebreather's Glory.png" id="149_Firebreathers Glory" data-flag="@X" onclick="openSidebar('149_Firebreathers Glory',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\188_Funeral Bloom.png" id="188_Funeral Bloom" data-flag="@X" onclick="openSidebar('188_Funeral Bloom',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\25_Parade Guide.png" id="25_Parade Guide" data-flag="@X" onclick="openSidebar('25_Parade Guide',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\72_Petal Phantasm.png" id="72_Petal Phantasm" data-flag="@X" onclick="openSidebar('72_Petal Phantasm',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\115_Jubilant Harlequin.png" id="115_Jubilant Harlequin" data-flag="@X" onclick="openSidebar('115_Jubilant Harlequin',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\150_Firegag Jester.png" id="150_Firegag Jester" data-flag="@X" onclick="openSidebar('150_Firegag Jester',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\189_Funeral Harpist.png" id="189_Funeral Harpist" data-flag="@X" onclick="openSidebar('189_Funeral Harpist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\26_Party Foul.png" id="26_Party Foul" data-flag="@X" onclick="openSidebar('26_Party Foul',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\73_Petalveiled Trickster.png" id="73_Petalveiled Trickster" data-flag="@X" onclick="openSidebar('73_Petalveiled Trickster',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\116_Last Act Heckler.png" id="116_Last Act Heckler" data-flag="@X" onclick="openSidebar('116_Last Act Heckler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\153_Hellish Harmony.png" id="153_Hellish Harmony" data-flag="@X" onclick="openSidebar('153_Hellish Harmony',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\190_Garden Lasher.png" id="190_Garden Lasher" data-flag="@X" onclick="openSidebar('190_Garden Lasher',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\27_Pearlback Spindler.png" id="27_Pearlback Spindler" data-flag="@X" onclick="openSidebar('27_Pearlback Spindler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\74_Poised for Greatness.png" id="74_Poised for Greatness" data-flag="@X" onclick="openSidebar('74_Poised for Greatness',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\119_Nightmask Omen.png" id="119_Nightmask Omen" data-flag="@X" onclick="openSidebar('119_Nightmask Omen',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\154_Lanternblaze Chanter.png" id="154_Lanternblaze Chanter" data-flag="@X" onclick="openSidebar('154_Lanternblaze Chanter',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\196_Masqued Vitality.png" id="196_Masqued Vitality" data-flag="@X" onclick="openSidebar('196_Masqued Vitality',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\28_Phantom Ball.png" id="28_Phantom Ball" data-flag="@X" onclick="openSidebar('28_Phantom Ball',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\75_Rehearsed Illusion.png" id="75_Rehearsed Illusion" data-flag="@X" onclick="openSidebar('75_Rehearsed Illusion',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\120_Onyxback Spindler.png" id="120_Onyxback Spindler" data-flag="@X" onclick="openSidebar('120_Onyxback Spindler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\155_Parade Vanguard.png" id="155_Parade Vanguard" data-flag="@X" onclick="openSidebar('155_Parade Vanguard',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\198_Moss Burrower.png" id="198_Moss Burrower" data-flag="@X" onclick="openSidebar('198_Moss Burrower',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\34_Rhythm Caller.png" id="34_Rhythm Caller" data-flag="@X" onclick="openSidebar('34_Rhythm Caller',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\78_Sapphireback Spindler.png" id="78_Sapphireback Spindler" data-flag="@X" onclick="openSidebar('78_Sapphireback Spindler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\121_Punchline Curse.png" id="121_Punchline Curse" data-flag="@X" onclick="openSidebar('121_Punchline Curse',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\158_Predator's Masquerade.png" id="158_Predators Masquerade" data-flag="@X" onclick="openSidebar('158_Predators Masquerade',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\199_Mossmantle Sprite.png" id="199_Mossmantle Sprite" data-flag="@X" onclick="openSidebar('199_Mossmantle Sprite',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\37_Silk Seamstress.png" id="37_Silk Seamstress" data-flag="@X" onclick="openSidebar('37_Silk Seamstress',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\79_Scripted Denial.png" id="79_Scripted Denial" data-flag="@X" onclick="openSidebar('79_Scripted Denial',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\123_Stingveil.png" id="123_Stingveil" data-flag="@X" onclick="openSidebar('123_Stingveil',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\163_Rubyback Spindler.png" id="163_Rubyback Spindler" data-flag="@X" onclick="openSidebar('163_Rubyback Spindler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\201_Pallbearer Myconid.png" id="201_Pallbearer Myconid" data-flag="@X" onclick="openSidebar('201_Pallbearer Myconid',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\38_Stage-Trained Familiar.png" id="38_Stage-Trained Familiar" data-flag="@X" onclick="openSidebar('38_Stage-Trained Familiar',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\80_Scripted Observer.png" id="80_Scripted Observer" data-flag="@X" onclick="openSidebar('80_Scripted Observer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\124_Stonegaze Petrifex.png" id="124_Stonegaze Petrifex" data-flag="@X" onclick="openSidebar('124_Stonegaze Petrifex',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\164_Stage-Tumble Ruffian.png" id="164_Stage-Tumble Ruffian" data-flag="@X" onclick="openSidebar('164_Stage-Tumble Ruffian',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\209_Trailblazer's Resolve.png" id="209_Trailblazers Resolve" data-flag="@X" onclick="openSidebar('209_Trailblazers Resolve',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\39_Stoic Masquerade.png" id="39_Stoic Masquerade" data-flag="@X" onclick="openSidebar('39_Stoic Masquerade',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\83_Sproutveil Familiar.png" id="83_Sproutveil Familiar" data-flag="@X" onclick="openSidebar('83_Sproutveil Familiar',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\126_Twist Ending.png" id="126_Twist Ending" data-flag="@X" onclick="openSidebar('126_Twist Ending',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\166_Stike the Stage.png" id="166_Stike the Stage" data-flag="@X" onclick="openSidebar('166_Stike the Stage',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\213_Wild Improvisation.png" id="213_Wild Improvisation" data-flag="@X" onclick="openSidebar('213_Wild Improvisation',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\43_Vulpine Grace-Dancer.png" id="43_Vulpine Grace-Dancer" data-flag="@X" onclick="openSidebar('43_Vulpine Grace-Dancer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\86_Whispering Wisteria.png" id="86_Whispering Wisteria" data-flag="@X" onclick="openSidebar('86_Whispering Wisteria',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\127_Twisted Theater.png" id="127_Twisted Theater" data-flag="@X" onclick="openSidebar('127_Twisted Theater',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\167_Sudden Curtain Call.png" id="167_Sudden Curtain Call" data-flag="@X" onclick="openSidebar('167_Sudden Curtain Call',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\214_Wildblood Unity.png" id="214_Wildblood Unity" data-flag="@X" onclick="openSidebar('214_Wildblood Unity',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\244_Virellis, Elegance Conductor.png" id="244_Virellis, Elegance Conductor" data-flag="@X" onclick="openSidebar('244_Virellis, Elegance Conductor',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\234_Shadowed Archivist.png" id="234_Shadowed Archivist" data-flag="@X" onclick="openSidebar('234_Shadowed Archivist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\241_Varnok, Grin of the Gallows.png" id="241_Varnok, Grin of the Gallows" data-flag="@X" onclick="openSidebar('241_Varnok, Grin of the Gallows',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\242_Vineblood Brawler.png" id="242_Vineblood Brawler" data-flag="@X" onclick="openSidebar('242_Vineblood Brawler',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\245_Wreathborne Shepherd.png" id="245_Wreathborne Shepherd" data-flag="@X" onclick="openSidebar('245_Wreathborne Shepherd',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\218_Elistair's Dismissal.png" id="218_Elistairs Dismissal" data-flag="@X" onclick="openSidebar('218_Elistairs Dismissal',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\235_Snipsnap, Clown Princess.png" id="235_Snipsnap, Clown Princess" data-flag="@X" onclick="openSidebar('235_Snipsnap, Clown Princess',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\243_Virelle, Tethered Swan.png" id="243_Virelle, Tethered Swan" data-flag="@X" onclick="openSidebar('243_Virelle, Tethered Swan',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\236_Spotlight of Madness.png" id="236_Spotlight of Madness" data-flag="@X" onclick="openSidebar('236_Spotlight of Madness',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img data-alt_src="/sets\BWTH-files\img\217_Elegance Masque_back.png" alt="/sets\BWTH-files\img\217_Elegance Masque_front.png" id="217_Elegance Masque" data-flag="@XD" onclick="openSidebar('217_Elegance Masque',false)"><button class="flip-btn" onclick="imgFlip('217_Elegance Masque')"></button></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img data-alt_src="/sets\BWTH-files\img\219_Entropy Masque_back.png" alt="/sets\BWTH-files\img\219_Entropy Masque_front.png" id="219_Entropy Masque" data-flag="@XD" onclick="openSidebar('219_Entropy Masque',false)"><button class="flip-btn" onclick="imgFlip('219_Entropy Masque')"></button></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\224_Guildtide Maestro.png" id="224_Guildtide Maestro" data-flag="@X" onclick="openSidebar('224_Guildtide Maestro',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\237_Stagebreaker Jack.png" id="237_Stagebreaker Jack" data-flag="@X" onclick="openSidebar('237_Stagebreaker Jack',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\229_Marshal of Wakes.png" id="229_Marshal of Wakes" data-flag="@X" onclick="openSidebar('229_Marshal of Wakes',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\232_Party Pixie.png" id="232_Party Pixie" data-flag="@X" onclick="openSidebar('232_Party Pixie',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\227_Jalessa, the Waiting Silence.png" id="227_Jalessa, the Waiting Silence" data-flag="@X" onclick="openSidebar('227_Jalessa, the Waiting Silence',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\239_Torvin Evermarch, Grand Marshal.png" id="239_Torvin Evermarch, Grand Marshal" data-flag="@X" onclick="openSidebar('239_Torvin Evermarch, Grand Marshal',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\228_Kaela, Bloom Guardian.png" id="228_Kaela, Bloom Guardian" data-flag="@X" onclick="openSidebar('228_Kaela, Bloom Guardian',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\220_Ettoro, Master Puppeteer.png" id="220_Ettoro, Master Puppeteer" data-flag="@X" onclick="openSidebar('220_Ettoro, Master Puppeteer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\221_The Gilded Parade.png" id="221_The Gilded Parade" data-flag="@X" onclick="openSidebar('221_The Gilded Parade',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\216_Echoes of the Garden.png" id="216_Echoes of the Garden" data-flag="@X" onclick="openSidebar('216_Echoes of the Garden',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\233_Procession of Petals.png" id="233_Procession of Petals" data-flag="@X" onclick="openSidebar('233_Procession of Petals',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\240_Valoré, Starborn Duelist.png" id="240_Valoré, Starborn Duelist" data-flag="@X" onclick="openSidebar('240_Valoré, Starborn Duelist',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\238_Sylvia, Thread Whisperer.png" id="238_Sylvia, Thread Whisperer" data-flag="@X" onclick="openSidebar('238_Sylvia, Thread Whisperer',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\223_Gloomhaze Shaman.png" id="223_Gloomhaze Shaman" data-flag="@X" onclick="openSidebar('223_Gloomhaze Shaman',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\222_Gleaming Fire Dancer.png" id="222_Gleaming Fire Dancer" data-flag="@X" onclick="openSidebar('222_Gleaming Fire Dancer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\225_Illusion Gardener.png" id="225_Illusion Gardener" data-flag="@X" onclick="openSidebar('225_Illusion Gardener',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img data-alt_src="/sets\BWTH-files\img\230_Nirvana Masque_back.png" alt="/sets\BWTH-files\img\230_Nirvana Masque_front.png" id="230_Nirvana Masque" data-flag="@XD" onclick="openSidebar('230_Nirvana Masque',false)"><button class="flip-btn" onclick="imgFlip('230_Nirvana Masque')"></button></div>
+			<div class="container"><img data-alt_src="/sets\BWTH-files\img\231_Parade Masque_back.png" alt="/sets\BWTH-files\img\231_Parade Masque_front.png" id="231_Parade Masque" data-flag="@XD" onclick="openSidebar('231_Parade Masque',false)"><button class="flip-btn" onclick="imgFlip('231_Parade Masque')"></button></div>
+			<div class="container"><img data-alt_src="/sets\BWTH-files\img\226_Illusory Masque_back.png" alt="/sets\BWTH-files\img\226_Illusory Masque_front.png" id="226_Illusory Masque" data-flag="@XD" onclick="openSidebar('226_Illusory Masque',false)"><button class="flip-btn" onclick="imgFlip('226_Illusory Masque')"></button></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\252_Hollow Host of Limbs.png" id="252_Hollow Host of Limbs" data-flag="@X" onclick="openSidebar('252_Hollow Host of Limbs',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\254_Maestro's Organ.png" id="254_Maestros Organ" data-flag="@X" onclick="openSidebar('254_Maestros Organ',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\255_Marionette Blades.png" id="255_Marionette Blades" data-flag="@X" onclick="openSidebar('255_Marionette Blades',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\256_Mask of Lost Roles.png" id="256_Mask of Lost Roles" data-flag="@X" onclick="openSidebar('256_Mask of Lost Roles',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\260_Stage Crook.png" id="260_Stage Crook" data-flag="@X" onclick="openSidebar('260_Stage Crook',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\249_Festival Float.png" id="249_Festival Float" data-flag="@X" onclick="openSidebar('249_Festival Float',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\250_Festival Tightrope Walker.png" id="250_Festival Tightrope Walker" data-flag="@X" onclick="openSidebar('250_Festival Tightrope Walker',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\257_Phantom's Roost.png" id="257_Phantoms Roost" data-flag="@X" onclick="openSidebar('257_Phantoms Roost',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\258_Playwright's Quill.png" id="258_Playwrights Quill" data-flag="@X" onclick="openSidebar('258_Playwrights Quill',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\259_Stage Banner.png" id="259_Stage Banner" data-flag="@X" onclick="openSidebar('259_Stage Banner',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\246_Chorusdrum.png" id="246_Chorusdrum" data-flag="@X" onclick="openSidebar('246_Chorusdrum',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\247_Delayed Firework.png" id="247_Delayed Firework" data-flag="@X" onclick="openSidebar('247_Delayed Firework',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\248_Drystraw Puppet.png" id="248_Drystraw Puppet" data-flag="@X" onclick="openSidebar('248_Drystraw Puppet',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\251_Grand Opening Scissors.png" id="251_Grand Opening Scissors" data-flag="@X" onclick="openSidebar('251_Grand Opening Scissors',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\253_Lost Parade Torch.png" id="253_Lost Parade Torch" data-flag="@X" onclick="openSidebar('253_Lost Parade Torch',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\261_Waning Hour Mask.png" id="261_Waning Hour Mask" data-flag="@X" onclick="openSidebar('261_Waning Hour Mask',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\289_Regal Ballroom.png" id="289_Regal Ballroom" data-flag="@X" onclick="openSidebar('289_Regal Ballroom',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\288_Raving Carnival Tent.png" id="288_Raving Carnival Tent" data-flag="@X" onclick="openSidebar('288_Raving Carnival Tent',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\287_Processional Archway.png" id="287_Processional Archway" data-flag="@X" onclick="openSidebar('287_Processional Archway',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\275_Lively Celebrationway.png" id="275_Lively Celebrationway" data-flag="@X" onclick="openSidebar('275_Lively Celebrationway',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\281_Mystic Arcade.png" id="281_Mystic Arcade" data-flag="@X" onclick="openSidebar('281_Mystic Arcade',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\265_Forest.png" id="265_Forest" data-flag="@X" onclick="openSidebar('265_Forest',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\282_Plains.png" id="282_Plains" data-flag="@X" onclick="openSidebar('282_Plains',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\291_Swamp.png" id="291_Swamp" data-flag="@X" onclick="openSidebar('291_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\280_Mountain.png" id="280_Mountain" data-flag="@X" onclick="openSidebar('280_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\290_Swamp.png" id="290_Swamp" data-flag="@X" onclick="openSidebar('290_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\271_Island.png" id="271_Island" data-flag="@X" onclick="openSidebar('271_Island',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\294_Swamp.png" id="294_Swamp" data-flag="@X" onclick="openSidebar('294_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\276_Mountain.png" id="276_Mountain" data-flag="@X" onclick="openSidebar('276_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\270_Island.png" id="270_Island" data-flag="@X" onclick="openSidebar('270_Island',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\264_Forest.png" id="264_Forest" data-flag="@X" onclick="openSidebar('264_Forest',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\267_Forest.png" id="267_Forest" data-flag="@X" onclick="openSidebar('267_Forest',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\272_Island.png" id="272_Island" data-flag="@X" onclick="openSidebar('272_Island',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\283_Plains.png" id="283_Plains" data-flag="@X" onclick="openSidebar('283_Plains',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\277_Mountain.png" id="277_Mountain" data-flag="@X" onclick="openSidebar('277_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\284_Plains.png" id="284_Plains" data-flag="@X" onclick="openSidebar('284_Plains',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\285_Plains.png" id="285_Plains" data-flag="@X" onclick="openSidebar('285_Plains',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\278_Mountain.png" id="278_Mountain" data-flag="@X" onclick="openSidebar('278_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\279_Mountain.png" id="279_Mountain" data-flag="@X" onclick="openSidebar('279_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\292_Swamp.png" id="292_Swamp" data-flag="@X" onclick="openSidebar('292_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\293_Swamp.png" id="293_Swamp" data-flag="@X" onclick="openSidebar('293_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\273_Island.png" id="273_Island" data-flag="@X" onclick="openSidebar('273_Island',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\274_Island.png" id="274_Island" data-flag="@X" onclick="openSidebar('274_Island',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\286_Plains.png" id="286_Plains" data-flag="@X" onclick="openSidebar('286_Plains',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\263_Forest.png" id="263_Forest" data-flag="@X" onclick="openSidebar('263_Forest',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\266_Forest.png" id="266_Forest" data-flag="@X" onclick="openSidebar('266_Forest',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\14t_Mask.png" id="14t_Mask" data-flag="@X" onclick="openSidebar('14t_Mask',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\15t_Puppet.png" id="15t_Puppet" data-flag="@X" onclick="openSidebar('15t_Puppet',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\16t_Puppet.png" id="16t_Puppet" data-flag="@X" onclick="openSidebar('16t_Puppet',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\1t_Performer.png" id="1t_Performer" data-flag="@X" onclick="openSidebar('1t_Performer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\2t_Spirit.png" id="2t_Spirit" data-flag="@X" onclick="openSidebar('2t_Spirit',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\3t_Illusion.png" id="3t_Illusion" data-flag="@X" onclick="openSidebar('3t_Illusion',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\4t_Insect.png" id="4t_Insect" data-flag="@X" onclick="openSidebar('4t_Insect',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\5t_Performer.png" id="5t_Performer" data-flag="@X" onclick="openSidebar('5t_Performer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\6t_Elemental.png" id="6t_Elemental" data-flag="@X" onclick="openSidebar('6t_Elemental',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\7t_Insect.png" id="7t_Insect" data-flag="@X" onclick="openSidebar('7t_Insect',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\8t_Plant.png" id="8t_Plant" data-flag="@X" onclick="openSidebar('8t_Plant',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\9t_Plant Illusion.png" id="9t_Plant Illusion" data-flag="@X" onclick="openSidebar('9t_Plant Illusion',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\10t_Saproling.png" id="10t_Saproling" data-flag="@X" onclick="openSidebar('10t_Saproling',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\11t_Devil Performer.png" id="11t_Devil Performer" data-flag="@X" onclick="openSidebar('11t_Devil Performer',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\12t_Illusion.png" id="12t_Illusion" data-flag="@X" onclick="openSidebar('12t_Illusion',false)"></div>
+			<div class="container"><img alt="/sets\BWTH-files\img\13t_Plant Insect.png" id="13t_Plant Insect" data-flag="@X" onclick="openSidebar('13t_Plant Insect',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
