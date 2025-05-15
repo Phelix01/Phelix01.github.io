@@ -1,0 +1,937 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Maeve, Teahouse Owner",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Nymph Alchemist ",
+			"collector_number": "46",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/HTHC4-files/img/46_Maeve, Teahouse Owner_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/46_Maeve, Teahouse Owner_front.png"
+			}
+		},
+		{
+			"name": "Mind-Vault Parasite",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Homonculus Leech ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/9_Mind-Vault Parasite.png"
+			}
+		},
+		{
+			"name": "Leshy Apothecary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Alchemist ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/7_Leshy Apothecary.png"
+			}
+		},
+		{
+			"name": "Gnomish Grenadier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/6_Gnomish Grenadier.png"
+			}
+		},
+		{
+			"name": "Plaguebrew Chemist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nymph Alchemist ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/28_Plaguebrew Chemist.png"
+			}
+		},
+		{
+			"name": "Manical Perfectionist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/26_Manical Perfectionist.png"
+			}
+		},
+		{
+			"name": "Experimental Healer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/20_Experimental Healer.png"
+			}
+		},
+		{
+			"name": "Tragic Pixie",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nymph Alchemist ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/33_Tragic Pixie.png"
+			}
+		},
+		{
+			"name": "Hunger of the Hollows",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental Horror ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/23_Hunger of the Hollows.png"
+			}
+		},
+		{
+			"name": "Decomposing Leshy",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental Zombie ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/18_Decomposing Leshy.png"
+			}
+		},
+		{
+			"name": "Astral Apothecary",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Skeleton Alchemist ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/4_Astral Apothecary.png"
+			}
+		},
+		{
+			"name": "Nightshade's Apprentice",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Nymph Alchemist ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/48_Nightshade's Apprentice.png"
+			}
+		},
+		{
+			"name": "Living Death Brew",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Potion ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/25_Living Death Brew.png"
+			}
+		},
+		{
+			"name": "Blightbane Vaporsmith",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/38_Blightbane Vaporsmith.png"
+			}
+		},
+		{
+			"name": "Unseelie Astralcaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nymph Alchemist ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/15_Unseelie Astralcaster.png"
+			}
+		},
+		{
+			"name": "Harrowing Compounder",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/45_Harrowing Compounder.png"
+			}
+		},
+		{
+			"name": "Potted Familiar",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Plant Spirit ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/29_Potted Familiar.png"
+			}
+		},
+		{
+			"name": "Moonwhisker Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat Spirit ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/10_Moonwhisker Assistant.png"
+			}
+		},
+		{
+			"name": "Rootbrew Recluse",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/32_Rootbrew Recluse.png"
+			}
+		},
+		{
+			"name": "Nightbloom Collector",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Alchemist ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/47_Nightbloom Collector.png"
+			}
+		},
+		{
+			"name": "Vial-Hoard Archivist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Alchemist ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/53_Vial-Hoard Archivist.png"
+			}
+		},
+		{
+			"name": "Whisperleaf Botanist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nymph Alchemist ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/16_Whisperleaf Botanist.png"
+			}
+		},
+		{
+			"name": "Prickfinger, Mad Surgeon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Gnome Cleric ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/30_Prickfinger, Mad Surgeon.png"
+			}
+		},
+		{
+			"name": "Pale Pain Expert",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Nymph Vampire ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/27_Pale Pain Expert.png"
+			}
+		},
+		{
+			"name": "Vesperroot Alchemist",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Human Alchemist ",
+			"collector_number": "52",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/HTHC4-files/img/52_Vesperroot Alchemist_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/52_Vesperroot Alchemist_front.png"
+			}
+		},
+		{
+			"name": "Baleful Autopsy Assistant",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Alchemist ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/35_Baleful Autopsy Assistant.png"
+			}
+		},
+		{
+			"name": "Syrena, Elixirblade",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/13_Syrena, Elixirblade.png"
+			}
+		},
+		{
+			"name": "Apothecary of Wards",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/2_Apothecary of Wards.png"
+			}
+		},
+		{
+			"name": "Boomflask Runner",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{B}{B}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/39_Boomflask Runner.png"
+			}
+		},
+		{
+			"name": "Beakerling",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Potion Horror ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/36_Beakerling.png"
+			}
+		},
+		{
+			"name": "Sleepydust Trickster",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Faerie Alchemist ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/51_Sleepydust Trickster.png"
+			}
+		},
+		{
+			"name": "Cosmic Starcaster",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{B}",
+			"type": "Creature — Nymph Alchemist ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/41_Cosmic Starcaster.png"
+			}
+		},
+		{
+			"name": "Grimflask Mendicant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Alchemist ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/22_Grimflask Mendicant.png"
+			}
+		},
+		{
+			"name": "Essencebound Phantom",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Spirit Alchemist ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/44_Essencebound Phantom.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/56_Arcane Signet.png"
+			}
+		},
+		{
+			"name": "Sol ring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": " Artifact",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/65_Sol ring.png"
+			}
+		},
+		{
+			"name": "Dimir Cluestone",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": " Artifact",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/58_Dimir Cluestone.png"
+			}
+		},
+		{
+			"name": "Dimir Signet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/59_Dimir Signet.png"
+			}
+		},
+		{
+			"name": "Phantom Phial",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Potion ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/63_Phantom Phial.png"
+			}
+		},
+		{
+			"name": "Pocket Potion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Potion ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/64_Pocket Potion.png"
+			}
+		},
+		{
+			"name": "Blightbane",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Artifact — Potion ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/37_Blightbane.png"
+			}
+		},
+		{
+			"name": "Contagion Engine",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/57_Contagion Engine.png"
+			}
+		},
+		{
+			"name": "Echoed Thoughts Crucible",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/60_Echoed Thoughts Crucible.png"
+			}
+		},
+		{
+			"name": "Vialspinner's Rack",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/66_Vialspinner's Rack.png"
+			}
+		},
+		{
+			"name": "Hearthfire of Alchemy",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/62_Hearthfire of Alchemy.png"
+			}
+		},
+		{
+			"name": "Arcane Alembic",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Potion ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/55_Arcane Alembic.png"
+			}
+		},
+		{
+			"name": "Gloves of Living Mercury",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/61_Gloves of Living Mercury.png"
+			}
+		},
+		{
+			"name": "Aetherize",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/1_Aetherize.png"
+			}
+		},
+		{
+			"name": "Distil Essence",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{B}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/42_Distil Essence.png"
+			}
+		},
+		{
+			"name": "Reduce to Ingredients",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/31_Reduce to Ingredients.png"
+			}
+		},
+		{
+			"name": "Alchemical Ripple",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/34_Alchemical Ripple.png"
+			}
+		},
+		{
+			"name": "Counterspell",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/5_Counterspell.png"
+			}
+		},
+		{
+			"name": "Drown in the Loch",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/43_Drown in the Loch.png"
+			}
+		},
+		{
+			"name": "Empty the Phial",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/19_Empty the Phial.png"
+			}
+		},
+		{
+			"name": "Transmutation Thesis",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/14_Transmutation Thesis.png"
+			}
+		},
+		{
+			"name": "Refine Recipe",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/12_Refine Recipe.png"
+			}
+		},
+		{
+			"name": "A Pinch of Stardust",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/11_A Pinch of Stardust.png"
+			}
+		},
+		{
+			"name": "Phantasmal Residue",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/49_Phantasmal Residue.png"
+			}
+		},
+		{
+			"name": "Feed the Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/21_Feed the Swarm.png"
+			}
+		},
+		{
+			"name": "Viscid Genesis",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/54_Viscid Genesis.png"
+			}
+		},
+		{
+			"name": "Aromatic Mirage",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/3_Aromatic Mirage.png"
+			}
+		},
+		{
+			"name": "Cosmic Catalyst",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/40_Cosmic Catalyst.png"
+			}
+		},
+		{
+			"name": "Corrupted Tranquility",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/17_Corrupted Tranquility.png"
+			}
+		},
+		{
+			"name": "Lost in the Sauce",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/8_Lost in the Sauce.png"
+			}
+		},
+		{
+			"name": "Restock the Supplies",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/50_Restock the Supplies.png"
+			}
+		},
+		{
+			"name": "Battle Barracks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/68_Battle Barracks.png"
+			}
+		},
+		{
+			"name": "Rogue's Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/84_Rogue's Passage.png"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/71_Command Tower.png"
+			}
+		},
+		{
+			"name": "Myriad Landscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/81_Myriad Landscape.png"
+			}
+		},
+		{
+			"name": "Exotic Orchard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/75_Exotic Orchard.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/74_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Harvestreach City",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/77_Harvestreach City.png"
+			}
+		},
+		{
+			"name": "Hiker's Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/78_Hiker's Path.png"
+			}
+		},
+		{
+			"name": "Filigree Cemetery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/76_Filigree Cemetery.png"
+			}
+		},
+		{
+			"name": "Dimir Guildgate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Gate ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/73_Dimir Guildgate.png"
+			}
+		},
+		{
+			"name": "Inkwater Boardwalk",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/79_Inkwater Boardwalk.png"
+			}
+		},
+		{
+			"name": "Restless Reef",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/83_Restless Reef.png"
+			}
+		},
+		{
+			"name": "Reflecting Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/82_Reflecting Pool.png"
+			}
+		},
+		{
+			"name": "Blighted Fen",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/69_Blighted Fen.png"
+			}
+		},
+		{
+			"name": "Bogbone Pit",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/70_Bogbone Pit.png"
+			}
+		},
+		{
+			"name": "Mistveil Teahouse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/80_Mistveil Teahouse.png"
+			}
+		},
+		{
+			"name": "Darkslick Shores",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/72_Darkslick Shores.png"
+			}
+		},
+		{
+			"name": "Underground River",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/86_Underground River.png"
+			}
+		},
+		{
+			"name": "Spiral-Step Crossing",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/85_Spiral-Step Crossing.png"
+			}
+		},
+		{
+			"name": "Arc-Spire Distillery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/67_Arc-Spire Distillery.png"
+			}
+		},
+		{
+			"name": "Leshy Bone Collector",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elemental Shaman ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/24_Leshy Bone Collector.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/87_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/90_Swamp.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/88_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/91_Swamp.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/89_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC4-files/img/92_Swamp.png"
+			}
+		}
+	]

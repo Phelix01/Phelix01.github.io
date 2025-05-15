@@ -3604,7 +3604,7 @@
 30 Razorwire Gauntlets
 30 Hollow Outskirts
 30 Harvestreach City
-[WildcardSlot(2)]
+[WildcardSlot(3)]
 10 Pesky Farm Mouse
 10 Wayfarer's Guide
 10 Spud Spectre

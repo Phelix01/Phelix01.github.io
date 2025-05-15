@@ -1,0 +1,873 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Helanthya, Sunseed Shepherd",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Plant Angel Farmer ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/51_Helanthya, Sunseed Shepherd.png"
+			}
+		},
+		{
+			"name": "Maize Marauder",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Elemental Food ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/12_Maize Marauder.png"
+			}
+		},
+		{
+			"name": "Spud Spectre",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Zombie Farmer ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/16_Spud Spectre.png"
+			}
+		},
+		{
+			"name": "Hearthside Bartender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/10_Hearthside Bartender.png"
+			}
+		},
+		{
+			"name": "Proud Farmdaughter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Farmer ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/13_Proud Farmdaughter.png"
+			}
+		},
+		{
+			"name": "Knight of Bounty",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Knight Farmer ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/11_Knight of Bounty.png"
+			}
+		},
+		{
+			"name": "Maple Dryad",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dryad ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/28_Maple Dryad.png"
+			}
+		},
+		{
+			"name": "Eladrin Arborist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie Elf Farmer ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/22_Eladrin Arborist.png"
+			}
+		},
+		{
+			"name": "Alessa, Warden Paragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/1_Alessa, Warden Paragon.png"
+			}
+		},
+		{
+			"name": "Voice of the Harvest",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Plant Angel ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/18_Voice of the Harvest.png"
+			}
+		},
+		{
+			"name": "Hydrevan, Warrior Druid",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Faerie Elf Druid ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/27_Hydrevan, Warrior Druid.png"
+			}
+		},
+		{
+			"name": "Sacred Elkhound",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf Elk ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/30_Sacred Elkhound.png"
+			}
+		},
+		{
+			"name": "Vinyardmaw Hydra",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Creature — Hydra ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/34_Vinyardmaw Hydra.png"
+			}
+		},
+		{
+			"name": "Alyra, Orchard's Heart",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Faerie Elf Druid ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/19_Alyra, Orchard's Heart.png"
+			}
+		},
+		{
+			"name": "Gerome, The Farmfather",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Farmer ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/7_Gerome, The Farmfather.png"
+			}
+		},
+		{
+			"name": "Granary Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Beast ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/45_Granary Guardian.png"
+			}
+		},
+		{
+			"name": "Hearthmeadow Shepheard",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Farmer ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/49_Hearthmeadow Shepheard.png"
+			}
+		},
+		{
+			"name": "Ayela, Ranger Princess",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Faerie Elf Ranger ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/36_Ayela, Ranger Princess.png"
+			}
+		},
+		{
+			"name": "Gilded Goose",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/25_Gilded Goose.png"
+			}
+		},
+		{
+			"name": "Orchard Arborwarden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Faerie Elf Druid ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/29_Orchard Arborwarden.png"
+			}
+		},
+		{
+			"name": "Seedborn Muse",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Spirit ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/31_Seedborn Muse.png"
+			}
+		},
+		{
+			"name": "Orchard Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Faerie Elf Warrior ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/52_Orchard Sentinel.png"
+			}
+		},
+		{
+			"name": "Glade Whisperer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Faerie Elf Druid ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/43_Glade Whisperer.png"
+			}
+		},
+		{
+			"name": "Harvestborne Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/48_Harvestborne Guardian.png"
+			}
+		},
+		{
+			"name": "Sunseed Forager",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Plant Angel Druid ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/55_Sunseed Forager.png"
+			}
+		},
+		{
+			"name": "Amberleaf Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie Elf Scout ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/20_Amberleaf Tracker.png"
+			}
+		},
+		{
+			"name": "Amberleaf Transmuter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Faerie Elf Druid ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/35_Amberleaf Transmuter.png"
+			}
+		},
+		{
+			"name": "Seasoned Farmhand",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Farmer ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/15_Seasoned Farmhand.png"
+			}
+		},
+		{
+			"name": "Taste Test",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/32_Taste Test.png"
+			}
+		},
+		{
+			"name": "Forced Fieldwork",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/6_Forced Fieldwork.png"
+			}
+		},
+		{
+			"name": "Hard Day's Work",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/8_Hard Day's Work.png"
+			}
+		},
+		{
+			"name": "Farmer's Creed",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/41_Farmer's Creed.png"
+			}
+		},
+		{
+			"name": "Deep in the Weeds",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/40_Deep in the Weeds.png"
+			}
+		},
+		{
+			"name": "Tribute to the World Tree",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/33_Tribute to the World Tree.png"
+			}
+		},
+		{
+			"name": "Hearth's Blessing",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/50_Hearth's Blessing.png"
+			}
+		},
+		{
+			"name": "Blooming Cycle",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/37_Blooming Cycle.png"
+			}
+		},
+		{
+			"name": "All that Glitters",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/2_All that Glitters.png"
+			}
+		},
+		{
+			"name": "Harvest's Moon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/9_Harvest's Moon.png"
+			}
+		},
+		{
+			"name": "Buried in the Garden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/38_Buried in the Garden.png"
+			}
+		},
+		{
+			"name": "Eladrin Purity",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/23_Eladrin Purity.png"
+			}
+		},
+		{
+			"name": "Find Fertile Ground",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/24_Find Fertile Ground.png"
+			}
+		},
+		{
+			"name": "Seed to Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/54_Seed to Sanctuary.png"
+			}
+		},
+		{
+			"name": "Harvest and Honor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/46_Harvest and Honor.png"
+			}
+		},
+		{
+			"name": "Harvest Ascendance",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/47_Harvest Ascendance.png"
+			}
+		},
+		{
+			"name": "Austere Command",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/3_Austere Command.png"
+			}
+		},
+		{
+			"name": "Cultivate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/21_Cultivate.png"
+			}
+		},
+		{
+			"name": "Culling Season",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/39_Culling Season.png"
+			}
+		},
+		{
+			"name": "Swords to Plowshares",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/17_Swords to Plowshares.png"
+			}
+		},
+		{
+			"name": "Bullish Bargoning",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/5_Bullish Bargoning.png"
+			}
+		},
+		{
+			"name": "Gleaming Sheaf",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{W}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/44_Gleaming Sheaf.png"
+			}
+		},
+		{
+			"name": "Fogveil",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/42_Fogveil.png"
+			}
+		},
+		{
+			"name": "Bonfire Offering",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/4_Bonfire Offering.png"
+			}
+		},
+		{
+			"name": "Hearthfire of Bounty",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/60_Hearthfire of Bounty.png"
+			}
+		},
+		{
+			"name": "Amberweave Shawl",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/56_Amberweave Shawl.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/58_Arcane Signet.png"
+			}
+		},
+		{
+			"name": "Witch's Oven",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/63_Witch's Oven.png"
+			}
+		},
+		{
+			"name": "Sol ring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": " Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/62_Sol ring.png"
+			}
+		},
+		{
+			"name": "Selesnya Signet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/61_Selesnya Signet.png"
+			}
+		},
+		{
+			"name": "Orchard's Banquet",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Artifact — Food ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/53_Orchard's Banquet.png"
+			}
+		},
+		{
+			"name": "Heaped Harvest",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Food ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/26_Heaped Harvest.png"
+			}
+		},
+		{
+			"name": "Guilded Lotus",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/59_Guilded Lotus.png"
+			}
+		},
+		{
+			"name": "Ancestral Sun-Scythe",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/57_Ancestral Sun-Scythe.png"
+			}
+		},
+		{
+			"name": "Battle Barracks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/64_Battle Barracks.png"
+			}
+		},
+		{
+			"name": "Rogue's Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/77_Rogue's Passage.png"
+			}
+		},
+		{
+			"name": "Myriad Landscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/73_Myriad Landscape.png"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/66_Command Tower.png"
+			}
+		},
+		{
+			"name": "Exotic Orchard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/68_Exotic Orchard.png"
+			}
+		},
+		{
+			"name": "Selesyna Guildgate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Gate ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/78_Selesyna Guildgate.png"
+			}
+		},
+		{
+			"name": "Brushland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/65_Brushland.png"
+			}
+		},
+		{
+			"name": "Overgrown Farmland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/75_Overgrown Farmland.png"
+			}
+		},
+		{
+			"name": "Temple of Plenty",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/81_Temple of Plenty.png"
+			}
+		},
+		{
+			"name": "Pantries of Plenty",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/76_Pantries of Plenty.png"
+			}
+		},
+		{
+			"name": "Orchard of Offerings",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/74_Orchard of Offerings.png"
+			}
+		},
+		{
+			"name": "Sunseed Nesting Grounds",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/80_Sunseed Nesting Grounds.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/67_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Sunpetal Meadow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/79_Sunpetal Meadow.png"
+			}
+		},
+		{
+			"name": "Hidden Greenhouse",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/70_Hidden Greenhouse.png"
+			}
+		},
+		{
+			"name": "Lakeside Manor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/72_Lakeside Manor.png"
+			}
+		},
+		{
+			"name": "Harvestreach City",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/69_Harvestreach City.png"
+			}
+		},
+		{
+			"name": "Hiker's Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/71_Hiker's Path.png"
+			}
+		},
+		{
+			"name": "Rayna, Harvest Diplomat",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/14_Rayna, Harvest Diplomat.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/82_Plains.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/85_Forest.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/83_Plains.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/86_Forest.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/84_Plains.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC3-files/img/87_Forest.png"
+			}
+		}
+	]

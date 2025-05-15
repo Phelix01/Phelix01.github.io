@@ -1,0 +1,883 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Thull'Zek, Sporescour Flame",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Fungus Warlock ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/54_Thull'Zek, Sporescour Flame.png"
+			}
+		},
+		{
+			"name": "Defiant Myconid",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/21_Defiant Myconid.png"
+			}
+		},
+		{
+			"name": "Embercap Harvester",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Fungus Shaman ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/48_Embercap Harvester.png"
+			}
+		},
+		{
+			"name": "Blightflare Revenant",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Fungus Horror ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/42_Blightflare Revenant.png"
+			}
+		},
+		{
+			"name": "Blight Forager",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus Scout ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/17_Blight Forager.png"
+			}
+		},
+		{
+			"name": "Bloated Sporebelly",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Fungus ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/2_Bloated Sporebelly.png"
+			}
+		},
+		{
+			"name": "Emberbloom",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Fungus  ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/47_Emberbloom.png"
+			}
+		},
+		{
+			"name": "Consumed Myconid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/18_Consumed Myconid.png"
+			}
+		},
+		{
+			"name": "Swellseeker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus Beast ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/34_Swellseeker.png"
+			}
+		},
+		{
+			"name": "Ashspore Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fungus Warrior ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/15_Ashspore Paladin.png"
+			}
+		},
+		{
+			"name": "Cerebius, The Spore Brain",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Fungus Spider ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/3_Cerebius, The Spore Brain.png"
+			}
+		},
+		{
+			"name": "Insanity Fungus",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Fungus Demon ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/9_Insanity Fungus.png"
+			}
+		},
+		{
+			"name": "Aelthorn, King of Fibers",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Faerie Elf Fungus ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/13_Aelthorn, King of Fibers.png"
+			}
+		},
+		{
+			"name": "Moldborn Angel",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Fungus Angel ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/28_Moldborn Angel.png"
+			}
+		},
+		{
+			"name": "Fleshfungus Puppet",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Fungus Horror ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/22_Fleshfungus Puppet.png"
+			}
+		},
+		{
+			"name": "Rotcloud Overlord",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Fungus Nightmare ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/32_Rotcloud Overlord.png"
+			}
+		},
+		{
+			"name": "Dread Crawler",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Fungus Beast ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/46_Dread Crawler.png"
+			}
+		},
+		{
+			"name": "Sporespike Charger",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Fungus Warrior ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/53_Sporespike Charger.png"
+			}
+		},
+		{
+			"name": "Hierophant Mycomancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Fungus Shaman ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/26_Hierophant Mycomancer.png"
+			}
+		},
+		{
+			"name": "Vylmire, Tainted Giant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{G}{G}",
+			"type": "Legendary Creature — Fungus Giant ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/58_Vylmire, Tainted Giant.png"
+			}
+		},
+		{
+			"name": "Mycogiant Erupter",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Fungus Giant ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/50_Mycogiant Erupter.png"
+			}
+		},
+		{
+			"name": "Corpsefire Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fungus Zombie ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/4_Corpsefire Stalker.png"
+			}
+		},
+		{
+			"name": "Slipspore Infiltrator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus Rogue ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/33_Slipspore Infiltrator.png"
+			}
+		},
+		{
+			"name": "Thornmoss Custodian",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/36_Thornmoss Custodian.png"
+			}
+		},
+		{
+			"name": "Wandering Bloomcaller",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Fungus Druid ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/38_Wandering Bloomcaller.png"
+			}
+		},
+		{
+			"name": "Corridor Cordyceps",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Fungus Elemental ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/44_Corridor Cordyceps.png"
+			}
+		},
+		{
+			"name": "Flyrgill, Fungus Fish",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Fish Fungus ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/23_Flyrgill, Fungus Fish.png"
+			}
+		},
+		{
+			"name": "Ashspore Rumbler",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Dinosaur Fungus ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/40_Ashspore Rumbler.png"
+			}
+		},
+		{
+			"name": "Fungal Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/24_Fungal Behemoth.png"
+			}
+		},
+		{
+			"name": "Rot Shambler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/31_Rot Shambler.png"
+			}
+		},
+		{
+			"name": "Ashsporemound",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Elemental Fungus ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/41_Ashsporemound.png"
+			}
+		},
+		{
+			"name": "Dead Man's Fingers",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Fungus Nightmare ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/5_Dead Man's Fingers.png"
+			}
+		},
+		{
+			"name": "Lamplight Prowler",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fungus ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/10_Lamplight Prowler.png"
+			}
+		},
+		{
+			"name": "Terragenesis",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/35_Terragenesis.png"
+			}
+		},
+		{
+			"name": "Mycelium Running",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/11_Mycelium Running.png"
+			}
+		},
+		{
+			"name": "Billowing Spores",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/1_Billowing Spores.png"
+			}
+		},
+		{
+			"name": "Infernal Faerie Ring",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/8_Infernal Faerie Ring.png"
+			}
+		},
+		{
+			"name": "Rotten Eruption",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/51_Rotten Eruption.png"
+			}
+		},
+		{
+			"name": "Ultravioent Outburst",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/57_Ultravioent Outburst.png"
+			}
+		},
+		{
+			"name": "Consuming Sporecall",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/19_Consuming Sporecall.png"
+			}
+		},
+		{
+			"name": "Mycelial Growth",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/29_Mycelial Growth.png"
+			}
+		},
+		{
+			"name": "Burning Rotwave",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/43_Burning Rotwave.png"
+			}
+		},
+		{
+			"name": "Thull'Zek's Sporefire",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/55_Thull'Zek's Sporefire.png"
+			}
+		},
+		{
+			"name": "Encroaching Blightfog",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/49_Encroaching Blightfog.png"
+			}
+		},
+		{
+			"name": "Defiant Discovery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/6_Defiant Discovery.png"
+			}
+		},
+		{
+			"name": "Rain of Ashspores",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/12_Rain of Ashspores.png"
+			}
+		},
+		{
+			"name": "Cultivate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/20_Cultivate.png"
+			}
+		},
+		{
+			"name": "Host's Demise",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/27_Host's Demise.png"
+			}
+		},
+		{
+			"name": "Decimate",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/45_Decimate.png"
+			}
+		},
+		{
+			"name": "Perilous Growth",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/30_Perilous Growth.png"
+			}
+		},
+		{
+			"name": "Ashbloom Resonance",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/14_Ashbloom Resonance.png"
+			}
+		},
+		{
+			"name": "Fungus Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/7_Fungus Charge.png"
+			}
+		},
+		{
+			"name": "Behold Greatness",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/16_Behold Greatness.png"
+			}
+		},
+		{
+			"name": "Hasten the Blight",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/25_Hasten the Blight.png"
+			}
+		},
+		{
+			"name": "Savage Overflow",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/52_Savage Overflow.png"
+			}
+		},
+		{
+			"name": "Trumpet Song",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/56_Trumpet Song.png"
+			}
+		},
+		{
+			"name": "Tribute to the World Tree",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/37_Tribute to the World Tree.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/59_Arcane Signet.png"
+			}
+		},
+		{
+			"name": "Gruul Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": " Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/60_Gruul Signet.png"
+			}
+		},
+		{
+			"name": "Sol ring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": " Artifact",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/64_Sol ring.png"
+			}
+		},
+		{
+			"name": "Hearthfire of Atrophy",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/61_Hearthfire of Atrophy.png"
+			}
+		},
+		{
+			"name": "Ashspore Pendant",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/39_Ashspore Pendant.png"
+			}
+		},
+		{
+			"name": "Myconid War-Gong",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/63_Myconid War-Gong.png"
+			}
+		},
+		{
+			"name": "Mycelium Spindle",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/62_Mycelium Spindle.png"
+			}
+		},
+		{
+			"name": "Battle Barracks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/67_Battle Barracks.png"
+			}
+		},
+		{
+			"name": "Rogue's Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/81_Rogue's Passage.png"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/70_Command Tower.png"
+			}
+		},
+		{
+			"name": "Myriad Landscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/78_Myriad Landscape.png"
+			}
+		},
+		{
+			"name": "Exotic Orchard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/73_Exotic Orchard.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/72_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Hiker's Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/76_Hiker's Path.png"
+			}
+		},
+		{
+			"name": "Reflecting Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/79_Reflecting Pool.png"
+			}
+		},
+		{
+			"name": "Fungal Foothills",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/74_Fungal Foothills.png"
+			}
+		},
+		{
+			"name": "Bristling Backwoods",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/69_Bristling Backwoods.png"
+			}
+		},
+		{
+			"name": "Gruul Guildgate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Gate ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/75_Gruul Guildgate.png"
+			}
+		},
+		{
+			"name": "Restless Ridgeline",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/80_Restless Ridgeline.png"
+			}
+		},
+		{
+			"name": "Copperline Gorge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/71_Copperline Gorge.png"
+			}
+		},
+		{
+			"name": "Bleeding Woods",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/68_Bleeding Woods.png"
+			}
+		},
+		{
+			"name": "Stipewoods",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/82_Stipewoods.png"
+			}
+		},
+		{
+			"name": "Ashspore Gorge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/65_Ashspore Gorge.png"
+			}
+		},
+		{
+			"name": "Mycelium Caverns",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/77_Mycelium Caverns.png"
+			}
+		},
+		{
+			"name": "Barkrot Nursery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/66_Barkrot Nursery.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/83_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/86_Forest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/84_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/87_Forest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/85_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTHC5-files/img/88_Forest.png"
+			}
+		}
+	]
