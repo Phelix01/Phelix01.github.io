@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/HTH2-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>HTH2 visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/HTH2-files/logo.png" />
+	<img class="preload-hidden" src="/sets/BWTH-files/icon.png" />
+		<img class="preload-hidden" src="/sets/HTH2-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="BWTH"><img src="/sets/BWTH-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="HTH2"><img src="/sets/HTH2-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/HTH2-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\HTH2-files\img\1_Become Unraveled.png" id="1_Become Unraveled" data-flag="@X" onclick="openSidebar('1_Become Unraveled',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\36_Academic Interference.png" id="36_Academic Interference" data-flag="@X" onclick="openSidebar('36_Academic Interference',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\71_Acolyte of Ichor.png" id="71_Acolyte of Ichor" data-flag="@X" onclick="openSidebar('71_Acolyte of Ichor',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\110_Campfire Troll.png" id="110_Campfire Troll" data-flag="@X" onclick="openSidebar('110_Campfire Troll',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\144_Blooming Birchbear.png" id="144_Blooming Birchbear" data-flag="@X" onclick="openSidebar('144_Blooming Birchbear',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\2_Bread for Brawn.png" id="2_Bread for Brawn" data-flag="@X" onclick="openSidebar('2_Bread for Brawn',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\39_Arrogant Ingenuity.png" id="39_Arrogant Ingenuity" data-flag="@X" onclick="openSidebar('39_Arrogant Ingenuity',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\72_Broken Rites.png" id="72_Broken Rites" data-flag="@X" onclick="openSidebar('72_Broken Rites',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\112_Combustion Theorist.png" id="112_Combustion Theorist" data-flag="@X" onclick="openSidebar('112_Combustion Theorist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\147_Canopy Ambusher.png" id="147_Canopy Ambusher" data-flag="@X" onclick="openSidebar('147_Canopy Ambusher',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\3_Cloud Contract.png" id="3_Cloud Contract" data-flag="@X" onclick="openSidebar('3_Cloud Contract',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\45_Eccentric Alchemist.png" id="45_Eccentric Alchemist" data-flag="@X" onclick="openSidebar('45_Eccentric Alchemist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\73_Dark Court Summoning.png" id="73_Dark Court Summoning" data-flag="@X" onclick="openSidebar('73_Dark Court Summoning',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\113_Down the Hatch.png" id="113_Down the Hatch" data-flag="@X" onclick="openSidebar('113_Down the Hatch',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\148_Compost Rattler.png" id="148_Compost Rattler" data-flag="@X" onclick="openSidebar('148_Compost Rattler',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\4_A Cold Welcome.png" id="4_A Cold Welcome" data-flag="@X" onclick="openSidebar('4_A Cold Welcome',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\46_Elixir Behemoth.png" id="46_Elixir Behemoth" data-flag="@X" onclick="openSidebar('46_Elixir Behemoth',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\75_Deadwood Nymph.png" id="75_Deadwood Nymph" data-flag="@X" onclick="openSidebar('75_Deadwood Nymph',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\118_Genasi Flame Adept.png" id="118_Genasi Flame Adept" data-flag="@X" onclick="openSidebar('118_Genasi Flame Adept',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\149_Cyclegrove Empath.png" id="149_Cyclegrove Empath" data-flag="@X" onclick="openSidebar('149_Cyclegrove Empath',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\6_Devout Tombmaiden.png" id="6_Devout Tombmaiden" data-flag="@X" onclick="openSidebar('6_Devout Tombmaiden',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\47_Essence Unbound.png" id="47_Essence Unbound" data-flag="@X" onclick="openSidebar('47_Essence Unbound',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\77_Defy the Commandment.png" id="77_Defy the Commandment" data-flag="@X" onclick="openSidebar('77_Defy the Commandment',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\119_Gleeful Cutthroat.png" id="119_Gleeful Cutthroat" data-flag="@X" onclick="openSidebar('119_Gleeful Cutthroat',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\153_Eithana, Treepaw Scout.png" id="153_Eithana, Treepaw Scout" data-flag="@X" onclick="openSidebar('153_Eithana, Treepaw Scout',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\10_Farmshade.png" id="10_Farmshade" data-flag="@X" onclick="openSidebar('10_Farmshade',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\51_Lakefront Crab.png" id="51_Lakefront Crab" data-flag="@X" onclick="openSidebar('51_Lakefront Crab',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\83_Forbidden Ingredients.png" id="83_Forbidden Ingredients" data-flag="@X" onclick="openSidebar('83_Forbidden Ingredients',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\120_Goldfire Golem.png" id="120_Goldfire Golem" data-flag="@X" onclick="openSidebar('120_Goldfire Golem',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\154_Eladrin Arborist.png" id="154_Eladrin Arborist" data-flag="@X" onclick="openSidebar('154_Eladrin Arborist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\12_Harvest Angel.png" id="12_Harvest Angel" data-flag="@X" onclick="openSidebar('12_Harvest Angel',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\52_Leshy Apothecary.png" id="52_Leshy Apothecary" data-flag="@X" onclick="openSidebar('52_Leshy Apothecary',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\84_Forgotten Shadekin.png" id="84_Forgotten Shadekin" data-flag="@X" onclick="openSidebar('84_Forgotten Shadekin',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\123_Inspiring Ambition.png" id="123_Inspiring Ambition" data-flag="@X" onclick="openSidebar('123_Inspiring Ambition',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\158_Enchanting Presence.png" id="158_Enchanting Presence" data-flag="@X" onclick="openSidebar('158_Enchanting Presence',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\14_Hearthside Bartender.png" id="14_Hearthside Bartender" data-flag="@X" onclick="openSidebar('14_Hearthside Bartender',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\54_Lost in the Sauce.png" id="54_Lost in the Sauce" data-flag="@X" onclick="openSidebar('54_Lost in the Sauce',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\87_Hollowed Delusion.png" id="87_Hollowed Delusion" data-flag="@X" onclick="openSidebar('87_Hollowed Delusion',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\124_Insurmountable Pride.png" id="124_Insurmountable Pride" data-flag="@X" onclick="openSidebar('124_Insurmountable Pride',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\159_Feybark Ritual.png" id="159_Feybark Ritual" data-flag="@X" onclick="openSidebar('159_Feybark Ritual',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\17_Knight of Bounty.png" id="17_Knight of Bounty" data-flag="@X" onclick="openSidebar('17_Knight of Bounty',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\57_Mystic Mistmage.png" id="57_Mystic Mistmage" data-flag="@X" onclick="openSidebar('57_Mystic Mistmage',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\92_Resurgent Residue.png" id="92_Resurgent Residue" data-flag="@X" onclick="openSidebar('92_Resurgent Residue',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\125_Menacing Fae.png" id="125_Menacing Fae" data-flag="@X" onclick="openSidebar('125_Menacing Fae',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\161_Frondplume Strider.png" id="161_Frondplume Strider" data-flag="@X" onclick="openSidebar('161_Frondplume Strider',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\23_Plowman's Oath.png" id="23_Plowmans Oath" data-flag="@X" onclick="openSidebar('23_Plowmans Oath',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\59_A Pinch of Stardust.png" id="59_A Pinch of Stardust" data-flag="@X" onclick="openSidebar('59_A Pinch of Stardust',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\94_Sapping Grasp.png" id="94_Sapping Grasp" data-flag="@X" onclick="openSidebar('94_Sapping Grasp',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\126_No More Tithes.png" id="126_No More Tithes" data-flag="@X" onclick="openSidebar('126_No More Tithes',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\165_Harvest Market Keeper.png" id="165_Harvest Market Keeper" data-flag="@X" onclick="openSidebar('165_Harvest Market Keeper',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\25_Proud Farmdaughter.png" id="25_Proud Farmdaughter" data-flag="@X" onclick="openSidebar('25_Proud Farmdaughter',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\61_Refine the Recipe.png" id="61_Refine the Recipe" data-flag="@X" onclick="openSidebar('61_Refine the Recipe',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\96_Shadetouch Aura.png" id="96_Shadetouch Aura" data-flag="@X" onclick="openSidebar('96_Shadetouch Aura',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\128_Puff Pivot.png" id="128_Puff Pivot" data-flag="@X" onclick="openSidebar('128_Puff Pivot',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\168_Murmer of Leaves.png" id="168_Murmer of Leaves" data-flag="@X" onclick="openSidebar('168_Murmer of Leaves',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\26_Roaming Battlepriest.png" id="26_Roaming Battlepriest" data-flag="@X" onclick="openSidebar('26_Roaming Battlepriest',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\64_Scatterbrained.png" id="64_Scatterbrained" data-flag="@X" onclick="openSidebar('64_Scatterbrained',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\97_Silent Fateweaver.png" id="97_Silent Fateweaver" data-flag="@X" onclick="openSidebar('97_Silent Fateweaver',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\130_Rebuking Evoker.png" id="130_Rebuking Evoker" data-flag="@X" onclick="openSidebar('130_Rebuking Evoker',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\169_Orchard's Rest.png" id="169_Orchards Rest" data-flag="@X" onclick="openSidebar('169_Orchards Rest',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\29_Seasoned Farmhand.png" id="29_Seasoned Farmhand" data-flag="@X" onclick="openSidebar('29_Seasoned Farmhand',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\65_Spellbook Archivist.png" id="65_Spellbook Archivist" data-flag="@X" onclick="openSidebar('65_Spellbook Archivist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\98_Soiled Farmseed.png" id="98_Soiled Farmseed" data-flag="@X" onclick="openSidebar('98_Soiled Farmseed',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\134_Shadowick Matriarch.png" id="134_Shadowick Matriarch" data-flag="@X" onclick="openSidebar('134_Shadowick Matriarch',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\170_Skyfall Infusion.png" id="170_Skyfall Infusion" data-flag="@X" onclick="openSidebar('170_Skyfall Infusion',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\32_Sunleaf Apprentice.png" id="32_Sunleaf Apprentice" data-flag="@X" onclick="openSidebar('32_Sunleaf Apprentice',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\68_Tincture Trade.png" id="68_Tincture Trade" data-flag="@X" onclick="openSidebar('68_Tincture Trade',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\101_Tragic Pixie.png" id="101_Tragic Pixie" data-flag="@X" onclick="openSidebar('101_Tragic Pixie',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\135_Shatter Flask.png" id="135_Shatter Flask" data-flag="@X" onclick="openSidebar('135_Shatter Flask',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\175_Treeline Scavenger.png" id="175_Treeline Scavenger" data-flag="@X" onclick="openSidebar('175_Treeline Scavenger',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\35_Willowmutt.png" id="35_Willowmutt" data-flag="@X" onclick="openSidebar('35_Willowmutt',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\70_Unseelie Ambusher.png" id="70_Unseelie Ambusher" data-flag="@X" onclick="openSidebar('70_Unseelie Ambusher',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\104_Unseelie Ritualist.png" id="104_Unseelie Ritualist" data-flag="@X" onclick="openSidebar('104_Unseelie Ritualist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\136_Sparkscript Tutor.png" id="136_Sparkscript Tutor" data-flag="@X" onclick="openSidebar('136_Sparkscript Tutor',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\176_Vinyardmaw Wurm.png" id="176_Vinyardmaw Wurm" data-flag="@X" onclick="openSidebar('176_Vinyardmaw Wurm',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\5_Dawning Farmhand.png" id="5_Dawning Farmhand" data-flag="@X" onclick="openSidebar('5_Dawning Farmhand',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\37_Aetherling.png" id="37_Aetherling" data-flag="@X" onclick="openSidebar('37_Aetherling',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\74_Dastardly Blend.png" id="74_Dastardly Blend" data-flag="@X" onclick="openSidebar('74_Dastardly Blend',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\137_Terminal Discharge.png" id="137_Terminal Discharge" data-flag="@X" onclick="openSidebar('137_Terminal Discharge',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\142_Barktail Leafmender.png" id="142_Barktail Leafmender" data-flag="@X" onclick="openSidebar('142_Barktail Leafmender',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\7_Doomed to Observe.png" id="7_Doomed to Observe" data-flag="@X" onclick="openSidebar('7_Doomed to Observe',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\38_Array of Ingredients.png" id="38_Array of Ingredients" data-flag="@X" onclick="openSidebar('38_Array of Ingredients',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\76_Deepstone Alchemist.png" id="76_Deepstone Alchemist" data-flag="@X" onclick="openSidebar('76_Deepstone Alchemist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\106_Arcane Surge.png" id="106_Arcane Surge" data-flag="@X" onclick="openSidebar('106_Arcane Surge',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\143_Blessing of Fallen leaves.png" id="143_Blessing of Fallen leaves" data-flag="@X" onclick="openSidebar('143_Blessing of Fallen leaves',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\8_Faceless Preacher.png" id="8_Faceless Preacher" data-flag="@X" onclick="openSidebar('8_Faceless Preacher',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\40_Azure River Drake.png" id="40_Azure River Drake" data-flag="@X" onclick="openSidebar('40_Azure River Drake',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\78_Dig Through Bones.png" id="78_Dig Through Bones" data-flag="@X" onclick="openSidebar('78_Dig Through Bones',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\107_Barnfire.png" id="107_Barnfire" data-flag="@X" onclick="openSidebar('107_Barnfire',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\145_Bountiful Protection.png" id="145_Bountiful Protection" data-flag="@X" onclick="openSidebar('145_Bountiful Protection',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\9_A Farmer's Lament.png" id="9_A Farmers Lament" data-flag="@X" onclick="openSidebar('9_A Farmers Lament',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\41_Bewildering Haze.png" id="41_Bewildering Haze" data-flag="@X" onclick="openSidebar('41_Bewildering Haze',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\79_Essence of the Drowned.png" id="79_Essence of the Drowned" data-flag="@X" onclick="openSidebar('79_Essence of the Drowned',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\108_Branchspark Igniter.png" id="108_Branchspark Igniter" data-flag="@X" onclick="openSidebar('108_Branchspark Igniter',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\146_Bushwhacker Scout.png" id="146_Bushwhacker Scout" data-flag="@X" onclick="openSidebar('146_Bushwhacker Scout',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\11_Foreordain.png" id="11_Foreordain" data-flag="@X" onclick="openSidebar('11_Foreordain',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\42_Brainjuice Tincture.png" id="42_Brainjuice Tincture" data-flag="@X" onclick="openSidebar('42_Brainjuice Tincture',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\80_A Fading Promise.png" id="80_A Fading Promise" data-flag="@X" onclick="openSidebar('80_A Fading Promise',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\109_Burgundy Spire Initiate.png" id="109_Burgundy Spire Initiate" data-flag="@X" onclick="openSidebar('109_Burgundy Spire Initiate',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\150_Cycle's Provision.png" id="150_Cycles Provision" data-flag="@X" onclick="openSidebar('150_Cycles Provision',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\13_Harvest's Allure.png" id="13_Harvests Allure" data-flag="@X" onclick="openSidebar('13_Harvests Allure',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\43_Daydreaming Pondkin.png" id="43_Daydreaming Pondkin" data-flag="@X" onclick="openSidebar('43_Daydreaming Pondkin',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\81_Fate Alley Agent.png" id="81_Fate Alley Agent" data-flag="@X" onclick="openSidebar('81_Fate Alley Agent',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\111_Charcoal Howler.png" id="111_Charcoal Howler" data-flag="@X" onclick="openSidebar('111_Charcoal Howler',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\151_Domesticated Rumblehorn.png" id="151_Domesticated Rumblehorn" data-flag="@X" onclick="openSidebar('151_Domesticated Rumblehorn',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\15_Hearthstead Hound.png" id="15_Hearthstead Hound" data-flag="@X" onclick="openSidebar('15_Hearthstead Hound',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\44_Eager Thaumaturge.png" id="44_Eager Thaumaturge" data-flag="@X" onclick="openSidebar('44_Eager Thaumaturge',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\82_Fate Guard.png" id="82_Fate Guard" data-flag="@X" onclick="openSidebar('82_Fate Guard',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\114_Electrify Fists.png" id="114_Electrify Fists" data-flag="@X" onclick="openSidebar('114_Electrify Fists',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\152_Dominant Struggle.png" id="152_Dominant Struggle" data-flag="@X" onclick="openSidebar('152_Dominant Struggle',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\16_Hollow Flame Spirit.png" id="16_Hollow Flame Spirit" data-flag="@X" onclick="openSidebar('16_Hollow Flame Spirit',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\48_Fogfen Lurker.png" id="48_Fogfen Lurker" data-flag="@X" onclick="openSidebar('48_Fogfen Lurker',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\85_Grotesque Bogbat.png" id="85_Grotesque Bogbat" data-flag="@X" onclick="openSidebar('85_Grotesque Bogbat',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\115_Farm Razer.png" id="115_Farm Razer" data-flag="@X" onclick="openSidebar('115_Farm Razer',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\155_Eladrin Grovetender.png" id="155_Eladrin Grovetender" data-flag="@X" onclick="openSidebar('155_Eladrin Grovetender',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\18_Laboring Bisonbear.png" id="18_Laboring Bisonbear" data-flag="@X" onclick="openSidebar('18_Laboring Bisonbear',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\49_Gnomish Elixir of Bouncing.png" id="49_Gnomish Elixir of Bouncing" data-flag="@X" onclick="openSidebar('49_Gnomish Elixir of Bouncing',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\86_Harvest Cloak Thief.png" id="86_Harvest Cloak Thief" data-flag="@X" onclick="openSidebar('86_Harvest Cloak Thief',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\116_Firebelly Brew.png" id="116_Firebelly Brew" data-flag="@X" onclick="openSidebar('116_Firebelly Brew',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\156_Eladrin Purity.png" id="156_Eladrin Purity" data-flag="@X" onclick="openSidebar('156_Eladrin Purity',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\19_Lost Among the Maize.png" id="19_Lost Among the Maize" data-flag="@X" onclick="openSidebar('19_Lost Among the Maize',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\50_Indecisive Mixture.png" id="50_Indecisive Mixture" data-flag="@X" onclick="openSidebar('50_Indecisive Mixture',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\88_Leshy Bone Collector.png" id="88_Leshy Bone Collector" data-flag="@X" onclick="openSidebar('88_Leshy Bone Collector',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\117_Flamesword Archivist.png" id="117_Flamesword Archivist" data-flag="@X" onclick="openSidebar('117_Flamesword Archivist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\157_Eladrin Ranger.png" id="157_Eladrin Ranger" data-flag="@X" onclick="openSidebar('157_Eladrin Ranger',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\20_Pastoral Oath.png" id="20_Pastoral Oath" data-flag="@X" onclick="openSidebar('20_Pastoral Oath',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\53_Lost in the Breeze.png" id="53_Lost in the Breeze" data-flag="@X" onclick="openSidebar('53_Lost in the Breeze',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\89_Living Death Brew.png" id="89_Living Death Brew" data-flag="@X" onclick="openSidebar('89_Living Death Brew',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\121_Hasty Shots.png" id="121_Hasty Shots" data-flag="@X" onclick="openSidebar('121_Hasty Shots',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\160_Friends of the Forest.png" id="160_Friends of the Forest" data-flag="@X" onclick="openSidebar('160_Friends of the Forest',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\21_Pixie Field Scout.png" id="21_Pixie Field Scout" data-flag="@X" onclick="openSidebar('21_Pixie Field Scout',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\55_Maeve's Nightmare Serum.png" id="55_Maeves Nightmare Serum" data-flag="@X" onclick="openSidebar('55_Maeves Nightmare Serum',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\90_Malefic Visitor.png" id="90_Malefic Visitor" data-flag="@X" onclick="openSidebar('90_Malefic Visitor',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\122_Infernal Insight.png" id="122_Infernal Insight" data-flag="@X" onclick="openSidebar('122_Infernal Insight',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\162_Grovewarden Sentinel.png" id="162_Grovewarden Sentinel" data-flag="@X" onclick="openSidebar('162_Grovewarden Sentinel',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\22_Plow the Fields.png" id="22_Plow the Fields" data-flag="@X" onclick="openSidebar('22_Plow the Fields',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\56_Mistfire Infuser.png" id="56_Mistfire Infuser" data-flag="@X" onclick="openSidebar('56_Mistfire Infuser',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\91_Musclebound Deep Gnome.png" id="91_Musclebound Deep Gnome" data-flag="@X" onclick="openSidebar('91_Musclebound Deep Gnome',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\127_Pixie Spear-Swarmer.png" id="127_Pixie Spear-Swarmer" data-flag="@X" onclick="openSidebar('127_Pixie Spear-Swarmer',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\163_Hag Warden.png" id="163_Hag Warden" data-flag="@X" onclick="openSidebar('163_Hag Warden',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\24_Protective Homesteader.png" id="24_Protective Homesteader" data-flag="@X" onclick="openSidebar('24_Protective Homesteader',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\58_Nettle's Determination.png" id="58_Nettles Determination" data-flag="@X" onclick="openSidebar('58_Nettles Determination',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\93_Return Mostly Alive.png" id="93_Return Mostly Alive" data-flag="@X" onclick="openSidebar('93_Return Mostly Alive',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\129_Quick Thinking.png" id="129_Quick Thinking" data-flag="@X" onclick="openSidebar('129_Quick Thinking',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\164_Harvest Cycle Stag.png" id="164_Harvest Cycle Stag" data-flag="@X" onclick="openSidebar('164_Harvest Cycle Stag',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\27_Salve Herbalist.png" id="27_Salve Herbalist" data-flag="@X" onclick="openSidebar('27_Salve Herbalist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\60_Pondkin Scholar.png" id="60_Pondkin Scholar" data-flag="@X" onclick="openSidebar('60_Pondkin Scholar',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\95_Shade of Truth.png" id="95_Shade of Truth" data-flag="@X" onclick="openSidebar('95_Shade of Truth',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\131_Reckless Blacksmith.png" id="131_Reckless Blacksmith" data-flag="@X" onclick="openSidebar('131_Reckless Blacksmith',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\166_Harvestmark Shot.png" id="166_Harvestmark Shot" data-flag="@X" onclick="openSidebar('166_Harvestmark Shot',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\28_Savor the Harvest.png" id="28_Savor the Harvest" data-flag="@X" onclick="openSidebar('28_Savor the Harvest',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\62_Riverside Herbalist.png" id="62_Riverside Herbalist" data-flag="@X" onclick="openSidebar('62_Riverside Herbalist',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\99_Swarm of Shadeflies.png" id="99_Swarm of Shadeflies" data-flag="@X" onclick="openSidebar('99_Swarm of Shadeflies',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\132_Ritual of Crackling Ash.png" id="132_Ritual of Crackling Ash" data-flag="@X" onclick="openSidebar('132_Ritual of Crackling Ash',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\167_Living Orchard.png" id="167_Living Orchard" data-flag="@X" onclick="openSidebar('167_Living Orchard',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\30_Spud Spectre.png" id="30_Spud Spectre" data-flag="@X" onclick="openSidebar('30_Spud Spectre',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\63_Runestone Owl.png" id="63_Runestone Owl" data-flag="@X" onclick="openSidebar('63_Runestone Owl',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\100_Touch of Nightshade.png" id="100_Touch of Nightshade" data-flag="@X" onclick="openSidebar('100_Touch of Nightshade',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\133_Scroll-Cast Apprentice.png" id="133_Scroll-Cast Apprentice" data-flag="@X" onclick="openSidebar('133_Scroll-Cast Apprentice',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\171_Sunfruit Harvester.png" id="171_Sunfruit Harvester" data-flag="@X" onclick="openSidebar('171_Sunfruit Harvester',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\31_Strike Through the Grass.png" id="31_Strike Through the Grass" data-flag="@X" onclick="openSidebar('31_Strike Through the Grass',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\66_Sudden Recollection.png" id="66_Sudden Recollection" data-flag="@X" onclick="openSidebar('66_Sudden Recollection',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\102_Trespassing Forager.png" id="102_Trespassing Forager" data-flag="@X" onclick="openSidebar('102_Trespassing Forager',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\138_This is Fine.png" id="138_This is Fine" data-flag="@X" onclick="openSidebar('138_This is Fine',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\172_Taste Test.png" id="172_Taste Test" data-flag="@X" onclick="openSidebar('172_Taste Test',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\33_Sunseed Seraph.png" id="33_Sunseed Seraph" data-flag="@X" onclick="openSidebar('33_Sunseed Seraph',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\67_Thoughtcycle.png" id="67_Thoughtcycle" data-flag="@X" onclick="openSidebar('67_Thoughtcycle',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\103_Unseelie Embrace.png" id="103_Unseelie Embrace" data-flag="@X" onclick="openSidebar('103_Unseelie Embrace',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\139_Torchpath Courior.png" id="139_Torchpath Courior" data-flag="@X" onclick="openSidebar('139_Torchpath Courior',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\173_Thornpaw Apothecary.png" id="173_Thornpaw Apothecary" data-flag="@X" onclick="openSidebar('173_Thornpaw Apothecary',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\34_Threshingfield Steward.png" id="34_Threshingfield Steward" data-flag="@X" onclick="openSidebar('34_Threshingfield Steward',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\69_Unexpected Reaction.png" id="69_Unexpected Reaction" data-flag="@X" onclick="openSidebar('69_Unexpected Reaction',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\105_Unstable Concotion.png" id="105_Unstable Concotion" data-flag="@X" onclick="openSidebar('105_Unstable Concotion',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\140_Torchpath Scavenger.png" id="140_Torchpath Scavenger" data-flag="@X" onclick="openSidebar('140_Torchpath Scavenger',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\174_Timbermarch Caller.png" id="174_Timbermarch Caller" data-flag="@X" onclick="openSidebar('174_Timbermarch Caller',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\141_Unseelie Flamecrafter.png" id="141_Unseelie Flamecrafter" data-flag="@X" onclick="openSidebar('141_Unseelie Flamecrafter',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\180_Free-Range Forager.png" id="180_Free-Range Forager" data-flag="@X" onclick="openSidebar('180_Free-Range Forager',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\177_Deep Gnome Researcher.png" id="177_Deep Gnome Researcher" data-flag="@X" onclick="openSidebar('177_Deep Gnome Researcher',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\184_Queen's Smogwing.png" id="184_Queens Smogwing" data-flag="@X" onclick="openSidebar('184_Queens Smogwing',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\182_Painted Autumnfang.png" id="182_Painted Autumnfang" data-flag="@X" onclick="openSidebar('182_Painted Autumnfang',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\181_Granary Guardian.png" id="181_Granary Guardian" data-flag="@X" onclick="openSidebar('181_Granary Guardian',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\186_Stalking Cyclebreaker.png" id="186_Stalking Cyclebreaker" data-flag="@X" onclick="openSidebar('186_Stalking Cyclebreaker',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\185_Roston, Defense Instructor.png" id="185_Roston, Defense Instructor" data-flag="@X" onclick="openSidebar('185_Roston, Defense Instructor',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\178_Drowned Bog Witch.png" id="178_Drowned Bog Witch" data-flag="@X" onclick="openSidebar('178_Drowned Bog Witch',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\183_Pixie Swarmleader.png" id="183_Pixie Swarmleader" data-flag="@X" onclick="openSidebar('183_Pixie Swarmleader',false)"></div>
+			<div class="container"><img alt="/sets\HTH2-files\img\179_Eladrin Bladesinger.png" id="179_Eladrin Bladesinger" data-flag="@X" onclick="openSidebar('179_Eladrin Bladesinger',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
