@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Zombie Farmer ",
-			"collector_number": "30",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/30_Spud Spectre.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/59_Spud Spectre.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Dwarf Farmer ",
-			"collector_number": "24",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/24_Protective Homesteader.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/54_Protective Homesteader.png"
 			}
 		},
 		{
@@ -25,49 +25,49 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Dog ",
-			"collector_number": "15",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/15_Hearthstead Hound.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/38_Hearthstead Hound.png"
 			}
 		},
 		{
 			"name": "Hollow Flame Spirit",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Spirit ",
-			"collector_number": "16",
+			"type": "Creature — Shade Spirit ",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/16_Hollow Flame Spirit.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/39_Hollow Flame Spirit.png"
 			}
 		},
 		{
 			"name": "Faceless Preacher",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Cleric ",
-			"collector_number": "8",
+			"type": "Creature — Shade Cleric ",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/8_Faceless Preacher.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/29_Faceless Preacher.png"
 			}
 		},
 		{
 			"name": "Dawning Farmhand",
 			"rarity": "common",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Farmer ",
-			"collector_number": "5",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/5_Dawning Farmhand.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/25_Dawning Farmhand.png"
 			}
 		},
 		{
 			"name": "Pixie Field Scout",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Fox Scout ",
-			"collector_number": "21",
+			"type": "Creature — Faerie Scout ",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/21_Pixie Field Scout.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/51_Pixie Field Scout.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Dwarf Alchemist ",
-			"collector_number": "27",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/27_Salve Herbalist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/57_Salve Herbalist.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Farmer ",
-			"collector_number": "34",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/34_Threshingfield Steward.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/64_Threshingfield Steward.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Plant Angel ",
-			"collector_number": "33",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/33_Sunseed Seraph.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/62_Sunseed Seraph.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Ox Bear ",
-			"collector_number": "18",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/18_Laboring Bisonbear.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/42_Laboring Bisonbear.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "28",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/28_Savor the Harvest.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/58_Savor the Harvest.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/9_A Farmer's Lament.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/31_A Farmer's Lament.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "11",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/11_Foreordain.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/33_Foreordain.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/19_Lost Among the Maize.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/44_Lost Among the Maize.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/22_Plow the Fields.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/52_Plow the Fields.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/31_Strike Through the Grass.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/60_Strike Through the Grass.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "20",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/20_Pastoral Oath.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/49_Pastoral Oath.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "7",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/7_Doomed to Observe.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/28_Doomed to Observe.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Elemental ",
-			"collector_number": "37",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/37_Aetherling.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/68_Aetherling.png"
 			}
 		},
 		{
@@ -205,19 +205,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie ",
-			"collector_number": "60",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/60_Pondkin Scholar.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/96_Pondkin Scholar.png"
 			}
 		},
 		{
 			"name": "Riverside Herbalist",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Nymph Alchemist ",
-			"collector_number": "62",
+			"type": "Creature — Faerie Alchemist ",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/62_Riverside Herbalist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/98_Riverside Herbalist.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Tiefling Wizard ",
-			"collector_number": "44",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/44_Eager Thaumaturge.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/78_Eager Thaumaturge.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Tiefling Alchemist ",
-			"collector_number": "56",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/56_Mistfire Infuser.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/90_Mistfire Infuser.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird ",
-			"collector_number": "63",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/63_Runestone Owl.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/99_Runestone Owl.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elemental ",
-			"collector_number": "48",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/48_Fogfen Lurker.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/82_Fogfen Lurker.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Drake ",
-			"collector_number": "40",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/40_Azure River Drake.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/72_Azure River Drake.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie Wizard ",
-			"collector_number": "43",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/43_Daydreaming Pondkin.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/76_Daydreaming Pondkin.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "66",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/66_Sudden Recollection.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/102_Sudden Recollection.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/50_Indecisive Mixture.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/83_Indecisive Mixture.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "42",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/42_Brainjuice Tincture.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/74_Brainjuice Tincture.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "67",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/67_Thoughtcycle.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/104_Thoughtcycle.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/69_Unexpected Reaction.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/108_Unexpected Reaction.png"
 			}
 		},
 		{
@@ -335,19 +335,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "53",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/53_Lost in the Breeze.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/86_Lost in the Breeze.png"
 			}
 		},
 		{
-			"name": "Gnomish Elixir of Bouncing",
+			"name": "Spellburst Gauntlets",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "49",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/49_Gnomish Elixir of Bouncing.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/101_Spellburst Gauntlets.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/41_Bewildering Haze.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/73_Bewildering Haze.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "58",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/58_Nettle's Determination.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/94_Nettle's Determination.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "55",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/55_Maeve's Nightmare Serum.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/88_Maeve's Nightmare Serum.png"
 			}
 		},
 		{
@@ -385,19 +385,19 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Elemental Shaman ",
-			"collector_number": "88",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/88_Leshy Bone Collector.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/130_Leshy Bone Collector.png"
 			}
 		},
 		{
-			"name": "Living Death Brew",
+			"name": "Living Death Potion",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Potion Spider ",
-			"collector_number": "89",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/89_Living Death Brew.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/131_Living Death Potion.png"
 			}
 		},
 		{
@@ -405,19 +405,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Gnome Alchemist ",
-			"collector_number": "76",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/76_Deepstone Alchemist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/116_Deepstone Alchemist.png"
 			}
 		},
 		{
 			"name": "Malefic Visitor",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Nymph Assassin ",
-			"collector_number": "90",
+			"type": "Creature — Faerie Assassin ",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/90_Malefic Visitor.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/132_Malefic Visitor.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Fox Rogue ",
-			"collector_number": "102",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/102_Trespassing Forager.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/151_Trespassing Forager.png"
 			}
 		},
 		{
@@ -435,29 +435,29 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Shade ",
-			"collector_number": "95",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/95_Shade of Truth.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/145_Shade of Truth.png"
 			}
 		},
 		{
 			"name": "Grotesque Bogbat",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Bird ",
-			"collector_number": "85",
+			"type": "Creature — Bat ",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/85_Grotesque Bogbat.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/127_Grotesque Bogbat.png"
 			}
 		},
 		{
 			"name": "Fate Alley Agent",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Vampire Cleric ",
-			"collector_number": "81",
+			"type": "Creature — Vampire Shade ",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/81_Fate Alley Agent.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/122_Fate Alley Agent.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Vampire Soldier ",
-			"collector_number": "82",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/82_Fate Guard.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/123_Fate Guard.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "86",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/86_Harvest Cloak Thief.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/128_Harvest Cloak Thief.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/74_Dastardly Blend.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/114_Dastardly Blend.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/100_Touch of Nightshade.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/149_Touch of Nightshade.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/78_Dig Through Bones.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/118_Dig Through Bones.png"
 			}
 		},
 		{
@@ -515,19 +515,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/93_Return Mostly Alive.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/144_Return Mostly Alive.png"
 			}
 		},
 		{
-			"name": "Swarm of Shadeflies",
+			"name": "Graverot",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "99",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/99_Swarm of Shadeflies.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/126_Graverot.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/80_A Fading Promise.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/120_A Fading Promise.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "105",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/105_Unstable Concotion.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/154_Unstable Concotion.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "103",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/103_Unseelie Embrace.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/152_Unseelie Embrace.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "79",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/79_Essence of the Drowned.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/119_Essence of the Drowned.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "139",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/139_Torchpath Courior.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/196_Torchpath Courior.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Tiefling Wizard ",
-			"collector_number": "133",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/133_Scroll-Cast Apprentice.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/190_Scroll-Cast Apprentice.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dwarf Artificer ",
-			"collector_number": "131",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/131_Reckless Blacksmith.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/181_Reckless Blacksmith.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "140",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/140_Torchpath Scavenger.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/197_Torchpath Scavenger.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "109",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/109_Burgundy Spire Initiate.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/158_Burgundy Spire Initiate.png"
 			}
 		},
 		{
@@ -625,19 +625,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Faerie Soldier ",
-			"collector_number": "127",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/127_Pixie Spear-Swarmer.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/177_Pixie Spear-Swarmer.png"
 			}
 		},
 		{
 			"name": "Unseelie Flamecrafter",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Nymph Alchemist ",
-			"collector_number": "141",
+			"type": "Creature — Faerie Alchemist ",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/141_Unseelie Flamecrafter.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/198_Unseelie Flamecrafter.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Faerie Rogue ",
-			"collector_number": "108",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/108_Branchspark Igniter.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/157_Branchspark Igniter.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental Wolf ",
-			"collector_number": "111",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/111_Charcoal Howler.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/160_Charcoal Howler.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Tiefling Wizard ",
-			"collector_number": "117",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/117_Flamesword Archivist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/166_Flamesword Archivist.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/116_Firebelly Brew.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/165_Firebelly Brew.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/122_Infernal Insight.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/171_Infernal Insight.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "132",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/132_Ritual of Crackling Ash.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/182_Ritual of Crackling Ash.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/107_Barnfire.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/156_Barnfire.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/129_Quick Thinking.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/179_Quick Thinking.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "106",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/106_Arcane Surge.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/155_Arcane Surge.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/121_Hasty Shots.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/170_Hasty Shots.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "138",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/138_This is Fine.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/195_This is Fine.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "114",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/114_Electrify Fists.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/163_Electrify Fists.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Faerie Elf ",
-			"collector_number": "155",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/155_Eladrin Grovetender.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/211_Eladrin Grovetender.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Badger Alchemist ",
-			"collector_number": "173",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/173_Thornpaw Apothecary.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/240_Thornpaw Apothecary.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Faerie Elf Farmer ",
-			"collector_number": "171",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/171_Sunfruit Harvester.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/238_Sunfruit Harvester.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Squirrel Druid ",
-			"collector_number": "142",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/142_Barktail Leafmender.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/200_Barktail Leafmender.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Faerie Elf Ranger ",
-			"collector_number": "157",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/157_Eladrin Ranger.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/213_Eladrin Ranger.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elk ",
-			"collector_number": "164",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/164_Harvest Cycle Stag.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/221_Harvest Cycle Stag.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Faerie Hag ",
-			"collector_number": "163",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/163_Hag Warden.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/220_Hag Warden.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Faerie Elf Knight ",
-			"collector_number": "162",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/162_Grovewarden Sentinel.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/219_Grovewarden Sentinel.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "146",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/146_Bushwhacker Scout.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/203_Bushwhacker Scout.png"
 			}
 		},
 		{
@@ -855,19 +855,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Treefolk ",
-			"collector_number": "174",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/174_Timbermarch Caller.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/241_Timbermarch Caller.png"
 			}
 		},
 		{
 			"name": "Domesticated Rumblehorn",
 			"rarity": "common",
-			"mana_cost": "{6}{G}",
+			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elk Beast ",
-			"collector_number": "151",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/151_Domesticated Rumblehorn.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/207_Domesticated Rumblehorn.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Plant Farmer ",
-			"collector_number": "167",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/167_Living Orchard.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/225_Living Orchard.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "150",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/150_Cycle's Provision.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/206_Cycle's Provision.png"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/160_Friends of the Forest.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/216_Friends of the Forest.png"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "152",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/152_Dominant Struggle.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/208_Dominant Struggle.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "156",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/156_Eladrin Purity.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/212_Eladrin Purity.png"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/145_Bountiful Protection.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/202_Bountiful Protection.png"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "166",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/166_Harvestmark Shot.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/223_Harvestmark Shot.png"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "172",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/172_Taste Test.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/239_Taste Test.png"
 			}
 		},
 		{
@@ -955,19 +955,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Citizen ",
-			"collector_number": "14",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/14_Hearthside Bartender.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/37_Hearthside Bartender.png"
 			}
 		},
 		{
-			"name": "Seasoned Farmhand",
+			"name": "Predator Eagle",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Farmer ",
-			"collector_number": "29",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/29_Seasoned Farmhand.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/53_Predator Eagle.png"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Angel Farmer ",
-			"collector_number": "12",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/12_Harvest Angel.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/34_Harvest Angel.png"
 			}
 		},
 		{
@@ -985,19 +985,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Goat Dog ",
-			"collector_number": "35",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/35_Willowmutt.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/65_Willowmutt.png"
 			}
 		},
 		{
-			"name": "Devout Tombmaiden",
+			"name": "Devout Shadekin",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Vampire Cleric ",
-			"collector_number": "6",
+			"type": "Creature — Human Shade ",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/6_Devout Tombmaiden.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/27_Devout Shadekin.png"
 			}
 		},
 		{
@@ -1005,19 +1005,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "17",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/17_Knight of Bounty.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/41_Knight of Bounty.png"
 			}
 		},
 		{
 			"name": "Sunleaf Apprentice",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Alchemist ",
-			"collector_number": "32",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/32_Sunleaf Apprentice.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/61_Sunleaf Apprentice.png"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Dwarf Farmer ",
-			"collector_number": "25",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/25_Proud Farmdaughter.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/55_Proud Farmdaughter.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "3",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/3_Cloud Contract.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/23_Cloud Contract.png"
 			}
 		},
 		{
@@ -1045,19 +1045,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "4",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/4_A Cold Welcome.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/24_A Cold Welcome.png"
 			}
 		},
 		{
-			"name": "Become Unraveled",
+			"name": "Dawnrush Formation",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "1",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/1_Become Unraveled.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/26_Dawnrush Formation.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Crab ",
-			"collector_number": "51",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/51_Lakefront Crab.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/84_Lakefront Crab.png"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Tiefling Wizard ",
-			"collector_number": "57",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/57_Mystic Mistmage.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/93_Mystic Mistmage.png"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Gnome Alchemist ",
-			"collector_number": "45",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/45_Eccentric Alchemist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/79_Eccentric Alchemist.png"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Faerie Rogue ",
-			"collector_number": "70",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/70_Unseelie Ambusher.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/109_Unseelie Ambusher.png"
 			}
 		},
 		{
@@ -1105,19 +1105,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elemental Alchemist ",
-			"collector_number": "52",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/52_Leshy Apothecary.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/85_Leshy Apothecary.png"
 			}
 		},
 		{
-			"name": "Spellbook Archivist",
+			"name": "Updraft Faerie",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Fox Wizard ",
-			"collector_number": "65",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Faerie Scout ",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/65_Spellbook Archivist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/110_Updraft Faerie.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Creature — Elemental Beast ",
-			"collector_number": "46",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/46_Elixir Behemoth.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/80_Elixir Behemoth.png"
 			}
 		},
 		{
@@ -1135,9 +1135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/61_Refine the Recipe.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/97_Refine the Recipe.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/47_Essence Unbound.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/81_Essence Unbound.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "68",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/68_Tincture Trade.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/105_Tincture Trade.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/36_Academic Interference.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/66_Academic Interference.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Faerie Rogue ",
-			"collector_number": "101",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/101_Tragic Pixie.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/150_Tragic Pixie.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Alchemist ",
-			"collector_number": "71",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/71_Acolyte of Ichor.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/111_Acolyte of Ichor.png"
 			}
 		},
 		{
@@ -1195,19 +1195,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Ooze ",
-			"collector_number": "92",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/92_Resurgent Residue.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/143_Resurgent Residue.png"
 			}
 		},
 		{
-			"name": "Deadwood Nymph",
+			"name": "Deadwood Sprite",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Nymph Alchemist ",
-			"collector_number": "75",
+			"type": "Creature — Faerie Alchemist ",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/75_Deadwood Nymph.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/115_Deadwood Sprite.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Faerie Warlock ",
-			"collector_number": "104",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/104_Unseelie Ritualist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/153_Unseelie Ritualist.png"
 			}
 		},
 		{
@@ -1225,29 +1225,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Shade ",
-			"collector_number": "84",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/84_Forgotten Shadekin.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/125_Forgotten Shadekin.png"
 			}
 		},
 		{
-			"name": "Silent Fateweaver",
+			"name": "Shadekin Fateweaver",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Human Assassin ",
-			"collector_number": "97",
+			"type": "Creature — Human Shade ",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/97_Silent Fateweaver.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/146_Shadekin Fateweaver.png"
 			}
 		},
 		{
 			"name": "Hollowed Delusion",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Nightmare Illusion ",
-			"collector_number": "87",
+			"type": "Creature — Shade Illusion ",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/87_Hollowed Delusion.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/129_Hollowed Delusion.png"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/77_Defy the Commandment.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/117_Defy the Commandment.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/73_Dark Court Summoning.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/113_Dark Court Summoning.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/72_Broken Rites.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/112_Broken Rites.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Faerie Rogue ",
-			"collector_number": "119",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/119_Gleeful Cutthroat.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/168_Gleeful Cutthroat.png"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental Wizard ",
-			"collector_number": "118",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/118_Genasi Flame Adept.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/167_Genasi Flame Adept.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Tiefling Wizard ",
-			"collector_number": "136",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/136_Sparkscript Tutor.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/193_Sparkscript Tutor.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "130",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/130_Rebuking Evoker.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/180_Rebuking Evoker.png"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Dwarf Alchemist ",
-			"collector_number": "112",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/112_Combustion Theorist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/161_Combustion Theorist.png"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Faerie Warlock ",
-			"collector_number": "134",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/134_Shadowick Matriarch.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/191_Shadowick Matriarch.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Elemental Golem ",
-			"collector_number": "120",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/120_Goldfire Golem.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/169_Goldfire Golem.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creture — Troll",
-			"collector_number": "110",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/110_Campfire Troll.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/159_Campfire Troll.png"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/126_No More Tithes.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/176_No More Tithes.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "137",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/137_Terminal Discharge.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/194_Terminal Discharge.png"
 			}
 		},
 		{
@@ -1385,19 +1385,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Instant",
-			"collector_number": "113",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/113_Down the Hatch.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/162_Down the Hatch.png"
 			}
 		},
 		{
 			"name": "Compost Rattler",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Snake ",
-			"collector_number": "148",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/148_Compost Rattler.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/204_Compost Rattler.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird ",
-			"collector_number": "161",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/161_Frondplume Strider.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/217_Frondplume Strider.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Faerie Elf Farmer ",
-			"collector_number": "154",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/154_Eladrin Arborist.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/210_Eladrin Arborist.png"
 			}
 		},
 		{
@@ -1425,19 +1425,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Faerie Elf ",
-			"collector_number": "165",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/165_Harvest Market Keeper.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/222_Harvest Market Keeper.png"
 			}
 		},
 		{
-			"name": "Treeline Scavenger",
+			"name": "Rotcycle Shambler",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Scout ",
-			"collector_number": "175",
+			"type": "Creature — Zombie Druid ",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/175_Treeline Scavenger.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/236_Rotcycle Shambler.png"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Faerie Elf Scout ",
-			"collector_number": "153",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/153_Eithana, Treepaw Scout.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/209_Eithana, Treepaw Scout.png"
 			}
 		},
 		{
@@ -1455,29 +1455,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Faerie Elf Mystic ",
-			"collector_number": "149",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/149_Cyclegrove Empath.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/205_Cyclegrove Empath.png"
 			}
 		},
 		{
-			"name": "Blooming Birchbear",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Treefolk Bear ",
-			"collector_number": "144",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/144_Blooming Birchbear.png"
-			}
-		},
-		{
-			"name": "Canopy Ambusher",
+			"name": "Leaflash Ambusher",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Faerie Elf Ranger ",
-			"collector_number": "147",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/147_Canopy Ambusher.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/224_Leaflash Ambusher.png"
 			}
 		},
 		{
@@ -1485,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Wurm ",
-			"collector_number": "176",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/176_Vinyardmaw Wurm.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/242_Vinyardmaw Wurm.png"
 			}
 		},
 		{
@@ -1495,9 +1485,459 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "159",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/159_Feybark Ritual.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/215_Feybark Ritual.png"
+			}
+		},
+		{
+			"name": "Pixie Battle Hero",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Faerie Warrior ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/50_Pixie Battle Hero.png"
+			}
+		},
+		{
+			"name": "Barleystout Farmer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dwarf Farmer ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/21_Barleystout Farmer.png"
+			}
+		},
+		{
+			"name": "Alessa, Warden Paragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/20_Alessa, Warden Paragon.png"
+			}
+		},
+		{
+			"name": "Palehorn Shadebeast",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Shade Beast ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/47_Palehorn Shadebeast.png"
+			}
+		},
+		{
+			"name": "Harvest Scion",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Plant Angel ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/35_Harvest Scion.png"
+			}
+		},
+		{
+			"name": "Fallow the Farmland",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/30_Fallow the Farmland.png"
+			}
+		},
+		{
+			"name": "Swarm Charge",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/63_Swarm Charge.png"
+			}
+		},
+		{
+			"name": "Coralia Trickweaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Tiefling Wizard ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/75_Coralia Trickweaver.png"
+			}
+		},
+		{
+			"name": "Tempo Flux",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/103_Tempo Flux.png"
+			}
+		},
+		{
+			"name": "Tincturetwist, Zany Alchemist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Gnome Alchemist ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/106_Tincturetwist, Zany Alchemist.png"
+			}
+		},
+		{
+			"name": "Mind-Vault Experimenter",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Zombie Alchemist ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/89_Mind-Vault Experimenter.png"
+			}
+		},
+		{
+			"name": "Dreamdew Hexlet",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/77_Dreamdew Hexlet.png"
+			}
+		},
+		{
+			"name": "Aethergate Breach",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/67_Aethergate Breach.png"
+			}
+		},
+		{
+			"name": "Unbound Secrets",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/107_Unbound Secrets.png"
+			}
+		},
+		{
+			"name": "RB01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/136_RB01.png"
+			}
+		},
+		{
+			"name": "RB02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/137_RB02.png"
+			}
+		},
+		{
+			"name": "RB03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/138_RB03.png"
+			}
+		},
+		{
+			"name": "RB04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/139_RB04.png"
+			}
+		},
+		{
+			"name": "RB05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/140_RB05.png"
+			}
+		},
+		{
+			"name": "RB06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/141_RB06.png"
+			}
+		},
+		{
+			"name": "RB07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/142_RB07.png"
+			}
+		},
+		{
+			"name": "RR01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/183_RR01.png"
+			}
+		},
+		{
+			"name": "RR02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/184_RR02.png"
+			}
+		},
+		{
+			"name": "RR03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/185_RR03.png"
+			}
+		},
+		{
+			"name": "RR04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/186_RR04.png"
+			}
+		},
+		{
+			"name": "RR05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/187_RR05.png"
+			}
+		},
+		{
+			"name": "RR06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/188_RR06.png"
+			}
+		},
+		{
+			"name": "RR07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/189_RR07.png"
+			}
+		},
+		{
+			"name": "RG01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/229_RG01.png"
+			}
+		},
+		{
+			"name": "RG02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/230_RG02.png"
+			}
+		},
+		{
+			"name": "RG03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/231_RG03.png"
+			}
+		},
+		{
+			"name": "RG04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/232_RG04.png"
+			}
+		},
+		{
+			"name": "RG05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/233_RG05.png"
+			}
+		},
+		{
+			"name": "RG06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/234_RG06.png"
+			}
+		},
+		{
+			"name": "RG07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/235_RG07.png"
+			}
+		},
+		{
+			"name": "MW01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/45_MW01.png"
+			}
+		},
+		{
+			"name": "MW02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/46_MW02.png"
+			}
+		},
+		{
+			"name": "MU01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/91_MU01.png"
+			}
+		},
+		{
+			"name": "MU02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/92_MU02.png"
+			}
+		},
+		{
+			"name": "MB01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/133_MB01.png"
+			}
+		},
+		{
+			"name": "MB02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/134_MB02.png"
+			}
+		},
+		{
+			"name": "MR01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/174_MR01.png"
+			}
+		},
+		{
+			"name": "MR02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/175_MR02.png"
+			}
+		},
+		{
+			"name": "MG01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/226_MG01.png"
+			}
+		},
+		{
+			"name": "MG02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/227_MG02.png"
 			}
 		},
 		{
@@ -1505,19 +1945,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Faerie Farmer ",
-			"collector_number": "180",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/180_Free-Range Forager.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/248_Free-Range Forager.png"
 			}
 		},
 		{
 			"name": "Deep Gnome Researcher",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{U}{B}",
 			"type": "Creature — Gnome Alchemist ",
-			"collector_number": "177",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/177_Deep Gnome Researcher.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/245_Deep Gnome Researcher.png"
 			}
 		},
 		{
@@ -1525,29 +1965,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Faerie Rogue ",
-			"collector_number": "184",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/184_Queen's Smogwing.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/251_Queen's Smogwing.png"
 			}
 		},
 		{
 			"name": "Painted Autumnfang",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Wolf ",
-			"collector_number": "182",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Elemental Wolf ",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/182_Painted Autumnfang.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/249_Painted Autumnfang.png"
 			}
 		},
 		{
-			"name": "Granary Guardian",
+			"name": "Cranky ol' Tommon",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Creature — Dog Beast ",
-			"collector_number": "181",
+			"type": "Legendary Creature — Human Farmer ",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/181_Granary Guardian.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/244_Cranky ol' Tommon.png"
 			}
 		},
 		{
@@ -1555,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Vampire Shade ",
-			"collector_number": "186",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/186_Stalking Cyclebreaker.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/263_Stalking Cyclebreaker.png"
 			}
 		},
 		{
@@ -1565,19 +2005,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "185",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/185_Roston, Defense Instructor.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/262_Roston, Defense Instructor.png"
 			}
 		},
 		{
 			"name": "Drowned Bog Witch",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{G}",
+			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Zombie Hag ",
-			"collector_number": "178",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/178_Drowned Bog Witch.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/246_Drowned Bog Witch.png"
 			}
 		},
 		{
@@ -1585,19 +2025,449 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Faerie Soldier ",
-			"collector_number": "183",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/183_Pixie Swarmleader.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/250_Pixie Swarmleader.png"
 			}
 		},
 		{
-			"name": "Eladrin Bladesinger",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Faerie Elf Wizard ",
-			"collector_number": "179",
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/179_Eladrin Bladesinger.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/255_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/254_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/253_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/256_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/252_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/261_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/260_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/257_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/259_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/258_RM01.png"
+			}
+		},
+		{
+			"name": "CA01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/264_CA01.png"
+			}
+		},
+		{
+			"name": "CA02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/265_CA02.png"
+			}
+		},
+		{
+			"name": "CA03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/266_CA03.png"
+			}
+		},
+		{
+			"name": "CA04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/267_CA04.png"
+			}
+		},
+		{
+			"name": "CA05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/268_CA05.png"
+			}
+		},
+		{
+			"name": "UA01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/269_UA01.png"
+			}
+		},
+		{
+			"name": "UA02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/270_UA02.png"
+			}
+		},
+		{
+			"name": "UA03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/271_UA03.png"
+			}
+		},
+		{
+			"name": "UA04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/272_UA04.png"
+			}
+		},
+		{
+			"name": "UA05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/273_UA05.png"
+			}
+		},
+		{
+			"name": "CL01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/274_CL01.png"
+			}
+		},
+		{
+			"name": "UL01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/275_UL01.png"
+			}
+		},
+		{
+			"name": "UL02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/276_UL02.png"
+			}
+		},
+		{
+			"name": "UL03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/277_UL03.png"
+			}
+		},
+		{
+			"name": "UL04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/278_UL04.png"
+			}
+		},
+		{
+			"name": "UL05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/279_UL05.png"
+			}
+		},
+		{
+			"name": "UX01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/15_UX01.png"
+			}
+		},
+		{
+			"name": "UX02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/16_UX02.png"
+			}
+		},
+		{
+			"name": "UX03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/17_UX03.png"
+			}
+		},
+		{
+			"name": "UX04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/18_UX04.png"
+			}
+		},
+		{
+			"name": "UX05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/19_UX05.png"
+			}
+		},
+		{
+			"name": "RX01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/7_RX01.png"
+			}
+		},
+		{
+			"name": "RX02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/8_RX02.png"
+			}
+		},
+		{
+			"name": "RX03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/9_RX03.png"
+			}
+		},
+		{
+			"name": "RX04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/10_RX04.png"
+			}
+		},
+		{
+			"name": "RX05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/11_RX05.png"
+			}
+		},
+		{
+			"name": "RX06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/12_RX06.png"
+			}
+		},
+		{
+			"name": "RX07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/13_RX07.png"
+			}
+		},
+		{
+			"name": "RX08",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/14_RX08.png"
+			}
+		},
+		{
+			"name": "MX01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/2_MX01.png"
+			}
+		},
+		{
+			"name": "MX02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/3_MX02.png"
+			}
+		},
+		{
+			"name": "MX03",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/4_MX03.png"
+			}
+		},
+		{
+			"name": "MX04",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/5_MX04.png"
+			}
+		},
+		{
+			"name": "MX05",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/6_MX05.png"
 			}
 		},
 		{
@@ -1605,9 +2475,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/13_Harvest's Allure.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/36_Harvest's Allure.png"
 			}
 		},
 		{
@@ -1615,9 +2485,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment",
-			"collector_number": "38",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/38_Array of Ingredients.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/70_Array of Ingredients.png"
 			}
 		},
 		{
@@ -1625,9 +2495,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Elemental Horror  ",
-			"collector_number": "115",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/115_Farm Razer.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/164_Farm Razer.png"
 			}
 		},
 		{
@@ -1635,9 +2505,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "143",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/143_Blessing of Fallen leaves.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/201_Blessing of Fallen leaves.png"
 			}
 		},
 		{
@@ -1645,19 +2515,19 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Gnome Berserker ",
-			"collector_number": "91",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/91_Musclebound Deep Gnome.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/135_Musclebound Deep Gnome.png"
 			}
 		},
 		{
 			"name": "Bread for Brawn",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "2",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/2_Bread for Brawn.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/22_Bread for Brawn.png"
 			}
 		},
 		{
@@ -1665,9 +2535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Shade ",
-			"collector_number": "10",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/10_Farmshade.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/32_Farmshade.png"
 			}
 		},
 		{
@@ -1675,19 +2545,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric ",
-			"collector_number": "26",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/26_Roaming Battlepriest.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/56_Roaming Battlepriest.png"
 			}
 		},
 		{
-			"name": "Plowman's Oath",
+			"name": "Lead the Take-Off",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "23",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/23_Plowman's Oath.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/43_Lead the Take-Off.png"
 			}
 		},
 		{
@@ -1695,9 +2565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/59_A Pinch of Stardust.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/95_A Pinch of Stardust.png"
 			}
 		},
 		{
@@ -1705,9 +2575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "54",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/54_Lost in the Sauce.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/87_Lost in the Sauce.png"
 			}
 		},
 		{
@@ -1715,9 +2585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "39",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/39_Arrogant Ingenuity.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/71_Arrogant Ingenuity.png"
 			}
 		},
 		{
@@ -1725,9 +2595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/64_Scatterbrained.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/100_Scatterbrained.png"
 			}
 		},
 		{
@@ -1735,29 +2605,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/83_Forbidden Ingredients.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/124_Forbidden Ingredients.png"
 			}
 		},
 		{
-			"name": "Sapping Grasp",
+			"name": "Faerie's Malice",
 			"rarity": "uncommon",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/94_Sapping Grasp.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/121_Faerie's Malice.png"
 			}
 		},
 		{
 			"name": "Shadetouch Aura",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "96",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/96_Shadetouch Aura.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/147_Shadetouch Aura.png"
 			}
 		},
 		{
@@ -1765,9 +2635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "98",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/98_Soiled Farmseed.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/148_Soiled Farmseed.png"
 			}
 		},
 		{
@@ -1775,9 +2645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/135_Shatter Flask.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/192_Shatter Flask.png"
 			}
 		},
 		{
@@ -1785,19 +2655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "128",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/128_Puff Pivot.png"
-			}
-		},
-		{
-			"name": "Insurmountable Pride",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "124",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/124_Insurmountable Pride.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/178_Puff Pivot.png"
 			}
 		},
 		{
@@ -1805,9 +2665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "123",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/123_Inspiring Ambition.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/172_Inspiring Ambition.png"
 			}
 		},
 		{
@@ -1815,9 +2675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "125",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/125_Menacing Fae.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/173_Menacing Fae.png"
 			}
 		},
 		{
@@ -1825,9 +2685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/170_Skyfall Infusion.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/237_Skyfall Infusion.png"
 			}
 		},
 		{
@@ -1835,9 +2695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "169",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/169_Orchard's Rest.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/228_Orchard's Rest.png"
 			}
 		},
 		{
@@ -1845,41 +2705,192 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "158",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/158_Enchanting Presence.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/214_Enchanting Presence.png"
 			}
 		},
 		{
-			"name": "Murmer of Leaves",
+			"name": "Aura of Healing Leaves",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "168",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/168_Murmer of Leaves.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/199_Aura of Healing Leaves.png"
+			}
+		},
+		{
+			"name": "Granary Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dog Beast ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/218_Granary Guardian.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/1_.png"
+			}
+		},
+		{
+			"name": "Potion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Potion ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/1_Potion.png"
+			}
+		},
+		{
+			"name": "Eladrin Bladesinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Faerie Elf Wizard ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/247_Eladrin Bladesinger.png"
+			}
+		},
+		{
+			"name": "Clover, the Wallbreaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Faerie Warrior ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/243_Clover, the Wallbreaker.png"
+			}
+		},
+		{
+			"name": "Passing Radiance",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/48_Passing Radiance.png"
+			}
+		},
+		{
+			"name": "Arcane Parry",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/69_Arcane Parry.png"
+			}
+		},
+		{
+			"name": "Hollow Flame Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Shade Spirit ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/40_Hollow Flame Spirit.png"
 			}
 		}
 	]
 [RareSlot(1)]
+2 Pixie Battle Hero
+2 Barleystout Farmer
+2 Alessa, Warden Paragon
+2 Palehorn Shadebeast
+2 Harvest Scion
+2 Fallow the Farmland
+2 Swarm Charge
+2 Coralia Trickweaver
+2 Tempo Flux
+2 Tincturetwist, Zany Alchemist
+2 Mind-Vault Experimenter
+2 Dreamdew Hexlet
+2 Aethergate Breach
+2 Unbound Secrets
+2 RB01
+2 RB02
+2 RB03
+2 RB04
+2 RB05
+2 RB06
+2 RB07
+2 RR01
+2 RR02
+2 RR03
+2 RR04
+2 RR05
+2 RR06
+2 RR07
+2 RG01
+2 RG02
+2 RG03
+2 RG04
+2 RG05
+2 RG06
+2 RG07
+2 RM01
+2 RM01
+2 RM01
+2 RM01
+2 RM01
+2 RM01
+2 RM01
+2 RM01
+2 RM01
+2 RM01
+2 RX01
+2 RX02
+2 RX03
+2 RX04
+2 RX05
+2 RX06
+2 RX07
+2 RX08
+2 Clover, the Wallbreaker
+2 Passing Radiance
+2 Arcane Parry
+1 MW01
+1 MW02
+1 MU01
+1 MU02
+1 MB01
+1 MB02
+1 MR01
+1 MR02
+1 MG01
+1 MG02
+1 MX01
+1 MX02
+1 MX03
+1 MX04
+1 MX05
 [UncommonSlot(4)]
 9 Hearthside Bartender
-9 Seasoned Farmhand
+9 Predator Eagle
 9 Harvest Angel
 9 Willowmutt
-9 Devout Tombmaiden
+9 Devout Shadekin
 9 Knight of Bounty
 9 Sunleaf Apprentice
 9 Proud Farmdaughter
 9 Cloud Contract
 9 A Cold Welcome
-9 Become Unraveled
+9 Dawnrush Formation
 9 Lakefront Crab
 9 Mystic Mistmage
 9 Eccentric Alchemist
 9 Unseelie Ambusher
 9 Leshy Apothecary
-9 Spellbook Archivist
+9 Updraft Faerie
 9 Elixir Behemoth
 9 Refine the Recipe
 9 Essence Unbound
@@ -1888,10 +2899,10 @@
 9 Tragic Pixie
 9 Acolyte of Ichor
 9 Resurgent Residue
-9 Deadwood Nymph
+9 Deadwood Sprite
 9 Unseelie Ritualist
 9 Forgotten Shadekin
-9 Silent Fateweaver
+9 Shadekin Fateweaver
 9 Hollowed Delusion
 9 Defy the Commandment
 9 Dark Court Summoning
@@ -1911,44 +2922,58 @@
 9 Frondplume Strider
 9 Eladrin Arborist
 9 Harvest Market Keeper
-9 Treeline Scavenger
+9 Rotcycle Shambler
 9 Eithana, Treepaw Scout
 9 Cyclegrove Empath
-9 Blooming Birchbear
-9 Canopy Ambusher
+9 Leaflash Ambusher
 9 Vinyardmaw Wurm
 9 Feybark Ritual
 9 Free-Range Forager
 9 Deep Gnome Researcher
 9 Queen's Smogwing
 9 Painted Autumnfang
-9 Granary Guardian
+9 Cranky ol' Tommon
 9 Stalking Cyclebreaker
 9 Roston, Defense Instructor
 9 Drowned Bog Witch
 9 Pixie Swarmleader
-9 Eladrin Bladesinger
+9 UA01
+9 UA02
+9 UA03
+9 UA04
+9 UA05
+9 UL01
+9 UL02
+9 UL03
+9 UL04
+9 UL05
+9 UX01
+9 UX02
+9 UX03
+9 UX04
+9 UX05
 9 Bread for Brawn
 9 Farmshade
 9 Roaming Battlepriest
-9 Plowman's Oath
+9 Lead the Take-Off
 9 A Pinch of Stardust
 9 Lost in the Sauce
 9 Arrogant Ingenuity
 9 Scatterbrained
 9 Forbidden Ingredients
-9 Sapping Grasp
+9 Faerie's Malice
 9 Shadetouch Aura
 9 Soiled Farmseed
 9 Shatter Flask
 9 Puff Pivot
-9 Insurmountable Pride
 9 Inspiring Ambition
 9 Menacing Fae
 9 Skyfall Infusion
 9 Orchard's Rest
 9 Enchanting Presence
-9 Murmer of Leaves
+9 Aura of Healing Leaves
+9 Granary Guardian
+9 Eladrin Bladesinger
 [CommonSlot(7)]
 30 Spud Spectre
 30 Protective Homesteader
@@ -1984,12 +3009,12 @@
 30 Thoughtcycle
 30 Unexpected Reaction
 30 Lost in the Breeze
-30 Gnomish Elixir of Bouncing
+30 Spellburst Gauntlets
 30 Bewildering Haze
 30 Nettle's Determination
 30 Maeve's Nightmare Serum
 30 Leshy Bone Collector
-30 Living Death Brew
+30 Living Death Potion
 30 Deepstone Alchemist
 30 Malefic Visitor
 30 Trespassing Forager
@@ -2002,7 +3027,7 @@
 30 Touch of Nightshade
 30 Dig Through Bones
 30 Return Mostly Alive
-30 Swarm of Shadeflies
+30 Graverot
 30 A Fading Promise
 30 Unstable Concotion
 30 Unseelie Embrace
@@ -2045,11 +3070,19 @@
 30 Bountiful Protection
 30 Harvestmark Shot
 30 Taste Test
+30 CA01
+30 CA02
+30 CA03
+30 CA04
+30 CA05
+30 CL01
 30 Harvest's Allure
 30 Array of Ingredients
 30 Farm Razer
 30 Blessing of Fallen leaves
 30 Musclebound Deep Gnome
+30 
+30 Hollow Flame Spirit
 [WildcardSlot(2)]
 10 Spud Spectre
 10 Protective Homesteader
@@ -2085,12 +3118,12 @@
 10 Thoughtcycle
 10 Unexpected Reaction
 10 Lost in the Breeze
-10 Gnomish Elixir of Bouncing
+10 Spellburst Gauntlets
 10 Bewildering Haze
 10 Nettle's Determination
 10 Maeve's Nightmare Serum
 10 Leshy Bone Collector
-10 Living Death Brew
+10 Living Death Potion
 10 Deepstone Alchemist
 10 Malefic Visitor
 10 Trespassing Forager
@@ -2103,7 +3136,7 @@
 10 Touch of Nightshade
 10 Dig Through Bones
 10 Return Mostly Alive
-10 Swarm of Shadeflies
+10 Graverot
 10 A Fading Promise
 10 Unstable Concotion
 10 Unseelie Embrace
@@ -2147,22 +3180,22 @@
 10 Harvestmark Shot
 10 Taste Test
 10 Hearthside Bartender
-10 Seasoned Farmhand
+10 Predator Eagle
 10 Harvest Angel
 10 Willowmutt
-10 Devout Tombmaiden
+10 Devout Shadekin
 10 Knight of Bounty
 10 Sunleaf Apprentice
 10 Proud Farmdaughter
 10 Cloud Contract
 10 A Cold Welcome
-10 Become Unraveled
+10 Dawnrush Formation
 10 Lakefront Crab
 10 Mystic Mistmage
 10 Eccentric Alchemist
 10 Unseelie Ambusher
 10 Leshy Apothecary
-10 Spellbook Archivist
+10 Updraft Faerie
 10 Elixir Behemoth
 10 Refine the Recipe
 10 Essence Unbound
@@ -2171,10 +3204,10 @@
 10 Tragic Pixie
 10 Acolyte of Ichor
 10 Resurgent Residue
-10 Deadwood Nymph
+10 Deadwood Sprite
 10 Unseelie Ritualist
 10 Forgotten Shadekin
-10 Silent Fateweaver
+10 Shadekin Fateweaver
 10 Hollowed Delusion
 10 Defy the Commandment
 10 Dark Court Summoning
@@ -2194,23 +3227,110 @@
 10 Frondplume Strider
 10 Eladrin Arborist
 10 Harvest Market Keeper
-10 Treeline Scavenger
+10 Rotcycle Shambler
 10 Eithana, Treepaw Scout
 10 Cyclegrove Empath
-10 Blooming Birchbear
-10 Canopy Ambusher
+10 Leaflash Ambusher
 10 Vinyardmaw Wurm
 10 Feybark Ritual
+10 Pixie Battle Hero
+10 Barleystout Farmer
+10 Alessa, Warden Paragon
+10 Palehorn Shadebeast
+10 Harvest Scion
+10 Fallow the Farmland
+10 Swarm Charge
+10 Coralia Trickweaver
+10 Tempo Flux
+10 Tincturetwist, Zany Alchemist
+10 Mind-Vault Experimenter
+10 Dreamdew Hexlet
+10 Aethergate Breach
+10 Unbound Secrets
+10 RB01
+10 RB02
+10 RB03
+10 RB04
+10 RB05
+10 RB06
+10 RB07
+10 RR01
+10 RR02
+10 RR03
+10 RR04
+10 RR05
+10 RR06
+10 RR07
+10 RG01
+10 RG02
+10 RG03
+10 RG04
+10 RG05
+10 RG06
+10 RG07
+10 MW01
+10 MW02
+10 MU01
+10 MU02
+10 MB01
+10 MB02
+10 MR01
+10 MR02
+10 MG01
+10 MG02
 10 Free-Range Forager
 10 Deep Gnome Researcher
 10 Queen's Smogwing
 10 Painted Autumnfang
-10 Granary Guardian
+10 Cranky ol' Tommon
 10 Stalking Cyclebreaker
 10 Roston, Defense Instructor
 10 Drowned Bog Witch
 10 Pixie Swarmleader
-10 Eladrin Bladesinger
+10 RM01
+10 RM01
+10 RM01
+10 RM01
+10 RM01
+10 RM01
+10 RM01
+10 RM01
+10 RM01
+10 RM01
+10 CA01
+10 CA02
+10 CA03
+10 CA04
+10 CA05
+10 UA01
+10 UA02
+10 UA03
+10 UA04
+10 UA05
+10 CL01
+10 UL01
+10 UL02
+10 UL03
+10 UL04
+10 UL05
+10 UX01
+10 UX02
+10 UX03
+10 UX04
+10 UX05
+10 RX01
+10 RX02
+10 RX03
+10 RX04
+10 RX05
+10 RX06
+10 RX07
+10 RX08
+10 MX01
+10 MX02
+10 MX03
+10 MX04
+10 MX05
 10 Harvest's Allure
 10 Array of Ingredients
 10 Farm Razer
@@ -2219,21 +3339,27 @@
 10 Bread for Brawn
 10 Farmshade
 10 Roaming Battlepriest
-10 Plowman's Oath
+10 Lead the Take-Off
 10 A Pinch of Stardust
 10 Lost in the Sauce
 10 Arrogant Ingenuity
 10 Scatterbrained
 10 Forbidden Ingredients
-10 Sapping Grasp
+10 Faerie's Malice
 10 Shadetouch Aura
 10 Soiled Farmseed
 10 Shatter Flask
 10 Puff Pivot
-10 Insurmountable Pride
 10 Inspiring Ambition
 10 Menacing Fae
 10 Skyfall Infusion
 10 Orchard's Rest
 10 Enchanting Presence
-10 Murmer of Leaves
+10 Aura of Healing Leaves
+10 Granary Guardian
+10 
+10 Eladrin Bladesinger
+10 Clover, the Wallbreaker
+10 Passing Radiance
+10 Arcane Parry
+10 Hollow Flame Spirit
