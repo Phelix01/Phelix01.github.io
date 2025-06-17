@@ -2716,9 +2716,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/284_Gustriver Streamway.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/282_Gustriver Streamway.png"
 			}
 		},
 		{
@@ -2726,9 +2726,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "297",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/297_Wildflower Valley.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/286_Wildflower Valley.png"
 			}
 		},
 		{
@@ -2736,9 +2736,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "283",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/283_Fungal Foothills.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/281_Fungal Foothills.png"
 			}
 		},
 		{
@@ -2766,9 +2766,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/285_Inkwater Boardwalk.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/283_Inkwater Boardwalk.png"
 			}
 		},
 		{
@@ -2776,9 +2776,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/292_Sunpetal Meadow.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/284_Sunpetal Meadow.png"
 			}
 		},
 		{
@@ -2806,9 +2806,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "296",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/296_Veilbrook Basin.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/285_Veilbrook Basin.png"
 			}
 		},
 		{
@@ -2826,9 +2826,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "294",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/294_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/293_Swamp.png"
 			}
 		},
 		{
@@ -2836,9 +2836,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "291",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/291_Plains.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/288_Plains.png"
 			}
 		},
 		{
@@ -2846,9 +2846,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "286",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/286_Island.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/292_Island.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/287_Plains.png"
 			}
 		},
 		{
@@ -2862,13 +2872,13 @@
 			}
 		},
 		{
-			"name": "Plains",
+			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains ",
-			"collector_number": "290",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/290_Plains.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/294_Swamp.png"
 			}
 		},
 		{
@@ -2882,13 +2892,13 @@
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp ",
-			"collector_number": "293",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/293_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/297_Mountain.png"
 			}
 		},
 		{
@@ -2896,19 +2906,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "288",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/288_Mountain.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain ",
-			"collector_number": "287",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/287_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/298_Mountain.png"
 			}
 		},
 		{
@@ -2916,9 +2916,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "281",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/281_Forest.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/299_Forest.png"
 			}
 		},
 		{
@@ -2926,19 +2926,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "282",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/282_Forest.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain ",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/300_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/300_Forest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/296_Mountain.png"
 			}
 		},
 		{
@@ -2956,9 +2956,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "298",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/298_Island.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/290_Island.png"
 			}
 		},
 		{
@@ -2966,9 +2966,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "299",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/299_Island.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/291_Island.png"
 			}
 		},
 		{
@@ -3383,7 +3383,7 @@
 1 Swarmstep Volley
 1 Tide of the Sunseed
 1 The Night Diamond
-[UncommonSlot(4)]
+[UncommonSlot(3)]
 9 Hearthside Bartender
 9 Updraft Angel
 9 Harvest Angel
@@ -3484,7 +3484,7 @@
 9 Deadfall Marsh
 9 Fogfen Crossing
 9 Veilbrook Basin
-[CommonSlot(7)]
+[CommonSlot(9)]
 30 Spud Spectre
 30 Protective Homesteader
 30 Hearthstead Hound
@@ -3590,17 +3590,6 @@
 30 Razorwire Gauntlets
 30 Hearthfire Shard
 30 Bottled Arcfire
-30 Swamp
-30 Plains
-30 Island
-30 Plains
-30 Plains
-30 Swamp
-30 Swamp
-30 Mountain
-30 Mountain
-30 Forest
-30 Forest
 30 Softpaw Lookout
 [WildcardSlot(2)]
 10 Spud Spectre
@@ -3883,17 +3872,6 @@
 10 Fogfen Crossing
 10 Veilbrook Basin
 10 Burgundy Spire
-10 Swamp
-10 Plains
-10 Island
-10 Plains
-10 Plains
-10 Swamp
-10 Swamp
-10 Mountain
-10 Mountain
-10 Forest
-10 Forest
 10 Infusion of Verdant Energy
 10 Elixir of Refined Thought
 10 Potion of Penance
