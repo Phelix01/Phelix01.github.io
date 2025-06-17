@@ -3026,9 +3026,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Potion ",
-			"collector_number": "16",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/16_Potion.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/22_Potion.png"
 			}
 		},
 		{
@@ -3036,9 +3036,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Potion ",
-			"collector_number": "17",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/17_Potion.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/23_Potion.png"
 			}
 		},
 		{
@@ -3046,9 +3046,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Potion ",
-			"collector_number": "18",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/18_Potion.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/24_Potion.png"
 			}
 		},
 		{
@@ -3056,49 +3056,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food ",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/13_Food.png"
-			}
-		},
-		{
-			"name": "Food",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Food ",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/14_Food.png"
-			}
-		},
-		{
-			"name": "Food",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Food ",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/15_Food.png"
-			}
-		},
-		{
-			"name": "Treasure",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/19_Treasure.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/19_Food.png"
 			}
 		},
 		{
-			"name": "Treasure",
+			"name": "Food",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Treasure ",
+			"type": "Token Artifact — Food ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/20_Treasure.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/20_Food.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/21_Food.png"
 			}
 		},
 		{
@@ -3106,9 +3086,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "21",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/21_Treasure.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/25_Treasure.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/26_Treasure.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/27_Treasure.png"
 			}
 		},
 		{
@@ -3136,9 +3136,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Shade ",
-			"collector_number": "12",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/12_Shade.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/18_Shade.png"
 			}
 		},
 		{
@@ -3156,9 +3156,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie Elf Ranger ",
-			"collector_number": "9",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/9_Faerie Elf Ranger.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/11_Faerie Elf Ranger.png"
 			}
 		},
 		{
@@ -3186,9 +3186,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Fungus ",
-			"collector_number": "11",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/11_Fungus.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/17_Fungus.png"
 			}
 		},
 		{
@@ -3206,9 +3206,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast ",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/6_Beast.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/8_Beast.png"
 			}
 		},
 		{
@@ -3216,9 +3216,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast ",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/7_Beast.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/9_Beast.png"
 			}
 		},
 		{
@@ -3226,9 +3226,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Fungus Beast ",
-			"collector_number": "10",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/10_Fungus Beast.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/12_Fungus Beast.png"
 			}
 		},
 		{
@@ -3236,9 +3236,69 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Token Creature — Wolf ",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HTH2-files/img/8_Eithana.png"
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/10_Eithana.png"
+			}
+		},
+		{
+			"name": "Plant Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant Army ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/13_Plant Army.png"
+			}
+		},
+		{
+			"name": "Faerie Rogue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Rogue ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/6_Faerie Rogue.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/7_Zombie.png"
+			}
+		},
+		{
+			"name": "Faerie Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Soldier ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/16_Faerie Soldier.png"
+			}
+		},
+		{
+			"name": "Faerie Rogue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Rogue ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/15_Faerie Rogue.png"
+			}
+		},
+		{
+			"name": "Faerie Berserker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Berserker ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HTH2-files/img/14_Faerie Berserker.png"
 			}
 		}
 	]
