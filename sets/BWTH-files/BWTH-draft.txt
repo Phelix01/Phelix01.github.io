@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/80_Scripted Observer.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/79_Scripted Observer.png"
 			}
 		},
 		{
@@ -321,13 +321,13 @@
 			}
 		},
 		{
-			"name": "Scripted Denial",
+			"name": "Scripted Retraction",
 			"rarity": "common",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/79_Scripted Denial.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/80_Scripted Retraction.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Fungus Druid ",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/201_Pallbearer Myconid.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/202_Pallbearer Myconid.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Mole ",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/198_Moss Burrower.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/199_Moss Burrower.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Elemental Spirit ",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/199_Mossmantle Sprite.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/200_Mossmantle Sprite.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/206_Tearing the Veil.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/207_Tearing the Veil.png"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Planeswalker — Jalessa ",
-			"collector_number": "227",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/227_Jalessa, the Waiting Silence.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/229_Jalessa, the Waiting Silence.png"
 			}
 		},
 		{
@@ -1265,59 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Performer ",
-			"collector_number": "224",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/224_Guildtide Maestro.png"
-			}
-		},
-		{
-			"name": "Shadowed Archivist",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{B}",
-			"type": "Creature — Spirit Advisor ",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/234_Shadowed Archivist.png"
-			}
-		},
-		{
-			"name": "Vineblood Brawler",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}{G}",
-			"type": "Creature — Elemental Berserker ",
-			"collector_number": "242",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/242_Vineblood Brawler.png"
-			}
-		},
-		{
-			"name": "Wreathborne Shepherd",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{W}",
-			"type": "Creature — Elf Cleric ",
-			"collector_number": "245",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/245_Wreathborne Shepherd.png"
-			}
-		},
-		{
-			"name": "Marshal of Wakes",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Spirit Detective ",
-			"collector_number": "229",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/229_Marshal of Wakes.png"
-			}
-		},
-		{
-			"name": "Party Pixie",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
-			"type": "Creature — Faerie Rogue ",
-			"collector_number": "232",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/232_Party Pixie.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/226_Guildtide Maestro.png"
 			}
 		},
 		{
@@ -1325,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Gorgon Shaman ",
-			"collector_number": "223",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/223_Gloomhaze Shaman.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/225_Gloomhaze Shaman.png"
 			}
 		},
 		{
@@ -1335,19 +1285,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Performer ",
-			"collector_number": "222",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/222_Gleaming Fire Dancer.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/224_Gleaming Fire Dancer.png"
 			}
 		},
 		{
-			"name": "Illusion Gardener",
+			"name": "Blessing of Kin",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Elf Mystic ",
-			"collector_number": "225",
+			"type": "Sorcery",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/225_Illusion Gardener.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/216_Blessing of Kin.png"
 			}
 		},
 		{
@@ -1355,9 +1305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/218_Elistair's Dismissal.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/221_Elistair's Dismissal.png"
 			}
 		},
 		{
@@ -1385,19 +1335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{W}{W}",
 			"type": "Instant",
-			"collector_number": "221",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/221_The Gilded Parade.png"
-			}
-		},
-		{
-			"name": "Ettoro, Master Puppeteer",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{G}",
-			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "220",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/220_Ettoro, Master Puppeteer.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/223_The Gilded Parade.png"
 			}
 		},
 		{
@@ -1545,16 +1485,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "231",
+			"collector_number": "232",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BWTH-files/img/231_Parade Masque_back.png"
+					"en": "https://Phelix01.github.io/sets/BWTH-files/img/232_Parade Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/231_Parade Masque_front.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/232_Parade Masque_front.png"
 			}
 		},
 		{
@@ -1562,16 +1502,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "217",
+			"collector_number": "220",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BWTH-files/img/217_Elegance Masque_back.png"
+					"en": "https://Phelix01.github.io/sets/BWTH-files/img/220_Elegance Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/217_Elegance Masque_front.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/220_Elegance Masque_front.png"
 			}
 		},
 		{
@@ -1579,16 +1519,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "219",
+			"collector_number": "222",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BWTH-files/img/219_Entropy Masque_back.png"
+					"en": "https://Phelix01.github.io/sets/BWTH-files/img/222_Entropy Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/219_Entropy Masque_front.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/222_Entropy Masque_front.png"
 			}
 		},
 		{
@@ -1596,16 +1536,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "230",
+			"collector_number": "231",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BWTH-files/img/230_Nirvana Masque_back.png"
+					"en": "https://Phelix01.github.io/sets/BWTH-files/img/231_Nirvana Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/230_Nirvana Masque_front.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/231_Nirvana Masque_front.png"
 			}
 		},
 		{
@@ -1613,16 +1553,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "226",
+			"collector_number": "228",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BWTH-files/img/226_Illusory Masque_back.png"
+					"en": "https://Phelix01.github.io/sets/BWTH-files/img/228_Illusory Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/226_Illusory Masque_front.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/228_Illusory Masque_front.png"
 			}
 		},
 		{
@@ -1680,9 +1620,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Dryad Mystic ",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/204_Rykiki, Hundred-Eyed Bloom.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/205_Rykiki, Hundred-Eyed Bloom.png"
 			}
 		},
 		{
@@ -1690,9 +1630,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Elf Druid ",
-			"collector_number": "228",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/228_Kaela, Bloom Guardian.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/230_Kaela, Bloom Guardian.png"
 			}
 		},
 		{
@@ -1760,9 +1700,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/196_Masqued Vitality.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/197_Masqued Vitality.png"
 			}
 		},
 		{
@@ -2160,9 +2100,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}",
 			"type": "Sorcery",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/203_Roots Beyond Memory.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/204_Roots Beyond Memory.png"
 			}
 		},
 		{
@@ -2330,9 +2270,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "216",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/216_Echoes of the Garden.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/219_Echoes of the Garden.png"
 			}
 		},
 		{
@@ -2406,13 +2346,13 @@
 			}
 		},
 		{
-			"name": "Procession of Petals",
+			"name": "Skittering Renewal",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/233_Procession of Petals.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/234_Skittering Renewal.png"
 			}
 		},
 		{
@@ -2650,9 +2590,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/197_Memoirs of a Rose.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/198_Memoirs of a Rose.png"
 			}
 		},
 		{
@@ -2660,9 +2600,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/202_Resurgent Awakening.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/203_Resurgent Awakening.png"
 			}
 		},
 		{
@@ -2680,19 +2620,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Gorgon Druid ",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/200_Omnya, The Illusive Bloom.png"
-			}
-		},
-		{
-			"name": "Thissara, Mind Weaver",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature — Insect Noble ",
-			"collector_number": "207",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/207_Thissara, Mind Weaver.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/201_Omnya, The Illusive Bloom.png"
 			}
 		},
 		{
@@ -2730,9 +2660,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Hydra ",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/195_Masquebloom Hydra.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/196_Masquebloom Hydra.png"
 			}
 		},
 		{
@@ -2820,9 +2750,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Instant",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/205_Showstopping Strength.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/206_Showstopping Strength.png"
 			}
 		},
 		{
@@ -2890,9 +2820,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/265_Forest.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/266_Forest.png"
 			}
 		},
 		{
@@ -2900,9 +2830,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/282_Plains.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/283_Plains.png"
 			}
 		},
 		{
@@ -2910,9 +2840,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/291_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/292_Swamp.png"
 			}
 		},
 		{
@@ -2920,9 +2850,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "280",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/280_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/278_Mountain.png"
 			}
 		},
 		{
@@ -2930,9 +2860,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "290",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/290_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/293_Swamp.png"
 			}
 		},
 		{
@@ -2940,9 +2870,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "271",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/271_Island.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/273_Island.png"
 			}
 		},
 		{
@@ -2960,39 +2890,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "276",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/276_Mountain.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island ",
-			"collector_number": "270",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/270_Island.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest ",
-			"collector_number": "264",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/264_Forest.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest ",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/267_Forest.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/280_Mountain.png"
 			}
 		},
 		{
@@ -3006,13 +2906,43 @@
 			}
 		},
 		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/267_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/263_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/274_Island.png"
+			}
+		},
+		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "283",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/283_Plains.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/282_Plains.png"
 			}
 		},
 		{
@@ -3020,9 +2950,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "277",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/277_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/279_Mountain.png"
 			}
 		},
 		{
@@ -3050,9 +2980,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "278",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/278_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/276_Mountain.png"
 			}
 		},
 		{
@@ -3060,9 +2990,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "279",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/279_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/277_Mountain.png"
 			}
 		},
 		{
@@ -3070,9 +3000,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "292",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/292_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/290_Swamp.png"
 			}
 		},
 		{
@@ -3080,9 +3010,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "293",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/293_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/291_Swamp.png"
 			}
 		},
 		{
@@ -3090,9 +3020,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "273",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/273_Island.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/270_Island.png"
 			}
 		},
 		{
@@ -3100,9 +3030,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "274",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/274_Island.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/271_Island.png"
 			}
 		},
 		{
@@ -3120,9 +3050,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/263_Forest.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/264_Forest.png"
 			}
 		},
 		{
@@ -3130,9 +3060,79 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BWTH-files/img/266_Forest.png"
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/265_Forest.png"
+			}
+		},
+		{
+			"name": "Vexis the Patient",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Elf Druid ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/242_Vexis the Patient.png"
+			}
+		},
+		{
+			"name": "Leichek, Funeral Baron",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Insect Cleric ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/195_Leichek, Funeral Baron.png"
+			}
+		},
+		{
+			"name": "Wavetide Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/245_Wavetide Dance.png"
+			}
+		},
+		{
+			"name": "Performance Preview",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/233_Performance Preview.png"
+			}
+		},
+		{
+			"name": "Carrion Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Zombie ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/217_Carrion Vessel.png"
+			}
+		},
+		{
+			"name": "Illusion Gardener",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Elf Mystic ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/227_Illusion Gardener.png"
+			}
+		},
+		{
+			"name": "Ceremonious Veterans",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier Performer ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BWTH-files/img/218_Ceremonious Veterans.png"
 			}
 		}
 	]
@@ -3146,7 +3146,6 @@
 2 Spotlight of Madness
 2 Snipsnap, Clown Princess
 2 The Gilded Parade
-2 Ettoro, Master Puppeteer
 2 Sylvia, Thread Whisperer
 2 Mask of Lost Roles
 2 Regal Ballroom
@@ -3161,7 +3160,7 @@
 2 Cynical Showman
 2 Duskcaller Necromancer
 2 Celessa, Maestro's Muse
-2 Procession of Petals
+2 Skittering Renewal
 2 Heartflare Anthem
 2 Brassfire Crescendo
 2 Ashen Soprano
@@ -3189,7 +3188,6 @@
 2 Resurgent Awakening
 2 Verdant Roots
 2 Omnya, The Illusive Bloom
-2 Thissara, Mind Weaver
 2 Thorn-Gilded Matron
 2 Masquebloom Hydra
 2 Lively Celebrationway
@@ -3197,6 +3195,8 @@
 2 Processional Archway
 2 Mystic Arcade
 2 Marionette Blades
+2 Vexis the Patient
+2 Leichek, Funeral Baron
 1 Fyrn, Prima Ballerina
 1 Entry Fee
 1 Syr Nyxil, Night Shepherd
@@ -3217,7 +3217,7 @@
 1 Cyril of the Living Chorus
 1 Aria, Waketide Soloist
 1 Blind Hierophant
-[UncommonSlot(3)]
+[UncommonSlot(4)]
 9 Scrollgarden Steward
 9 Revelry Archivist
 9 Trumpet Herald
@@ -3238,14 +3238,9 @@
 9 Emberjuggle Trickster
 9 Festival Rootwarden
 9 Guildtide Maestro
-9 Shadowed Archivist
-9 Vineblood Brawler
-9 Wreathborne Shepherd
-9 Marshal of Wakes
-9 Party Pixie
 9 Gloomhaze Shaman
 9 Gleaming Fire Dancer
-9 Illusion Gardener
+9 Blessing of Kin
 9 Festival Tightrope Walker
 9 Stage Banner
 9 Playwright's Quill
@@ -3300,7 +3295,12 @@
 9 Alluring Aroma
 9 The Land Remembers
 9 Grove Marauder
-[CommonSlot(7)]
+9 Wavetide Dance
+9 Performance Preview
+9 Carrion Vessel
+9 Illusion Gardener
+9 Ceremonious Veterans
+[CommonSlot(10)]
 30 Festival Banner-Bearer
 30 Confetti Elemental
 30 Rhythm Caller
@@ -3333,7 +3333,7 @@
 30 Sapphireback Spindler
 30 Measured Flourish
 30 Choreographed Dismissal
-30 Scripted Denial
+30 Scripted Retraction
 30 Curtain of Mist
 30 Rehearsed Illusion
 30 Moonlit Waltz
@@ -3433,7 +3433,7 @@
 30 Plains
 30 Forest
 30 Forest
-[WildcardSlot(2)]
+[WildcardSlot(1)]
 10 Festival Banner-Bearer
 10 Confetti Elemental
 10 Rhythm Caller
@@ -3466,7 +3466,7 @@
 10 Sapphireback Spindler
 10 Measured Flourish
 10 Choreographed Dismissal
-10 Scripted Denial
+10 Scripted Retraction
 10 Curtain of Mist
 10 Rehearsed Illusion
 10 Moonlit Waltz
@@ -3561,19 +3561,13 @@
 10 Dusk Rose Shambler
 10 Jalessa, the Waiting Silence
 10 Guildtide Maestro
-10 Shadowed Archivist
-10 Vineblood Brawler
-10 Wreathborne Shepherd
-10 Marshal of Wakes
-10 Party Pixie
 10 Gloomhaze Shaman
 10 Gleaming Fire Dancer
-10 Illusion Gardener
+10 Blessing of Kin
 10 Elistair's Dismissal
 10 Spotlight of Madness
 10 Snipsnap, Clown Princess
 10 The Gilded Parade
-10 Ettoro, Master Puppeteer
 10 Sylvia, Thread Whisperer
 10 Mask of Lost Roles
 10 Chorusdrum
@@ -3658,7 +3652,7 @@
 10 Cynical Showman
 10 Duskcaller Necromancer
 10 Celessa, Maestro's Muse
-10 Procession of Petals
+10 Skittering Renewal
 10 Heartflare Anthem
 10 Brassfire Crescendo
 10 Ashen Soprano
@@ -3686,7 +3680,6 @@
 10 Resurgent Awakening
 10 Verdant Roots
 10 Omnya, The Illusive Bloom
-10 Thissara, Mind Weaver
 10 Thorn-Gilded Matron
 10 Masquebloom Hydra
 10 Lively Celebrationway
@@ -3728,3 +3721,10 @@
 10 Plains
 10 Forest
 10 Forest
+10 Vexis the Patient
+10 Leichek, Funeral Baron
+10 Wavetide Dance
+10 Performance Preview
+10 Carrion Vessel
+10 Illusion Gardener
+10 Ceremonious Veterans
