@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
-  <title>Brimwreath — The Eternal Celebration</title>
-  <link rel="icon" type="image/x-icon" href="/sets/BWTH-files/icon.png">
+  <title>Hearth-Hollow: Root & Remedy</title>
+  <link rel="icon" type="image/x-icon" href="/sets/HTH2-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
   <link rel="stylesheet" href="/resources/card-text.css">
@@ -301,8 +301,8 @@
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/BWTH-files/icon.png">
-				<div class="set-title">Brimwreath — The Eternal Celebration</div><div class="dot"> • </div><a href="/sets/BWTH-files/BWTH-draft.txt" download>Draft</a>
+				<img class="set-logo" src="/sets/HTH2-files/icon.png">
+				<div class="set-title">Hearth-Hollow: Root & Remedy</div><div class="dot"> • </div><a href="/sets/HTH2-files/HTH2-draft.txt" download>Draft</a>
 		<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
 		</div>
 
@@ -359,7 +359,7 @@
 				card_list_arrayified = card_list.cards;
 
 
-			await fetch('/sets/BWTH-files/BWTH-draft.txt')
+			await fetch('/sets/HTH2-files/HTH2-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
@@ -369,7 +369,7 @@
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i].set == "BWTH")
+				if (card_list_arrayified[i].set == "HTH2")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}

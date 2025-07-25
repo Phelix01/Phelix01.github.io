@@ -1,1 +1,2096 @@
-﻿[{"card_name": "Entry Fee", "number": 10, "shape": "normal"}, {"card_name": "Aria, Waketide Soloist", "number": 46, "shape": "normal"}, {"card_name": "Bonky-Fists, The Freakshow", "number": 88, "shape": "normal"}, {"card_name": "Danger Game", "number": 140, "shape": "normal"}, {"card_name": "Dusk Rose Shambler", "number": 183, "shape": "normal"}, {"card_name": "Fyrn, Prima Ballerina", "number": 15, "shape": "normal"}, {"card_name": "Blind Hierophant", "number": 47, "shape": "normal"}, {"card_name": "Enter the Puppet Show", "number": 107, "shape": "normal"}, {"card_name": "Revelry Crasher", "number": 161, "shape": "normal"}, {"card_name": "Rykiki, Hundred-Eyed Bloom", "number": 204, "shape": "normal"}, {"card_name": "Sideshow Trio", "number": 36, "shape": "normal"}, {"card_name": "Cyril of the Living Chorus", "number": 53, "shape": "normal"}, {"card_name": "Syr Nyxil, Night Shepherd", "number": 125, "shape": "normal"}, {"card_name": "Thesprax, Party Animal", "number": 169, "shape": "normal"}, {"card_name": "Showstopping Strength", "number": 205, "shape": "normal"}, {"card_name": "Chorus of Joy", "number": 4, "shape": "normal"}, {"card_name": "Choreographed Denial", "number": 48, "shape": "normal"}, {"card_name": "Celessa, Maestro's Muse", "number": 92, "shape": "normal"}, {"card_name": "Ashen Soprano", "number": 130, "shape": "normal"}, {"card_name": "Masquebloom Hydra", "number": 195, "shape": "normal"}, {"card_name": "Finale Swan", "number": 14, "shape": "leveler"}, {"card_name": "Clear the Room", "number": 50, "shape": "normal"}, {"card_name": "Chorus of Woe", "number": 93, "shape": "normal"}, {"card_name": "Brassfire Crescendo", "number": 132, "shape": "normal"}, {"card_name": "Memoirs of a Rose", "number": 197, "shape": "normal"}, {"card_name": "Intermission", "number": 17, "shape": "normal"}, {"card_name": "Elistair, Esteemed Director", "number": 55, "shape": "normal"}, {"card_name": "Curtainfall", "number": 99, "shape": "normal"}, {"card_name": "Coffers to Coffins", "number": 136, "shape": "normal"}, {"card_name": "Omnya, The Illusive Bloom", "number": 200, "shape": "normal"}, {"card_name": "Ivory Adjudicator", "number": 18, "shape": "normal"}, {"card_name": "Ephemeral Exchange", "number": 56, "shape": "normal"}, {"card_name": "Cynical Showman", "number": 100, "shape": "normal"}, {"card_name": "Heartflare Anthem", "number": 152, "shape": "normal"}, {"card_name": "Resurgent Awakening", "number": 202, "shape": "normal"}, {"card_name": "Only One Shall Wake", "number": 24, "shape": "normal"}, {"card_name": "Leading Role Vulpine", "number": 61, "shape": "normal"}, {"card_name": "Duskcaller Necromancer", "number": 105, "shape": "normal"}, {"card_name": "Radiant Ovationeer", "number": 159, "shape": "normal"}, {"card_name": "Tearing the Veil", "number": 206, "shape": "normal"}, {"card_name": "Radiant Parade", "number": 30, "shape": "normal"}, {"card_name": "Royal Garden Wisp", "number": 77, "shape": "normal"}, {"card_name": "Evaron, Besotted Maestro", "number": 108, "shape": "normal"}, {"card_name": "Step Right Up", "number": 165, "shape": "normal"}, {"card_name": "Thissara, Mind Weaver", "number": 207, "shape": "normal"}, {"card_name": "Renthilda, Lead Lutenist", "number": 31, "shape": "normal"}, {"card_name": "Silken Kelpie", "number": 82, "shape": "normal"}, {"card_name": "Final Audition", "number": 111, "shape": "normal"}, {"card_name": "Untamed Howler", "number": 170, "shape": "normal"}, {"card_name": "Thorn-Gilded Matron", "number": 208, "shape": "normal"}, {"card_name": "Reverent Duelist", "number": 33, "shape": "normal"}, {"card_name": "Symphonic Bloom", "number": 84, "shape": "normal"}, {"card_name": "Life From Decay", "number": 117, "shape": "normal"}, {"card_name": "Voltspasm Arsonist", "number": 171, "shape": "normal"}, {"card_name": "Verdant Roots", "number": 212, "shape": "normal"}, {"card_name": "Director's Will", "number": 7, "shape": "normal"}, {"card_name": "Aerial Windcaster", "number": 45, "shape": "leveler"}, {"card_name": "Beyond the Stage", "number": 87, "shape": "normal"}, {"card_name": "Cinderstep Parade", "number": 135, "shape": "normal"}, {"card_name": "Alluring Aroma", "number": 173, "shape": "normal"}, {"card_name": "Exhibition Duelist", "number": 11, "shape": "normal"}, {"card_name": "Covert Analyst", "number": 51, "shape": "normal"}, {"card_name": "Cadaverous Nimblist", "number": 90, "shape": "normal"}, {"card_name": "The Crowd Roars", "number": 139, "shape": "normal"}, {"card_name": "Bannerhorn Charger", "number": 174, "shape": "normal"}, {"card_name": "Festival Courier", "number": 13, "shape": "normal"}, {"card_name": "Fleeting Insight", "number": 58, "shape": "normal"}, {"card_name": "Crumbling Facade", "number": 95, "shape": "normal"}, {"card_name": "Emberjuggle Trickster", "number": 143, "shape": "normal"}, {"card_name": "Carnival Vinecrawler", "number": 181, "shape": "normal"}, {"card_name": "Inconspicuous Inspector", "number": 16, "shape": "normal"}, {"card_name": "Flow Form", "number": 59, "shape": "normal"}, {"card_name": "Curtain Call Catastrophe", "number": 97, "shape": "normal"}, {"card_name": "Festival Drake", "number": 146, "shape": "normal"}, {"card_name": "Festival Rootwarden", "number": 186, "shape": "normal"}, {"card_name": "March of the Halo", "number": 21, "shape": "normal"}, {"card_name": "Lumina Jelly", "number": 62, "shape": "normal"}, {"card_name": "Dress the Stage", "number": 104, "shape": "normal"}, {"card_name": "Festival Fever", "number": 147, "shape": "normal"}, {"card_name": "Garland-Vines", "number": 191, "shape": "normal"}, {"card_name": "Moonblade Aspirant", "number": 23, "shape": "normal"}, {"card_name": "Masqued Echomage", "number": 64, "shape": "normal"}, {"card_name": "Eye of the Stage", "number": 109, "shape": "normal"}, {"card_name": "Furnace Dancer", "number": 151, "shape": "normal"}, {"card_name": "Gravemarch Myconid", "number": 192, "shape": "normal"}, {"card_name": "Poised Retribution", "number": 29, "shape": "normal"}, {"card_name": "Misty Step", "number": 68, "shape": "normal"}, {"card_name": "Gleam of Despair", "number": 112, "shape": "normal"}, {"card_name": "Party Favors", "number": 156, "shape": "normal"}, {"card_name": "Grove Marauder", "number": 193, "shape": "normal"}, {"card_name": "Revelry Archivist", "number": 32, "shape": "leveler"}, {"card_name": "Momentary Exhibition", "number": 69, "shape": "normal"}, {"card_name": "Graveside Minstrel", "number": 113, "shape": "normal"}, {"card_name": "Party Virtuoso", "number": 157, "shape": "normal"}, {"card_name": "The Land Remembers", "number": 194, "shape": "normal"}, {"card_name": "Scrollgarden Steward", "number": 35, "shape": "leveler"}, {"card_name": "Motley Masquerade", "number": 71, "shape": "normal"}, {"card_name": "Marrow Dancer", "number": 118, "shape": "normal"}, {"card_name": "Radiant Pyromancer", "number": 160, "shape": "normal"}, {"card_name": "Roots Beyond Memory", "number": 203, "shape": "normal"}, {"card_name": "Stolen Visage", "number": 40, "shape": "normal"}, {"card_name": "Rootkarma Colossus", "number": 76, "shape": "normal"}, {"card_name": "Punchline Predator", "number": 122, "shape": "normal"}, {"card_name": "Revelry in Twilight", "number": 162, "shape": "normal"}, {"card_name": "Twilight Mantle", "number": 210, "shape": "normal"}, {"card_name": "Transpuppify", "number": 41, "shape": "normal"}, {"card_name": "Shifting Facade", "number": 81, "shape": "normal"}, {"card_name": "Ventriloquist's Vice", "number": 128, "shape": "normal"}, {"card_name": "Suffocating Phantom", "number": 168, "shape": "normal"}, {"card_name": "Verdant Kin Caller", "number": 211, "shape": "normal"}, {"card_name": "Trumpet Herald", "number": 42, "shape": "normal"}, {"card_name": "Unforeseen Current", "number": 85, "shape": "normal"}, {"card_name": "VIP Entrance", "number": 129, "shape": "normal"}, {"card_name": "Wicked Whirl", "number": 172, "shape": "normal"}, {"card_name": "Wildsong Blessing", "number": 215, "shape": "normal"}, {"card_name": "Ceremonious Knight", "number": 1, "shape": "leveler"}, {"card_name": "Aegiswing Arbiter", "number": 44, "shape": "normal"}, {"card_name": "Cackling Comeback", "number": 89, "shape": "normal"}, {"card_name": "Banner-Whirl Acrobat", "number": 131, "shape": "normal"}, {"card_name": "Beneath the Canopy", "number": 175, "shape": "normal"}, {"card_name": "Choreographed Sentry", "number": 2, "shape": "leveler"}, {"card_name": "Choreographed Dismissal", "number": 49, "shape": "normal"}, {"card_name": "Catacomb Marionette", "number": 91, "shape": "normal"}, {"card_name": "Brimwreath Greeter", "number": 133, "shape": "normal"}, {"card_name": "Bloom-Strider", "number": 176, "shape": "normal"}, {"card_name": "Choreographed Strike", "number": 3, "shape": "normal"}, {"card_name": "Curtain of Mist", "number": 52, "shape": "normal"}, {"card_name": "Confetti Collector", "number": 94, "shape": "normal"}, {"card_name": "Charpyre Scamp", "number": 134, "shape": "normal"}, {"card_name": "Bloompath Dancer", "number": 177, "shape": "normal"}, {"card_name": "Confetti Elemental", "number": 5, "shape": "normal"}, {"card_name": "Doomed to Party", "number": 54, "shape": "normal"}, {"card_name": "Cryptmask Swarmer", "number": 96, "shape": "normal"}, {"card_name": "Crackfire Devil", "number": 137, "shape": "normal"}, {"card_name": "Brimwreath Trailblazer", "number": 178, "shape": "normal"}, {"card_name": "Contagious Laughter", "number": 6, "shape": "normal"}, {"card_name": "Ethereal Flutist", "number": 57, "shape": "leveler"}, {"card_name": "Curtain Wailer", "number": 98, "shape": "normal"}, {"card_name": "Crimson Welcoming", "number": 138, "shape": "normal"}, {"card_name": "Burial Rites", "number": 179, "shape": "normal"}, {"card_name": "Dwarven Flash Mob", "number": 8, "shape": "normal"}, {"card_name": "Gildscroll Playwright", "number": 60, "shape": "normal"}, {"card_name": "Deadly Encore", "number": 101, "shape": "normal"}, {"card_name": "Daredevil Harlequin", "number": 141, "shape": "normal"}, {"card_name": "Canopy Vinedancer", "number": 180, "shape": "normal"}, {"card_name": "Encore of Triumph", "number": 9, "shape": "normal"}, {"card_name": "Maskscroll Familiar", "number": 63, "shape": "normal"}, {"card_name": "Deadly Waltz", "number": 102, "shape": "normal"}, {"card_name": "Ember Harrier", "number": 142, "shape": "normal"}, {"card_name": "Cryptmask Scout", "number": 182, "shape": "normal"}, {"card_name": "Festival Banner-Bearer", "number": 12, "shape": "normal"}, {"card_name": "Measured Flourish", "number": 65, "shape": "normal"}, {"card_name": "Dramatic Interlude", "number": 103, "shape": "normal"}, {"card_name": "Explosive Ovation", "number": 144, "shape": "normal"}, {"card_name": "Emeraldback Spindler", "number": 184, "shape": "normal"}, {"card_name": "Lanternlight Charge", "number": 19, "shape": "normal"}, {"card_name": "Mirrorleaf Shaper", "number": 66, "shape": "normal"}, {"card_name": "Duskcaller Undertaker", "number": 106, "shape": "normal"}, {"card_name": "Fatal Banter", "number": 145, "shape": "normal"}, {"card_name": "Eulogist's Puppet", "number": 185, "shape": "normal"}, {"card_name": "Luminary Protector", "number": 20, "shape": "normal"}, {"card_name": "Mistveil Echo", "number": 67, "shape": "normal"}, {"card_name": "Faceless Truth", "number": 110, "shape": "normal"}, {"card_name": "Festival Flamewhirl", "number": 148, "shape": "normal"}, {"card_name": "Flourish", "number": 187, "shape": "normal"}, {"card_name": "Moment of Benediction", "number": 22, "shape": "normal"}, {"card_name": "Moonlit Waltz", "number": 70, "shape": "normal"}, {"card_name": "Helltongue Flame Eater", "number": 114, "shape": "normal"}, {"card_name": "Firebreather's Glory", "number": 149, "shape": "normal"}, {"card_name": "Funeral Bloom", "number": 188, "shape": "normal"}, {"card_name": "Parade Guide", "number": 25, "shape": "normal"}, {"card_name": "Petal Phantasm", "number": 72, "shape": "normal"}, {"card_name": "Jubilant Harlequin", "number": 115, "shape": "normal"}, {"card_name": "Firegag Jester", "number": 150, "shape": "normal"}, {"card_name": "Funeral Harpist", "number": 189, "shape": "normal"}, {"card_name": "Party Foul", "number": 26, "shape": "normal"}, {"card_name": "Petalveiled Trickster", "number": 73, "shape": "normal"}, {"card_name": "Last Act Heckler", "number": 116, "shape": "normal"}, {"card_name": "Hellish Harmony", "number": 153, "shape": "normal"}, {"card_name": "Garden Lasher", "number": 190, "shape": "normal"}, {"card_name": "Pearlback Spindler", "number": 27, "shape": "normal"}, {"card_name": "Poised for Greatness", "number": 74, "shape": "normal"}, {"card_name": "Nightmask Omen", "number": 119, "shape": "normal"}, {"card_name": "Lanternblaze Chanter", "number": 154, "shape": "normal"}, {"card_name": "Masqued Vitality", "number": 196, "shape": "normal"}, {"card_name": "Phantom Ball", "number": 28, "shape": "normal"}, {"card_name": "Rehearsed Illusion", "number": 75, "shape": "normal"}, {"card_name": "Onyxback Spindler", "number": 120, "shape": "normal"}, {"card_name": "Parade Vanguard", "number": 155, "shape": "normal"}, {"card_name": "Moss Burrower", "number": 198, "shape": "normal"}, {"card_name": "Rhythm Caller", "number": 34, "shape": "normal"}, {"card_name": "Sapphireback Spindler", "number": 78, "shape": "normal"}, {"card_name": "Punchline Curse", "number": 121, "shape": "normal"}, {"card_name": "Predator's Masquerade", "number": 158, "shape": "normal"}, {"card_name": "Mossmantle Sprite", "number": 199, "shape": "normal"}, {"card_name": "Silk Seamstress", "number": 37, "shape": "normal"}, {"card_name": "Scripted Denial", "number": 79, "shape": "normal"}, {"card_name": "Stingveil", "number": 123, "shape": "normal"}, {"card_name": "Rubyback Spindler", "number": 163, "shape": "normal"}, {"card_name": "Pallbearer Myconid", "number": 201, "shape": "normal"}, {"card_name": "Stage-Trained Familiar", "number": 38, "shape": "normal"}, {"card_name": "Scripted Observer", "number": 80, "shape": "leveler"}, {"card_name": "Stonegaze Petrifex", "number": 124, "shape": "normal"}, {"card_name": "Stage-Tumble Ruffian", "number": 164, "shape": "normal"}, {"card_name": "Trailblazer's Resolve", "number": 209, "shape": "normal"}, {"card_name": "Stoic Masquerade", "number": 39, "shape": "normal"}, {"card_name": "Sproutveil Familiar", "number": 83, "shape": "normal"}, {"card_name": "Twist Ending", "number": 126, "shape": "normal"}, {"card_name": "Stike the Stage", "number": 166, "shape": "normal"}, {"card_name": "Wild Improvisation", "number": 213, "shape": "normal"}, {"card_name": "Vulpine Grace-Dancer", "number": 43, "shape": "leveler"}, {"card_name": "Whispering Wisteria", "number": 86, "shape": "normal"}, {"card_name": "Twisted Theater", "number": 127, "shape": "normal"}, {"card_name": "Sudden Curtain Call", "number": 167, "shape": "normal"}, {"card_name": "Wildblood Unity", "number": 214, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Virellis, Elegance Conductor", "number": 244, "shape": "leveler"}, {"card_name": "Shadowed Archivist", "number": 234, "shape": "normal"}, {"card_name": "Varnok, Grin of the Gallows", "number": 241, "shape": "normal"}, {"card_name": "Vineblood Brawler", "number": 242, "shape": "normal"}, {"card_name": "Wreathborne Shepherd", "number": 245, "shape": "normal"}, {"card_name": "Elistair's Dismissal", "number": 218, "shape": "normal"}, {"card_name": "e"}, {"card_name": "Snipsnap, Clown Princess", "number": 235, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Virelle, Tethered Swan", "number": 243, "shape": "leveler"}, {"card_name": "e"}, {"card_name": "Spotlight of Madness", "number": 236, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Elegance Masque", "number": 217, "shape": "transform double faced"}, {"card_name": "e"}, {"card_name": "Entropy Masque", "number": 219, "shape": "transform double faced"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Guildtide Maestro", "number": 224, "shape": "leveler"}, {"card_name": "e"}, {"card_name": "Stagebreaker Jack", "number": 237, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Marshal of Wakes", "number": 229, "shape": "normal"}, {"card_name": "Party Pixie", "number": 232, "shape": "normal"}, {"card_name": "Jalessa, the Waiting Silence", "number": 227, "shape": "planeswalker"}, {"card_name": "Torvin Evermarch, Grand Marshal", "number": 239, "shape": "normal"}, {"card_name": "Kaela, Bloom Guardian", "number": 228, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Ettoro, Master Puppeteer", "number": 220, "shape": "normal"}, {"card_name": "The Gilded Parade", "number": 221, "shape": "normal"}, {"card_name": "Echoes of the Garden", "number": 216, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Procession of Petals", "number": 233, "shape": "normal"}, {"card_name": "Valor\u00e9, Starborn Duelist", "number": 240, "shape": "normal"}, {"card_name": "Sylvia, Thread Whisperer", "number": 238, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Gloomhaze Shaman", "number": 223, "shape": "normal"}, {"card_name": "Gleaming Fire Dancer", "number": 222, "shape": "normal"}, {"card_name": "Illusion Gardener", "number": 225, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Nirvana Masque", "number": 230, "shape": "transform double faced"}, {"card_name": "Parade Masque", "number": 231, "shape": "transform double faced"}, {"card_name": "Illusory Masque", "number": 226, "shape": "transform double faced"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Hollow Host of Limbs", "number": 252, "shape": "normal"}, {"card_name": "Maestro's Organ", "number": 254, "shape": "normal"}, {"card_name": "Marionette Blades", "number": 255, "shape": "normal"}, {"card_name": "Mask of Lost Roles", "number": 256, "shape": "normal"}, {"card_name": "Stage Crook", "number": 260, "shape": "normal"}, {"card_name": "Festival Float", "number": 249, "shape": "normal"}, {"card_name": "Festival Tightrope Walker", "number": 250, "shape": "normal"}, {"card_name": "Phantom's Roost", "number": 257, "shape": "normal"}, {"card_name": "Playwright's Quill", "number": 258, "shape": "normal"}, {"card_name": "Stage Banner", "number": 259, "shape": "normal"}, {"card_name": "Chorusdrum", "number": 246, "shape": "normal"}, {"card_name": "Delayed Firework", "number": 247, "shape": "normal"}, {"card_name": "Drystraw Puppet", "number": 248, "shape": "normal"}, {"card_name": "Grand Opening Scissors", "number": 251, "shape": "normal"}, {"card_name": "Lost Parade Torch", "number": 253, "shape": "normal"}, {"card_name": "Waning Hour Mask", "number": 261, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Regal Ballroom", "number": 289, "shape": "normal"}, {"card_name": "e"}, {"card_name": "Raving Carnival Tent", "number": 288, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Processional Archway", "number": 287, "shape": "normal"}, {"card_name": "Lively Celebrationway", "number": 275, "shape": "normal"}, {"card_name": "Mystic Arcade", "number": 281, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Forest", "number": 265, "shape": "normal"}, {"card_name": "Plains", "number": 282, "shape": "normal"}, {"card_name": "Swamp", "number": 291, "shape": "normal"}, {"card_name": "Mountain", "number": 280, "shape": "normal"}, {"card_name": "Swamp", "number": 290, "shape": "normal"}, {"card_name": "Island", "number": 271, "shape": "normal"}, {"card_name": "Swamp", "number": 294, "shape": "normal"}, {"card_name": "Mountain", "number": 276, "shape": "normal"}, {"card_name": "Island", "number": 270, "shape": "normal"}, {"card_name": "Forest", "number": 264, "shape": "normal"}, {"card_name": "Forest", "number": 267, "shape": "normal"}, {"card_name": "Island", "number": 272, "shape": "normal"}, {"card_name": "Plains", "number": 283, "shape": "normal"}, {"card_name": "Mountain", "number": 277, "shape": "normal"}, {"card_name": "Plains", "number": 284, "shape": "normal"}, {"card_name": "Plains", "number": 285, "shape": "normal"}, {"card_name": "Mountain", "number": 278, "shape": "normal"}, {"card_name": "Mountain", "number": 279, "shape": "normal"}, {"card_name": "Swamp", "number": 292, "shape": "normal"}, {"card_name": "Swamp", "number": 293, "shape": "normal"}, {"card_name": "Island", "number": 273, "shape": "normal"}, {"card_name": "Island", "number": 274, "shape": "normal"}, {"card_name": "Plains", "number": 286, "shape": "normal"}, {"card_name": "Forest", "number": 263, "shape": "normal"}, {"card_name": "Forest", "number": 266, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Mask", "number": 14, "shape": "token"}, {"card_name": "Puppet", "number": 15, "shape": "token"}, {"card_name": "Puppet", "number": 16, "shape": "token"}, {"card_name": "Performer", "number": 1, "shape": "token"}, {"card_name": "Spirit", "number": 2, "shape": "token"}, {"card_name": "Illusion", "number": 3, "shape": "token"}, {"card_name": "Insect", "number": 4, "shape": "token"}, {"card_name": "Performer", "number": 5, "shape": "token"}, {"card_name": "Elemental", "number": 6, "shape": "token"}, {"card_name": "Insect", "number": 7, "shape": "token"}, {"card_name": "Plant", "number": 8, "shape": "token"}, {"card_name": "Plant Illusion", "number": 9, "shape": "token"}, {"card_name": "Saproling", "number": 10, "shape": "token"}, {"card_name": "Devil Performer", "number": 11, "shape": "token"}, {"card_name": "Illusion", "number": 12, "shape": "token"}, {"card_name": "Plant Insect", "number": 13, "shape": "token"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}]
+﻿[
+    {
+        "card_name": "Entry Fee",
+        "number": 10,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Aria, Waketide Soloist",
+        "number": 46,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Bonky-Fists, The Freakshow",
+        "number": 88,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Danger Game",
+        "number": 140,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Dusk Rose Shambler",
+        "number": 183,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Fyrn, Prima Ballerina",
+        "number": 15,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Blind Hierophant",
+        "number": 47,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Enter the Puppet Show",
+        "number": 107,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Revelry Crasher",
+        "number": 161,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Rykiki, Hundred-Eyed Bloom",
+        "number": 204,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Sideshow Trio",
+        "number": 36,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Cyril of the Living Chorus",
+        "number": 53,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Syr Nyxil, Night Shepherd",
+        "number": 125,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Thesprax, Party Animal",
+        "number": 169,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Showstopping Strength",
+        "number": 205,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Chorus of Joy",
+        "number": 4,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Choreographed Denial",
+        "number": 48,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Celessa, Maestro's Muse",
+        "number": 92,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Ashen Soprano",
+        "number": 130,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Masquebloom Hydra",
+        "number": 195,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Finale Swan",
+        "number": 14,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Clear the Room",
+        "number": 50,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Chorus of Woe",
+        "number": 93,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Brassfire Crescendo",
+        "number": 132,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Memoirs of a Rose",
+        "number": 197,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Intermission",
+        "number": 17,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Elistair, Esteemed Director",
+        "number": 55,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Curtainfall",
+        "number": 99,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Coffers to Coffins",
+        "number": 136,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Omnya, The Illusive Bloom",
+        "number": 200,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Ivory Adjudicator",
+        "number": 18,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Ephemeral Exchange",
+        "number": 56,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Cynical Showman",
+        "number": 100,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Heartflare Anthem",
+        "number": 152,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Resurgent Awakening",
+        "number": 202,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Only One Shall Wake",
+        "number": 24,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Leading Role Vulpine",
+        "number": 61,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Duskcaller Necromancer",
+        "number": 105,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Radiant Ovationeer",
+        "number": 159,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Tearing the Veil",
+        "number": 206,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Radiant Parade",
+        "number": 30,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Royal Garden Wisp",
+        "number": 77,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Evaron, Besotted Maestro",
+        "number": 108,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Step Right Up",
+        "number": 165,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Thissara, Mind Weaver",
+        "number": 207,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Renthilda, Lead Lutenist",
+        "number": 31,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Silken Kelpie",
+        "number": 82,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Final Audition",
+        "number": 111,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Untamed Howler",
+        "number": 170,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Thorn-Gilded Matron",
+        "number": 208,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Reverent Duelist",
+        "number": 33,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Symphonic Bloom",
+        "number": 84,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Life From Decay",
+        "number": 117,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Voltspasm Arsonist",
+        "number": 171,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Verdant Roots",
+        "number": 212,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Director's Will",
+        "number": 7,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Aerial Windcaster",
+        "number": 45,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Beyond the Stage",
+        "number": 87,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Cinderstep Parade",
+        "number": 135,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Alluring Aroma",
+        "number": 173,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Exhibition Duelist",
+        "number": 11,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Covert Analyst",
+        "number": 51,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Cadaverous Nimblist",
+        "number": 90,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "The Crowd Roars",
+        "number": 139,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Bannerhorn Charger",
+        "number": 174,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Festival Courier",
+        "number": 13,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Fleeting Insight",
+        "number": 58,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Crumbling Facade",
+        "number": 95,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Emberjuggle Trickster",
+        "number": 143,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Carnival Vinecrawler",
+        "number": 181,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Inconspicuous Inspector",
+        "number": 16,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Flow Form",
+        "number": 59,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Curtain Call Catastrophe",
+        "number": 97,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Festival Drake",
+        "number": 146,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Festival Rootwarden",
+        "number": 186,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "March of the Halo",
+        "number": 21,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Lumina Jelly",
+        "number": 62,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Dress the Stage",
+        "number": 104,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Festival Fever",
+        "number": 147,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Garland-Vines",
+        "number": 191,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Moonblade Aspirant",
+        "number": 23,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Masqued Echomage",
+        "number": 64,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Eye of the Stage",
+        "number": 109,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Furnace Dancer",
+        "number": 151,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Gravemarch Myconid",
+        "number": 192,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Poised Retribution",
+        "number": 29,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Misty Step",
+        "number": 68,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Gleam of Despair",
+        "number": 112,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Party Favors",
+        "number": 156,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Grove Marauder",
+        "number": 193,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Revelry Archivist",
+        "number": 32,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Momentary Exhibition",
+        "number": 69,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Graveside Minstrel",
+        "number": 113,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Party Virtuoso",
+        "number": 157,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "The Land Remembers",
+        "number": 194,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Scrollgarden Steward",
+        "number": 35,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Motley Masquerade",
+        "number": 71,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Marrow Dancer",
+        "number": 118,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Radiant Pyromancer",
+        "number": 160,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Roots Beyond Memory",
+        "number": 203,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stolen Visage",
+        "number": 40,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Rootkarma Colossus",
+        "number": 76,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Punchline Predator",
+        "number": 122,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Revelry in Twilight",
+        "number": 162,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Twilight Mantle",
+        "number": 210,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Transpuppify",
+        "number": 41,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Shifting Facade",
+        "number": 81,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Ventriloquist's Vice",
+        "number": 128,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Suffocating Phantom",
+        "number": 168,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Verdant Kin Caller",
+        "number": 211,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Trumpet Herald",
+        "number": 42,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Unforeseen Current",
+        "number": 85,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "VIP Entrance",
+        "number": 129,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Wicked Whirl",
+        "number": 172,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Wildsong Blessing",
+        "number": 215,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Ceremonious Knight",
+        "number": 1,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Aegiswing Arbiter",
+        "number": 44,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Cackling Comeback",
+        "number": 89,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Banner-Whirl Acrobat",
+        "number": 131,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Beneath the Canopy",
+        "number": 175,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Choreographed Sentry",
+        "number": 2,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Choreographed Dismissal",
+        "number": 49,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Catacomb Marionette",
+        "number": 91,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Brimwreath Greeter",
+        "number": 133,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Bloom-Strider",
+        "number": 176,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Choreographed Strike",
+        "number": 3,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Curtain of Mist",
+        "number": 52,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Confetti Collector",
+        "number": 94,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Charpyre Scamp",
+        "number": 134,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Bloompath Dancer",
+        "number": 177,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Confetti Elemental",
+        "number": 5,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Doomed to Party",
+        "number": 54,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Cryptmask Swarmer",
+        "number": 96,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Crackfire Devil",
+        "number": 137,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Brimwreath Trailblazer",
+        "number": 178,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Contagious Laughter",
+        "number": 6,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Ethereal Flutist",
+        "number": 57,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Curtain Wailer",
+        "number": 98,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Crimson Welcoming",
+        "number": 138,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Burial Rites",
+        "number": 179,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Dwarven Flash Mob",
+        "number": 8,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Gildscroll Playwright",
+        "number": 60,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Deadly Encore",
+        "number": 101,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Daredevil Harlequin",
+        "number": 141,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Canopy Vinedancer",
+        "number": 180,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Encore of Triumph",
+        "number": 9,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Maskscroll Familiar",
+        "number": 63,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Deadly Waltz",
+        "number": 102,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Ember Harrier",
+        "number": 142,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Cryptmask Scout",
+        "number": 182,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Festival Banner-Bearer",
+        "number": 12,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Measured Flourish",
+        "number": 65,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Dramatic Interlude",
+        "number": 103,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Explosive Ovation",
+        "number": 144,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Emeraldback Spindler",
+        "number": 184,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Lanternlight Charge",
+        "number": 19,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mirrorleaf Shaper",
+        "number": 66,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Duskcaller Undertaker",
+        "number": 106,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Fatal Banter",
+        "number": 145,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Eulogist's Puppet",
+        "number": 185,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Luminary Protector",
+        "number": 20,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mistveil Echo",
+        "number": 67,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Faceless Truth",
+        "number": 110,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Festival Flamewhirl",
+        "number": 148,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Flourish",
+        "number": 187,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Moment of Benediction",
+        "number": 22,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Moonlit Waltz",
+        "number": 70,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Helltongue Flame Eater",
+        "number": 114,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Firebreather's Glory",
+        "number": 149,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Funeral Bloom",
+        "number": 188,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Parade Guide",
+        "number": 25,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Petal Phantasm",
+        "number": 72,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Jubilant Harlequin",
+        "number": 115,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Firegag Jester",
+        "number": 150,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Funeral Harpist",
+        "number": 189,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Party Foul",
+        "number": 26,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Petalveiled Trickster",
+        "number": 73,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Last Act Heckler",
+        "number": 116,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Hellish Harmony",
+        "number": 153,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Garden Lasher",
+        "number": 190,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Pearlback Spindler",
+        "number": 27,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Poised for Greatness",
+        "number": 74,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Nightmask Omen",
+        "number": 119,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Lanternblaze Chanter",
+        "number": 154,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Masqued Vitality",
+        "number": 196,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Phantom Ball",
+        "number": 28,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Rehearsed Illusion",
+        "number": 75,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Onyxback Spindler",
+        "number": 120,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Parade Vanguard",
+        "number": 155,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Moss Burrower",
+        "number": 198,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Rhythm Caller",
+        "number": 34,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Sapphireback Spindler",
+        "number": 78,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Punchline Curse",
+        "number": 121,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Predator's Masquerade",
+        "number": 158,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mossmantle Sprite",
+        "number": 199,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Silk Seamstress",
+        "number": 37,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Scripted Denial",
+        "number": 79,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stingveil",
+        "number": 123,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Rubyback Spindler",
+        "number": 163,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Pallbearer Myconid",
+        "number": 201,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stage-Trained Familiar",
+        "number": 38,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Scripted Observer",
+        "number": 80,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stonegaze Petrifex",
+        "number": 124,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stage-Tumble Ruffian",
+        "number": 164,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Trailblazer's Resolve",
+        "number": 209,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stoic Masquerade",
+        "number": 39,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Sproutveil Familiar",
+        "number": 83,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Twist Ending",
+        "number": 126,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stike the Stage",
+        "number": 166,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Wild Improvisation",
+        "number": 213,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Vulpine Grace-Dancer",
+        "number": 43,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Whispering Wisteria",
+        "number": 86,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Twisted Theater",
+        "number": 127,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Sudden Curtain Call",
+        "number": 167,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Wildblood Unity",
+        "number": 214,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Virellis, Elegance Conductor",
+        "number": 244,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Shadowed Archivist",
+        "number": 234,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Varnok, Grin of the Gallows",
+        "number": 241,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Vineblood Brawler",
+        "number": 242,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Wreathborne Shepherd",
+        "number": 245,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Elistair's Dismissal",
+        "number": 218,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Snipsnap, Clown Princess",
+        "number": 235,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Virelle, Tethered Swan",
+        "number": 243,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spotlight of Madness",
+        "number": 236,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Elegance Masque",
+        "number": 217,
+        "shape": "transform double faced",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Entropy Masque",
+        "number": 219,
+        "shape": "transform double faced",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Guildtide Maestro",
+        "number": 224,
+        "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Stagebreaker Jack",
+        "number": 237,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Marshal of Wakes",
+        "number": 229,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Party Pixie",
+        "number": 232,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Jalessa, the Waiting Silence",
+        "number": 227,
+        "shape": "planeswalker",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Torvin Evermarch, Grand Marshal",
+        "number": 239,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Kaela, Bloom Guardian",
+        "number": 228,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ettoro, Master Puppeteer",
+        "number": 220,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "The Gilded Parade",
+        "number": 221,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Echoes of the Garden",
+        "number": 216,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Procession of Petals",
+        "number": 233,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Valor\u00e9, Starborn Duelist",
+        "number": 240,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Sylvia, Thread Whisperer",
+        "number": 238,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gloomhaze Shaman",
+        "number": 223,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Gleaming Fire Dancer",
+        "number": 222,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Illusion Gardener",
+        "number": 225,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nirvana Masque",
+        "number": 230,
+        "shape": "transform double faced",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Parade Masque",
+        "number": 231,
+        "shape": "transform double faced",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Illusory Masque",
+        "number": 226,
+        "shape": "transform double faced",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Hollow Host of Limbs",
+        "number": 252,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Maestro's Organ",
+        "number": 254,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Marionette Blades",
+        "number": 255,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mask of Lost Roles",
+        "number": 256,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stage Crook",
+        "number": 260,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Festival Float",
+        "number": 249,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Festival Tightrope Walker",
+        "number": 250,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Phantom's Roost",
+        "number": 257,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Playwright's Quill",
+        "number": 258,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Stage Banner",
+        "number": 259,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Chorusdrum",
+        "number": 246,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Delayed Firework",
+        "number": 247,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Drystraw Puppet",
+        "number": 248,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Grand Opening Scissors",
+        "number": 251,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Lost Parade Torch",
+        "number": 253,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Waning Hour Mask",
+        "number": 261,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Regal Ballroom",
+        "number": 289,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Raving Carnival Tent",
+        "number": 288,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Processional Archway",
+        "number": 287,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Lively Celebrationway",
+        "number": 275,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mystic Arcade",
+        "number": 281,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Gravehall Dais",
+        "number": 268,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Improv Stage",
+        "number": 269,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Abandoned Stage",
+        "number": 262,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest",
+        "number": 265,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Plains",
+        "number": 282,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 291,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 280,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 290,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Island",
+        "number": 271,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 294,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 276,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Island",
+        "number": 270,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Forest",
+        "number": 264,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Forest",
+        "number": 267,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Island",
+        "number": 272,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Plains",
+        "number": 283,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 277,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Plains",
+        "number": 284,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Plains",
+        "number": 285,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 278,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 279,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 292,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 293,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Island",
+        "number": 273,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Island",
+        "number": 274,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Plains",
+        "number": 286,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Forest",
+        "number": 263,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Forest",
+        "number": 266,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Mask",
+        "number": 14,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Puppet",
+        "number": 15,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Puppet",
+        "number": 16,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Performer",
+        "number": 1,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 2,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Illusion",
+        "number": 3,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Insect",
+        "number": 4,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Performer",
+        "number": 5,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 6,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Insect",
+        "number": 7,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Plant",
+        "number": 8,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Plant Illusion",
+        "number": 9,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Saproling",
+        "number": 10,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Devil Performer",
+        "number": 11,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Illusion",
+        "number": 12,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Plant Insect",
+        "number": 13,
+        "shape": "token",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
