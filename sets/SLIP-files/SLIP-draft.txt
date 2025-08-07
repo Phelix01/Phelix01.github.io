@@ -1,0 +1,3995 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Stormcloud Conjurer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Snake Pirate Wizard",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/248_Stormcloud Conjurer.png"
+			}
+		},
+		{
+			"name": "Ancestral Priestess",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/192_Ancestral Priestess.png"
+			}
+		},
+		{
+			"name": "Asingha Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Cat Warrior Monk",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/194_Asingha Disciple.png"
+			}
+		},
+		{
+			"name": "Rustflight Owlguard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/27_Rustflight Owlguard.png"
+			}
+		},
+		{
+			"name": "Honored Spiritbinder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/14_Honored Spiritbinder.png"
+			}
+		},
+		{
+			"name": "Flame-Walk Protector",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/9_Flame-Walk Protector.png"
+			}
+		},
+		{
+			"name": "Lotus Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/19_Lotus Spirit.png"
+			}
+		},
+		{
+			"name": "Osteokai Graveguard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/23_Osteokai Graveguard.png"
+			}
+		},
+		{
+			"name": "Krabi-Warrior",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/17_Krabi-Warrior.png"
+			}
+		},
+		{
+			"name": "Loxodon Rust Priest",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elephant Monk",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/20_Loxodon Rust Priest.png"
+			}
+		},
+		{
+			"name": "Ancestral Duty",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/1_Ancestral Duty.png"
+			}
+		},
+		{
+			"name": "Windfist Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/36_Windfist Technique.png"
+			}
+		},
+		{
+			"name": "Banishing Mist",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/3_Banishing Mist.png"
+			}
+		},
+		{
+			"name": "Tranquil Bloom",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/32_Tranquil Bloom.png"
+			}
+		},
+		{
+			"name": "Pelangi Reef Seer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Jellyfish Druid",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/59_Pelangi Reef Seer.png"
+			}
+		},
+		{
+			"name": "Bloomtide Channeler",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/39_Bloomtide Channeler.png"
+			}
+		},
+		{
+			"name": "Washed Up On Shore",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/74_Washed Up On Shore.png"
+			}
+		},
+		{
+			"name": "Veil of the Reef",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/73_Veil of the Reef.png"
+			}
+		},
+		{
+			"name": "Current Shift",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/44_Current Shift.png"
+			}
+		},
+		{
+			"name": "Monsoon's Denial",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/55_Monsoon's Denial.png"
+			}
+		},
+		{
+			"name": "Coral Colossus",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Elemental Golem",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/42_Coral Colossus.png"
+			}
+		},
+		{
+			"name": "Slipstream Knowledge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/64_Slipstream Knowledge.png"
+			}
+		},
+		{
+			"name": "Undertow Bindings",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/71_Undertow Bindings.png"
+			}
+		},
+		{
+			"name": "Prophecy of the Reef",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "60",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/60_Prophecy of the Reef_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/60_Prophecy of the Reef_front.png"
+			}
+		},
+		{
+			"name": "Spirit of the Shallows",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Spirit Fish",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/65_Spirit of the Shallows.png"
+			}
+		},
+		{
+			"name": "Bloomtide Scout",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Pirate Scout",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/40_Bloomtide Scout.png"
+			}
+		},
+		{
+			"name": "Undertow Turtle",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/72_Undertow Turtle.png"
+			}
+		},
+		{
+			"name": "Riptide Naga",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Snake Pirate Wizard",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/62_Riptide Naga.png"
+			}
+		},
+		{
+			"name": "Prophecy of the Temple",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/25_Prophecy of the Temple_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/25_Prophecy of the Temple_front.png"
+			}
+		},
+		{
+			"name": "Incense Guru",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/209_Incense Guru.png"
+			}
+		},
+		{
+			"name": "Rotgrove Forager",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Fungus Shaman",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/105_Rotgrove Forager.png"
+			}
+		},
+		{
+			"name": "Ancestral Bone Song",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/78_Ancestral Bone Song.png"
+			}
+		},
+		{
+			"name": "Ack-ack Beast",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Beast",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/75_Ack-ack Beast.png"
+			}
+		},
+		{
+			"name": "Pactblade Invader",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Mercenary",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/100_Pactblade Invader.png"
+			}
+		},
+		{
+			"name": "Ancestoral Grasp",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/77_Ancestoral Grasp.png"
+			}
+		},
+		{
+			"name": "Ancestor Devourer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Demon Spirit",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/76_Ancestor Devourer.png"
+			}
+		},
+		{
+			"name": "Muck Crawler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spider",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/98_Muck Crawler.png"
+			}
+		},
+		{
+			"name": "Offering to Mokoro",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/99_Offering to Mokoro.png"
+			}
+		},
+		{
+			"name": "Final Banishment",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/90_Final Banishment.png"
+			}
+		},
+		{
+			"name": "Rot Jungle's Bloom",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/104_Rot Jungle's Bloom.png"
+			}
+		},
+		{
+			"name": "Temple Lantern Keeper",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/110_Temple Lantern Keeper.png"
+			}
+		},
+		{
+			"name": "Quy-Bound Medium",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/102_Quy-Bound Medium.png"
+			}
+		},
+		{
+			"name": "Cradlebone Speaker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rabbit Cleric",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/83_Cradlebone Speaker.png"
+			}
+		},
+		{
+			"name": "Prophecy of the Afterlife",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "101",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/101_Prophecy of the Afterlife_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/101_Prophecy of the Afterlife_front.png"
+			}
+		},
+		{
+			"name": "Stormwake Corsair",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Pirate",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/144_Stormwake Corsair.png"
+			}
+		},
+		{
+			"name": "Eager Sangmai Initiate",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/116_Eager Sangmai Initiate.png"
+			}
+		},
+		{
+			"name": "Magma Blazebuilder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard Artificer",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/130_Magma Blazebuilder.png"
+			}
+		},
+		{
+			"name": "Kahetra Spark Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/127_Kahetra Spark Blade.png"
+			}
+		},
+		{
+			"name": "Mok Lok's Provoker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/131_Mok Lok's Provoker.png"
+			}
+		},
+		{
+			"name": "Blazefist Practitioner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/112_Blazefist Practitioner.png"
+			}
+		},
+		{
+			"name": "Flaretongue Salamander",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Salamander",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/121_Flaretongue Salamander.png"
+			}
+		},
+		{
+			"name": "Fury of Rakat Thann",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Ogre Barbarian",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/123_Fury of Rakat Thann.png"
+			}
+		},
+		{
+			"name": "Snapback Stance",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/139_Snapback Stance.png"
+			}
+		},
+		{
+			"name": "Emberwake Diversion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/118_Emberwake Diversion.png"
+			}
+		},
+		{
+			"name": "Reckless Training",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/134_Reckless Training.png"
+			}
+		},
+		{
+			"name": "Diving Plunder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/115_Diving Plunder.png"
+			}
+		},
+		{
+			"name": "Eruption Aura",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/120_Eruption Aura.png"
+			}
+		},
+		{
+			"name": "Prophecy of the Storm",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "132",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/132_Prophecy of the Storm_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/132_Prophecy of the Storm_front.png"
+			}
+		},
+		{
+			"name": "Reef Forest Pelangi",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Jellyfish Druid",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/174_Reef Forest Pelangi.png"
+			}
+		},
+		{
+			"name": "Floramaris Mystic",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Merfolk Shaman",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/160_Floramaris Mystic.png"
+			}
+		},
+		{
+			"name": "Dreadsoil Satiator",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus Shaman",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/158_Dreadsoil Satiator.png"
+			}
+		},
+		{
+			"name": "Coral Reefguard",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/155_Coral Reefguard.png"
+			}
+		},
+		{
+			"name": "Bloomboar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Plant Boar",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/149_Bloomboar.png"
+			}
+		},
+		{
+			"name": "Reefback Protector",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Turtle Druid",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/176_Reefback Protector.png"
+			}
+		},
+		{
+			"name": "Compost Walker",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Spider",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/154_Compost Walker.png"
+			}
+		},
+		{
+			"name": "Looming Rot-Troll",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Troll Zombie",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/164_Looming Rot-Troll.png"
+			}
+		},
+		{
+			"name": "Rotcycle",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/178_Rotcycle.png"
+			}
+		},
+		{
+			"name": "Mokoro's Pulse",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/167_Mokoro's Pulse.png"
+			}
+		},
+		{
+			"name": "Purifying Vines",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/173_Purifying Vines.png"
+			}
+		},
+		{
+			"name": "Burial Ground's Bloom",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/152_Burial Ground's Bloom.png"
+			}
+		},
+		{
+			"name": "Prophecy of the Rot",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "172",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/172_Prophecy of the Rot_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/172_Prophecy of the Rot_front.png"
+			}
+		},
+		{
+			"name": "Jade Reliquarist",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Rabbit Monk",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/210_Jade Reliquarist.png"
+			}
+		},
+		{
+			"name": "Spoken Beyond Silence",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Instant",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/259_Spoken Beyond Silence.png"
+			}
+		},
+		{
+			"name": "Ancestral Necromancer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/191_Ancestral Necromancer.png"
+			}
+		},
+		{
+			"name": "Ka-Sai Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/211_Ka-Sai Warrior.png"
+			}
+		},
+		{
+			"name": "Diving Phoenix Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/202_Diving Phoenix Technique.png"
+			}
+		},
+		{
+			"name": "Sangmai Trialist",
+			"rarity": "common",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/258_Sangmai Trialist.png"
+			}
+		},
+		{
+			"name": "Tideblessed Diver",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/253_Tideblessed Diver.png"
+			}
+		},
+		{
+			"name": "Coralstream Mentor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Plant Elemental",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/200_Coralstream Mentor.png"
+			}
+		},
+		{
+			"name": "Harmony's Shell",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Enchantment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/257_Harmony's Shell.png"
+			}
+		},
+		{
+			"name": "Emberwake Tidetail",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Lizard Pirate",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/203_Emberwake Tidetail.png"
+			}
+		},
+		{
+			"name": "Naga Stormbringer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Snake Wizard",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/221_Naga Stormbringer.png"
+			}
+		},
+		{
+			"name": "Twist the Surge",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Instant",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/260_Twist the Surge.png"
+			}
+		},
+		{
+			"name": "Fungal Pactkeeper",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/205_Fungal Pactkeeper.png"
+			}
+		},
+		{
+			"name": "Gravecycle Offering",
+			"rarity": "common",
+			"mana_cost": "{1}{B/G}",
+			"type": "Instant",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/256_Gravecycle Offering.png"
+			}
+		},
+		{
+			"name": "Shaman of the Big Men",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Giant Shaman",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/244_Shaman of the Big Men.png"
+			}
+		},
+		{
+			"name": "Mokoro Rot-Shaman",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/218_Mokoro Rot-Shaman.png"
+			}
+		},
+		{
+			"name": "Iron Lotus Root",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/268_Iron Lotus Root.png"
+			}
+		},
+		{
+			"name": "Stormcall Gong",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/275_Stormcall Gong.png"
+			}
+		},
+		{
+			"name": "Ceremonial Bone Talon",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/263_Ceremonial Bone Talon.png"
+			}
+		},
+		{
+			"name": "Rustthorn Gauntlet",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/272_Rustthorn Gauntlet.png"
+			}
+		},
+		{
+			"name": "Overgrown Rust Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/270_Overgrown Rust Guardian.png"
+			}
+		},
+		{
+			"name": "Temple of Sangmai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/287_Temple of Sangmai.png"
+			}
+		},
+		{
+			"name": "Temple of Kahetra",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/284_Temple of Kahetra.png"
+			}
+		},
+		{
+			"name": "Temple of Mokoro",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/286_Temple of Mokoro.png"
+			}
+		},
+		{
+			"name": "Temple of Jantira",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/283_Temple of Jantira.png"
+			}
+		},
+		{
+			"name": "Temple of Khuin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/285_Temple of Khuin.png"
+			}
+		},
+		{
+			"name": "Abandoned Catacomb",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/276_Abandoned Catacomb.png"
+			}
+		},
+		{
+			"name": "Soul-Marrow Binder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Skeleton Spirit",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/247_Soul-Marrow Binder.png"
+			}
+		},
+		{
+			"name": "Sermon of Shadows",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/243_Sermon of Shadows.png"
+			}
+		},
+		{
+			"name": "Hanh, Ancestor's Voice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/208_Hanh, Ancestor's Voice.png"
+			}
+		},
+		{
+			"name": "Sanda, Discipline's Eyes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/241_Sanda, Discipline's Eyes.png"
+			}
+		},
+		{
+			"name": "Return in Glory",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/239_Return in Glory.png"
+			}
+		},
+		{
+			"name": "Ghilen Hope Charger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Dragon Horse",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/206_Ghilen Hope Charger.png"
+			}
+		},
+		{
+			"name": "Pelangi Wavereader",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Jellyfish Shaman",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/230_Pelangi Wavereader.png"
+			}
+		},
+		{
+			"name": "Bloomtide's Call",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/197_Bloomtide's Call.png"
+			}
+		},
+		{
+			"name": "Aati, Reef's Wisdom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Merfolk Druid",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/186_Aati, Reef's Wisdom.png"
+			}
+		},
+		{
+			"name": "Mokoro's Will",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/220_Mokoro's Will.png"
+			}
+		},
+		{
+			"name": "Skulkwalker Brood",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Spider Demon",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/246_Skulkwalker Brood.png"
+			}
+		},
+		{
+			"name": "Kawali, Death's Hunger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Zombie Shaman",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/212_Kawali, Death's Hunger.png"
+			}
+		},
+		{
+			"name": "Scorchwake Feint",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Instant",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/242_Scorchwake Feint.png"
+			}
+		},
+		{
+			"name": "Kembang, Tempest's Rage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Goblin Wizard",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/213_Kembang, Tempest's Rage.png"
+			}
+		},
+		{
+			"name": "Cindrak Coralfiend",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/199_Cindrak Coralfiend.png"
+			}
+		},
+		{
+			"name": "Sunveil Instructor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/30_Sunveil Instructor.png"
+			}
+		},
+		{
+			"name": "Devoted Edgekeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/6_Devoted Edgekeeper.png"
+			}
+		},
+		{
+			"name": "Windstep Soulcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/37_Windstep Soulcaller.png"
+			}
+		},
+		{
+			"name": "Ghostly Abuction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/12_Ghostly Abuction.png"
+			}
+		},
+		{
+			"name": "Flying Steel Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/10_Flying Steel Strike.png"
+			}
+		},
+		{
+			"name": "Chatura Honorclaw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/4_Chatura Honorclaw.png"
+			}
+		},
+		{
+			"name": "Loxodon Temple Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elephant Soldier",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/21_Loxodon Temple Guard.png"
+			}
+		},
+		{
+			"name": "Geist Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/11_Geist Channeler.png"
+			}
+		},
+		{
+			"name": "Vessel of Commanding Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Spirit",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/34_Vessel of Commanding Grace.png"
+			}
+		},
+		{
+			"name": "Lotus Ascetic",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/18_Lotus Ascetic.png"
+			}
+		},
+		{
+			"name": "Iron Body Training",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/15_Iron Body Training.png"
+			}
+		},
+		{
+			"name": "Backalley Training",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/2_Backalley Training.png"
+			}
+		},
+		{
+			"name": "Unsuspecting Thievery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/33_Unsuspecting Thievery.png"
+			}
+		},
+		{
+			"name": "Familial Adjudicator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/8_Familial Adjudicator.png"
+			}
+		},
+		{
+			"name": "Ironwind Ka-Sai",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/16_Ironwind Ka-Sai.png"
+			}
+		},
+		{
+			"name": "Flying Reef Fish",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/49_Flying Reef Fish.png"
+			}
+		},
+		{
+			"name": "Tidal-Roh",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/68_Tidal-Roh.png"
+			}
+		},
+		{
+			"name": "Reefsong",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/61_Reefsong.png"
+			}
+		},
+		{
+			"name": "Naga Infiltrator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Snake Rogue",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/56_Naga Infiltrator.png"
+			}
+		},
+		{
+			"name": "Echoed Reflection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/48_Echoed Reflection.png"
+			}
+		},
+		{
+			"name": "Lost at Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/53_Lost at Sea.png"
+			}
+		},
+		{
+			"name": "Deep Myst Recollection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/46_Deep Myst Recollection.png"
+			}
+		},
+		{
+			"name": "Stormwake Veil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/66_Stormwake Veil.png"
+			}
+		},
+		{
+			"name": "Meditation State",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/54_Meditation State.png"
+			}
+		},
+		{
+			"name": "Deepdive Submariner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/47_Deepdive Submariner.png"
+			}
+		},
+		{
+			"name": "Kahetra Serpent Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/52_Kahetra Serpent Rider.png"
+			}
+		},
+		{
+			"name": "Break Serenity",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/41_Break Serenity.png"
+			}
+		},
+		{
+			"name": "Templetide Resonator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/67_Templetide Resonator.png"
+			}
+		},
+		{
+			"name": "Nimbus Racer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/58_Nimbus Racer.png"
+			}
+		},
+		{
+			"name": "Coral Diver Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Pirate Scout",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/43_Coral Diver Scout.png"
+			}
+		},
+		{
+			"name": "Memoryseed Gardener",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/95_Memoryseed Gardener.png"
+			}
+		},
+		{
+			"name": "Debtbone Envoy",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/87_Debtbone Envoy.png"
+			}
+		},
+		{
+			"name": "Creeping Grudge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/84_Creeping Grudge.png"
+			}
+		},
+		{
+			"name": "Inheritance Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Monk",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/92_Inheritance Warden.png"
+			}
+		},
+		{
+			"name": "Deathsprout Bogbat",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Bat Horror",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/86_Deathsprout Bogbat.png"
+			}
+		},
+		{
+			"name": "Burial-Mound Mauler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Giant Berserker",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/82_Burial-Mound Mauler.png"
+			}
+		},
+		{
+			"name": "Mokoro Abides",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/96_Mokoro Abides.png"
+			}
+		},
+		{
+			"name": "Desperate Communion",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/88_Desperate Communion.png"
+			}
+		},
+		{
+			"name": "Searing Psychosis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/106_Searing Psychosis.png"
+			}
+		},
+		{
+			"name": "Second Burial",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/107_Second Burial.png"
+			}
+		},
+		{
+			"name": "Ancestral Tutor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/79_Ancestral Tutor.png"
+			}
+		},
+		{
+			"name": "Soul-for-Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/109_Soul-for-Soul.png"
+			}
+		},
+		{
+			"name": "Lastborn Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Demon",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/94_Lastborn Enforcer.png"
+			}
+		},
+		{
+			"name": "Breathless Sister",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/81_Breathless Sister.png"
+			}
+		},
+		{
+			"name": "Mokoro Headhunter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Assassin",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/97_Mokoro Headhunter.png"
+			}
+		},
+		{
+			"name": "Tempest Eel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Fish",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/148_Tempest Eel.png"
+			}
+		},
+		{
+			"name": "Sangmai Emberclaw",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/135_Sangmai Emberclaw.png"
+			}
+		},
+		{
+			"name": "Stormchase Arcanist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/141_Stormchase Arcanist.png"
+			}
+		},
+		{
+			"name": "Kahetra Lookout",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Pirate",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/126_Kahetra Lookout.png"
+			}
+		},
+		{
+			"name": "Forged Ka-Sai",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Monk",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/122_Forged Ka-Sai.png"
+			}
+		},
+		{
+			"name": "Scaled Volcanomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard Wizard",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/136_Scaled Volcanomancer.png"
+			}
+		},
+		{
+			"name": "Swiftform Striker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/147_Swiftform Striker.png"
+			}
+		},
+		{
+			"name": "Stormsurge Kraken",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental Kraken",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/142_Stormsurge Kraken.png"
+			}
+		},
+		{
+			"name": "Scorch Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/137_Scorch Strike.png"
+			}
+		},
+		{
+			"name": "Sun-Bleached Hunger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/146_Sun-Bleached Hunger.png"
+			}
+		},
+		{
+			"name": "Breath Between Blows",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/113_Breath Between Blows.png"
+			}
+		},
+		{
+			"name": "Burning Discipline",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/114_Burning Discipline.png"
+			}
+		},
+		{
+			"name": "Raging Cyclone",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/133_Raging Cyclone.png"
+			}
+		},
+		{
+			"name": "Ley-Storm Calling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/128_Ley-Storm Calling.png"
+			}
+		},
+		{
+			"name": "Empowered Mantra",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/119_Empowered Mantra.png"
+			}
+		},
+		{
+			"name": "Mossvein Harrier",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Scout",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/169_Mossvein Harrier.png"
+			}
+		},
+		{
+			"name": "Rootwake Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/177_Rootwake Shepherd.png"
+			}
+		},
+		{
+			"name": "Tidegrove Archer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Merfolk Archer",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/182_Tidegrove Archer.png"
+			}
+		},
+		{
+			"name": "Brackentide Pathfinder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/151_Brackentide Pathfinder.png"
+			}
+		},
+		{
+			"name": "Seagrace Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Merfolk Shaman",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/179_Seagrace Channeler.png"
+			}
+		},
+		{
+			"name": "Spined Jungle Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Lizard",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/181_Spined Jungle Prowler.png"
+			}
+		},
+		{
+			"name": "Mire-Bloom Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Crocodile Plant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/166_Mire-Bloom Terror.png"
+			}
+		},
+		{
+			"name": "Coiling Enlightener",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Snake Dragon",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/153_Coiling Enlightener.png"
+			}
+		},
+		{
+			"name": "Pelangi Bondmate",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Jellyfish Shaman",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/170_Pelangi Bondmate.png"
+			}
+		},
+		{
+			"name": "Deathmist Sweep",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/157_Deathmist Sweep.png"
+			}
+		},
+		{
+			"name": "Mokoro's Wrath",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/168_Mokoro's Wrath.png"
+			}
+		},
+		{
+			"name": "Reef Sigil",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/175_Reef Sigil.png"
+			}
+		},
+		{
+			"name": "Jantira's Revenge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/162_Jantira's Revenge.png"
+			}
+		},
+		{
+			"name": "Loamline Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/163_Loamline Memories.png"
+			}
+		},
+		{
+			"name": "Shell Ward",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/180_Shell Ward.png"
+			}
+		},
+		{
+			"name": "Pulse-Grown Grips",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/271_Pulse-Grown Grips.png"
+			}
+		},
+		{
+			"name": "Stormbolt Sampan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/274_Stormbolt Sampan.png"
+			}
+		},
+		{
+			"name": "Brainstone Idol",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/262_Brainstone Idol.png"
+			}
+		},
+		{
+			"name": "Meditant's Lotus Pho",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/269_Meditant's Lotus Pho.png"
+			}
+		},
+		{
+			"name": "Ancestral Wrappings",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/261_Ancestral Wrappings.png"
+			}
+		},
+		{
+			"name": "Omen of Rot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "226",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/226_Omen of Rot_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/226_Omen of Rot_front.png"
+			}
+		},
+		{
+			"name": "Lotus Temple",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/282_Lotus Temple.png"
+			}
+		},
+		{
+			"name": "Omen of Ascension",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "224",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/224_Omen of Ascension_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/224_Omen of Ascension_front.png"
+			}
+		},
+		{
+			"name": "Omen of Storms",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "227",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/227_Omen of Storms_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/227_Omen of Storms_front.png"
+			}
+		},
+		{
+			"name": "Omen of Passing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "225",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/225_Omen of Passing_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/225_Omen of Passing_front.png"
+			}
+		},
+		{
+			"name": "Omen of Tides",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "228",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/228_Omen of Tides_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/228_Omen of Tides_front.png"
+			}
+		},
+		{
+			"name": "Temple Lotus-Keeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/31_Temple Lotus-Keeper.png"
+			}
+		},
+		{
+			"name": "Hidden Wat",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/280_Hidden Wat.png"
+			}
+		},
+		{
+			"name": "Hidden Pagoda",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/279_Hidden Pagoda.png"
+			}
+		},
+		{
+			"name": "Hidden Ziggurat",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/281_Hidden Ziggurat.png"
+			}
+		},
+		{
+			"name": "Hidden Dojo",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/277_Hidden Dojo.png"
+			}
+		},
+		{
+			"name": "Hidden Monastery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Temple",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/278_Hidden Monastery.png"
+			}
+		},
+		{
+			"name": "Samart, Hardened Master",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/28_Samart, Hardened Master.png"
+			}
+		},
+		{
+			"name": "Highland Thewada",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Elephant Angel",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/13_Highland Thewada.png"
+			}
+		},
+		{
+			"name": "Wandering in Exile",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/35_Wandering in Exile.png"
+			}
+		},
+		{
+			"name": "Chosen Hero's Approach",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/5_Chosen Hero's Approach.png"
+			}
+		},
+		{
+			"name": "Luris, Familial Soulcaller",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/22_Luris, Familial Soulcaller.png"
+			}
+		},
+		{
+			"name": "Tidefall Tempest",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/69_Tidefall Tempest.png"
+			}
+		},
+		{
+			"name": "High Tide Hijinks",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/50_High Tide Hijinks.png"
+			}
+		},
+		{
+			"name": "Undercurrent Snapjaw",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/70_Undercurrent Snapjaw.png"
+			}
+		},
+		{
+			"name": "Serendipitous Refraction",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/63_Serendipitous Refraction.png"
+			}
+		},
+		{
+			"name": "Naya, Mindshifter",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Merfolk Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/57_Naya, Mindshifter.png"
+			}
+		},
+		{
+			"name": "Hujan, Galewind Raider",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/51_Hujan, Galewind Raider.png"
+			}
+		},
+		{
+			"name": "Family's Demand",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/89_Family's Demand.png"
+			}
+		},
+		{
+			"name": "Yaka-Ati, The Huskbloom",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Giant Zombie",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/111_Yaka-Ati, The Huskbloom.png"
+			}
+		},
+		{
+			"name": "Sorrow-Silk Courtesan",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Creature — Demon Advisor",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/108_Sorrow-Silk Courtesan.png"
+			}
+		},
+		{
+			"name": "Auntie Yien, Spirit Matron",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon Spirit",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/80_Auntie Yien, Spirit Matron.png"
+			}
+		},
+		{
+			"name": "Ka-Trinh Orchidblade",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Noble Assassin",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/93_Ka-Trinh Orchidblade.png"
+			}
+		},
+		{
+			"name": "From Frond to Flesh",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/91_From Frond to Flesh.png"
+			}
+		},
+		{
+			"name": "Emberhall Aspirant",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/7_Emberhall Aspirant.png"
+			}
+		},
+		{
+			"name": "Purifier of Lost Souls",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/26_Purifier of Lost Souls.png"
+			}
+		},
+		{
+			"name": "Corpsebloom Skirmisher",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/156_Corpsebloom Skirmisher.png"
+			}
+		},
+		{
+			"name": "Jett, Erupting Fist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/125_Jett, Erupting Fist.png"
+			}
+		},
+		{
+			"name": "Ssaeki, Ragebolt Ionizer",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Snake Wizard",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/140_Ssaeki, Ragebolt Ionizer.png"
+			}
+		},
+		{
+			"name": "Skybrand of Wat Khói",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/138_Skybrand of Wat Khói.png"
+			}
+		},
+		{
+			"name": "Streetblade Artisan",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/145_Streetblade Artisan.png"
+			}
+		},
+		{
+			"name": "Lotus-Fang Slash",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Intant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/129_Lotus-Fang Slash.png"
+			}
+		},
+		{
+			"name": "Stormtide Resurgence",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/143_Stormtide Resurgence.png"
+			}
+		},
+		{
+			"name": "Popoli, Eternally Devoted",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Zombie Shaman",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/171_Popoli, Eternally Devoted.png"
+			}
+		},
+		{
+			"name": "Voice of the Reefmother",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/184_Voice of the Reefmother.png"
+			}
+		},
+		{
+			"name": "Blooming of Mirelilies",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/150_Blooming of Mirelilies.png"
+			}
+		},
+		{
+			"name": "Jadewurm Guardian",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Wurm Spirit",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/161_Jadewurm Guardian.png"
+			}
+		},
+		{
+			"name": "Undergrowth Larvae",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Insect Plant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/183_Undergrowth Larvae.png"
+			}
+		},
+		{
+			"name": "Ynvi, Sea Tangle Princess",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Jellyfish Noble",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/185_Ynvi, Sea Tangle Princess.png"
+			}
+		},
+		{
+			"name": "Paleclaw Escort",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Cat Spirit",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/229_Paleclaw Escort.png"
+			}
+		},
+		{
+			"name": "Uncle Cadeo, Banished Soul",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Skeleton Noble",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/254_Uncle Cadeo, Banished Soul.png"
+			}
+		},
+		{
+			"name": "Prophecy of Khuin",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "233",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/233_Prophecy of Khuin_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/233_Prophecy of Khuin_front.png"
+			}
+		},
+		{
+			"name": "Ancestral Admonishment",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/189_Ancestral Admonishment.png"
+			}
+		},
+		{
+			"name": "Ca Dao Linh, Lineage Poet",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/198_Ca Dao Linh, Lineage Poet.png"
+			}
+		},
+		{
+			"name": "Flameparry",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/204_Flameparry.png"
+			}
+		},
+		{
+			"name": "Taunting Pridefist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/249_Taunting Pridefist.png"
+			}
+		},
+		{
+			"name": "Master Yhai, Tempered Will",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{W}",
+			"type": "Legendary Creature — Elephant Monk",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/217_Master Yhai, Tempered Will.png"
+			}
+		},
+		{
+			"name": "Lanai, the Butterfly Blade",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/214_Lanai, the Butterfly Blade.png"
+			}
+		},
+		{
+			"name": "Prophecy of Sangmai",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "235",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/235_Prophecy of Sangmai_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/235_Prophecy of Sangmai_front.png"
+			}
+		},
+		{
+			"name": "Ravya Stormlash",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Elf Pirate",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/236_Ravya Stormlash.png"
+			}
+		},
+		{
+			"name": "Grizz, Cloud Forecaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Goblin Pirate Advisor",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/207_Grizz, Cloud Forecaster.png"
+			}
+		},
+		{
+			"name": "Rough Sea Navigator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/240_Rough Sea Navigator.png"
+			}
+		},
+		{
+			"name": "Tempest Burst",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/250_Tempest Burst.png"
+			}
+		},
+		{
+			"name": "Prophecy of Kahetra",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "232",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/232_Prophecy of Kahetra_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/232_Prophecy of Kahetra_front.png"
+			}
+		},
+		{
+			"name": "Lumelith, The Reefwave",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Merfolk Druid",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/216_Lumelith, The Reefwave.png"
+			}
+		},
+		{
+			"name": "Aomalak, Secret Seeker",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Jellyfish Scout",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/193_Aomalak, Secret Seeker.png"
+			}
+		},
+		{
+			"name": "Tendril-Tide Matriarch",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/251_Tendril-Tide Matriarch.png"
+			}
+		},
+		{
+			"name": "Reef-Form",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{U}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/237_Reef-Form.png"
+			}
+		},
+		{
+			"name": "Prophecy of Jantira",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "231",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/231_Prophecy of Jantira_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/231_Prophecy of Jantira_front.png"
+			}
+		},
+		{
+			"name": "Adaliya, Fleshseed Gardener",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/187_Adaliya, Fleshseed Gardener.png"
+			}
+		},
+		{
+			"name": "Late-Bloomer Wretch",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/215_Late-Bloomer Wretch.png"
+			}
+		},
+		{
+			"name": "Mokoro's Call",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/219_Mokoro's Call.png"
+			}
+		},
+		{
+			"name": "Nis'Sath, Vibrant Grave",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{G}{G}",
+			"type": "Legendary Creature — Plant Horror",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/223_Nis'Sath, Vibrant Grave.png"
+			}
+		},
+		{
+			"name": "Prophecy of Mokoro",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Enchantment — Prophecy",
+			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/SLIP-files/img/234_Prophecy of Mokoro_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/234_Prophecy of Mokoro_front.png"
+			}
+		},
+		{
+			"name": "Salt Charm",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/273_Salt Charm.png"
+			}
+		},
+		{
+			"name": "Dragonfly Blades",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/265_Dragonfly Blades.png"
+			}
+		},
+		{
+			"name": "Gilded Lily",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/267_Gilded Lily.png"
+			}
+		},
+		{
+			"name": "Chiselled Wrath-Idol",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Demon Golem",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/264_Chiselled Wrath-Idol.png"
+			}
+		},
+		{
+			"name": "Familial Burial Urn",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/266_Familial Burial Urn.png"
+			}
+		},
+		{
+			"name": "Ahvani, The Stormsiren",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Legendary Creature — Snake Pirate Wizard",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/188_Ahvani, The Stormsiren.png"
+			}
+		},
+		{
+			"name": "Sister of the Gale",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/245_Sister of the Gale.png"
+			}
+		},
+		{
+			"name": "Vay Nhi, Veiled Matriarch",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/255_Vay Nhi, Veiled Matriarch.png"
+			}
+		},
+		{
+			"name": "Ancestral Decree",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{B}{B}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/190_Ancestral Decree.png"
+			}
+		},
+		{
+			"name": "Dhanik, Sangmai Grandmaster",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/201_Dhanik, Sangmai Grandmaster.png"
+			}
+		},
+		{
+			"name": "Thousand Form Stance",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/252_Thousand Form Stance.png"
+			}
+		},
+		{
+			"name": "Avatar of Mokoro",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{G}{G}",
+			"type": "Legendary Creature — Plant Avatar",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/195_Avatar of Mokoro.png"
+			}
+		},
+		{
+			"name": "Necrofluorescence",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/222_Necrofluorescence.png"
+			}
+		},
+		{
+			"name": "Reefmother Asangi",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Merfolk Noble",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/238_Reefmother Asangi.png"
+			}
+		},
+		{
+			"name": "Beneath the Tide",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{U}{U}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/196_Beneath the Tide.png"
+			}
+		},
+		{
+			"name": "Spirit of Eternal Discipline",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Spirit Warrior Monk",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/29_Spirit of Eternal Discipline.png"
+			}
+		},
+		{
+			"name": "Petal-Dance Exemplar",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/24_Petal-Dance Exemplar.png"
+			}
+		},
+		{
+			"name": "Current-Call Druid",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/45_Current-Call Druid.png"
+			}
+		},
+		{
+			"name": "Arms of the Gale",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/38_Arms of the Gale.png"
+			}
+		},
+		{
+			"name": "Rice Field Banshee",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Horror Assassin",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/103_Rice Field Banshee.png"
+			}
+		},
+		{
+			"name": "Deathloam Garden",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/85_Deathloam Garden.png"
+			}
+		},
+		{
+			"name": "Elusive Street-Thief",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/117_Elusive Street-Thief.png"
+			}
+		},
+		{
+			"name": "Ghilen Blazewind",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon Horse",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/124_Ghilen Blazewind.png"
+			}
+		},
+		{
+			"name": "Fateflower Mystic",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Zombie Druid",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/159_Fateflower Mystic.png"
+			}
+		},
+		{
+			"name": "Luminelth Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Jellyfish Plant Hydra",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/165_Luminelth Hydra.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/288_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/291_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/294_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/297_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/289_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/290_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/292_Island.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/293_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/295_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/296_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/298_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/299_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/300_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/301_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/SLIP-files/img/302_Forest.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Temple Lotus-Keeper
+	2 Samart, Hardened Master
+	2 Highland Thewada
+	2 Wandering in Exile
+	2 Chosen Hero's Approach
+	2 Luris, Familial Soulcaller
+	2 Tidefall Tempest
+	2 High Tide Hijinks
+	2 Undercurrent Snapjaw
+	2 Serendipitous Refraction
+	2 Naya, Mindshifter
+	2 Hujan, Galewind Raider
+	2 Family's Demand
+	2 Yaka-Ati, The Huskbloom
+	2 Sorrow-Silk Courtesan
+	2 Auntie Yien, Spirit Matron
+	2 Ka-Trinh Orchidblade
+	2 From Frond to Flesh
+	2 Jett, Erupting Fist
+	2 Ssaeki, Ragebolt Ionizer
+	2 Skybrand of Wat Khói
+	2 Streetblade Artisan
+	2 Lotus-Fang Slash
+	2 Stormtide Resurgence
+	2 Popoli, Eternally Devoted
+	2 Voice of the Reefmother
+	2 Blooming of Mirelilies
+	2 Jadewurm Guardian
+	2 Undergrowth Larvae
+	2 Ynvi, Sea Tangle Princess
+	2 Paleclaw Escort
+	2 Uncle Cadeo, Banished Soul
+	2 Prophecy of Khuin
+	2 Ancestral Admonishment
+	2 Ca Dao Linh, Lineage Poet
+	2 Flameparry
+	2 Taunting Pridefist
+	2 Master Yhai, Tempered Will
+	2 Lanai, the Butterfly Blade
+	2 Prophecy of Sangmai
+	2 Ravya Stormlash
+	2 Grizz, Cloud Forecaster
+	2 Rough Sea Navigator
+	2 Tempest Burst
+	2 Prophecy of Kahetra
+	2 Lumelith, The Reefwave
+	2 Aomalak, Secret Seeker
+	2 Tendril-Tide Matriarch
+	2 Reef-Form
+	2 Prophecy of Jantira
+	2 Adaliya, Fleshseed Gardener
+	2 Late-Bloomer Wretch
+	2 Mokoro's Call
+	2 Nis'Sath, Vibrant Grave
+	2 Prophecy of Mokoro
+	2 Salt Charm
+	2 Dragonfly Blades
+	2 Gilded Lily
+	2 Chiselled Wrath-Idol
+	2 Familial Burial Urn
+	1 Ahvani, The Stormsiren
+	1 Sister of the Gale
+	1 Vay Nhi, Veiled Matriarch
+	1 Ancestral Decree
+	1 Dhanik, Sangmai Grandmaster
+	1 Thousand Form Stance
+	1 Avatar of Mokoro
+	1 Necrofluorescence
+	1 Reefmother Asangi
+	1 Beneath the Tide
+	1 Spirit of Eternal Discipline
+	1 Petal-Dance Exemplar
+	1 Current-Call Druid
+	1 Arms of the Gale
+	1 Rice Field Banshee
+	1 Deathloam Garden
+	1 Elusive Street-Thief
+	1 Ghilen Blazewind
+	1 Fateflower Mystic
+	1 Luminelth Hydra
+[uncommon(3)]
+	4 Stormcloud Conjurer
+	4 Ancestral Priestess
+	4 Asingha Disciple
+	4 Tranquil Bloom
+	4 Incense Guru
+	4 Shaman of the Big Men
+	4 Soul-Marrow Binder
+	4 Sermon of Shadows
+	4 Hanh, Ancestor's Voice
+	4 Sanda, Discipline's Eyes
+	4 Return in Glory
+	4 Ghilen Hope Charger
+	4 Pelangi Wavereader
+	4 Bloomtide's Call
+	4 Aati, Reef's Wisdom
+	4 Mokoro's Will
+	4 Skulkwalker Brood
+	4 Kawali, Death's Hunger
+	4 Scorchwake Feint
+	4 Kembang, Tempest's Rage
+	4 Cindrak Coralfiend
+	4 Sunveil Instructor
+	4 Devoted Edgekeeper
+	4 Windstep Soulcaller
+	4 Ghostly Abuction
+	4 Flying Steel Strike
+	4 Chatura Honorclaw
+	4 Loxodon Temple Guard
+	4 Geist Channeler
+	4 Vessel of Commanding Grace
+	4 Lotus Ascetic
+	4 Iron Body Training
+	4 Unsuspecting Thievery
+	4 Familial Adjudicator
+	4 Ironwind Ka-Sai
+	4 Flying Reef Fish
+	4 Tidal-Roh
+	4 Reefsong
+	4 Naga Infiltrator
+	4 Echoed Reflection
+	4 Lost at Sea
+	4 Deep Myst Recollection
+	4 Stormwake Veil
+	4 Meditation State
+	4 Deepdive Submariner
+	4 Kahetra Serpent Rider
+	4 Break Serenity
+	4 Templetide Resonator
+	4 Nimbus Racer
+	4 Coral Diver Scout
+	4 Memoryseed Gardener
+	4 Debtbone Envoy
+	4 Creeping Grudge
+	4 Inheritance Warden
+	4 Deathsprout Bogbat
+	4 Burial-Mound Mauler
+	4 Mokoro Abides
+	4 Desperate Communion
+	4 Searing Psychosis
+	4 Second Burial
+	4 Ancestral Tutor
+	4 Soul-for-Soul
+	4 Lastborn Enforcer
+	4 Breathless Sister
+	4 Mokoro Headhunter
+	4 Tempest Eel
+	4 Sangmai Emberclaw
+	4 Stormchase Arcanist
+	4 Kahetra Lookout
+	4 Forged Ka-Sai
+	4 Scaled Volcanomancer
+	4 Swiftform Striker
+	4 Stormsurge Kraken
+	4 Scorch Strike
+	4 Sun-Bleached Hunger
+	4 Breath Between Blows
+	4 Burning Discipline
+	4 Raging Cyclone
+	4 Ley-Storm Calling
+	4 Empowered Mantra
+	4 Mossvein Harrier
+	4 Rootwake Shepherd
+	4 Tidegrove Archer
+	4 Brackentide Pathfinder
+	4 Seagrace Channeler
+	4 Spined Jungle Prowler
+	4 Mire-Bloom Terror
+	4 Coiling Enlightener
+	4 Pelangi Bondmate
+	4 Deathmist Sweep
+	4 Mokoro's Wrath
+	4 Reef Sigil
+	4 Jantira's Revenge
+	4 Loamline Memories
+	4 Shell Ward
+	4 Pulse-Grown Grips
+	4 Stormbolt Sampan
+	4 Brainstone Idol
+	4 Meditant's Lotus Pho
+	4 Ancestral Wrappings
+	4 Omen of Rot
+	4 Lotus Temple
+	4 Omen of Ascension
+	4 Omen of Storms
+	4 Omen of Passing
+	4 Omen of Tides
+	4 Hidden Wat
+	4 Hidden Pagoda
+	4 Hidden Ziggurat
+	4 Hidden Dojo
+	4 Hidden Monastery
+[common(7)]
+	8 Rustflight Owlguard
+	8 Honored Spiritbinder
+	8 Flame-Walk Protector
+	8 Lotus Spirit
+	8 Osteokai Graveguard
+	8 Krabi-Warrior
+	8 Loxodon Rust Priest
+	8 Ancestral Duty
+	8 Windfist Technique
+	8 Banishing Mist
+	8 Pelangi Reef Seer
+	8 Bloomtide Channeler
+	8 Washed Up On Shore
+	8 Veil of the Reef
+	8 Current Shift
+	8 Monsoon's Denial
+	8 Coral Colossus
+	8 Slipstream Knowledge
+	8 Undertow Bindings
+	8 Prophecy of the Reef
+	8 Spirit of the Shallows
+	8 Bloomtide Scout
+	8 Undertow Turtle
+	8 Riptide Naga
+	8 Prophecy of the Temple
+	8 Rotgrove Forager
+	8 Ancestral Bone Song
+	8 Ack-ack Beast
+	8 Pactblade Invader
+	8 Ancestoral Grasp
+	8 Ancestor Devourer
+	8 Muck Crawler
+	8 Offering to Mokoro
+	8 Final Banishment
+	8 Rot Jungle's Bloom
+	8 Temple Lantern Keeper
+	8 Quy-Bound Medium
+	8 Cradlebone Speaker
+	8 Prophecy of the Afterlife
+	8 Stormwake Corsair
+	8 Eager Sangmai Initiate
+	8 Magma Blazebuilder
+	8 Kahetra Spark Blade
+	8 Mok Lok's Provoker
+	8 Blazefist Practitioner
+	8 Flaretongue Salamander
+	8 Fury of Rakat Thann
+	8 Snapback Stance
+	8 Emberwake Diversion
+	8 Reckless Training
+	8 Diving Plunder
+	8 Eruption Aura
+	8 Prophecy of the Storm
+	8 Reef Forest Pelangi
+	8 Floramaris Mystic
+	8 Dreadsoil Satiator
+	8 Coral Reefguard
+	8 Bloomboar
+	8 Reefback Protector
+	8 Compost Walker
+	8 Looming Rot-Troll
+	8 Rotcycle
+	8 Mokoro's Pulse
+	8 Purifying Vines
+	8 Burial Ground's Bloom
+	8 Prophecy of the Rot
+	8 Jade Reliquarist
+	8 Spoken Beyond Silence
+	8 Ancestral Necromancer
+	8 Ka-Sai Warrior
+	8 Diving Phoenix Technique
+	8 Sangmai Trialist
+	8 Tideblessed Diver
+	8 Coralstream Mentor
+	8 Harmony's Shell
+	8 Emberwake Tidetail
+	8 Naga Stormbringer
+	8 Twist the Surge
+	8 Fungal Pactkeeper
+	8 Gravecycle Offering
+	8 Mokoro Rot-Shaman
+	8 Iron Lotus Root
+	8 Stormcall Gong
+	8 Ceremonial Bone Talon
+	8 Rustthorn Gauntlet
+	8 Overgrown Rust Guardian
+	8 Temple of Sangmai
+	8 Temple of Kahetra
+	8 Temple of Mokoro
+	8 Temple of Jantira
+	8 Temple of Khuin
+	8 Abandoned Catacomb
+	8 Backalley Training
+	8 Emberhall Aspirant
+	8 Purifier of Lost Souls
+	8 Corpsebloom Skirmisher
+[foil(1)]
+	6 Stormcloud Conjurer
+	6 Ancestral Priestess
+	6 Asingha Disciple
+	12 Rustflight Owlguard
+	12 Honored Spiritbinder
+	12 Flame-Walk Protector
+	12 Lotus Spirit
+	12 Osteokai Graveguard
+	12 Krabi-Warrior
+	12 Loxodon Rust Priest
+	12 Ancestral Duty
+	12 Windfist Technique
+	12 Banishing Mist
+	6 Tranquil Bloom
+	12 Pelangi Reef Seer
+	12 Bloomtide Channeler
+	12 Washed Up On Shore
+	12 Veil of the Reef
+	12 Current Shift
+	12 Monsoon's Denial
+	12 Coral Colossus
+	12 Slipstream Knowledge
+	12 Undertow Bindings
+	12 Prophecy of the Reef
+	12 Spirit of the Shallows
+	12 Bloomtide Scout
+	12 Undertow Turtle
+	12 Riptide Naga
+	12 Prophecy of the Temple
+	6 Incense Guru
+	12 Rotgrove Forager
+	12 Ancestral Bone Song
+	12 Ack-ack Beast
+	12 Pactblade Invader
+	12 Ancestoral Grasp
+	12 Ancestor Devourer
+	12 Muck Crawler
+	12 Offering to Mokoro
+	12 Final Banishment
+	12 Rot Jungle's Bloom
+	12 Temple Lantern Keeper
+	12 Quy-Bound Medium
+	12 Cradlebone Speaker
+	12 Prophecy of the Afterlife
+	12 Stormwake Corsair
+	12 Eager Sangmai Initiate
+	12 Magma Blazebuilder
+	12 Kahetra Spark Blade
+	12 Mok Lok's Provoker
+	12 Blazefist Practitioner
+	12 Flaretongue Salamander
+	12 Fury of Rakat Thann
+	12 Snapback Stance
+	12 Emberwake Diversion
+	12 Reckless Training
+	12 Diving Plunder
+	12 Eruption Aura
+	12 Prophecy of the Storm
+	12 Reef Forest Pelangi
+	12 Floramaris Mystic
+	12 Dreadsoil Satiator
+	12 Coral Reefguard
+	12 Bloomboar
+	12 Reefback Protector
+	12 Compost Walker
+	12 Looming Rot-Troll
+	12 Rotcycle
+	12 Mokoro's Pulse
+	12 Purifying Vines
+	12 Burial Ground's Bloom
+	12 Prophecy of the Rot
+	12 Jade Reliquarist
+	12 Spoken Beyond Silence
+	12 Ancestral Necromancer
+	12 Ka-Sai Warrior
+	12 Diving Phoenix Technique
+	12 Sangmai Trialist
+	12 Tideblessed Diver
+	12 Coralstream Mentor
+	12 Harmony's Shell
+	12 Emberwake Tidetail
+	12 Naga Stormbringer
+	12 Twist the Surge
+	12 Fungal Pactkeeper
+	12 Gravecycle Offering
+	6 Shaman of the Big Men
+	12 Mokoro Rot-Shaman
+	12 Iron Lotus Root
+	12 Stormcall Gong
+	12 Ceremonial Bone Talon
+	12 Rustthorn Gauntlet
+	12 Overgrown Rust Guardian
+	12 Temple of Sangmai
+	12 Temple of Kahetra
+	12 Temple of Mokoro
+	12 Temple of Jantira
+	12 Temple of Khuin
+	12 Abandoned Catacomb
+	6 Soul-Marrow Binder
+	6 Sermon of Shadows
+	6 Hanh, Ancestor's Voice
+	6 Sanda, Discipline's Eyes
+	6 Return in Glory
+	6 Ghilen Hope Charger
+	6 Pelangi Wavereader
+	6 Bloomtide's Call
+	6 Aati, Reef's Wisdom
+	6 Mokoro's Will
+	6 Skulkwalker Brood
+	6 Kawali, Death's Hunger
+	6 Scorchwake Feint
+	6 Kembang, Tempest's Rage
+	6 Cindrak Coralfiend
+	6 Sunveil Instructor
+	6 Devoted Edgekeeper
+	6 Windstep Soulcaller
+	6 Ghostly Abuction
+	6 Flying Steel Strike
+	6 Chatura Honorclaw
+	6 Loxodon Temple Guard
+	6 Geist Channeler
+	6 Vessel of Commanding Grace
+	6 Lotus Ascetic
+	6 Iron Body Training
+	12 Backalley Training
+	6 Unsuspecting Thievery
+	6 Familial Adjudicator
+	6 Ironwind Ka-Sai
+	6 Flying Reef Fish
+	6 Tidal-Roh
+	6 Reefsong
+	6 Naga Infiltrator
+	6 Echoed Reflection
+	6 Lost at Sea
+	6 Deep Myst Recollection
+	6 Stormwake Veil
+	6 Meditation State
+	6 Deepdive Submariner
+	6 Kahetra Serpent Rider
+	6 Break Serenity
+	6 Templetide Resonator
+	6 Nimbus Racer
+	6 Coral Diver Scout
+	6 Memoryseed Gardener
+	6 Debtbone Envoy
+	6 Creeping Grudge
+	6 Inheritance Warden
+	6 Deathsprout Bogbat
+	6 Burial-Mound Mauler
+	6 Mokoro Abides
+	6 Desperate Communion
+	6 Searing Psychosis
+	6 Second Burial
+	6 Ancestral Tutor
+	6 Soul-for-Soul
+	6 Lastborn Enforcer
+	6 Breathless Sister
+	6 Mokoro Headhunter
+	6 Tempest Eel
+	6 Sangmai Emberclaw
+	6 Stormchase Arcanist
+	6 Kahetra Lookout
+	6 Forged Ka-Sai
+	6 Scaled Volcanomancer
+	6 Swiftform Striker
+	6 Stormsurge Kraken
+	6 Scorch Strike
+	6 Sun-Bleached Hunger
+	6 Breath Between Blows
+	6 Burning Discipline
+	6 Raging Cyclone
+	6 Ley-Storm Calling
+	6 Empowered Mantra
+	6 Mossvein Harrier
+	6 Rootwake Shepherd
+	6 Tidegrove Archer
+	6 Brackentide Pathfinder
+	6 Seagrace Channeler
+	6 Spined Jungle Prowler
+	6 Mire-Bloom Terror
+	6 Coiling Enlightener
+	6 Pelangi Bondmate
+	6 Deathmist Sweep
+	6 Mokoro's Wrath
+	6 Reef Sigil
+	6 Jantira's Revenge
+	6 Loamline Memories
+	6 Shell Ward
+	6 Pulse-Grown Grips
+	6 Stormbolt Sampan
+	6 Brainstone Idol
+	6 Meditant's Lotus Pho
+	6 Ancestral Wrappings
+	6 Omen of Rot
+	6 Lotus Temple
+	6 Omen of Ascension
+	6 Omen of Storms
+	6 Omen of Passing
+	6 Omen of Tides
+	2 Temple Lotus-Keeper
+	6 Hidden Wat
+	6 Hidden Pagoda
+	6 Hidden Ziggurat
+	6 Hidden Dojo
+	6 Hidden Monastery
+	2 Samart, Hardened Master
+	2 Highland Thewada
+	2 Wandering in Exile
+	2 Chosen Hero's Approach
+	2 Luris, Familial Soulcaller
+	2 Tidefall Tempest
+	2 High Tide Hijinks
+	2 Undercurrent Snapjaw
+	2 Serendipitous Refraction
+	2 Naya, Mindshifter
+	2 Hujan, Galewind Raider
+	2 Family's Demand
+	2 Yaka-Ati, The Huskbloom
+	2 Sorrow-Silk Courtesan
+	2 Auntie Yien, Spirit Matron
+	2 Ka-Trinh Orchidblade
+	2 From Frond to Flesh
+	12 Emberhall Aspirant
+	12 Purifier of Lost Souls
+	12 Corpsebloom Skirmisher
+	2 Jett, Erupting Fist
+	2 Ssaeki, Ragebolt Ionizer
+	2 Skybrand of Wat Khói
+	2 Streetblade Artisan
+	2 Lotus-Fang Slash
+	2 Stormtide Resurgence
+	2 Popoli, Eternally Devoted
+	2 Voice of the Reefmother
+	2 Blooming of Mirelilies
+	2 Jadewurm Guardian
+	2 Undergrowth Larvae
+	2 Ynvi, Sea Tangle Princess
+	2 Paleclaw Escort
+	2 Uncle Cadeo, Banished Soul
+	2 Prophecy of Khuin
+	2 Ancestral Admonishment
+	2 Ca Dao Linh, Lineage Poet
+	2 Flameparry
+	2 Taunting Pridefist
+	2 Master Yhai, Tempered Will
+	2 Lanai, the Butterfly Blade
+	2 Prophecy of Sangmai
+	2 Ravya Stormlash
+	2 Grizz, Cloud Forecaster
+	2 Rough Sea Navigator
+	2 Tempest Burst
+	2 Prophecy of Kahetra
+	2 Lumelith, The Reefwave
+	2 Aomalak, Secret Seeker
+	2 Tendril-Tide Matriarch
+	2 Reef-Form
+	2 Prophecy of Jantira
+	2 Adaliya, Fleshseed Gardener
+	2 Late-Bloomer Wretch
+	2 Mokoro's Call
+	2 Nis'Sath, Vibrant Grave
+	2 Prophecy of Mokoro
+	2 Salt Charm
+	2 Dragonfly Blades
+	2 Gilded Lily
+	2 Chiselled Wrath-Idol
+	2 Familial Burial Urn
+	1 Ahvani, The Stormsiren
+	1 Sister of the Gale
+	1 Vay Nhi, Veiled Matriarch
+	1 Ancestral Decree
+	1 Dhanik, Sangmai Grandmaster
+	1 Thousand Form Stance
+	1 Avatar of Mokoro
+	1 Necrofluorescence
+	1 Reefmother Asangi
+	1 Beneath the Tide
+	1 Spirit of Eternal Discipline
+	1 Petal-Dance Exemplar
+	1 Current-Call Druid
+	1 Arms of the Gale
+	1 Rice Field Banshee
+	1 Deathloam Garden
+	1 Elusive Street-Thief
+	1 Ghilen Blazewind
+	1 Fateflower Mystic
+	1 Luminelth Hydra
+[wildcard(1)]
+	15 Stormcloud Conjurer
+	15 Ancestral Priestess
+	15 Asingha Disciple
+	6 Rustflight Owlguard
+	6 Honored Spiritbinder
+	6 Flame-Walk Protector
+	6 Lotus Spirit
+	6 Osteokai Graveguard
+	6 Krabi-Warrior
+	6 Loxodon Rust Priest
+	6 Ancestral Duty
+	6 Windfist Technique
+	6 Banishing Mist
+	15 Tranquil Bloom
+	6 Pelangi Reef Seer
+	6 Bloomtide Channeler
+	6 Washed Up On Shore
+	6 Veil of the Reef
+	6 Current Shift
+	6 Monsoon's Denial
+	6 Coral Colossus
+	6 Slipstream Knowledge
+	6 Undertow Bindings
+	6 Prophecy of the Reef
+	6 Spirit of the Shallows
+	6 Bloomtide Scout
+	6 Undertow Turtle
+	6 Riptide Naga
+	6 Prophecy of the Temple
+	15 Incense Guru
+	6 Rotgrove Forager
+	6 Ancestral Bone Song
+	6 Ack-ack Beast
+	6 Pactblade Invader
+	6 Ancestoral Grasp
+	6 Ancestor Devourer
+	6 Muck Crawler
+	6 Offering to Mokoro
+	6 Final Banishment
+	6 Rot Jungle's Bloom
+	6 Temple Lantern Keeper
+	6 Quy-Bound Medium
+	6 Cradlebone Speaker
+	6 Prophecy of the Afterlife
+	6 Stormwake Corsair
+	6 Eager Sangmai Initiate
+	6 Magma Blazebuilder
+	6 Kahetra Spark Blade
+	6 Mok Lok's Provoker
+	6 Blazefist Practitioner
+	6 Flaretongue Salamander
+	6 Fury of Rakat Thann
+	6 Snapback Stance
+	6 Emberwake Diversion
+	6 Reckless Training
+	6 Diving Plunder
+	6 Eruption Aura
+	6 Prophecy of the Storm
+	6 Reef Forest Pelangi
+	6 Floramaris Mystic
+	6 Dreadsoil Satiator
+	6 Coral Reefguard
+	6 Bloomboar
+	6 Reefback Protector
+	6 Compost Walker
+	6 Looming Rot-Troll
+	6 Rotcycle
+	6 Mokoro's Pulse
+	6 Purifying Vines
+	6 Burial Ground's Bloom
+	6 Prophecy of the Rot
+	6 Jade Reliquarist
+	6 Spoken Beyond Silence
+	6 Ancestral Necromancer
+	6 Ka-Sai Warrior
+	6 Diving Phoenix Technique
+	6 Sangmai Trialist
+	6 Tideblessed Diver
+	6 Coralstream Mentor
+	6 Harmony's Shell
+	6 Emberwake Tidetail
+	6 Naga Stormbringer
+	6 Twist the Surge
+	6 Fungal Pactkeeper
+	6 Gravecycle Offering
+	15 Shaman of the Big Men
+	6 Mokoro Rot-Shaman
+	6 Iron Lotus Root
+	6 Stormcall Gong
+	6 Ceremonial Bone Talon
+	6 Rustthorn Gauntlet
+	6 Overgrown Rust Guardian
+	6 Temple of Sangmai
+	6 Temple of Kahetra
+	6 Temple of Mokoro
+	6 Temple of Jantira
+	6 Temple of Khuin
+	6 Abandoned Catacomb
+	15 Soul-Marrow Binder
+	15 Sermon of Shadows
+	15 Hanh, Ancestor's Voice
+	15 Sanda, Discipline's Eyes
+	15 Return in Glory
+	15 Ghilen Hope Charger
+	15 Pelangi Wavereader
+	15 Bloomtide's Call
+	15 Aati, Reef's Wisdom
+	15 Mokoro's Will
+	15 Skulkwalker Brood
+	15 Kawali, Death's Hunger
+	15 Scorchwake Feint
+	15 Kembang, Tempest's Rage
+	15 Cindrak Coralfiend
+	15 Sunveil Instructor
+	15 Devoted Edgekeeper
+	15 Windstep Soulcaller
+	15 Ghostly Abuction
+	15 Flying Steel Strike
+	15 Chatura Honorclaw
+	15 Loxodon Temple Guard
+	15 Geist Channeler
+	15 Vessel of Commanding Grace
+	15 Lotus Ascetic
+	15 Iron Body Training
+	6 Backalley Training
+	15 Unsuspecting Thievery
+	15 Familial Adjudicator
+	15 Ironwind Ka-Sai
+	15 Flying Reef Fish
+	15 Tidal-Roh
+	15 Reefsong
+	15 Naga Infiltrator
+	15 Echoed Reflection
+	15 Lost at Sea
+	15 Deep Myst Recollection
+	15 Stormwake Veil
+	15 Meditation State
+	15 Deepdive Submariner
+	15 Kahetra Serpent Rider
+	15 Break Serenity
+	15 Templetide Resonator
+	15 Nimbus Racer
+	15 Coral Diver Scout
+	15 Memoryseed Gardener
+	15 Debtbone Envoy
+	15 Creeping Grudge
+	15 Inheritance Warden
+	15 Deathsprout Bogbat
+	15 Burial-Mound Mauler
+	15 Mokoro Abides
+	15 Desperate Communion
+	15 Searing Psychosis
+	15 Second Burial
+	15 Ancestral Tutor
+	15 Soul-for-Soul
+	15 Lastborn Enforcer
+	15 Breathless Sister
+	15 Mokoro Headhunter
+	15 Tempest Eel
+	15 Sangmai Emberclaw
+	15 Stormchase Arcanist
+	15 Kahetra Lookout
+	15 Forged Ka-Sai
+	15 Scaled Volcanomancer
+	15 Swiftform Striker
+	15 Stormsurge Kraken
+	15 Scorch Strike
+	15 Sun-Bleached Hunger
+	15 Breath Between Blows
+	15 Burning Discipline
+	15 Raging Cyclone
+	15 Ley-Storm Calling
+	15 Empowered Mantra
+	15 Mossvein Harrier
+	15 Rootwake Shepherd
+	15 Tidegrove Archer
+	15 Brackentide Pathfinder
+	15 Seagrace Channeler
+	15 Spined Jungle Prowler
+	15 Mire-Bloom Terror
+	15 Coiling Enlightener
+	15 Pelangi Bondmate
+	15 Deathmist Sweep
+	15 Mokoro's Wrath
+	15 Reef Sigil
+	15 Jantira's Revenge
+	15 Loamline Memories
+	15 Shell Ward
+	15 Pulse-Grown Grips
+	15 Stormbolt Sampan
+	15 Brainstone Idol
+	15 Meditant's Lotus Pho
+	15 Ancestral Wrappings
+	15 Omen of Rot
+	15 Lotus Temple
+	15 Omen of Ascension
+	15 Omen of Storms
+	15 Omen of Passing
+	15 Omen of Tides
+	7 Temple Lotus-Keeper
+	15 Hidden Wat
+	15 Hidden Pagoda
+	15 Hidden Ziggurat
+	15 Hidden Dojo
+	15 Hidden Monastery
+	7 Samart, Hardened Master
+	7 Highland Thewada
+	7 Wandering in Exile
+	7 Chosen Hero's Approach
+	7 Luris, Familial Soulcaller
+	7 Tidefall Tempest
+	7 High Tide Hijinks
+	7 Undercurrent Snapjaw
+	7 Serendipitous Refraction
+	7 Naya, Mindshifter
+	7 Hujan, Galewind Raider
+	7 Family's Demand
+	7 Yaka-Ati, The Huskbloom
+	7 Sorrow-Silk Courtesan
+	7 Auntie Yien, Spirit Matron
+	7 Ka-Trinh Orchidblade
+	7 From Frond to Flesh
+	6 Emberhall Aspirant
+	6 Purifier of Lost Souls
+	6 Corpsebloom Skirmisher
+	7 Jett, Erupting Fist
+	7 Ssaeki, Ragebolt Ionizer
+	7 Skybrand of Wat Khói
+	7 Streetblade Artisan
+	7 Lotus-Fang Slash
+	7 Stormtide Resurgence
+	7 Popoli, Eternally Devoted
+	7 Voice of the Reefmother
+	7 Blooming of Mirelilies
+	7 Jadewurm Guardian
+	7 Undergrowth Larvae
+	7 Ynvi, Sea Tangle Princess
+	7 Paleclaw Escort
+	7 Uncle Cadeo, Banished Soul
+	7 Prophecy of Khuin
+	7 Ancestral Admonishment
+	7 Ca Dao Linh, Lineage Poet
+	7 Flameparry
+	7 Taunting Pridefist
+	7 Master Yhai, Tempered Will
+	7 Lanai, the Butterfly Blade
+	7 Prophecy of Sangmai
+	7 Ravya Stormlash
+	7 Grizz, Cloud Forecaster
+	7 Rough Sea Navigator
+	7 Tempest Burst
+	7 Prophecy of Kahetra
+	7 Lumelith, The Reefwave
+	7 Aomalak, Secret Seeker
+	7 Tendril-Tide Matriarch
+	7 Reef-Form
+	7 Prophecy of Jantira
+	7 Adaliya, Fleshseed Gardener
+	7 Late-Bloomer Wretch
+	7 Mokoro's Call
+	7 Nis'Sath, Vibrant Grave
+	7 Prophecy of Mokoro
+	7 Salt Charm
+	7 Dragonfly Blades
+	7 Gilded Lily
+	7 Chiselled Wrath-Idol
+	7 Familial Burial Urn
+	4 Ahvani, The Stormsiren
+	4 Sister of the Gale
+	4 Vay Nhi, Veiled Matriarch
+	4 Ancestral Decree
+	4 Dhanik, Sangmai Grandmaster
+	4 Thousand Form Stance
+	4 Avatar of Mokoro
+	4 Necrofluorescence
+	4 Reefmother Asangi
+	4 Beneath the Tide
+	4 Spirit of Eternal Discipline
+	4 Petal-Dance Exemplar
+	4 Current-Call Druid
+	4 Arms of the Gale
+	4 Rice Field Banshee
+	4 Deathloam Garden
+	4 Elusive Street-Thief
+	4 Ghilen Blazewind
+	4 Fateflower Mystic
+	4 Luminelth Hydra
