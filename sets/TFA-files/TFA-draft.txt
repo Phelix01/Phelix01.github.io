@@ -1,0 +1,2230 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Mercy Shambler",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Zombie",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/20_Mercy Shambler.png"
+			}
+		},
+		{
+			"name": "Marrow Priest",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/17_Marrow Priest.png"
+			}
+		},
+		{
+			"name": "Dream Monitor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Lizard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/6_Dream Monitor.png"
+			}
+		},
+		{
+			"name": "Pale Towndweller",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Shapeshifter Citizen",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/23_Pale Towndweller.png"
+			}
+		},
+		{
+			"name": "Thrull of the Hollows",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Thrull",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/28_Thrull of the Hollows.png"
+			}
+		},
+		{
+			"name": "Pathless Principality",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Angel",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/24_Pathless Principality.png"
+			}
+		},
+		{
+			"name": "Knight of Nothing",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Knight",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/15_Knight of Nothing.png"
+			}
+		},
+		{
+			"name": "Ephemarch's Witness",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Eye",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/9_Ephemarch's Witness.png"
+			}
+		},
+		{
+			"name": "Forsaken Templar",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/12_Forsaken Templar.png"
+			}
+		},
+		{
+			"name": "Ninth Silence Paragon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Knight Horror",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/22_Ninth Silence Paragon.png"
+			}
+		},
+		{
+			"name": "Echo Escape",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/7_Echo Escape.png"
+			}
+		},
+		{
+			"name": "Facade Rites",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/11_Facade Rites.png"
+			}
+		},
+		{
+			"name": "Memories of Radiance",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/19_Memories of Radiance.png"
+			}
+		},
+		{
+			"name": "Burden of Chains",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/3_Burden of Chains.png"
+			}
+		},
+		{
+			"name": "Calculated Submission",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/140_Calculated Submission.png"
+			}
+		},
+		{
+			"name": "Lost in the Archives",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/146_Lost in the Archives.png"
+			}
+		},
+		{
+			"name": "Bloodwaste Scourge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/139_Bloodwaste Scourge.png"
+			}
+		},
+		{
+			"name": "Flesh Savage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Mutant Barbarian",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/143_Flesh Savage.png"
+			}
+		},
+		{
+			"name": "Waxen Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Plant Golem",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/154_Waxen Sentinel.png"
+			}
+		},
+		{
+			"name": "Unending Guilt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/153_Unending Guilt.png"
+			}
+		},
+		{
+			"name": "Skin-Flayer Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/149_Skin-Flayer Mage.png"
+			}
+		},
+		{
+			"name": "Marrow Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/147_Marrow Shaman.png"
+			}
+		},
+		{
+			"name": "Bleeder Fiend",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/138_Bleeder Fiend.png"
+			}
+		},
+		{
+			"name": "Facedweller Mimic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/142_Facedweller Mimic.png"
+			}
+		},
+		{
+			"name": "Justiciar of Thirst",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/145_Justiciar of Thirst.png"
+			}
+		},
+		{
+			"name": "Suffering Abjudicator",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Creature — Angel Horror",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/151_Suffering Abjudicator.png"
+			}
+		},
+		{
+			"name": "Withered Arcanist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/156_Withered Arcanist.png"
+			}
+		},
+		{
+			"name": "Skittering Echomorph",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/150_Skittering Echomorph.png"
+			}
+		},
+		{
+			"name": "Carrion Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Creature — Horror Shaman",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/141_Carrion Keeper.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/168_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/169_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/170_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/171_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/172_Forest.png"
+			}
+		},
+		{
+			"name": "Madwhisper Disciple",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/51_Madwhisper Disciple.png"
+			}
+		},
+		{
+			"name": "Depth Lurker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Octopus Horror",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/37_Depth Lurker.png"
+			}
+		},
+		{
+			"name": "Mistborn Necromage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/54_Mistborn Necromage.png"
+			}
+		},
+		{
+			"name": "Mistifying Pondweller",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Shapeshifter Citizen",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/55_Mistifying Pondweller.png"
+			}
+		},
+		{
+			"name": "Forgotten Finweaver",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/44_Forgotten Finweaver.png"
+			}
+		},
+		{
+			"name": "Cloudrift Throne",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Angel Eye",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/35_Cloudrift Throne.png"
+			}
+		},
+		{
+			"name": "Nullborn Walker",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Zombie Giant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/56_Nullborn Walker.png"
+			}
+		},
+		{
+			"name": "Anchored Dissent",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/32_Anchored Dissent.png"
+			}
+		},
+		{
+			"name": "Fractured Recall",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/45_Fractured Recall.png"
+			}
+		},
+		{
+			"name": "Shatterform Pulse",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/57_Shatterform Pulse.png"
+			}
+		},
+		{
+			"name": "Echo Beyond Flesh",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/40_Echo Beyond Flesh.png"
+			}
+		},
+		{
+			"name": "Whispers From Below",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/60_Whispers From Below.png"
+			}
+		},
+		{
+			"name": "Ghost-sight Ritual",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/46_Ghost-sight Ritual.png"
+			}
+		},
+		{
+			"name": "Dread Shackle",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/38_Dread Shackle.png"
+			}
+		},
+		{
+			"name": "Foglost Minotaur",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Minotaur",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/72_Foglost Minotaur.png"
+			}
+		},
+		{
+			"name": "Sepsis Maiden",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/85_Sepsis Maiden.png"
+			}
+		},
+		{
+			"name": "Blood Chalice Priest",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/63_Blood Chalice Priest.png"
+			}
+		},
+		{
+			"name": "Bleakcast Sorcerer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/62_Bleakcast Sorcerer.png"
+			}
+		},
+		{
+			"name": "Gnarlbelly Gourmand",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/75_Gnarlbelly Gourmand.png"
+			}
+		},
+		{
+			"name": "Griefshroud Acolyte",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/77_Griefshroud Acolyte.png"
+			}
+		},
+		{
+			"name": "Eater of Soft Bones",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/70_Eater of Soft Bones.png"
+			}
+		},
+		{
+			"name": "Carrion Picker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/67_Carrion Picker.png"
+			}
+		},
+		{
+			"name": "Blood Trance",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/64_Blood Trance.png"
+			}
+		},
+		{
+			"name": "Sinful Repentance",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/86_Sinful Repentance.png"
+			}
+		},
+		{
+			"name": "Made From the Maw",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/79_Made From the Maw.png"
+			}
+		},
+		{
+			"name": "Mourn the Forgotten",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/81_Mourn the Forgotten.png"
+			}
+		},
+		{
+			"name": "Demented Visions",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/68_Demented Visions.png"
+			}
+		},
+		{
+			"name": "Rites of the Eaten",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/84_Rites of the Eaten.png"
+			}
+		},
+		{
+			"name": "Flayed Meat Walker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Horror",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/109_Flayed Meat Walker.png"
+			}
+		},
+		{
+			"name": "Fireblood Ravager",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Vampire",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/108_Fireblood Ravager.png"
+			}
+		},
+		{
+			"name": "Crazed Pyromancer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/106_Crazed Pyromancer.png"
+			}
+		},
+		{
+			"name": "Tombellow Stoker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/119_Tombellow Stoker.png"
+			}
+		},
+		{
+			"name": "Ruin-Courier Jek",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Skeleton",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/114_Ruin-Courier Jek.png"
+			}
+		},
+		{
+			"name": "Spasmflame Devil",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Devil Warlock",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/118_Spasmflame Devil.png"
+			}
+		},
+		{
+			"name": "Guttertusk Beast",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Rhino",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/110_Guttertusk Beast.png"
+			}
+		},
+		{
+			"name": "Scorchclaw Corpse",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Skeleton Wolf",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/115_Scorchclaw Corpse.png"
+			}
+		},
+		{
+			"name": "Charge into the Smog",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/104_Charge into the Smog.png"
+			}
+		},
+		{
+			"name": "Severence Eruption",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/116_Severence Eruption.png"
+			}
+		},
+		{
+			"name": "Madness Blast",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/112_Madness Blast.png"
+			}
+		},
+		{
+			"name": "Path of the Flameleech",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/113_Path of the Flameleech.png"
+			}
+		},
+		{
+			"name": "Bathe in Blood Memory",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/103_Bathe in Blood Memory.png"
+			}
+		},
+		{
+			"name": "Ignite Flesh and Stone",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/111_Ignite Flesh and Stone.png"
+			}
+		},
+		{
+			"name": "Desprate Growth Sprite",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental Mystic",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/123_Desprate Growth Sprite.png"
+			}
+		},
+		{
+			"name": "Uncanny Treedweller",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Shapeshifter Citizen",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/134_Uncanny Treedweller.png"
+			}
+		},
+		{
+			"name": "Dreamroot Aberration",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Horror Druid",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/124_Dreamroot Aberration.png"
+			}
+		},
+		{
+			"name": "Mawblood Gnasher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Vampire Beast",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/127_Mawblood Gnasher.png"
+			}
+		},
+		{
+			"name": "Root-Pale Wretch",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Mutant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/130_Root-Pale Wretch.png"
+			}
+		},
+		{
+			"name": "Witherbark Seer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/136_Witherbark Seer.png"
+			}
+		},
+		{
+			"name": "Broken Cradle Bearer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk Horror",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/121_Broken Cradle Bearer.png"
+			}
+		},
+		{
+			"name": "Cradle-Moss Spawn",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/122_Cradle-Moss Spawn.png"
+			}
+		},
+		{
+			"name": "Ghostbloom Grizzly",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Plant Bear",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/126_Ghostbloom Grizzly.png"
+			}
+		},
+		{
+			"name": "Pulse of Blind Roots",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/129_Pulse of Blind Roots.png"
+			}
+		},
+		{
+			"name": "Tangled Memory-Trap",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/132_Tangled Memory-Trap.png"
+			}
+		},
+		{
+			"name": "Petrified Offering",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/128_Petrified Offering.png"
+			}
+		},
+		{
+			"name": "Vengeful Roots",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/135_Vengeful Roots.png"
+			}
+		},
+		{
+			"name": "Scent of the Consumed",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/131_Scent of the Consumed.png"
+			}
+		},
+		{
+			"name": "Effigy of Guilt",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/8_Effigy of Guilt.png"
+			}
+		},
+		{
+			"name": "Effigy of Delusion",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/41_Effigy of Delusion.png"
+			}
+		},
+		{
+			"name": "Effigy of Obsession",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/71_Effigy of Obsession.png"
+			}
+		},
+		{
+			"name": "Effigy of Hunger",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/125_Effigy of Hunger.png"
+			}
+		},
+		{
+			"name": "Effigy of Thirst",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/107_Effigy of Thirst.png"
+			}
+		},
+		{
+			"name": "Absolved Flagellant",
+			"rarity": "common",
+			"mana_cost": "{2/W}{2/U}{2/B}",
+			"type": "Creature — Angel Horror",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/137_Absolved Flagellant.png"
+			}
+		},
+		{
+			"name": "Waxveil Pretender",
+			"rarity": "common",
+			"mana_cost": "{2/G}{2/W}{2/U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/155_Waxveil Pretender.png"
+			}
+		},
+		{
+			"name": "Residualist Necromage",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/B}{2/R}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/148_Residualist Necromage.png"
+			}
+		},
+		{
+			"name": "Thirst-Touched Ritualist",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/G}{2/W}",
+			"type": "Creature — Vampire Druid",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/152_Thirst-Touched Ritualist.png"
+			}
+		},
+		{
+			"name": "Gutmouth Cannibal",
+			"rarity": "common",
+			"mana_cost": "{2/B}{2/R}{2/G}",
+			"type": "Creature — Ogre Berserker",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/144_Gutmouth Cannibal.png"
+			}
+		},
+		{
+			"name": "Deadwastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Deadzone",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/162_Deadwastes.png"
+			}
+		},
+		{
+			"name": "Deadzone of Wounds",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Deadzone",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/167_Deadzone of Wounds.png"
+			}
+		},
+		{
+			"name": "Deadzone of Facades",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Deadzone",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/164_Deadzone of Facades.png"
+			}
+		},
+		{
+			"name": "Deadzone of Flesh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Deadzone",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/165_Deadzone of Flesh.png"
+			}
+		},
+		{
+			"name": "Deadzone of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Deadzone",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/163_Deadzone of Blood.png"
+			}
+		},
+		{
+			"name": "Deadzone of Madness",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Deadzone",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/166_Deadzone of Madness.png"
+			}
+		},
+		{
+			"name": "Inert Sol Ring",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/160_Inert Sol Ring.png"
+			}
+		},
+		{
+			"name": "Rusted Arcane Clock",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/161_Rusted Arcane Clock.png"
+			}
+		},
+		{
+			"name": "Fractured Monument",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/158_Fractured Monument.png"
+			}
+		},
+		{
+			"name": "Gravetower Monolith",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/159_Gravetower Monolith.png"
+			}
+		},
+		{
+			"name": "Broken Skittershield",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/157_Broken Skittershield.png"
+			}
+		},
+		{
+			"name": "Pureline Bloodbeak",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Vampire Bird",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/25_Pureline Bloodbeak.png"
+			}
+		},
+		{
+			"name": "Nameless",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/21_Nameless.png"
+			}
+		},
+		{
+			"name": "Hopeless Enigma",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Horror Illusion",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/14_Hopeless Enigma.png"
+			}
+		},
+		{
+			"name": "Knight of the Ninth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/16_Knight of the Ninth.png"
+			}
+		},
+		{
+			"name": "Facade Dweller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Shapeshifter Mystic",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/10_Facade Dweller.png"
+			}
+		},
+		{
+			"name": "Breaker of Lies",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox Monk",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/2_Breaker of Lies.png"
+			}
+		},
+		{
+			"name": "Severed Vein Saint",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/26_Severed Vein Saint.png"
+			}
+		},
+		{
+			"name": "Shambling Lamplighter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Zombie Citizen",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/27_Shambling Lamplighter.png"
+			}
+		},
+		{
+			"name": "Watcher Beneath Skin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Eye Horror",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/29_Watcher Beneath Skin.png"
+			}
+		},
+		{
+			"name": "Woundharrow Angel",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/30_Woundharrow Angel.png"
+			}
+		},
+		{
+			"name": "Martyrize",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/18_Martyrize.png"
+			}
+		},
+		{
+			"name": "Ancestral Hemorrhage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/1_Ancestral Hemorrhage.png"
+			}
+		},
+		{
+			"name": "Delirium Shock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/5_Delirium Shock.png"
+			}
+		},
+		{
+			"name": "Call of the Before",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/4_Call of the Before.png"
+			}
+		},
+		{
+			"name": "Hierarchy of Scars",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/13_Hierarchy of Scars.png"
+			}
+		},
+		{
+			"name": "Dream-Home Hostess",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/39_Dream-Home Hostess.png"
+			}
+		},
+		{
+			"name": "Mindless Enigma",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Horror Illusion",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/52_Mindless Enigma.png"
+			}
+		},
+		{
+			"name": "Mindnumb Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/53_Mindnumb Mage.png"
+			}
+		},
+		{
+			"name": "Gravepicker Tick",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/48_Gravepicker Tick.png"
+			}
+		},
+		{
+			"name": "Deadweave Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/36_Deadweave Channeler.png"
+			}
+		},
+		{
+			"name": "Exactor of Silence",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Angel Horror",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/43_Exactor of Silence.png"
+			}
+		},
+		{
+			"name": "Throneless Kingfoul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Noble",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/59_Throneless Kingfoul.png"
+			}
+		},
+		{
+			"name": "The Clatterdream",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Horror Illusion",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/34_The Clatterdream.png"
+			}
+		},
+		{
+			"name": "Skin of a Stranger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/58_Skin of a Stranger.png"
+			}
+		},
+		{
+			"name": "Gift of Delusion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/47_Gift of Delusion.png"
+			}
+		},
+		{
+			"name": "Above the Clouded Self",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/31_Above the Clouded Self.png"
+			}
+		},
+		{
+			"name": "Become Not",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/33_Become Not.png"
+			}
+		},
+		{
+			"name": "What You Dreamt of Me",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/120_What You Dreamt of Me.png"
+			}
+		},
+		{
+			"name": "Guiltstruck",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/49_Guiltstruck.png"
+			}
+		},
+		{
+			"name": "Lunacy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/50_Lunacy.png"
+			}
+		},
+		{
+			"name": "Encountered in a Dream",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/42_Encountered in a Dream.png"
+			}
+		},
+		{
+			"name": "God-Flesh Savant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/76_God-Flesh Savant.png"
+			}
+		},
+		{
+			"name": "Gangrub, Recurring Nightmare",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Nightmare Horror",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/73_Gangrub, Recurring Nightmare.png"
+			}
+		},
+		{
+			"name": "Burial Shroud",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/66_Burial Shroud.png"
+			}
+		},
+		{
+			"name": "Gaze Beyond Despair",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/74_Gaze Beyond Despair.png"
+			}
+		},
+		{
+			"name": "Breathe Insanity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/65_Breathe Insanity.png"
+			}
+		},
+		{
+			"name": "Ancestral Flesh-Feast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/61_Ancestral Flesh-Feast.png"
+			}
+		},
+		{
+			"name": "Marrowbirth",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/80_Marrowbirth.png"
+			}
+		},
+		{
+			"name": "Spasm of Agony",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/87_Spasm of Agony.png"
+			}
+		},
+		{
+			"name": "Night Stalker Imp",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Imp",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/82_Night Stalker Imp.png"
+			}
+		},
+		{
+			"name": "Suffering Scourge",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/88_Suffering Scourge.png"
+			}
+		},
+		{
+			"name": "Dustrisen Archfiend",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/69_Dustrisen Archfiend.png"
+			}
+		},
+		{
+			"name": "Tombtail Scorpion",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Scorpion",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/89_Tombtail Scorpion.png"
+			}
+		},
+		{
+			"name": "Lifeless Enigma",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror Illusion",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/78_Lifeless Enigma.png"
+			}
+		},
+		{
+			"name": "Whisperwound Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/90_Whisperwound Acolyte.png"
+			}
+		},
+		{
+			"name": "Residualist Necromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/83_Residualist Necromancer.png"
+			}
+		},
+		{
+			"name": "Cooridor Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Fungus",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/105_Cooridor Lurker.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/92_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/93_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/95_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/96_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/91_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/101_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/100_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/99_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/98_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/97_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/94_.png"
+			}
+		},
+		{
+			"name": "Shameless Enigma",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Horror Illusion",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/117_Shameless Enigma.png"
+			}
+		},
+		{
+			"name": "Bane of Nightmares",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Nightmare Wizard",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/102_Bane of Nightmares.png"
+			}
+		},
+		{
+			"name": "Tasteless Enigma",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Horror Illusion",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/TFA-files/img/133_Tasteless Enigma.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+	4 Calculated Submission
+	4 Lost in the Archives
+	4 Bloodwaste Scourge
+	4 Flesh Savage
+	4 Waxen Sentinel
+	4 Unending Guilt
+	4 Skin-Flayer Mage
+	4 Marrow Shaman
+	4 Bleeder Fiend
+	4 Facedweller Mimic
+	4 Justiciar of Thirst
+	4 Suffering Abjudicator
+	4 Withered Arcanist
+	4 Skittering Echomorph
+	4 Carrion Keeper
+	4 Deadzone of Wounds
+	4 Deadzone of Facades
+	4 Deadzone of Flesh
+	4 Deadzone of Blood
+	4 Deadzone of Madness
+	4 Pureline Bloodbeak
+	4 Nameless
+	4 Hopeless Enigma
+	4 Knight of the Ninth
+	4 Facade Dweller
+	4 Breaker of Lies
+	4 Severed Vein Saint
+	4 Shambling Lamplighter
+	4 Watcher Beneath Skin
+	4 Woundharrow Angel
+	4 Martyrize
+	4 Ancestral Hemorrhage
+	4 Delirium Shock
+	4 Call of the Before
+	4 Hierarchy of Scars
+	4 Dream-Home Hostess
+	4 Mindless Enigma
+	4 Mindnumb Mage
+	4 Gravepicker Tick
+	4 Deadweave Channeler
+	4 Exactor of Silence
+	4 Throneless Kingfoul
+	4 The Clatterdream
+	4 Skin of a Stranger
+	4 Gift of Delusion
+	4 Above the Clouded Self
+	4 Become Not
+	4 What You Dreamt of Me
+	4 Guiltstruck
+	4 Lunacy
+	4 Encountered in a Dream
+	4 God-Flesh Savant
+	4 Gangrub, Recurring Nightmare
+	4 Burial Shroud
+	4 Gaze Beyond Despair
+	4 Breathe Insanity
+	4 Ancestral Flesh-Feast
+	4 Marrowbirth
+	4 Spasm of Agony
+	4 Night Stalker Imp
+	4 Suffering Scourge
+	4 Dustrisen Archfiend
+	4 Tombtail Scorpion
+	4 Lifeless Enigma
+	4 Whisperwound Acolyte
+	4 Residualist Necromancer
+	4 Cooridor Lurker
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 Shameless Enigma
+	4 Bane of Nightmares
+	4 Tasteless Enigma
+[common(7)]
+	8 Mercy Shambler
+	8 Marrow Priest
+	8 Dream Monitor
+	8 Pale Towndweller
+	8 Thrull of the Hollows
+	8 Pathless Principality
+	8 Knight of Nothing
+	8 Ephemarch's Witness
+	8 Forsaken Templar
+	8 Ninth Silence Paragon
+	8 Echo Escape
+	8 Facade Rites
+	8 Memories of Radiance
+	8 Burden of Chains
+	8 Madwhisper Disciple
+	8 Depth Lurker
+	8 Mistborn Necromage
+	8 Mistifying Pondweller
+	8 Forgotten Finweaver
+	8 Cloudrift Throne
+	8 Nullborn Walker
+	8 Anchored Dissent
+	8 Fractured Recall
+	8 Shatterform Pulse
+	8 Echo Beyond Flesh
+	8 Whispers From Below
+	8 Ghost-sight Ritual
+	8 Dread Shackle
+	8 Foglost Minotaur
+	8 Sepsis Maiden
+	8 Blood Chalice Priest
+	8 Bleakcast Sorcerer
+	8 Gnarlbelly Gourmand
+	8 Griefshroud Acolyte
+	8 Eater of Soft Bones
+	8 Carrion Picker
+	8 Blood Trance
+	8 Sinful Repentance
+	8 Made From the Maw
+	8 Mourn the Forgotten
+	8 Demented Visions
+	8 Rites of the Eaten
+	8 Flayed Meat Walker
+	8 Fireblood Ravager
+	8 Crazed Pyromancer
+	8 Tombellow Stoker
+	8 Ruin-Courier Jek
+	8 Spasmflame Devil
+	8 Guttertusk Beast
+	8 Scorchclaw Corpse
+	8 Charge into the Smog
+	8 Severence Eruption
+	8 Madness Blast
+	8 Path of the Flameleech
+	8 Bathe in Blood Memory
+	8 Ignite Flesh and Stone
+	8 Desprate Growth Sprite
+	8 Uncanny Treedweller
+	8 Dreamroot Aberration
+	8 Mawblood Gnasher
+	8 Root-Pale Wretch
+	8 Witherbark Seer
+	8 Broken Cradle Bearer
+	8 Cradle-Moss Spawn
+	8 Ghostbloom Grizzly
+	8 Pulse of Blind Roots
+	8 Tangled Memory-Trap
+	8 Petrified Offering
+	8 Vengeful Roots
+	8 Scent of the Consumed
+	8 Effigy of Guilt
+	8 Effigy of Delusion
+	8 Effigy of Obsession
+	8 Effigy of Hunger
+	8 Effigy of Thirst
+	8 Absolved Flagellant
+	8 Waxveil Pretender
+	8 Residualist Necromage
+	8 Thirst-Touched Ritualist
+	8 Gutmouth Cannibal
+	8 Deadwastes
+	8 Inert Sol Ring
+	8 Rusted Arcane Clock
+	8 Fractured Monument
+	8 Gravetower Monolith
+	8 Broken Skittershield
+[foil(1)]
+	12 Mercy Shambler
+	12 Marrow Priest
+	12 Dream Monitor
+	12 Pale Towndweller
+	12 Thrull of the Hollows
+	12 Pathless Principality
+	12 Knight of Nothing
+	12 Ephemarch's Witness
+	12 Forsaken Templar
+	12 Ninth Silence Paragon
+	12 Echo Escape
+	12 Facade Rites
+	12 Memories of Radiance
+	12 Burden of Chains
+	6 Calculated Submission
+	6 Lost in the Archives
+	6 Bloodwaste Scourge
+	6 Flesh Savage
+	6 Waxen Sentinel
+	6 Unending Guilt
+	6 Skin-Flayer Mage
+	6 Marrow Shaman
+	6 Bleeder Fiend
+	6 Facedweller Mimic
+	6 Justiciar of Thirst
+	6 Suffering Abjudicator
+	6 Withered Arcanist
+	6 Skittering Echomorph
+	6 Carrion Keeper
+	12 Madwhisper Disciple
+	12 Depth Lurker
+	12 Mistborn Necromage
+	12 Mistifying Pondweller
+	12 Forgotten Finweaver
+	12 Cloudrift Throne
+	12 Nullborn Walker
+	12 Anchored Dissent
+	12 Fractured Recall
+	12 Shatterform Pulse
+	12 Echo Beyond Flesh
+	12 Whispers From Below
+	12 Ghost-sight Ritual
+	12 Dread Shackle
+	12 Foglost Minotaur
+	12 Sepsis Maiden
+	12 Blood Chalice Priest
+	12 Bleakcast Sorcerer
+	12 Gnarlbelly Gourmand
+	12 Griefshroud Acolyte
+	12 Eater of Soft Bones
+	12 Carrion Picker
+	12 Blood Trance
+	12 Sinful Repentance
+	12 Made From the Maw
+	12 Mourn the Forgotten
+	12 Demented Visions
+	12 Rites of the Eaten
+	12 Flayed Meat Walker
+	12 Fireblood Ravager
+	12 Crazed Pyromancer
+	12 Tombellow Stoker
+	12 Ruin-Courier Jek
+	12 Spasmflame Devil
+	12 Guttertusk Beast
+	12 Scorchclaw Corpse
+	12 Charge into the Smog
+	12 Severence Eruption
+	12 Madness Blast
+	12 Path of the Flameleech
+	12 Bathe in Blood Memory
+	12 Ignite Flesh and Stone
+	12 Desprate Growth Sprite
+	12 Uncanny Treedweller
+	12 Dreamroot Aberration
+	12 Mawblood Gnasher
+	12 Root-Pale Wretch
+	12 Witherbark Seer
+	12 Broken Cradle Bearer
+	12 Cradle-Moss Spawn
+	12 Ghostbloom Grizzly
+	12 Pulse of Blind Roots
+	12 Tangled Memory-Trap
+	12 Petrified Offering
+	12 Vengeful Roots
+	12 Scent of the Consumed
+	12 Effigy of Guilt
+	12 Effigy of Delusion
+	12 Effigy of Obsession
+	12 Effigy of Hunger
+	12 Effigy of Thirst
+	12 Absolved Flagellant
+	12 Waxveil Pretender
+	12 Residualist Necromage
+	12 Thirst-Touched Ritualist
+	12 Gutmouth Cannibal
+	12 Deadwastes
+	6 Deadzone of Wounds
+	6 Deadzone of Facades
+	6 Deadzone of Flesh
+	6 Deadzone of Blood
+	6 Deadzone of Madness
+	12 Inert Sol Ring
+	12 Rusted Arcane Clock
+	12 Fractured Monument
+	12 Gravetower Monolith
+	12 Broken Skittershield
+	6 Pureline Bloodbeak
+	6 Nameless
+	6 Hopeless Enigma
+	6 Knight of the Ninth
+	6 Facade Dweller
+	6 Breaker of Lies
+	6 Severed Vein Saint
+	6 Shambling Lamplighter
+	6 Watcher Beneath Skin
+	6 Woundharrow Angel
+	6 Martyrize
+	6 Ancestral Hemorrhage
+	6 Delirium Shock
+	6 Call of the Before
+	6 Hierarchy of Scars
+	6 Dream-Home Hostess
+	6 Mindless Enigma
+	6 Mindnumb Mage
+	6 Gravepicker Tick
+	6 Deadweave Channeler
+	6 Exactor of Silence
+	6 Throneless Kingfoul
+	6 The Clatterdream
+	6 Skin of a Stranger
+	6 Gift of Delusion
+	6 Above the Clouded Self
+	6 Become Not
+	6 What You Dreamt of Me
+	6 Guiltstruck
+	6 Lunacy
+	6 Encountered in a Dream
+	6 God-Flesh Savant
+	6 Gangrub, Recurring Nightmare
+	6 Burial Shroud
+	6 Gaze Beyond Despair
+	6 Breathe Insanity
+	6 Ancestral Flesh-Feast
+	6 Marrowbirth
+	6 Spasm of Agony
+	6 Night Stalker Imp
+	6 Suffering Scourge
+	6 Dustrisen Archfiend
+	6 Tombtail Scorpion
+	6 Lifeless Enigma
+	6 Whisperwound Acolyte
+	6 Residualist Necromancer
+	6 Cooridor Lurker
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 Shameless Enigma
+	6 Bane of Nightmares
+	6 Tasteless Enigma
+[wildcard(1)]
+	6 Mercy Shambler
+	6 Marrow Priest
+	6 Dream Monitor
+	6 Pale Towndweller
+	6 Thrull of the Hollows
+	6 Pathless Principality
+	6 Knight of Nothing
+	6 Ephemarch's Witness
+	6 Forsaken Templar
+	6 Ninth Silence Paragon
+	6 Echo Escape
+	6 Facade Rites
+	6 Memories of Radiance
+	6 Burden of Chains
+	15 Calculated Submission
+	15 Lost in the Archives
+	15 Bloodwaste Scourge
+	15 Flesh Savage
+	15 Waxen Sentinel
+	15 Unending Guilt
+	15 Skin-Flayer Mage
+	15 Marrow Shaman
+	15 Bleeder Fiend
+	15 Facedweller Mimic
+	15 Justiciar of Thirst
+	15 Suffering Abjudicator
+	15 Withered Arcanist
+	15 Skittering Echomorph
+	15 Carrion Keeper
+	6 Madwhisper Disciple
+	6 Depth Lurker
+	6 Mistborn Necromage
+	6 Mistifying Pondweller
+	6 Forgotten Finweaver
+	6 Cloudrift Throne
+	6 Nullborn Walker
+	6 Anchored Dissent
+	6 Fractured Recall
+	6 Shatterform Pulse
+	6 Echo Beyond Flesh
+	6 Whispers From Below
+	6 Ghost-sight Ritual
+	6 Dread Shackle
+	6 Foglost Minotaur
+	6 Sepsis Maiden
+	6 Blood Chalice Priest
+	6 Bleakcast Sorcerer
+	6 Gnarlbelly Gourmand
+	6 Griefshroud Acolyte
+	6 Eater of Soft Bones
+	6 Carrion Picker
+	6 Blood Trance
+	6 Sinful Repentance
+	6 Made From the Maw
+	6 Mourn the Forgotten
+	6 Demented Visions
+	6 Rites of the Eaten
+	6 Flayed Meat Walker
+	6 Fireblood Ravager
+	6 Crazed Pyromancer
+	6 Tombellow Stoker
+	6 Ruin-Courier Jek
+	6 Spasmflame Devil
+	6 Guttertusk Beast
+	6 Scorchclaw Corpse
+	6 Charge into the Smog
+	6 Severence Eruption
+	6 Madness Blast
+	6 Path of the Flameleech
+	6 Bathe in Blood Memory
+	6 Ignite Flesh and Stone
+	6 Desprate Growth Sprite
+	6 Uncanny Treedweller
+	6 Dreamroot Aberration
+	6 Mawblood Gnasher
+	6 Root-Pale Wretch
+	6 Witherbark Seer
+	6 Broken Cradle Bearer
+	6 Cradle-Moss Spawn
+	6 Ghostbloom Grizzly
+	6 Pulse of Blind Roots
+	6 Tangled Memory-Trap
+	6 Petrified Offering
+	6 Vengeful Roots
+	6 Scent of the Consumed
+	6 Effigy of Guilt
+	6 Effigy of Delusion
+	6 Effigy of Obsession
+	6 Effigy of Hunger
+	6 Effigy of Thirst
+	6 Absolved Flagellant
+	6 Waxveil Pretender
+	6 Residualist Necromage
+	6 Thirst-Touched Ritualist
+	6 Gutmouth Cannibal
+	6 Deadwastes
+	15 Deadzone of Wounds
+	15 Deadzone of Facades
+	15 Deadzone of Flesh
+	15 Deadzone of Blood
+	15 Deadzone of Madness
+	6 Inert Sol Ring
+	6 Rusted Arcane Clock
+	6 Fractured Monument
+	6 Gravetower Monolith
+	6 Broken Skittershield
+	15 Pureline Bloodbeak
+	15 Nameless
+	15 Hopeless Enigma
+	15 Knight of the Ninth
+	15 Facade Dweller
+	15 Breaker of Lies
+	15 Severed Vein Saint
+	15 Shambling Lamplighter
+	15 Watcher Beneath Skin
+	15 Woundharrow Angel
+	15 Martyrize
+	15 Ancestral Hemorrhage
+	15 Delirium Shock
+	15 Call of the Before
+	15 Hierarchy of Scars
+	15 Dream-Home Hostess
+	15 Mindless Enigma
+	15 Mindnumb Mage
+	15 Gravepicker Tick
+	15 Deadweave Channeler
+	15 Exactor of Silence
+	15 Throneless Kingfoul
+	15 The Clatterdream
+	15 Skin of a Stranger
+	15 Gift of Delusion
+	15 Above the Clouded Self
+	15 Become Not
+	15 What You Dreamt of Me
+	15 Guiltstruck
+	15 Lunacy
+	15 Encountered in a Dream
+	15 God-Flesh Savant
+	15 Gangrub, Recurring Nightmare
+	15 Burial Shroud
+	15 Gaze Beyond Despair
+	15 Breathe Insanity
+	15 Ancestral Flesh-Feast
+	15 Marrowbirth
+	15 Spasm of Agony
+	15 Night Stalker Imp
+	15 Suffering Scourge
+	15 Dustrisen Archfiend
+	15 Tombtail Scorpion
+	15 Lifeless Enigma
+	15 Whisperwound Acolyte
+	15 Residualist Necromancer
+	15 Cooridor Lurker
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 Shameless Enigma
+	15 Bane of Nightmares
+	15 Tasteless Enigma
