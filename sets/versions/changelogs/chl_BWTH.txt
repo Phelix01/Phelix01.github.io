@@ -1,4 +1,679 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Scripted Retraction added.
+Blessing of Kin added.
+Skittering Renewal added.
+Vexis the Patient added.
+Leichek, Funeral Baron added.
+Wavetide Dance added.
+Performance Preview added.
+Carrion Vessel added.
+Ceremonious Veterans added.
+
+Scripted Denial removed.
+Shadowed Archivist removed.
+Vineblood Brawler removed.
+Wreathborne Shepherd removed.
+Marshal of Wakes removed.
+Party Pixie removed.
+Ettoro, Master Puppeteer removed.
+Procession of Petals removed.
+Thissara, Mind Weaver removed.
+
+Festival Banner-Bearer
+
+Confetti Elemental
+
+Rhythm Caller
+
+Ceremonious Knight
+rules_text: Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i] => 
+[b]Composed |[/b] Ceremonious Knight has vigilance.
+[b]Compelled |[/b] Ceremonious Knight gets +0/+2.
+
+Dwarven Flash Mob
+
+Parade Guide
+rules_text: [i]Procession 1 —[/i] Whenever another creature you control enters, if you control one or more other creatures, Parade Guide gets +1/+1 until end of turn. => Whenever token creature enters under your control this turn, this creature gets +1/+1 until end of turn.
+
+Stage-Trained Familiar
+
+Choreographed Sentry
+rules_text:  => Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed | [/b]Choreographed Sentry has first strike.
+[b]Compelled |[/b] Choreographed Sentry gets +2/+0.
+
+Silk Seamstress
+
+Vulpine Grace-Dancer
+rules_text: Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i] => 
+[b]Composed |[/b] {T}: Scry 1.
+[b]Compelled |[/b] Other Performers you control get +1/+1.
+
+Pearlback Spindler
+
+Luminary Protector
+
+Choreographed Strike
+
+Lanternlight Charge
+
+Moment of Benediction
+
+Encore of Triumph
+
+Phantom Ball
+
+Stoic Masquerade
+
+Party Foul
+
+Scripted Observer
+rules_text:  => Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[/b] Up to one target creature gets -2/-0.
+[b]Compelled |[/b] Whenever Scripted Observer attacks, scry 1.
+
+Gildscroll Playwright
+
+Ethereal Flutist
+rules_text:  => Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[/b] Another target creature has flying.
+[b]Compelled |[/b] Ethereal Flutist can't be blocked.
+
+Aegiswing Arbiter
+
+Maskscroll Familiar
+
+Petalveiled Trickster
+
+Mirrorleaf Shaper
+
+Mistveil Echo
+
+Petal Phantasm
+
+Sproutveil Familiar
+
+Sapphireback Spindler
+
+Measured Flourish
+
+Choreographed Dismissal
+
+Curtain of Mist
+
+Rehearsed Illusion
+
+Moonlit Waltz
+
+Poised for Greatness
+
+Whispering Wisteria
+rules_text: [i]Procession 2 — [/i]Whenever a creature you control enters, if you control two or more other creatures that share a creature type, tap or untap up to one other creature. Do this only once each turn. => Whenever a creature you control enters, if you control a nontoken creature that shares a creature type with another creature you control, tap or untap up to one target creature. Do this only once each turn.
+
+Catacomb Marionette
+
+Stonegaze Petrifex
+
+Duskcaller Undertaker
+
+Cryptmask Swarmer
+
+Helltongue Flame Eater
+
+Confetti Collector
+
+Jubilant Harlequin
+
+Last Act Heckler
+
+Onyxback Spindler
+
+Curtain Wailer
+
+Twist Ending
+
+Deadly Encore
+
+Nightmask Omen
+
+Dramatic Interlude
+
+Stingveil
+
+Cackling Comeback
+
+Faceless Truth
+
+Punchline Curse
+
+Twisted Theater
+
+Firegag Jester
+
+Daredevil Harlequin
+
+Charpyre Scamp
+
+Crackfire Devil
+
+Parade Vanguard
+rules_text: [i]Procession 2 — [/i]Whenever another creature you control enters, if you control two or more other creatures, Parade Vanguard gains first strike until end of turn. => [i]Celebration[/i] — As long as two or more nonland permanents entered under your control this turn, this creature has first-strike.
+
+Rubyback Spindler
+
+Banner-Whirl Acrobat
+rules_text: [i]Procession 1 —[/i] Whenever another creature you control enters, if you control one or more other creatures, Banner-Whirl Acrobat gains flying until end of turn.
+Other Performers you control get +1/+0. => [i][i]Celebration[/i] —[/i] As long as two or more nonland permanents entered under your control this turn, this creature has flying.
+Other Performers you control get +1/+0.
+
+Lanternblaze Chanter
+
+Stage-Tumble Ruffian
+
+Ember Harrier
+
+Brimwreath Greeter
+rules_text: Whenever another creature enters under your control, Brimwreath Greeter gets +1/+0 until end of turn. => Whenever another creature enters under your control, this creature gets +1/+0 until end of turn.
+
+Explosive Ovation
+
+Fatal Banter
+
+Sudden Curtain Call
+
+Firebreather's Glory
+
+Crimson Welcoming
+
+Stike the Stage
+
+Hellish Harmony
+
+Predator's Masquerade
+
+Bloompath Dancer
+
+Bloom-Strider
+
+Canopy Vinedancer
+
+Cryptmask Scout
+
+Pallbearer Myconid
+
+Garden Lasher
+
+Eulogist's Puppet
+
+Brimwreath Trailblazer
+
+Moss Burrower
+
+Mossmantle Sprite
+
+Funeral Harpist
+
+Wildblood Unity
+
+Trailblazer's Resolve
+
+Wild Improvisation
+
+Funeral Bloom
+
+Beneath the Canopy
+
+Flourish
+
+Burial Rites
+
+Scrollgarden Steward
+rules_text: Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i] => Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[/b] Creatures you control have vigilance.
+[b]Compelled |[/b] Other creatures you control get +2/+2.
+
+Revelry Archivist
+rules_text: Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[/b] Enchantment spells you cast cost {1} less to cast.
+[b]Compelled |[/b] {1}{W}, {T}: Return target enchantment card from your graveyard to your hand. => Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[/b] Enchantment spells you cast cost {1} less to cast.
+[b]Compelled | 1[/b]W, {T}: Return target enchantment card from your graveyard to your hand.
+
+Trumpet Herald
+rules_text: [i]Procession 2 — [/i]When Trumpet Herald enters under your control, if you control two or more other creatures, create two 1/1 white Spirit creature tokens with flying. => [i][i]Celebration[/i] — {T}: [/i]Tap untapped target creature. Activate only if two or more nonland permanents entered under your control this turn.
+
+Exhibition Duelist
+
+Festival Courier
+
+Moonblade Aspirant
+
+Covert Analyst
+
+Transpuppify
+
+Poised Retribution
+
+March of the Halo
+
+Director's Will
+
+Aerial Windcaster
+rules_text: Flying, Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i] => Flying; Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[/b] Whenever you cast an instant or sorcery spell, you may tap target creature.
+[b]Compelled | [/b]Whenever you cast an instant or sorcery spell, you may untap target creature you control.
+
+Lumina Jelly
+
+Masqued Echomage
+rules_text: [i]Procession 2 — [/i]Whenever Masqued Echomage or another nontoken creature you control enters, if you control two or more other nontoken creatures, create a token copy of Masqued Echomage, except it has no abilities and is an Illusion in addition to its other types. => Whenever a nontoken creature you control enters, if it shares a creature type with another creature you control that isn't Masqued Echomage, create a token copy of Masqued Echomage, except it has no abilities and is an Illusion in addition to its other types.
+
+Rootkarma Colossus
+
+Unforeseen Current
+
+Marrow Dancer
+
+Emberjuggle Trickster
+
+Festival Rootwarden
+
+Chorus of Joy
+
+Symphonic Bloom
+
+Life From Decay
+rules_text: Whenever a nontoken creature you control dies, create a 1/1 black Insect creature token with flying.
+{B}, Sacrifice two Insects: Return target creature card from your graveyard to your hand. Do this only once each turn. Activate only as a sorcery. => Whenever a nontoken creature you control dies, create a 1/1 black Insect Drone creature token with flying.
+{B}, Sacrifice two Insects: Return target creature card from your graveyard to your hand. Do this only once each turn. Activate only as a sorcery.
+
+Coffers to Coffins
+
+Tearing the Veil
+
+Fyrn, Prima Ballerina
+
+Entry Fee
+
+Syr Nyxil, Night Shepherd
+rules_text: Lifelink
+At the beginning of your end step, if a creature died this turn, you may return target creature card with from your graveyard to the battlefield.
+Whenever a nontoken creature you control dies or enters from your graveyard, put a +1/+1 counter on Syr Nyxil. => Lifelink
+At the beginning of your end step, if a creature an opponent controls died this turn, you may return target creature card with from your graveyard to the battlefield with a decayed counter on it.
+Whenever a nontoken creature you control dies or enters from your graveyard, put a +1/+1 counter on Syr Nyxil.
+
+Bonky-Fists, The Freakshow
+
+Danger Game
+
+Revelry Crasher
+
+Dusk Rose Shambler
+
+Jalessa, the Waiting Silence
+rules_text:  => [+2]: Return up to one target creature card from your graveyard to your hand. You may mill two cards.
+[-2]: Create a 3/3 black and green Druid Horror creature token with deathtouch and menace.
+[-7]: You get an emblem with “At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. It's a Nightmare in addition to its other types.”
+
+Guildtide Maestro
+rules_text: [b]Poise[/b] [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[/b] Creatures can't block unless their controller pays 2 for each of those creatures.
+[b]Compelled |[/b] Creatures you control get +2/+0 and have vigilance. => [b]Poise[/b] [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[i][/b] [/i]Opponent's creatures can't block unless their controller pays {1} for each of those creatures.
+[b]Compelled |[/b] Other creatures you control get +1/+1 and have vigilance.
+
+Gloomhaze Shaman
+rules_text: Whenever one or more creature cards leave your graveyard, put a +1/+1 counter on target creature you control.
+{B}{G}, {T}, Sacrifice another nontoken creature you control: Return target creature card with lesser mana value from your graveyard to the battlefield with a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => [i]Departure — [/i]At the beginning of your end step, if a creature card left your graveyard this turn, put a +1/+1 counter on this creature.
+{B}{G}, {T}, Sacrifice another nontoken creature you control: Return target creature card with lesser mana value from your graveyard to the battlefield tapped with a finality counter on it.
+pt: 2/4 => 3/3
+
+Gleaming Fire Dancer
+rules_text: First strike, haste
+[i]Procession 2 — [/i]Whenever another creature you control enters, if you control two or more other creatures, that creature gains first strike and haste until end of turn. => First strike, haste
+[i][i]Celebration[/i] — [/i]As long as two or more nonland permanents you control entered this turn, other creatures you control have first strike.
+
+Elistair's Dismissal
+
+Spotlight of Madness
+
+Snipsnap, Clown Princess
+
+The Gilded Parade
+
+Sylvia, Thread Whisperer
+
+Mask of Lost Roles
+
+Chorusdrum
+
+Delayed Firework
+
+Festival Tightrope Walker
+
+Drystraw Puppet
+
+Stage Banner
+
+Playwright's Quill
+
+Festival Float
+
+Grand Opening Scissors
+
+Phantom's Roost
+
+Abandoned Stage
+
+Improv Stage
+
+Gravehall Dais
+
+Parade Masque
+
+Elegance Masque
+
+Entropy Masque
+
+Nirvana Masque
+
+Illusory Masque
+
+Regal Ballroom
+
+Maestro's Organ
+
+Stage Crook
+
+Hollow Host of Limbs
+
+Virellis, Elegance Conductor
+rules_text:  => Flying; Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed | [/b]Spells opponents cast cost {1} more to cast.
+[b]Compelled | [/b]Spells you cast cost {1} less to cast.
+
+Rykiki, Hundred-Eyed Bloom
+
+Kaela, Bloom Guardian
+
+Varnok, Grin of the Gallows
+
+Torvin Evermarch, Grand Marshal
+
+Contagious Laughter
+
+Doomed to Party
+
+Deadly Waltz
+
+Festival Flamewhirl
+
+Masqued Vitality
+
+Waning Hour Mask
+
+Inconspicuous Inspector
+
+Stolen Visage
+
+Fleeting Insight
+
+Shifting Facade
+
+Misty Step
+
+Momentary Exhibition
+
+Flow Form
+
+Motley Masquerade
+
+Furnace Dancer
+
+Festival Drake
+
+Stagebreaker Jack
+
+Revelry in Twilight
+
+The Crowd Roars
+
+Wicked Whirl
+
+Festival Fever
+
+Party Favors
+
+Radiant Pyromancer
+
+Party Virtuoso
+rules_text: [i]Procession 2 —[/i] Whenever Party Virtuoso or another nontoken creature you control enters, if you control two or more other creatures, that creature gains haste until end of turn. => [i][i]Celebration[/i] —[/i] As long as two or more nonland permanents entered under your control this turn, other creatures you control have haste.
+
+Cinderstep Parade
+
+Suffocating Phantom
+
+Ventriloquist's Vice
+
+Curtain Call Catastrophe
+
+Beyond the Stage
+
+VIP Entrance
+
+Dress the Stage
+
+Gleam of Despair
+
+Crumbling Facade
+
+Eye of the Stage
+
+Graveside Minstrel
+
+Cadaverous Nimblist
+
+Punchline Predator
+
+Verdant Kin Caller
+rules_text: [i]Procession 1 — [/i]Whenever this or another nontoken creature you control enters, if it shares a creature type with another creature you control, untap up to one target basic land you control. => Whenever this or another nontoken creature you control enters, if it shares a creature type with another creature you control, untap up to one target basic land you control.
+
+Gravemarch Myconid
+
+Garland-Vines
+
+Bannerhorn Charger
+
+Carnival Vinecrawler
+
+Wildsong Blessing
+
+Twilight Mantle
+
+Roots Beyond Memory
+
+Alluring Aroma
+
+The Land Remembers
+
+Grove Marauder
+
+Spirit
+
+Mask
+
+Performer
+
+Performer
+
+Puppet
+
+Puppet
+
+Insect
+
+Saproling
+
+Elemental
+
+Plant
+
+Plant Illusion
+
+Illusion
+
+Illusion
+
+Echoes of the Garden
+
+Final Audition
+rules_text: Target creature gets -X/-X until end of turn. When that creature dies this turn, return it to the battlefield under your control tapped with a decayed counter on it. It becomes a Zombie Performer in addition to its other types. => Target creature gets -X/-X until end of turn. When that creature dies this turn, return it to the battlefield under your control with a decayed counter on it. It becomes a Zombie Performer in addition to its other types.
+
+Curtainfall
+
+Evaron, Besotted Maestro
+rules_text: Spectacle {2}{B} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Menace
+At the beginning of each end step, if an opponent lost life this turn, you may return target creature card from your graveyard to your hand. => Spectacle {2}{B} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Menace
+At the beginning of your end step, if an opponent lost life this turn, you may return target creature card from your graveyard to your hand.
+
+Chorus of Woe
+
+Cynical Showman
+
+Duskcaller Necromancer
+
+Celessa, Maestro's Muse
+type: Legendary Creature — Spirit Bard => Legendary Creature — Human Bard
+rules_text: Flying
+Whenever Celessa or another Spirit enters under your control, choose one —
+ • Target opponent discards a card.
+ • Return target Aura or Spirit card from your graveyard to your hand. => Flying
+Whenever you cast a spell by paying its spectacle cost, choose one —
+ • Target opponent discards a card.
+ • Return target Aura or Spirit card from your graveyard to your hand.
+
+Heartflare Anthem
+
+Brassfire Crescendo
+
+Ashen Soprano
+
+Untamed Howler
+
+Radiant Ovationeer
+rules_text: Haste
+[i]Procession 3 —[/i] When Radiant Ovationeer enters, if you control three or more other creatures, you may exile a nonland card at random from your graveyard. You may cast it this turn without paying its mana cost. => Haste
+Whenever two or more creatures you control deal combat damage to a player this turn, you may exile a nonland card at random from your graveyard. You may cast it this turn without paying its mana cost.
+
+Voltspasm Arsonist
+
+Step Right Up
+
+Intermission
+
+Radiant Parade
+
+Only One Shall Wake
+rules_text: Choose up to one target creature you control, then exile all creatures. At the beginning of the next end step, return the chosen creature to the battlefield with X +1/+1 counters on it, where X is the number of creatures you controlled that were exiled this way => Choose up to one target creature you control, then exile all creatures. At the beginning of the next end step, return the chosen creature to the battlefield with X +1/+1 counters on it, where X is the number of creatures you controlled that were exiled this way.
+
+Reverent Duelist
+
+Ivory Adjudicator
+
+Valoré, Starborn Duelist
+
+Virelle, Tethered Swan
+rules_text:  => Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed |[/b] Another target creature you control has indestructible.
+[b]Compelled | [/b]At the beginning of your end step, if another creature you control attacked alone this turn, draw a card.
+
+Finale Swan
+rules_text:  => Flying, vigilance; Poise [i](As your combat begins, if you control any permanents with poise, choose whether they're all composed or all compelled until your next combat.)[/i]
+[b]Composed | [/b]{T}, Exile Finale Swan: Exile target creature. You gain life equal to its power. 
+[b]Compelled | [/b]{T}, Exile Finale Swan: Creatures you control gain hexproof and indestructible until end of turn.
+
+Renthilda, Lead Lutenist
+rules_text: Bard and Performer spells you cast cost {2} less to cast.
+[i]Procession 2 — [/i]Whenever Renthilda or another creature you control enters, if you control two or more other creatures, creatures you control get +1/+1 and gain first strike until end of turn. => Bard and Performer spells you cast cost {2} less to cast.
+[i][i]Celebration[/i] — [/i]As long as two or more nonland permanents you control entered under your control this turn, other creatures you control get +1/+1 and have first strike
+
+Clear the Room
+
+Ephemeral Exchange
+rules_text: Once per turn, if you would discard a card, you may draw a card instead. => Once each turn, if you would discard a card, you may draw a card instead.
+
+Choreographed Denial
+rules_text: Counter target spell. Then, you may pay {1}. When you do, you may put a ward {2} counter on target creature if the countered spell was a creature spell. Otherwise, draw a card. => Counter target spell. Then, you may pay {1}. When you do, you may put a ward {2} counter on target creature. If the countered spell was a creature spell. Otherwise, draw a card.
+
+Leading Role Vulpine
+
+Silken Kelpie
+
+Royal Garden Wisp
+
+Elistair, Esteemed Director
+
+Memoirs of a Rose
+
+Resurgent Awakening
+
+Verdant Roots
+
+Omnya, The Illusive Bloom
+rules_text: {G}{U}: Creatures you control gain trample and are every creature type until end of turn.
+{T}: You may put a creature from your hand onto the battlefield that shares a creature type with a creature you control. => {G}{U}: Creatures you control gain trample and are every creature type until end of turn.
+{T}: You may put a creature card from your hand onto the battlefield with mana value X, where X is the number of creatures you control that share a creature type with it. Activate only as a sorcery.
+
+Thorn-Gilded Matron
+
+Plant Insect
+
+Insect
+
+Masquebloom Hydra
+
+Lively Celebrationway
+
+Raving Carnival Tent
+
+Processional Archway
+
+Mystic Arcade
+
+Enter the Puppet Show
+
+Thesprax, Party Animal
+
+Sideshow Trio
+rules_text: Double strike
+[i]Procession 3 —[/i] When Sideshow Trio enters, if you control three or more other creatures, other creatures you control gain double strike and vigilance until end of turn. => Creature spells you cast cost {1} less to cast.
+[i][i]Celebration[/i] — [/i]As long as two or more nonland permanents entered under your control this turn, other creatures you control have double strike.
+
+Emeraldback Spindler
+
+Showstopping Strength
+
+Cyril of the Living Chorus
+
+Aria, Waketide Soloist
+pt: 2/4 => 2/3
+
+Blind Hierophant
+
+Devil Performer
+
+Marionette Blades
+
+Lost Parade Torch
+
+Illusion Gardener
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

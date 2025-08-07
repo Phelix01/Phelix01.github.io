@@ -1,4 +1,651 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Stormcloud Conjurer
+
+Ancestral Priestess
+
+Asingha Disciple
+
+Rustflight Owlguard
+
+Honored Spiritbinder
+
+Flame-Walk Protector
+
+Lotus Spirit
+
+Osteokai Graveguard
+
+Krabi-Warrior
+
+Loxodon Rust Priest
+
+Ancestral Duty
+
+Windfist Technique
+
+Banishing Mist
+
+Tranquil Bloom
+
+Pelangi Reef Seer
+
+Bloomtide Channeler
+
+Washed Up On Shore
+
+Veil of the Reef
+
+Current Shift
+
+Monsoon's Denial
+
+Coral Colossus
+
+Slipstream Knowledge
+
+Undertow Bindings
+
+Prophecy of the Reef
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — A nontoken creature you control enters tapped.
+II — You control two or more Merfolk.
+III — You draw a card outside of your draw step.
+
+Spirit of the Shallows
+
+Bloomtide Scout
+
+Undertow Turtle
+
+Riptide Naga
+
+Prophecy of the Temple
+rules_text: Enchant creature
+When this Aura enters, destroy up to one other target enchantment.
+Enchanted creature gets +1/+1 and has first strike. => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — You gain life.
+II — A +1/+1 counter is put onto a creature you control.
+III — A creature you control deals combat damage to a player.
+
+Incense Guru
+
+Rotgrove Forager
+
+Ancestral Bone Song
+
+Ack-ack Beast
+
+Pactblade Invader
+
+Ancestoral Grasp
+
+Ancestor Devourer
+
+Muck Crawler
+
+Offering to Mokoro
+
+Final Banishment
+
+Rot Jungle's Bloom
+
+Temple Lantern Keeper
+
+Quy-Bound Medium
+
+Cradlebone Speaker
+
+Prophecy of the Afterlife
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — You lose life outside of combat.
+II — You exile a card from your graveyard.
+III — A creature you control dies.
+
+Stormwake Corsair
+
+Eager Sangmai Initiate
+
+Magma Blazebuilder
+
+Kahetra Spark Blade
+
+Mok Lok's Provoker
+
+Blazefist Practitioner
+
+Flaretongue Salamander
+
+Fury of Rakat Thann
+
+Snapback Stance
+
+Emberwake Diversion
+
+Reckless Training
+
+Diving Plunder
+
+Eruption Aura
+
+Prophecy of the Storm
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — You discard a card.
+II — You deal noncombat damage to a player.
+III — A nontoken creature you control with haste attacks.
+
+Reef Forest Pelangi
+
+Floramaris Mystic
+
+Dreadsoil Satiator
+
+Coral Reefguard
+
+Bloomboar
+
+Reefback Protector
+type: Creature — Turtle => Creature — Turtle Druid
+
+Compost Walker
+
+Looming Rot-Troll
+
+Rotcycle
+
+Mokoro's Pulse
+
+Purifying Vines
+
+Burial Ground's Bloom
+
+Prophecy of the Rot
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+II — You control a creature with power 4 or greater.
+III — Two or more lands entered under your control this turn.
+You control a creature with power 4 or greater.
+
+Jade Reliquarist
+
+Spoken Beyond Silence
+cost: {1{W}B}{WB} => {1}{WB}{WB}
+
+Ancestral Necromancer
+
+Ka-Sai Warrior
+
+Diving Phoenix Technique
+
+Sangmai Trialist
+
+Tideblessed Diver
+
+Coralstream Mentor
+
+Harmony's Shell
+cost: {1{G}U} => {1}{GU}
+
+Emberwake Tidetail
+
+Naga Stormbringer
+
+Twist the Surge
+
+Fungal Pactkeeper
+
+Gravecycle Offering
+cost: {1{B}G} => {1}{BG}
+
+Shaman of the Big Men
+
+Mokoro Rot-Shaman
+
+Iron Lotus Root
+
+Stormcall Gong
+
+Ceremonial Bone Talon
+
+Rustthorn Gauntlet
+
+Overgrown Rust Guardian
+
+Temple of Sangmai
+
+Temple of Kahetra
+
+Temple of Mokoro
+
+Temple of Jantira
+
+Temple of Khuin
+
+Abandoned Catacomb
+
+Soul-Marrow Binder
+
+Sermon of Shadows
+
+Hanh, Ancestor's Voice
+rules_text: Lifelink
+{1{W}B}, {T}, Discard a card: Hanh deals 3 damage to target opponent. => Lifelink
+{1}{WB}, {T}, Discard a card: Hanh deals 3 damage to target opponent.
+
+Sanda, Discipline's Eyes
+
+Return in Glory
+
+Ghilen Hope Charger
+
+Pelangi Wavereader
+
+Bloomtide's Call
+
+Aati, Reef's Wisdom
+
+Mokoro's Will
+
+Skulkwalker Brood
+
+Kawali, Death's Hunger
+
+Scorchwake Feint
+
+Kembang, Tempest's Rage
+
+Cindrak Coralfiend
+
+Sunveil Instructor
+
+Devoted Edgekeeper
+
+Windstep Soulcaller
+
+Ghostly Abuction
+
+Flying Steel Strike
+
+Chatura Honorclaw
+
+Loxodon Temple Guard
+
+Geist Channeler
+
+Vessel of Commanding Grace
+
+Lotus Ascetic
+
+Iron Body Training
+
+Backalley Training
+
+Unsuspecting Thievery
+
+Familial Adjudicator
+
+Ironwind Ka-Sai
+
+Flying Reef Fish
+
+Tidal-Roh
+
+Reefsong
+
+Naga Infiltrator
+
+Echoed Reflection
+
+Lost at Sea
+
+Deep Myst Recollection
+
+Stormwake Veil
+
+Meditation State
+
+Deepdive Submariner
+
+Kahetra Serpent Rider
+
+Break Serenity
+
+Templetide Resonator
+
+Nimbus Racer
+
+Coral Diver Scout
+
+Memoryseed Gardener
+
+Debtbone Envoy
+
+Creeping Grudge
+
+Inheritance Warden
+
+Deathsprout Bogbat
+
+Burial-Mound Mauler
+
+Mokoro Abides
+
+Desperate Communion
+
+Searing Psychosis
+
+Second Burial
+
+Ancestral Tutor
+
+Soul-for-Soul
+
+Lastborn Enforcer
+
+Breathless Sister
+
+Mokoro Headhunter
+
+Tempest Eel
+
+Sangmai Emberclaw
+
+Stormchase Arcanist
+
+Kahetra Lookout
+
+Forged Ka-Sai
+
+Scaled Volcanomancer
+
+Swiftform Striker
+
+Stormsurge Kraken
+
+Scorch Strike
+
+Sun-Bleached Hunger
+
+Breath Between Blows
+
+Burning Discipline
+
+Raging Cyclone
+
+Ley-Storm Calling
+
+Empowered Mantra
+
+Mossvein Harrier
+
+Rootwake Shepherd
+
+Tidegrove Archer
+
+Brackentide Pathfinder
+
+Seagrace Channeler
+
+Spined Jungle Prowler
+
+Mire-Bloom Terror
+
+Coiling Enlightener
+
+Pelangi Bondmate
+
+Deathmist Sweep
+
+Mokoro's Wrath
+
+Reef Sigil
+
+Jantira's Revenge
+
+Loamline Memories
+
+Shell Ward
+
+Pulse-Grown Grips
+
+Stormbolt Sampan
+
+Brainstone Idol
+
+Meditant's Lotus Pho
+
+Ancestral Wrappings
+
+Omen of Rot
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — Two or more creatures were put into your graveyard this turn from anywhere.
+II — There are three or more creature cards among cards in your graveyard.
+III — Two or more cards left your graveyard this turn.
+
+Lotus Temple
+
+Omen of Ascension
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — You control two or more Monk and/or Warrior creatures.
+II — You control three or more attacking creatures.
+III — A creature you control has two or more +1/+1 counters on it.
+
+Omen of Storms
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — A source you control deals 3 or more damage to a player.
+II — You cast a spell for a cost other than that spell's mana cost.
+III — You control two or more Pirate creatures.
+
+Omen of Passing
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — You sacrifice a permanent you control.
+II — You gain 3 or more life this turn.
+III — Two or more permanents entered your graveyard from anywhere this turn.
+
+Omen of Tides
+rules_text:  => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — You control three or more Merfolk.
+II — You draw three or more cards this turn.
+III — A permanent you control returned to its owner's hand.
+
+Temple Lotus-Keeper
+
+Hidden Wat
+
+Hidden Pagoda
+
+Hidden Ziggurat
+
+Hidden Dojo
+
+Hidden Monastery
+
+Samart, Hardened Master
+
+Highland Thewada
+
+Wandering in Exile
+
+Chosen Hero's Approach
+
+Luris, Familial Soulcaller
+
+Tidefall Tempest
+
+High Tide Hijinks
+
+Undercurrent Snapjaw
+
+Serendipitous Refraction
+
+Naya, Mindshifter
+
+Hujan, Galewind Raider
+
+Family's Demand
+
+Yaka-Ati, The Huskbloom
+
+Sorrow-Silk Courtesan
+
+Auntie Yien, Spirit Matron
+
+Ka-Trinh Orchidblade
+
+From Frond to Flesh
+
+Emberhall Aspirant
+
+Purifier of Lost Souls
+
+Corpsebloom Skirmisher
+
+Jett, Erupting Fist
+
+Ssaeki, Ragebolt Ionizer
+
+Skybrand of Wat Khói
+
+Streetblade Artisan
+
+Lotus-Fang Slash
+
+Stormtide Resurgence
+
+Popoli, Eternally Devoted
+
+Voice of the Reefmother
+
+Blooming of Mirelilies
+
+Jadewurm Guardian
+
+Undergrowth Larvae
+
+Ynvi, Sea Tangle Princess
+
+Paleclaw Escort
+
+Uncle Cadeo, Banished Soul
+
+Prophecy of Khuin
+rules_text: Exile each opponent's graveyard. Then create an X/X white and black Skeleton Spirit creature token with menace where X is the highest mana value among cards exiled this way. => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — You exiled two or more creatures from the battlefield this turn.
+II — A creature you control entered from a graveyard this turn.
+III — You lost and gained life this turn.
+
+Ancestral Admonishment
+
+Ca Dao Linh, Lineage Poet
+
+Flameparry
+
+Taunting Pridefist
+
+Master Yhai, Tempered Will
+
+Lanai, the Butterfly Blade
+
+Prophecy of Sangmai
+rules_text: Exile each opponent's graveyard. Then create an X/X white and black Skeleton Spirit creature token with menace where X is the highest mana value among cards exiled this way. => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — A creature you control deals 4 or more combat damage to a player.
+II — You control two or more tempered creatures.
+III — A creature you control with double strike attacks.
+
+Ravya Stormlash
+
+Grizz, Cloud Forecaster
+
+Rough Sea Navigator
+
+Tempest Burst
+
+Prophecy of Kahetra
+rules_text: Exile each opponent's graveyard. Then create an X/X white and black Skeleton Spirit creature token with menace where X is the highest mana value among cards exiled this way. => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+I — You cast a noncreature spell or a copy of one from exile.
+II — You cast a spell for less than its mana value.
+III — You control three or more Pirates.
+
+Lumelith, The Reefwave
+
+Aomalak, Secret Seeker
+
+Tendril-Tide Matriarch
+
+Reef-Form
+
+Prophecy of Jantira
+rules_text: Exile each opponent's graveyard. Then create an X/X white and black Skeleton Spirit creature token with menace where X is the highest mana value among cards exiled this way. => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+Three or more creatures you control share a creature type.
+III — You control both a Jellyfish and a Merfolk.
+
+Adaliya, Fleshseed Gardener
+
+Late-Bloomer Wretch
+
+Mokoro's Call
+
+Nis'Sath, Vibrant Grave
+
+Prophecy of Mokoro
+rules_text: Exile each opponent's graveyard. Then create an X/X white and black Skeleton Spirit creature token with menace where X is the highest mana value among cards exiled this way. => [i](Mark one unmarked condition each turn as it's met. When you do, cast a copy of its back. Sacrifice after all are marked.)[/i]
+Three or more cards were put into your graveyard this turn.
+III — There are three or more creature cards in your graveyard.
+
+Salt Charm
+
+Dragonfly Blades
+
+Gilded Lily
+
+Chiselled Wrath-Idol
+
+Familial Burial Urn
+
+Ahvani, The Stormsiren
+
+Sister of the Gale
+
+Vay Nhi, Veiled Matriarch
+
+Ancestral Decree
+
+Dhanik, Sangmai Grandmaster
+
+Thousand Form Stance
+
+Avatar of Mokoro
+
+Necrofluorescence
+
+Reefmother Asangi
+
+Beneath the Tide
+
+Spirit of Eternal Discipline
+
+Petal-Dance Exemplar
+
+Current-Call Druid
+
+Arms of the Gale
+
+Rice Field Banshee
+
+Deathloam Garden
+
+Elusive Street-Thief
+
+Ghilen Blazewind
+
+Fateflower Mystic
+
+Luminelth Hydra
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

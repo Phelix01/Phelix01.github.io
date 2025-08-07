@@ -55,7 +55,7 @@
     },
     {
         "card_name": "Rykiki, Hundred-Eyed Bloom",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -85,7 +85,7 @@
     },
     {
         "card_name": "Showstopping Strength",
-        "number": 205,
+        "number": 206,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -114,7 +114,7 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Masquebloom Hydra",
+        "card_name": "Leichek, Funeral Baron",
         "number": 195,
         "shape": "normal",
         "set": "BWTH"
@@ -144,8 +144,8 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Memoirs of a Rose",
-        "number": 197,
+        "card_name": "Masquebloom Hydra",
+        "number": 196,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -174,8 +174,8 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Omnya, The Illusive Bloom",
-        "number": 200,
+        "card_name": "Memoirs of a Rose",
+        "number": 198,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -204,8 +204,8 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Resurgent Awakening",
-        "number": 202,
+        "card_name": "Omnya, The Illusive Bloom",
+        "number": 201,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -234,8 +234,8 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Tearing the Veil",
-        "number": 206,
+        "card_name": "Resurgent Awakening",
+        "number": 203,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -264,7 +264,7 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Thissara, Mind Weaver",
+        "card_name": "Tearing the Veil",
         "number": 207,
         "shape": "normal",
         "set": "BWTH"
@@ -595,7 +595,7 @@
     },
     {
         "card_name": "Roots Beyond Memory",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1105,7 +1105,7 @@
     },
     {
         "card_name": "Masqued Vitality",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1135,7 +1135,7 @@
     },
     {
         "card_name": "Moss Burrower",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1165,7 +1165,7 @@
     },
     {
         "card_name": "Mossmantle Sprite",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1176,9 +1176,9 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Scripted Denial",
+        "card_name": "Scripted Observer",
         "number": 79,
-        "shape": "normal",
+        "shape": "leveler",
         "set": "BWTH"
     },
     {
@@ -1195,7 +1195,7 @@
     },
     {
         "card_name": "Pallbearer Myconid",
-        "number": 201,
+        "number": 202,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1206,9 +1206,9 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Scripted Observer",
+        "card_name": "Scripted Retraction",
         "number": 80,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "BWTH"
     },
     {
@@ -1309,10 +1309,7 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Shadowed Archivist",
-        "number": 234,
-        "shape": "normal",
-        "set": "BWTH"
+        "card_name": "e"
     },
     {
         "card_name": "Varnok, Grin of the Gallows",
@@ -1321,20 +1318,14 @@
         "set": "BWTH"
     },
     {
-        "card_name": "Vineblood Brawler",
-        "number": 242,
-        "shape": "normal",
-        "set": "BWTH"
+        "card_name": "e"
     },
     {
-        "card_name": "Wreathborne Shepherd",
-        "number": 245,
-        "shape": "normal",
-        "set": "BWTH"
+        "card_name": "e"
     },
     {
         "card_name": "Elistair's Dismissal",
-        "number": 218,
+        "number": 221,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1376,7 +1367,7 @@
     },
     {
         "card_name": "Elegance Masque",
-        "number": 217,
+        "number": 220,
         "shape": "transform double faced",
         "set": "BWTH"
     },
@@ -1385,7 +1376,7 @@
     },
     {
         "card_name": "Entropy Masque",
-        "number": 219,
+        "number": 222,
         "shape": "transform double faced",
         "set": "BWTH"
     },
@@ -1397,8 +1388,29 @@
     },
     {
         "card_name": "Guildtide Maestro",
-        "number": 224,
+        "number": 226,
         "shape": "leveler",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Performance Preview",
+        "number": 233,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wavetide Dance",
+        "number": 245,
+        "shape": "normal",
         "set": "BWTH"
     },
     {
@@ -1432,20 +1444,14 @@
         "card_name": "er"
     },
     {
-        "card_name": "Marshal of Wakes",
-        "number": 229,
-        "shape": "normal",
-        "set": "BWTH"
+        "card_name": "e"
     },
     {
-        "card_name": "Party Pixie",
-        "number": 232,
-        "shape": "normal",
-        "set": "BWTH"
+        "card_name": "e"
     },
     {
         "card_name": "Jalessa, the Waiting Silence",
-        "number": 227,
+        "number": 229,
         "shape": "planeswalker",
         "set": "BWTH"
     },
@@ -1457,7 +1463,7 @@
     },
     {
         "card_name": "Kaela, Bloom Guardian",
-        "number": 228,
+        "number": 230,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1468,20 +1474,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "Ettoro, Master Puppeteer",
-        "number": 220,
+        "card_name": "Skittering Renewal",
+        "number": 234,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "The Gilded Parade",
-        "number": 221,
+        "number": 223,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Echoes of the Garden",
-        "number": 216,
+        "number": 219,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1492,8 +1498,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Procession of Petals",
-        "number": 233,
+        "card_name": "Vexis the Patient",
+        "number": 242,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1516,20 +1522,44 @@
         "card_name": "e"
     },
     {
+        "card_name": "Carrion Vessel",
+        "number": 217,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Ceremonious Veterans",
+        "number": 218,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Blessing of Kin",
+        "number": 216,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Gloomhaze Shaman",
-        "number": 223,
+        "number": 225,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Gleaming Fire Dancer",
-        "number": 222,
+        "number": 224,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Illusion Gardener",
-        "number": 225,
+        "number": 227,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1541,19 +1571,19 @@
     },
     {
         "card_name": "Nirvana Masque",
-        "number": 230,
-        "shape": "transform double faced",
-        "set": "BWTH"
-    },
-    {
-        "card_name": "Parade Masque",
         "number": 231,
         "shape": "transform double faced",
         "set": "BWTH"
     },
     {
+        "card_name": "Parade Masque",
+        "number": 232,
+        "shape": "transform double faced",
+        "set": "BWTH"
+    },
+    {
         "card_name": "Illusory Masque",
-        "number": 226,
+        "number": 228,
         "shape": "transform double faced",
         "set": "BWTH"
     },
@@ -1809,37 +1839,37 @@
     },
     {
         "card_name": "Forest",
-        "number": 265,
+        "number": 266,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Plains",
-        "number": 282,
+        "number": 283,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Swamp",
-        "number": 291,
+        "number": 292,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Mountain",
-        "number": 280,
+        "number": 278,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Swamp",
-        "number": 290,
+        "number": 293,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Island",
-        "number": 271,
+        "number": 273,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1851,25 +1881,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 276,
-        "shape": "normal",
-        "set": "BWTH"
-    },
-    {
-        "card_name": "Island",
-        "number": 270,
-        "shape": "normal",
-        "set": "BWTH"
-    },
-    {
-        "card_name": "Forest",
-        "number": 264,
-        "shape": "normal",
-        "set": "BWTH"
-    },
-    {
-        "card_name": "Forest",
-        "number": 267,
+        "number": 280,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1880,14 +1892,32 @@
         "set": "BWTH"
     },
     {
+        "card_name": "Forest",
+        "number": 267,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Forest",
+        "number": 263,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
+        "card_name": "Island",
+        "number": 274,
+        "shape": "normal",
+        "set": "BWTH"
+    },
+    {
         "card_name": "Plains",
-        "number": 283,
+        "number": 282,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Mountain",
-        "number": 277,
+        "number": 279,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1905,37 +1935,37 @@
     },
     {
         "card_name": "Mountain",
-        "number": 278,
+        "number": 276,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Mountain",
-        "number": 279,
+        "number": 277,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Swamp",
-        "number": 292,
+        "number": 290,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Swamp",
-        "number": 293,
+        "number": 291,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Island",
-        "number": 273,
+        "number": 270,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Island",
-        "number": 274,
+        "number": 271,
         "shape": "normal",
         "set": "BWTH"
     },
@@ -1947,13 +1977,13 @@
     },
     {
         "card_name": "Forest",
-        "number": 263,
+        "number": 264,
         "shape": "normal",
         "set": "BWTH"
     },
     {
         "card_name": "Forest",
-        "number": 266,
+        "number": 265,
         "shape": "normal",
         "set": "BWTH"
     },

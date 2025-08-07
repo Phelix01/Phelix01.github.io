@@ -1,0 +1,1189 @@
+﻿[
+    {
+        "card_name": "Ancestral Hemorrhage",
+        "number": 1,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Above the Clouded Self",
+        "number": 31,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Ancestral Flesh-Feast",
+        "number": 61,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "",
+        "number": 94,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Tasteless Enigma",
+        "number": 133,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Breaker of Lies",
+        "number": 2,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Become Not",
+        "number": 33,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Breathe Insanity",
+        "number": 65,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Bane of Nightmares",
+        "number": 102,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Broken Cradle Bearer",
+        "number": 121,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Call of the Before",
+        "number": 4,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "The Clatterdream",
+        "number": 34,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Burial Shroud",
+        "number": 66,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Cooridor Lurker",
+        "number": 105,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Cradle-Moss Spawn",
+        "number": 122,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Delirium Shock",
+        "number": 5,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Deadweave Channeler",
+        "number": 36,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Dustrisen Archfiend",
+        "number": 69,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Shameless Enigma",
+        "number": 117,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Desprate Growth Sprite",
+        "number": 123,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Facade Dweller",
+        "number": 10,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Dream-Home Hostess",
+        "number": 39,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Gangrub, Recurring Nightmare",
+        "number": 73,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "What You Dreamt of Me",
+        "number": 120,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Dreamroot Aberration",
+        "number": 124,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Hierarchy of Scars",
+        "number": 13,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Encountered in a Dream",
+        "number": 42,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Gaze Beyond Despair",
+        "number": 74,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Bathe in Blood Memory",
+        "number": 103,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Effigy of Hunger",
+        "number": 125,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Hopeless Enigma",
+        "number": 14,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Exactor of Silence",
+        "number": 43,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "God-Flesh Savant",
+        "number": 76,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Charge into the Smog",
+        "number": 104,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Ghostbloom Grizzly",
+        "number": 126,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Knight of the Ninth",
+        "number": 16,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Gift of Delusion",
+        "number": 47,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Lifeless Enigma",
+        "number": 78,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Crazed Pyromancer",
+        "number": 106,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Mawblood Gnasher",
+        "number": 127,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Martyrize",
+        "number": 18,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Gravepicker Tick",
+        "number": 48,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Marrowbirth",
+        "number": 80,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Effigy of Thirst",
+        "number": 107,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Petrified Offering",
+        "number": 128,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Nameless",
+        "number": 21,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Guiltstruck",
+        "number": 49,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Night Stalker Imp",
+        "number": 82,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Fireblood Ravager",
+        "number": 108,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Pulse of Blind Roots",
+        "number": 129,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Pureline Bloodbeak",
+        "number": 25,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Lunacy",
+        "number": 50,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Residualist Necromancer",
+        "number": 83,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Flayed Meat Walker",
+        "number": 109,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Root-Pale Wretch",
+        "number": 130,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Severed Vein Saint",
+        "number": 26,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Mindless Enigma",
+        "number": 52,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Spasm of Agony",
+        "number": 87,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Guttertusk Beast",
+        "number": 110,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Scent of the Consumed",
+        "number": 131,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Shambling Lamplighter",
+        "number": 27,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Mindnumb Mage",
+        "number": 53,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Suffering Scourge",
+        "number": 88,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Ignite Flesh and Stone",
+        "number": 111,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Tangled Memory-Trap",
+        "number": 132,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Watcher Beneath Skin",
+        "number": 29,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Skin of a Stranger",
+        "number": 58,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Tombtail Scorpion",
+        "number": 89,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Madness Blast",
+        "number": 112,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Uncanny Treedweller",
+        "number": 134,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Woundharrow Angel",
+        "number": 30,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Throneless Kingfoul",
+        "number": 59,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Whisperwound Acolyte",
+        "number": 90,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Path of the Flameleech",
+        "number": 113,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Vengeful Roots",
+        "number": 135,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Burden of Chains",
+        "number": 3,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Anchored Dissent",
+        "number": 32,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Bleakcast Sorcerer",
+        "number": 62,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Ruin-Courier Jek",
+        "number": 114,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Witherbark Seer",
+        "number": 136,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Dream Monitor",
+        "number": 6,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Cloudrift Throne",
+        "number": 35,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Blood Chalice Priest",
+        "number": 63,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Scorchclaw Corpse",
+        "number": 115,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Echo Escape",
+        "number": 7,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Depth Lurker",
+        "number": 37,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Blood Trance",
+        "number": 64,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Severence Eruption",
+        "number": 116,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Effigy of Guilt",
+        "number": 8,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Dread Shackle",
+        "number": 38,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Carrion Picker",
+        "number": 67,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Spasmflame Devil",
+        "number": 118,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ephemarch's Witness",
+        "number": 9,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Echo Beyond Flesh",
+        "number": 40,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Demented Visions",
+        "number": 68,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Tombellow Stoker",
+        "number": 119,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Facade Rites",
+        "number": 11,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Effigy of Delusion",
+        "number": 41,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Eater of Soft Bones",
+        "number": 70,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Forsaken Templar",
+        "number": 12,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Forgotten Finweaver",
+        "number": 44,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Effigy of Obsession",
+        "number": 71,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Knight of Nothing",
+        "number": 15,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Fractured Recall",
+        "number": 45,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Foglost Minotaur",
+        "number": 72,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Marrow Priest",
+        "number": 17,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Ghost-sight Ritual",
+        "number": 46,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Gnarlbelly Gourmand",
+        "number": 75,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Memories of Radiance",
+        "number": 19,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Madwhisper Disciple",
+        "number": 51,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Griefshroud Acolyte",
+        "number": 77,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mercy Shambler",
+        "number": 20,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Mistborn Necromage",
+        "number": 54,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Made From the Maw",
+        "number": 79,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ninth Silence Paragon",
+        "number": 22,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Mistifying Pondweller",
+        "number": 55,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Mourn the Forgotten",
+        "number": 81,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Pale Towndweller",
+        "number": 23,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Nullborn Walker",
+        "number": 56,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Rites of the Eaten",
+        "number": 84,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Pathless Principality",
+        "number": 24,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Shatterform Pulse",
+        "number": 57,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Sepsis Maiden",
+        "number": 85,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thrull of the Hollows",
+        "number": 28,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Whispers From Below",
+        "number": 60,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Sinful Repentance",
+        "number": 86,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Calculated Submission",
+        "number": 140,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Lost in the Archives",
+        "number": 146,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Bloodwaste Scourge",
+        "number": 139,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Flesh Savage",
+        "number": 143,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Waxen Sentinel",
+        "number": 154,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Unending Guilt",
+        "number": 153,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Skin-Flayer Mage",
+        "number": 149,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Marrow Shaman",
+        "number": 147,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Bleeder Fiend",
+        "number": 138,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Facedweller Mimic",
+        "number": 142,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Suffering Abjudicator",
+        "number": 151,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Residualist Necromage",
+        "number": 148,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Carrion Keeper",
+        "number": 141,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Justiciar of Thirst",
+        "number": 145,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Skittering Echomorph",
+        "number": 150,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Absolved Flagellant",
+        "number": 137,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gutmouth Cannibal",
+        "number": 144,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Thirst-Touched Ritualist",
+        "number": 152,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Waxveil Pretender",
+        "number": 155,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Withered Arcanist",
+        "number": 156,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Broken Skittershield",
+        "number": 157,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Fractured Monument",
+        "number": 158,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Gravetower Monolith",
+        "number": 159,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Inert Sol Ring",
+        "number": 160,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Rusted Arcane Clock",
+        "number": 161,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Deadzone of Blood",
+        "number": 163,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Deadzone of Facades",
+        "number": 164,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Deadzone of Flesh",
+        "number": 165,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Deadzone of Madness",
+        "number": 166,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Deadzone of Wounds",
+        "number": 167,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Deadwastes",
+        "number": 162,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 168,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Island",
+        "number": 169,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 170,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 171,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "Forest",
+        "number": 172,
+        "shape": "normal",
+        "set": "TFA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
