@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/SLIP-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>SLIP visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/SLIP-files/logo.png" />
+	<img class="preload-hidden" src="/sets/BWTH-files/icon.png" />
+		<img class="preload-hidden" src="/sets/HTH2-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SLIP-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="SLIP"><img src="/sets/SLIP-files/icon.png">Saekjara: Land of the Iron Petals</a>
+	
+		<a class="set-bar inactive" href="BWTH"><img src="/sets/BWTH-files/icon.png">Brimwreath — The Eternal Celebration</a>
+	
+		<a class="set-bar inactive" href="HTH2"><img src="/sets/HTH2-files/icon.png">Hearth-Hollow: Root & Remedy</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/SLIP-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/sets\SLIP-files\img\24_Petal-Dance Exemplar.png" id="24_Petal-Dance Exemplar" data-flag="@X" onclick="openSidebar('24_Petal-Dance Exemplar',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\38_Arms of the Gale.png" id="38_Arms of the Gale" data-flag="@X" onclick="openSidebar('38_Arms of the Gale',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\85_Deathloam Garden.png" id="85_Deathloam Garden" data-flag="@X" onclick="openSidebar('85_Deathloam Garden',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\117_Elusive Street-Thief.png" id="117_Elusive Street-Thief" data-flag="@X" onclick="openSidebar('117_Elusive Street-Thief',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\159_Fateflower Mystic.png" id="159_Fateflower Mystic" data-flag="@X" onclick="openSidebar('159_Fateflower Mystic',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\29_Spirit of Eternal Discipline.png" id="29_Spirit of Eternal Discipline" data-flag="@X" onclick="openSidebar('29_Spirit of Eternal Discipline',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\45_Current-Call Druid.png" id="45_Current-Call Druid" data-flag="@X" onclick="openSidebar('45_Current-Call Druid',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\103_Rice Field Banshee.png" id="103_Rice Field Banshee" data-flag="@X" onclick="openSidebar('103_Rice Field Banshee',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\124_Ghilen Blazewind.png" id="124_Ghilen Blazewind" data-flag="@X" onclick="openSidebar('124_Ghilen Blazewind',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\165_Luminelth Hydra.png" id="165_Luminelth Hydra" data-flag="@X" onclick="openSidebar('165_Luminelth Hydra',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\5_Chosen Hero's Approach.png" id="5_Chosen Heros Approach" data-flag="@X" onclick="openSidebar('5_Chosen Heros Approach',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\50_High Tide Hijinks.png" id="50_High Tide Hijinks" data-flag="@X" onclick="openSidebar('50_High Tide Hijinks',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\80_Auntie Yien, Spirit Matron.png" id="80_Auntie Yien, Spirit Matron" data-flag="@X" onclick="openSidebar('80_Auntie Yien, Spirit Matron',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\125_Jett, Erupting Fist.png" id="125_Jett, Erupting Fist" data-flag="@X" onclick="openSidebar('125_Jett, Erupting Fist',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\150_Blooming of Mirelilies.png" id="150_Blooming of Mirelilies" data-flag="@X" onclick="openSidebar('150_Blooming of Mirelilies',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\13_Highland Thewada.png" id="13_Highland Thewada" data-flag="@X" onclick="openSidebar('13_Highland Thewada',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\51_Hujan, Galewind Raider.png" id="51_Hujan, Galewind Raider" data-flag="@X" onclick="openSidebar('51_Hujan, Galewind Raider',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\89_Family's Demand.png" id="89_Familys Demand" data-flag="@X" onclick="openSidebar('89_Familys Demand',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\129_Lotus-Fang Slash.png" id="129_Lotus-Fang Slash" data-flag="@X" onclick="openSidebar('129_Lotus-Fang Slash',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\161_Jadewurm Guardian.png" id="161_Jadewurm Guardian" data-flag="@X" onclick="openSidebar('161_Jadewurm Guardian',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\22_Luris, Familial Soulcaller.png" id="22_Luris, Familial Soulcaller" data-flag="@X" onclick="openSidebar('22_Luris, Familial Soulcaller',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\57_Naya, Mindshifter.png" id="57_Naya, Mindshifter" data-flag="@X" onclick="openSidebar('57_Naya, Mindshifter',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\91_From Frond to Flesh.png" id="91_From Frond to Flesh" data-flag="@X" onclick="openSidebar('91_From Frond to Flesh',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\138_Skybrand of Wat Khói.png" id="138_Skybrand of Wat Khói" data-flag="@X" onclick="openSidebar('138_Skybrand of Wat Khói',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\171_Popoli, Eternally Devoted.png" id="171_Popoli, Eternally Devoted" data-flag="@X" onclick="openSidebar('171_Popoli, Eternally Devoted',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\28_Samart, Hardened Master.png" id="28_Samart, Hardened Master" data-flag="@X" onclick="openSidebar('28_Samart, Hardened Master',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\63_Serendipitous Refraction.png" id="63_Serendipitous Refraction" data-flag="@X" onclick="openSidebar('63_Serendipitous Refraction',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\93_Ka-Trinh Orchidblade.png" id="93_Ka-Trinh Orchidblade" data-flag="@X" onclick="openSidebar('93_Ka-Trinh Orchidblade',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\140_Ssaeki, Ragebolt Ionizer.png" id="140_Ssaeki, Ragebolt Ionizer" data-flag="@X" onclick="openSidebar('140_Ssaeki, Ragebolt Ionizer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\183_Undergrowth Larvae.png" id="183_Undergrowth Larvae" data-flag="@X" onclick="openSidebar('183_Undergrowth Larvae',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\31_Temple Lotus-Keeper.png" id="31_Temple Lotus-Keeper" data-flag="@X" onclick="openSidebar('31_Temple Lotus-Keeper',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\69_Tidefall Tempest.png" id="69_Tidefall Tempest" data-flag="@X" onclick="openSidebar('69_Tidefall Tempest',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\108_Sorrow-Silk Courtesan.png" id="108_Sorrow-Silk Courtesan" data-flag="@X" onclick="openSidebar('108_Sorrow-Silk Courtesan',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\143_Stormtide Resurgence.png" id="143_Stormtide Resurgence" data-flag="@X" onclick="openSidebar('143_Stormtide Resurgence',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\184_Voice of the Reefmother.png" id="184_Voice of the Reefmother" data-flag="@X" onclick="openSidebar('184_Voice of the Reefmother',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\35_Wandering in Exile.png" id="35_Wandering in Exile" data-flag="@X" onclick="openSidebar('35_Wandering in Exile',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\70_Undercurrent Snapjaw.png" id="70_Undercurrent Snapjaw" data-flag="@X" onclick="openSidebar('70_Undercurrent Snapjaw',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\111_Yaka-Ati, The Huskbloom.png" id="111_Yaka-Ati, The Huskbloom" data-flag="@X" onclick="openSidebar('111_Yaka-Ati, The Huskbloom',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\145_Streetblade Artisan.png" id="145_Streetblade Artisan" data-flag="@X" onclick="openSidebar('145_Streetblade Artisan',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\185_Ynvi, Sea Tangle Princess.png" id="185_Ynvi, Sea Tangle Princess" data-flag="@X" onclick="openSidebar('185_Ynvi, Sea Tangle Princess',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\4_Chatura Honorclaw.png" id="4_Chatura Honorclaw" data-flag="@X" onclick="openSidebar('4_Chatura Honorclaw',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\41_Break Serenity.png" id="41_Break Serenity" data-flag="@X" onclick="openSidebar('41_Break Serenity',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\79_Ancestral Tutor.png" id="79_Ancestral Tutor" data-flag="@X" onclick="openSidebar('79_Ancestral Tutor',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\113_Breath Between Blows.png" id="113_Breath Between Blows" data-flag="@X" onclick="openSidebar('113_Breath Between Blows',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\151_Brackentide Pathfinder.png" id="151_Brackentide Pathfinder" data-flag="@X" onclick="openSidebar('151_Brackentide Pathfinder',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\6_Devoted Edgekeeper.png" id="6_Devoted Edgekeeper" data-flag="@X" onclick="openSidebar('6_Devoted Edgekeeper',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\43_Coral Diver Scout.png" id="43_Coral Diver Scout" data-flag="@X" onclick="openSidebar('43_Coral Diver Scout',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\81_Breathless Sister.png" id="81_Breathless Sister" data-flag="@X" onclick="openSidebar('81_Breathless Sister',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\114_Burning Discipline.png" id="114_Burning Discipline" data-flag="@X" onclick="openSidebar('114_Burning Discipline',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\153_Coiling Enlightener.png" id="153_Coiling Enlightener" data-flag="@X" onclick="openSidebar('153_Coiling Enlightener',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\8_Familial Adjudicator.png" id="8_Familial Adjudicator" data-flag="@X" onclick="openSidebar('8_Familial Adjudicator',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\46_Deep Myst Recollection.png" id="46_Deep Myst Recollection" data-flag="@X" onclick="openSidebar('46_Deep Myst Recollection',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\82_Burial-Mound Mauler.png" id="82_Burial-Mound Mauler" data-flag="@X" onclick="openSidebar('82_Burial-Mound Mauler',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\119_Empowered Mantra.png" id="119_Empowered Mantra" data-flag="@X" onclick="openSidebar('119_Empowered Mantra',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\157_Deathmist Sweep.png" id="157_Deathmist Sweep" data-flag="@X" onclick="openSidebar('157_Deathmist Sweep',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\10_Flying Steel Strike.png" id="10_Flying Steel Strike" data-flag="@X" onclick="openSidebar('10_Flying Steel Strike',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\47_Deepdive Submariner.png" id="47_Deepdive Submariner" data-flag="@X" onclick="openSidebar('47_Deepdive Submariner',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\84_Creeping Grudge.png" id="84_Creeping Grudge" data-flag="@X" onclick="openSidebar('84_Creeping Grudge',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\122_Forged Ka-Sai.png" id="122_Forged Ka-Sai" data-flag="@X" onclick="openSidebar('122_Forged Ka-Sai',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\162_Jantira's Revenge.png" id="162_Jantiras Revenge" data-flag="@X" onclick="openSidebar('162_Jantiras Revenge',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\11_Geist Channeler.png" id="11_Geist Channeler" data-flag="@X" onclick="openSidebar('11_Geist Channeler',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\48_Echoed Reflection.png" id="48_Echoed Reflection" data-flag="@X" onclick="openSidebar('48_Echoed Reflection',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\86_Deathsprout Bogbat.png" id="86_Deathsprout Bogbat" data-flag="@X" onclick="openSidebar('86_Deathsprout Bogbat',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\126_Kahetra Lookout.png" id="126_Kahetra Lookout" data-flag="@X" onclick="openSidebar('126_Kahetra Lookout',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\163_Loamline Memories.png" id="163_Loamline Memories" data-flag="@X" onclick="openSidebar('163_Loamline Memories',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\12_Ghostly Abuction.png" id="12_Ghostly Abuction" data-flag="@X" onclick="openSidebar('12_Ghostly Abuction',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\49_Flying Reef Fish.png" id="49_Flying Reef Fish" data-flag="@X" onclick="openSidebar('49_Flying Reef Fish',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\87_Debtbone Envoy.png" id="87_Debtbone Envoy" data-flag="@X" onclick="openSidebar('87_Debtbone Envoy',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\128_Ley-Storm Calling.png" id="128_Ley-Storm Calling" data-flag="@X" onclick="openSidebar('128_Ley-Storm Calling',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\166_Mire-Bloom Terror.png" id="166_Mire-Bloom Terror" data-flag="@X" onclick="openSidebar('166_Mire-Bloom Terror',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\15_Iron Body Training.png" id="15_Iron Body Training" data-flag="@X" onclick="openSidebar('15_Iron Body Training',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\52_Kahetra Serpent Rider.png" id="52_Kahetra Serpent Rider" data-flag="@X" onclick="openSidebar('52_Kahetra Serpent Rider',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\88_Desperate Communion.png" id="88_Desperate Communion" data-flag="@X" onclick="openSidebar('88_Desperate Communion',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\133_Raging Cyclone.png" id="133_Raging Cyclone" data-flag="@X" onclick="openSidebar('133_Raging Cyclone',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\168_Mokoro's Wrath.png" id="168_Mokoros Wrath" data-flag="@X" onclick="openSidebar('168_Mokoros Wrath',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\16_Ironwind Ka-Sai.png" id="16_Ironwind Ka-Sai" data-flag="@X" onclick="openSidebar('16_Ironwind Ka-Sai',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\53_Lost at Sea.png" id="53_Lost at Sea" data-flag="@X" onclick="openSidebar('53_Lost at Sea',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\92_Inheritance Warden.png" id="92_Inheritance Warden" data-flag="@X" onclick="openSidebar('92_Inheritance Warden',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\135_Sangmai Emberclaw.png" id="135_Sangmai Emberclaw" data-flag="@X" onclick="openSidebar('135_Sangmai Emberclaw',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\169_Mossvein Harrier.png" id="169_Mossvein Harrier" data-flag="@X" onclick="openSidebar('169_Mossvein Harrier',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\18_Lotus Ascetic.png" id="18_Lotus Ascetic" data-flag="@X" onclick="openSidebar('18_Lotus Ascetic',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\54_Meditation State.png" id="54_Meditation State" data-flag="@X" onclick="openSidebar('54_Meditation State',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\94_Lastborn Enforcer.png" id="94_Lastborn Enforcer" data-flag="@X" onclick="openSidebar('94_Lastborn Enforcer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\136_Scaled Volcanomancer.png" id="136_Scaled Volcanomancer" data-flag="@X" onclick="openSidebar('136_Scaled Volcanomancer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\170_Pelangi Bondmate.png" id="170_Pelangi Bondmate" data-flag="@X" onclick="openSidebar('170_Pelangi Bondmate',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\21_Loxodon Temple Guard.png" id="21_Loxodon Temple Guard" data-flag="@X" onclick="openSidebar('21_Loxodon Temple Guard',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\56_Naga Infiltrator.png" id="56_Naga Infiltrator" data-flag="@X" onclick="openSidebar('56_Naga Infiltrator',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\95_Memoryseed Gardener.png" id="95_Memoryseed Gardener" data-flag="@X" onclick="openSidebar('95_Memoryseed Gardener',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\137_Scorch Strike.png" id="137_Scorch Strike" data-flag="@X" onclick="openSidebar('137_Scorch Strike',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\175_Reef Sigil.png" id="175_Reef Sigil" data-flag="@X" onclick="openSidebar('175_Reef Sigil',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\30_Sunveil Instructor.png" id="30_Sunveil Instructor" data-flag="@X" onclick="openSidebar('30_Sunveil Instructor',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\58_Nimbus Racer.png" id="58_Nimbus Racer" data-flag="@X" onclick="openSidebar('58_Nimbus Racer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\96_Mokoro Abides.png" id="96_Mokoro Abides" data-flag="@X" onclick="openSidebar('96_Mokoro Abides',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\141_Stormchase Arcanist.png" id="141_Stormchase Arcanist" data-flag="@X" onclick="openSidebar('141_Stormchase Arcanist',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\177_Rootwake Shepherd.png" id="177_Rootwake Shepherd" data-flag="@X" onclick="openSidebar('177_Rootwake Shepherd',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\32_Tranquil Bloom.png" id="32_Tranquil Bloom" data-flag="@X" onclick="openSidebar('32_Tranquil Bloom',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\61_Reefsong.png" id="61_Reefsong" data-flag="@X" onclick="openSidebar('61_Reefsong',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\97_Mokoro Headhunter.png" id="97_Mokoro Headhunter" data-flag="@X" onclick="openSidebar('97_Mokoro Headhunter',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\142_Stormsurge Kraken.png" id="142_Stormsurge Kraken" data-flag="@X" onclick="openSidebar('142_Stormsurge Kraken',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\179_Seagrace Channeler.png" id="179_Seagrace Channeler" data-flag="@X" onclick="openSidebar('179_Seagrace Channeler',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\33_Unsuspecting Thievery.png" id="33_Unsuspecting Thievery" data-flag="@X" onclick="openSidebar('33_Unsuspecting Thievery',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\66_Stormwake Veil.png" id="66_Stormwake Veil" data-flag="@X" onclick="openSidebar('66_Stormwake Veil',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\106_Searing Psychosis.png" id="106_Searing Psychosis" data-flag="@X" onclick="openSidebar('106_Searing Psychosis',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\146_Sun-Bleached Hunger.png" id="146_Sun-Bleached Hunger" data-flag="@X" onclick="openSidebar('146_Sun-Bleached Hunger',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\180_Shell Ward.png" id="180_Shell Ward" data-flag="@X" onclick="openSidebar('180_Shell Ward',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\34_Vessel of Commanding Grace.png" id="34_Vessel of Commanding Grace" data-flag="@X" onclick="openSidebar('34_Vessel of Commanding Grace',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\67_Templetide Resonator.png" id="67_Templetide Resonator" data-flag="@X" onclick="openSidebar('67_Templetide Resonator',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\107_Second Burial.png" id="107_Second Burial" data-flag="@X" onclick="openSidebar('107_Second Burial',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\147_Swiftform Striker.png" id="147_Swiftform Striker" data-flag="@X" onclick="openSidebar('147_Swiftform Striker',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\181_Spined Jungle Prowler.png" id="181_Spined Jungle Prowler" data-flag="@X" onclick="openSidebar('181_Spined Jungle Prowler',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\37_Windstep Soulcaller.png" id="37_Windstep Soulcaller" data-flag="@X" onclick="openSidebar('37_Windstep Soulcaller',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\68_Tidal-Roh.png" id="68_Tidal-Roh" data-flag="@X" onclick="openSidebar('68_Tidal-Roh',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\109_Soul-for-Soul.png" id="109_Soul-for-Soul" data-flag="@X" onclick="openSidebar('109_Soul-for-Soul',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\148_Tempest Eel.png" id="148_Tempest Eel" data-flag="@X" onclick="openSidebar('148_Tempest Eel',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\182_Tidegrove Archer.png" id="182_Tidegrove Archer" data-flag="@X" onclick="openSidebar('182_Tidegrove Archer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\1_Ancestral Duty.png" id="1_Ancestral Duty" data-flag="@X" onclick="openSidebar('1_Ancestral Duty',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\39_Bloomtide Channeler.png" id="39_Bloomtide Channeler" data-flag="@X" onclick="openSidebar('39_Bloomtide Channeler',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\75_Ack-ack Beast.png" id="75_Ack-ack Beast" data-flag="@X" onclick="openSidebar('75_Ack-ack Beast',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\112_Blazefist Practitioner.png" id="112_Blazefist Practitioner" data-flag="@X" onclick="openSidebar('112_Blazefist Practitioner',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\149_Bloomboar.png" id="149_Bloomboar" data-flag="@X" onclick="openSidebar('149_Bloomboar',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\2_Backalley Training.png" id="2_Backalley Training" data-flag="@X" onclick="openSidebar('2_Backalley Training',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\40_Bloomtide Scout.png" id="40_Bloomtide Scout" data-flag="@X" onclick="openSidebar('40_Bloomtide Scout',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\76_Ancestor Devourer.png" id="76_Ancestor Devourer" data-flag="@X" onclick="openSidebar('76_Ancestor Devourer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\115_Diving Plunder.png" id="115_Diving Plunder" data-flag="@X" onclick="openSidebar('115_Diving Plunder',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\152_Burial Ground's Bloom.png" id="152_Burial Grounds Bloom" data-flag="@X" onclick="openSidebar('152_Burial Grounds Bloom',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\3_Banishing Mist.png" id="3_Banishing Mist" data-flag="@X" onclick="openSidebar('3_Banishing Mist',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\42_Coral Colossus.png" id="42_Coral Colossus" data-flag="@X" onclick="openSidebar('42_Coral Colossus',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\77_Ancestoral Grasp.png" id="77_Ancestoral Grasp" data-flag="@X" onclick="openSidebar('77_Ancestoral Grasp',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\116_Eager Sangmai Initiate.png" id="116_Eager Sangmai Initiate" data-flag="@X" onclick="openSidebar('116_Eager Sangmai Initiate',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\154_Compost Walker.png" id="154_Compost Walker" data-flag="@X" onclick="openSidebar('154_Compost Walker',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\7_Emberhall Aspirant.png" id="7_Emberhall Aspirant" data-flag="@X" onclick="openSidebar('7_Emberhall Aspirant',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\44_Current Shift.png" id="44_Current Shift" data-flag="@X" onclick="openSidebar('44_Current Shift',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\78_Ancestral Bone Song.png" id="78_Ancestral Bone Song" data-flag="@X" onclick="openSidebar('78_Ancestral Bone Song',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\118_Emberwake Diversion.png" id="118_Emberwake Diversion" data-flag="@X" onclick="openSidebar('118_Emberwake Diversion',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\155_Coral Reefguard.png" id="155_Coral Reefguard" data-flag="@X" onclick="openSidebar('155_Coral Reefguard',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\9_Flame-Walk Protector.png" id="9_Flame-Walk Protector" data-flag="@X" onclick="openSidebar('9_Flame-Walk Protector',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\55_Monsoon's Denial.png" id="55_Monsoons Denial" data-flag="@X" onclick="openSidebar('55_Monsoons Denial',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\83_Cradlebone Speaker.png" id="83_Cradlebone Speaker" data-flag="@X" onclick="openSidebar('83_Cradlebone Speaker',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\120_Eruption Aura.png" id="120_Eruption Aura" data-flag="@X" onclick="openSidebar('120_Eruption Aura',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\156_Corpsebloom Skirmisher.png" id="156_Corpsebloom Skirmisher" data-flag="@X" onclick="openSidebar('156_Corpsebloom Skirmisher',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\14_Honored Spiritbinder.png" id="14_Honored Spiritbinder" data-flag="@X" onclick="openSidebar('14_Honored Spiritbinder',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\59_Pelangi Reef Seer.png" id="59_Pelangi Reef Seer" data-flag="@X" onclick="openSidebar('59_Pelangi Reef Seer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\90_Final Banishment.png" id="90_Final Banishment" data-flag="@X" onclick="openSidebar('90_Final Banishment',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\121_Flaretongue Salamander.png" id="121_Flaretongue Salamander" data-flag="@X" onclick="openSidebar('121_Flaretongue Salamander',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\158_Dreadsoil Satiator.png" id="158_Dreadsoil Satiator" data-flag="@X" onclick="openSidebar('158_Dreadsoil Satiator',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\17_Krabi-Warrior.png" id="17_Krabi-Warrior" data-flag="@X" onclick="openSidebar('17_Krabi-Warrior',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\60_Prophecy of the Reef_back.png" alt="/sets\SLIP-files\img\60_Prophecy of the Reef_front.png" id="60_Prophecy of the Reef" data-flag="@XD" onclick="openSidebar('60_Prophecy of the Reef',false)"><button class="flip-btn" onclick="imgFlip('60_Prophecy of the Reef')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\98_Muck Crawler.png" id="98_Muck Crawler" data-flag="@X" onclick="openSidebar('98_Muck Crawler',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\123_Fury of Rakat Thann.png" id="123_Fury of Rakat Thann" data-flag="@X" onclick="openSidebar('123_Fury of Rakat Thann',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\160_Floramaris Mystic.png" id="160_Floramaris Mystic" data-flag="@X" onclick="openSidebar('160_Floramaris Mystic',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\19_Lotus Spirit.png" id="19_Lotus Spirit" data-flag="@X" onclick="openSidebar('19_Lotus Spirit',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\62_Riptide Naga.png" id="62_Riptide Naga" data-flag="@X" onclick="openSidebar('62_Riptide Naga',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\99_Offering to Mokoro.png" id="99_Offering to Mokoro" data-flag="@X" onclick="openSidebar('99_Offering to Mokoro',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\127_Kahetra Spark Blade.png" id="127_Kahetra Spark Blade" data-flag="@X" onclick="openSidebar('127_Kahetra Spark Blade',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\164_Looming Rot-Troll.png" id="164_Looming Rot-Troll" data-flag="@X" onclick="openSidebar('164_Looming Rot-Troll',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\20_Loxodon Rust Priest.png" id="20_Loxodon Rust Priest" data-flag="@X" onclick="openSidebar('20_Loxodon Rust Priest',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\64_Slipstream Knowledge.png" id="64_Slipstream Knowledge" data-flag="@X" onclick="openSidebar('64_Slipstream Knowledge',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\100_Pactblade Invader.png" id="100_Pactblade Invader" data-flag="@X" onclick="openSidebar('100_Pactblade Invader',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\130_Magma Blazebuilder.png" id="130_Magma Blazebuilder" data-flag="@X" onclick="openSidebar('130_Magma Blazebuilder',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\167_Mokoro's Pulse.png" id="167_Mokoros Pulse" data-flag="@X" onclick="openSidebar('167_Mokoros Pulse',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\23_Osteokai Graveguard.png" id="23_Osteokai Graveguard" data-flag="@X" onclick="openSidebar('23_Osteokai Graveguard',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\65_Spirit of the Shallows.png" id="65_Spirit of the Shallows" data-flag="@X" onclick="openSidebar('65_Spirit of the Shallows',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\101_Prophecy of the Afterlife_back.png" alt="/sets\SLIP-files\img\101_Prophecy of the Afterlife_front.png" id="101_Prophecy of the Afterlife" data-flag="@XD" onclick="openSidebar('101_Prophecy of the Afterlife',false)"><button class="flip-btn" onclick="imgFlip('101_Prophecy of the Afterlife')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\131_Mok Lok's Provoker.png" id="131_Mok Loks Provoker" data-flag="@X" onclick="openSidebar('131_Mok Loks Provoker',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\172_Prophecy of the Rot_back.png" alt="/sets\SLIP-files\img\172_Prophecy of the Rot_front.png" id="172_Prophecy of the Rot" data-flag="@XD" onclick="openSidebar('172_Prophecy of the Rot',false)"><button class="flip-btn" onclick="imgFlip('172_Prophecy of the Rot')"></button></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\25_Prophecy of the Temple_back.png" alt="/sets\SLIP-files\img\25_Prophecy of the Temple_front.png" id="25_Prophecy of the Temple" data-flag="@XD" onclick="openSidebar('25_Prophecy of the Temple',false)"><button class="flip-btn" onclick="imgFlip('25_Prophecy of the Temple')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\71_Undertow Bindings.png" id="71_Undertow Bindings" data-flag="@X" onclick="openSidebar('71_Undertow Bindings',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\102_Quy-Bound Medium.png" id="102_Quy-Bound Medium" data-flag="@X" onclick="openSidebar('102_Quy-Bound Medium',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\132_Prophecy of the Storm_back.png" alt="/sets\SLIP-files\img\132_Prophecy of the Storm_front.png" id="132_Prophecy of the Storm" data-flag="@XD" onclick="openSidebar('132_Prophecy of the Storm',false)"><button class="flip-btn" onclick="imgFlip('132_Prophecy of the Storm')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\173_Purifying Vines.png" id="173_Purifying Vines" data-flag="@X" onclick="openSidebar('173_Purifying Vines',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\26_Purifier of Lost Souls.png" id="26_Purifier of Lost Souls" data-flag="@X" onclick="openSidebar('26_Purifier of Lost Souls',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\72_Undertow Turtle.png" id="72_Undertow Turtle" data-flag="@X" onclick="openSidebar('72_Undertow Turtle',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\104_Rot Jungle's Bloom.png" id="104_Rot Jungles Bloom" data-flag="@X" onclick="openSidebar('104_Rot Jungles Bloom',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\134_Reckless Training.png" id="134_Reckless Training" data-flag="@X" onclick="openSidebar('134_Reckless Training',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\174_Reef Forest Pelangi.png" id="174_Reef Forest Pelangi" data-flag="@X" onclick="openSidebar('174_Reef Forest Pelangi',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\27_Rustflight Owlguard.png" id="27_Rustflight Owlguard" data-flag="@X" onclick="openSidebar('27_Rustflight Owlguard',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\73_Veil of the Reef.png" id="73_Veil of the Reef" data-flag="@X" onclick="openSidebar('73_Veil of the Reef',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\105_Rotgrove Forager.png" id="105_Rotgrove Forager" data-flag="@X" onclick="openSidebar('105_Rotgrove Forager',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\139_Snapback Stance.png" id="139_Snapback Stance" data-flag="@X" onclick="openSidebar('139_Snapback Stance',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\176_Reefback Protector.png" id="176_Reefback Protector" data-flag="@X" onclick="openSidebar('176_Reefback Protector',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\36_Windfist Technique.png" id="36_Windfist Technique" data-flag="@X" onclick="openSidebar('36_Windfist Technique',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\74_Washed Up On Shore.png" id="74_Washed Up On Shore" data-flag="@X" onclick="openSidebar('74_Washed Up On Shore',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\110_Temple Lantern Keeper.png" id="110_Temple Lantern Keeper" data-flag="@X" onclick="openSidebar('110_Temple Lantern Keeper',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\144_Stormwake Corsair.png" id="144_Stormwake Corsair" data-flag="@X" onclick="openSidebar('144_Stormwake Corsair',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\178_Rotcycle.png" id="178_Rotcycle" data-flag="@X" onclick="openSidebar('178_Rotcycle',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\190_Ancestral Decree.png" id="190_Ancestral Decree" data-flag="@X" onclick="openSidebar('190_Ancestral Decree',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\188_Ahvani, The Stormsiren.png" id="188_Ahvani, The Stormsiren" data-flag="@X" onclick="openSidebar('188_Ahvani, The Stormsiren',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\195_Avatar of Mokoro.png" id="195_Avatar of Mokoro" data-flag="@X" onclick="openSidebar('195_Avatar of Mokoro',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\201_Dhanik, Sangmai Grandmaster.png" id="201_Dhanik, Sangmai Grandmaster" data-flag="@X" onclick="openSidebar('201_Dhanik, Sangmai Grandmaster',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\196_Beneath the Tide.png" id="196_Beneath the Tide" data-flag="@X" onclick="openSidebar('196_Beneath the Tide',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\255_Vay Nhi, Veiled Matriarch.png" id="255_Vay Nhi, Veiled Matriarch" data-flag="@X" onclick="openSidebar('255_Vay Nhi, Veiled Matriarch',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\245_Sister of the Gale.png" id="245_Sister of the Gale" data-flag="@X" onclick="openSidebar('245_Sister of the Gale',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\222_Necrofluorescence.png" id="222_Necrofluorescence" data-flag="@X" onclick="openSidebar('222_Necrofluorescence',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\252_Thousand Form Stance.png" id="252_Thousand Form Stance" data-flag="@X" onclick="openSidebar('252_Thousand Form Stance',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\238_Reefmother Asangi.png" id="238_Reefmother Asangi" data-flag="@X" onclick="openSidebar('238_Reefmother Asangi',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\189_Ancestral Admonishment.png" id="189_Ancestral Admonishment" data-flag="@X" onclick="openSidebar('189_Ancestral Admonishment',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\207_Grizz, Cloud Forecaster.png" id="207_Grizz, Cloud Forecaster" data-flag="@X" onclick="openSidebar('207_Grizz, Cloud Forecaster',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\187_Adaliya, Fleshseed Gardener.png" id="187_Adaliya, Fleshseed Gardener" data-flag="@X" onclick="openSidebar('187_Adaliya, Fleshseed Gardener',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\204_Flameparry.png" id="204_Flameparry" data-flag="@X" onclick="openSidebar('204_Flameparry',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\193_Aomalak, Secret Seeker.png" id="193_Aomalak, Secret Seeker" data-flag="@X" onclick="openSidebar('193_Aomalak, Secret Seeker',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\198_Ca Dao Linh, Lineage Poet.png" id="198_Ca Dao Linh, Lineage Poet" data-flag="@X" onclick="openSidebar('198_Ca Dao Linh, Lineage Poet',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\232_Prophecy of Kahetra_back.png" alt="/sets\SLIP-files\img\232_Prophecy of Kahetra_front.png" id="232_Prophecy of Kahetra" data-flag="@XD" onclick="openSidebar('232_Prophecy of Kahetra',false)"><button class="flip-btn" onclick="imgFlip('232_Prophecy of Kahetra')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\215_Late-Bloomer Wretch.png" id="215_Late-Bloomer Wretch" data-flag="@X" onclick="openSidebar('215_Late-Bloomer Wretch',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\214_Lanai, the Butterfly Blade.png" id="214_Lanai, the Butterfly Blade" data-flag="@X" onclick="openSidebar('214_Lanai, the Butterfly Blade',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\216_Lumelith, The Reefwave.png" id="216_Lumelith, The Reefwave" data-flag="@X" onclick="openSidebar('216_Lumelith, The Reefwave',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\229_Paleclaw Escort.png" id="229_Paleclaw Escort" data-flag="@X" onclick="openSidebar('229_Paleclaw Escort',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\236_Ravya Stormlash.png" id="236_Ravya Stormlash" data-flag="@X" onclick="openSidebar('236_Ravya Stormlash',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\219_Mokoro's Call.png" id="219_Mokoros Call" data-flag="@X" onclick="openSidebar('219_Mokoros Call',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\217_Master Yhai, Tempered Will.png" id="217_Master Yhai, Tempered Will" data-flag="@X" onclick="openSidebar('217_Master Yhai, Tempered Will',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\231_Prophecy of Jantira_back.png" alt="/sets\SLIP-files\img\231_Prophecy of Jantira_front.png" id="231_Prophecy of Jantira" data-flag="@XD" onclick="openSidebar('231_Prophecy of Jantira',false)"><button class="flip-btn" onclick="imgFlip('231_Prophecy of Jantira')"></button></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\233_Prophecy of Khuin_back.png" alt="/sets\SLIP-files\img\233_Prophecy of Khuin_front.png" id="233_Prophecy of Khuin" data-flag="@XD" onclick="openSidebar('233_Prophecy of Khuin',false)"><button class="flip-btn" onclick="imgFlip('233_Prophecy of Khuin')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\240_Rough Sea Navigator.png" id="240_Rough Sea Navigator" data-flag="@X" onclick="openSidebar('240_Rough Sea Navigator',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\223_Nis'Sath, Vibrant Grave.png" id="223_NisSath, Vibrant Grave" data-flag="@X" onclick="openSidebar('223_NisSath, Vibrant Grave',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\235_Prophecy of Sangmai_back.png" alt="/sets\SLIP-files\img\235_Prophecy of Sangmai_front.png" id="235_Prophecy of Sangmai" data-flag="@XD" onclick="openSidebar('235_Prophecy of Sangmai',false)"><button class="flip-btn" onclick="imgFlip('235_Prophecy of Sangmai')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\237_Reef-Form.png" id="237_Reef-Form" data-flag="@X" onclick="openSidebar('237_Reef-Form',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\254_Uncle Cadeo, Banished Soul.png" id="254_Uncle Cadeo, Banished Soul" data-flag="@X" onclick="openSidebar('254_Uncle Cadeo, Banished Soul',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\250_Tempest Burst.png" id="250_Tempest Burst" data-flag="@X" onclick="openSidebar('250_Tempest Burst',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\234_Prophecy of Mokoro_back.png" alt="/sets\SLIP-files\img\234_Prophecy of Mokoro_front.png" id="234_Prophecy of Mokoro" data-flag="@XD" onclick="openSidebar('234_Prophecy of Mokoro',false)"><button class="flip-btn" onclick="imgFlip('234_Prophecy of Mokoro')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\249_Taunting Pridefist.png" id="249_Taunting Pridefist" data-flag="@X" onclick="openSidebar('249_Taunting Pridefist',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\251_Tendril-Tide Matriarch.png" id="251_Tendril-Tide Matriarch" data-flag="@X" onclick="openSidebar('251_Tendril-Tide Matriarch',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\192_Ancestral Priestess.png" id="192_Ancestral Priestess" data-flag="@X" onclick="openSidebar('192_Ancestral Priestess',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\199_Cindrak Coralfiend.png" id="199_Cindrak Coralfiend" data-flag="@X" onclick="openSidebar('199_Cindrak Coralfiend',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\212_Kawali, Death's Hunger.png" id="212_Kawali, Deaths Hunger" data-flag="@X" onclick="openSidebar('212_Kawali, Deaths Hunger',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\194_Asingha Disciple.png" id="194_Asingha Disciple" data-flag="@X" onclick="openSidebar('194_Asingha Disciple',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\186_Aati, Reef's Wisdom.png" id="186_Aati, Reefs Wisdom" data-flag="@X" onclick="openSidebar('186_Aati, Reefs Wisdom',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\208_Hanh, Ancestor's Voice.png" id="208_Hanh, Ancestors Voice" data-flag="@X" onclick="openSidebar('208_Hanh, Ancestors Voice',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\213_Kembang, Tempest's Rage.png" id="213_Kembang, Tempests Rage" data-flag="@X" onclick="openSidebar('213_Kembang, Tempests Rage',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\220_Mokoro's Will.png" id="220_Mokoros Will" data-flag="@X" onclick="openSidebar('220_Mokoros Will',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\206_Ghilen Hope Charger.png" id="206_Ghilen Hope Charger" data-flag="@X" onclick="openSidebar('206_Ghilen Hope Charger',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\197_Bloomtide's Call.png" id="197_Bloomtides Call" data-flag="@X" onclick="openSidebar('197_Bloomtides Call',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\225_Omen of Passing_back.png" alt="/sets\SLIP-files\img\225_Omen of Passing_front.png" id="225_Omen of Passing" data-flag="@XD" onclick="openSidebar('225_Omen of Passing',false)"><button class="flip-btn" onclick="imgFlip('225_Omen of Passing')"></button></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\227_Omen of Storms_back.png" alt="/sets\SLIP-files\img\227_Omen of Storms_front.png" id="227_Omen of Storms" data-flag="@XD" onclick="openSidebar('227_Omen of Storms',false)"><button class="flip-btn" onclick="imgFlip('227_Omen of Storms')"></button></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\226_Omen of Rot_back.png" alt="/sets\SLIP-files\img\226_Omen of Rot_front.png" id="226_Omen of Rot" data-flag="@XD" onclick="openSidebar('226_Omen of Rot',false)"><button class="flip-btn" onclick="imgFlip('226_Omen of Rot')"></button></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\224_Omen of Ascension_back.png" alt="/sets\SLIP-files\img\224_Omen of Ascension_front.png" id="224_Omen of Ascension" data-flag="@XD" onclick="openSidebar('224_Omen of Ascension',false)"><button class="flip-btn" onclick="imgFlip('224_Omen of Ascension')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\209_Incense Guru.png" id="209_Incense Guru" data-flag="@X" onclick="openSidebar('209_Incense Guru',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\243_Sermon of Shadows.png" id="243_Sermon of Shadows" data-flag="@X" onclick="openSidebar('243_Sermon of Shadows',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\242_Scorchwake Feint.png" id="242_Scorchwake Feint" data-flag="@X" onclick="openSidebar('242_Scorchwake Feint',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\244_Shaman of the Big Men.png" id="244_Shaman of the Big Men" data-flag="@X" onclick="openSidebar('244_Shaman of the Big Men',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\239_Return in Glory.png" id="239_Return in Glory" data-flag="@X" onclick="openSidebar('239_Return in Glory',false)"></div>
+				<div class="container"><img data-alt_src="/sets\SLIP-files\img\228_Omen of Tides_back.png" alt="/sets\SLIP-files\img\228_Omen of Tides_front.png" id="228_Omen of Tides" data-flag="@XD" onclick="openSidebar('228_Omen of Tides',false)"><button class="flip-btn" onclick="imgFlip('228_Omen of Tides')"></button></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\247_Soul-Marrow Binder.png" id="247_Soul-Marrow Binder" data-flag="@X" onclick="openSidebar('247_Soul-Marrow Binder',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\248_Stormcloud Conjurer.png" id="248_Stormcloud Conjurer" data-flag="@X" onclick="openSidebar('248_Stormcloud Conjurer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\246_Skulkwalker Brood.png" id="246_Skulkwalker Brood" data-flag="@X" onclick="openSidebar('246_Skulkwalker Brood',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\241_Sanda, Discipline's Eyes.png" id="241_Sanda, Disciplines Eyes" data-flag="@X" onclick="openSidebar('241_Sanda, Disciplines Eyes',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\230_Pelangi Wavereader.png" id="230_Pelangi Wavereader" data-flag="@X" onclick="openSidebar('230_Pelangi Wavereader',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\191_Ancestral Necromancer.png" id="191_Ancestral Necromancer" data-flag="@X" onclick="openSidebar('191_Ancestral Necromancer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\203_Emberwake Tidetail.png" id="203_Emberwake Tidetail" data-flag="@X" onclick="openSidebar('203_Emberwake Tidetail',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\205_Fungal Pactkeeper.png" id="205_Fungal Pactkeeper" data-flag="@X" onclick="openSidebar('205_Fungal Pactkeeper',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\202_Diving Phoenix Technique.png" id="202_Diving Phoenix Technique" data-flag="@X" onclick="openSidebar('202_Diving Phoenix Technique',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\200_Coralstream Mentor.png" id="200_Coralstream Mentor" data-flag="@X" onclick="openSidebar('200_Coralstream Mentor',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\210_Jade Reliquarist.png" id="210_Jade Reliquarist" data-flag="@X" onclick="openSidebar('210_Jade Reliquarist',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\221_Naga Stormbringer.png" id="221_Naga Stormbringer" data-flag="@X" onclick="openSidebar('221_Naga Stormbringer',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\218_Mokoro Rot-Shaman.png" id="218_Mokoro Rot-Shaman" data-flag="@X" onclick="openSidebar('218_Mokoro Rot-Shaman',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\211_Ka-Sai Warrior.png" id="211_Ka-Sai Warrior" data-flag="@X" onclick="openSidebar('211_Ka-Sai Warrior',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\253_Tideblessed Diver.png" id="253_Tideblessed Diver" data-flag="@X" onclick="openSidebar('253_Tideblessed Diver',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\259_Spoken Beyond Silence.png" id="259_Spoken Beyond Silence" data-flag="@X" onclick="openSidebar('259_Spoken Beyond Silence',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\260_Twist the Surge.png" id="260_Twist the Surge" data-flag="@X" onclick="openSidebar('260_Twist the Surge',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\256_Gravecycle Offering.png" id="256_Gravecycle Offering" data-flag="@X" onclick="openSidebar('256_Gravecycle Offering',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\258_Sangmai Trialist.png" id="258_Sangmai Trialist" data-flag="@X" onclick="openSidebar('258_Sangmai Trialist',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\257_Harmony's Shell.png" id="257_Harmonys Shell" data-flag="@X" onclick="openSidebar('257_Harmonys Shell',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\264_Chiselled Wrath-Idol.png" id="264_Chiselled Wrath-Idol" data-flag="@X" onclick="openSidebar('264_Chiselled Wrath-Idol',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\265_Dragonfly Blades.png" id="265_Dragonfly Blades" data-flag="@X" onclick="openSidebar('265_Dragonfly Blades',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\266_Familial Burial Urn.png" id="266_Familial Burial Urn" data-flag="@X" onclick="openSidebar('266_Familial Burial Urn',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\267_Gilded Lily.png" id="267_Gilded Lily" data-flag="@X" onclick="openSidebar('267_Gilded Lily',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\273_Salt Charm.png" id="273_Salt Charm" data-flag="@X" onclick="openSidebar('273_Salt Charm',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\261_Ancestral Wrappings.png" id="261_Ancestral Wrappings" data-flag="@X" onclick="openSidebar('261_Ancestral Wrappings',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\262_Brainstone Idol.png" id="262_Brainstone Idol" data-flag="@X" onclick="openSidebar('262_Brainstone Idol',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\269_Meditant's Lotus Pho.png" id="269_Meditants Lotus Pho" data-flag="@X" onclick="openSidebar('269_Meditants Lotus Pho',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\271_Pulse-Grown Grips.png" id="271_Pulse-Grown Grips" data-flag="@X" onclick="openSidebar('271_Pulse-Grown Grips',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\274_Stormbolt Sampan.png" id="274_Stormbolt Sampan" data-flag="@X" onclick="openSidebar('274_Stormbolt Sampan',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\263_Ceremonial Bone Talon.png" id="263_Ceremonial Bone Talon" data-flag="@X" onclick="openSidebar('263_Ceremonial Bone Talon',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\268_Iron Lotus Root.png" id="268_Iron Lotus Root" data-flag="@X" onclick="openSidebar('268_Iron Lotus Root',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\270_Overgrown Rust Guardian.png" id="270_Overgrown Rust Guardian" data-flag="@X" onclick="openSidebar('270_Overgrown Rust Guardian',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\272_Rustthorn Gauntlet.png" id="272_Rustthorn Gauntlet" data-flag="@X" onclick="openSidebar('272_Rustthorn Gauntlet',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\275_Stormcall Gong.png" id="275_Stormcall Gong" data-flag="@X" onclick="openSidebar('275_Stormcall Gong',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\278_Hidden Monastery.png" id="278_Hidden Monastery" data-flag="@X" onclick="openSidebar('278_Hidden Monastery',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\280_Hidden Wat.png" id="280_Hidden Wat" data-flag="@X" onclick="openSidebar('280_Hidden Wat',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\281_Hidden Ziggurat.png" id="281_Hidden Ziggurat" data-flag="@X" onclick="openSidebar('281_Hidden Ziggurat',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\277_Hidden Dojo.png" id="277_Hidden Dojo" data-flag="@X" onclick="openSidebar('277_Hidden Dojo',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\279_Hidden Pagoda.png" id="279_Hidden Pagoda" data-flag="@X" onclick="openSidebar('279_Hidden Pagoda',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\285_Temple of Khuin.png" id="285_Temple of Khuin" data-flag="@X" onclick="openSidebar('285_Temple of Khuin',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\284_Temple of Kahetra.png" id="284_Temple of Kahetra" data-flag="@X" onclick="openSidebar('284_Temple of Kahetra',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\286_Temple of Mokoro.png" id="286_Temple of Mokoro" data-flag="@X" onclick="openSidebar('286_Temple of Mokoro',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\287_Temple of Sangmai.png" id="287_Temple of Sangmai" data-flag="@X" onclick="openSidebar('287_Temple of Sangmai',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\283_Temple of Jantira.png" id="283_Temple of Jantira" data-flag="@X" onclick="openSidebar('283_Temple of Jantira',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\282_Lotus Temple.png" id="282_Lotus Temple" data-flag="@X" onclick="openSidebar('282_Lotus Temple',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\276_Abandoned Catacomb.png" id="276_Abandoned Catacomb" data-flag="@X" onclick="openSidebar('276_Abandoned Catacomb',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\288_Plains.png" id="288_Plains" data-flag="@X" onclick="openSidebar('288_Plains',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\291_Island.png" id="291_Island" data-flag="@X" onclick="openSidebar('291_Island',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\294_Swamp.png" id="294_Swamp" data-flag="@X" onclick="openSidebar('294_Swamp',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\297_Mountain.png" id="297_Mountain" data-flag="@X" onclick="openSidebar('297_Mountain',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\289_Plains.png" id="289_Plains" data-flag="@X" onclick="openSidebar('289_Plains',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\290_Plains.png" id="290_Plains" data-flag="@X" onclick="openSidebar('290_Plains',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\292_Island.png" id="292_Island" data-flag="@X" onclick="openSidebar('292_Island',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\293_Island.png" id="293_Island" data-flag="@X" onclick="openSidebar('293_Island',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\295_Swamp.png" id="295_Swamp" data-flag="@X" onclick="openSidebar('295_Swamp',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\296_Swamp.png" id="296_Swamp" data-flag="@X" onclick="openSidebar('296_Swamp',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\298_Mountain.png" id="298_Mountain" data-flag="@X" onclick="openSidebar('298_Mountain',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\299_Mountain.png" id="299_Mountain" data-flag="@X" onclick="openSidebar('299_Mountain',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\300_Forest.png" id="300_Forest" data-flag="@X" onclick="openSidebar('300_Forest',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\301_Forest.png" id="301_Forest" data-flag="@X" onclick="openSidebar('301_Forest',false)"></div>
+				<div class="container"><img alt="/sets\SLIP-files\img\302_Forest.png" id="302_Forest" data-flag="@X" onclick="openSidebar('302_Forest',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
