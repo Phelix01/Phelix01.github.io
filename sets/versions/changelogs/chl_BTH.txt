@@ -1,4 +1,646 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Theatrical Mentor added.
+Exhibition Duelist added.
+Opera's Royal Guard added.
+Festival Courier added.
+Poisebound Tutor added.
+Parade Alleycat added.
+War Harpist added.
+Inconspicuous Inspector added.
+Novice Stage Manager added.
+Inseparable Romance added.
+Transpuppify added.
+Poised Retribution added.
+Gentleman's Ghost added.
+March of the Halo added.
+Stolen Visage added.
+Canal Stinger added.
+Masqued Echomage added.
+Moonblade Aspirant added.
+Aurel, Skycourt Orator added.
+Covert Analyst added.
+Lunalight Faerie added.
+Elegant-Eye Priestess added.
+Painted Marblefang added.
+Flow Form added.
+Misty Step added.
+Unforeseen Current added.
+Standing Ovation added.
+Graceful Exhibition added.
+Motley Masquerade added.
+Shifting Facade added.
+Pervasive Nimblist added.
+Mourning Raven added.
+Thrills, Punchline Predator added.
+Vengeful Widow added.
+Graveside Minstrel added.
+Prize Pit Bouncer added.
+Cryptmask Graverobber added.
+Sadistic Showstopper added.
+Stageburrow Lurker added.
+Curtain Call Catastrophe added.
+Dress the Stage added.
+VIP Entrance added.
+Peek Performance added.
+Welcome to the Show added.
+Final Audition added.
+Crackfire Devil added.
+Party Virtuoso added.
+Hellhymn Troubadour added.
+Emberjuggle Trickster added.
+Emberhoof Colossus added.
+Private Instigator added.
+Maniacal Thaumaturge added.
+Festival Drake added.
+Spellbinding Soprano added.
+Wicked Whirl added.
+Revelry in Twilight added.
+Party Favors added.
+Jealous Soliloquy added.
+Spotlight of Madness added.
+Ventriloquist's Vice added.
+Sundryl, Lunarlight Seer added.
+Grove Infiltrator added.
+Birchglow Beaver added.
+Gravemire Sibyl added.
+Reclusive Naturalist added.
+Carnival Vinecrawler added.
+Silverlight Ranger added.
+Segmented Skitterer added.
+Mossgrave Extractor added.
+Lunarlight Strike added.
+Showstopping Strength added.
+Mourner's Journey added.
+Alluring Aroma added.
+The Land Remembers added.
+Stage Banner added.
+Festival Float added.
+Phantom's Roost added.
+Festival Band added.
+Crypt-Risen Cavalier added.
+Scaffolded Piazza added.
+Birchmoon Plaza added.
+Skypeak Plaza added.
+Duskmire Plaza added.
+Azuretide Plaza added.
+Dawncourt Plaza added.
+Furnace Dancer added.
+Brooding Eggminder added.
+Finale Swan added.
+Aveline, Celestial Pirouette added.
+Renthilda, Lead Lutenist added.
+Ivory Adjudicator added.
+Only One Shall Wake added.
+Intermission added.
+Elistair, Esteemed Director added.
+Mirrorglass Seraph added.
+Cyril, the Living Chorus added.
+Graceful Ejection added.
+Unflattering Command added.
+Ephemoral Exchange added.
+Evaron, Besotted Phantom added.
+Celessa, Phantom's Muse added.
+Curtainfall added.
+Artistic Liberties added.
+Laughtrack added.
+Voltspasm Arsonist added.
+Caine, Cynical Showman added.
+Step Right Up added.
+Coffers to Coffins added.
+Lymara, Parade's Herald added.
+Festival Fever added.
+Boughblade Warden added.
+
+Stage-Tumble Ruffian removed.
+
+Guildtide Maestro
+rules_text: Flying
+Whenever Guildtide Maestro attacks, you may rehearse 2. if you do, tap target creature and put a stun counter on it. [i](To rehearse, tap two other untapped creatures and/or artifacts you control.)[/i] => Flying
+Whenever this creature attacks, you may rehearse 2. if you do, tap target creature and put a stun counter on it. [i](To rehearse, tap any number of other creatures you control with total mana value 2 or more.)[/i]
+
+Stagebreaker Jack
+rules_text: Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Stagebreaker Jack has trample and menace as long as it has the spotlight.
+Whenever Stagebreaker Jack takes the spotlight, create a treasure token. => Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Spotlighted creatures you control have trample.
+Whenever this creature takes or loses the spotlight, create a tapped Treasure token.
+
+Gleaming Fire Dancer
+rules_text: Haste
+Gleaming Fire Dancer has first strike as long as you've advanced this turn. [i](You've advanced if a creature's power increased under your control this turn.)[/i] => Haste
+This creature has first strike as long as you've advanced this turn. [i](You've advanced if a creature's power increased under your control this turn.)[/i]
+
+Lunarlight Druid
+rules_text: Illuminate {2} [i]({2}, put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+[b][{1}, {T}: You may play an additional land this turn.][/b]
+When Lunarlight Druid enters, search your library for up to one basic land card and reveal it, put it into your hand, then shuffle. => Illuminate {2} [i]({2}: Put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+[b][{1}, {T}: You may play an additional land this turn.][/b]
+When this creature enters, search your library for up to one basic land card and reveal it, put it into your hand, then shuffle.
+
+Parade Guide
+rules_text: Whenever a nontoken creature you control enters, Parade Guide gets +1/+1 until end of turn. => Whenever a nontoken creature you control enters, this creature gets +1/+1 until end of turn.
+
+Stage-Trained Familiar
+rules_text: Flying
+When Stage-Trained Familiar enters, you may rehearse 1. If you do, put a +1/+1 counter on another target creature you control. [i](To rehearse, tap another untapped artifact or creature you control.)[/i] => Flying
+When this creature enters, you may rehearse 1. If you do, put a +1/+1 counter on another target creature you control. [i](To rehearse, tap another untapped artifact or creature you control.)[/i]
+
+Confetti Elemental
+rules_text: When Confetti Elemental dies, create a 1/1 white Spirit creature token with flying. => When this creature dies, create a 1/1 white Spirit creature token with flying.
+
+Festival Banner-Bearer
+rules_text: Vigilance
+Festival Banner-Bearer gets +1/+1 as long as you've advanced this turn. [i](You've advanced if a creature's power increased under your control this turn.)[/i] => Vigilance
+This creature gets +1/+1 as long as you've advanced this turn. [i](You've advanced if a creature's power increased under your control this turn.)[/i]
+
+Dwarven Flash Mob
+rules_text: Flash
+When Dwarven Flash Mob enters, tap up to one target creature. If you've advanced this turn, tap up to two creatures instead. [i](You've advanced if a creature's power increased under your control this turn.)[/i] => Flash
+When this creature enters, tap up to one target creature. If you've advanced this turn, tap up to two creatures instead. [i](You've advanced if a creature's power increased under your control this turn.)[/i]
+
+Stoic Seraphim
+rules_text: Flying
+This spell costs {1} less for each creature you control with a power higher than its base power.
+When Stoic Seraphim enters, draw a card. => Flying
+This spell costs {1} less for each creature you control with a power higher than its base power.
+When this creature enters, draw a card.
+
+Vigilant Riposte
+
+Choreographed Strike
+rules_text: As you cast this spell, you may rehearse 2. [i](To rehearse, tap two other untapped creatures and/or artifacts you control.)[/i]
+Destroy target creature with power 4 or greater. If you rehearsed this spell, exile target creature instead. => As you cast this spell, you may rehearse 3. [i](To rehearse, tap any number of other creatures you control with total mana value 3 or more.)[/i]
+Destroy target creature with power 4 or greater. If you rehearsed this spell, exile target creature instead.
+
+Shattering Crescendo
+
+Party Foul
+
+Contagious Laughter
+
+Silk Seamstress
+
+Maskscroll Familiar
+rules_text: When Maskscroll Familiar enters, draw a card, then discard a card. => When this creature enters, draw a card, then discard a card.
+
+Gildscroll Playwright
+rules_text: Flying
+Whenever Gildscroll Playwright enters or attacks, you may rehearse 1. If you do, target creature you don't control gets -2/-0 until end of turn. [i](To rehearse, tap another target creature or artifact you control.)[/i] => Flying
+Whenever this creature enters or attacks, you may rehearse 1. If you do, target creature you don't control gets -2/-0 until end of turn. [i](To rehearse, tap any number of other creatures you control with total mana value 1 or more.)[/i]
+
+Ceremonious Knight
+rules_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+Ceremonious Knight can block up to two attacking creatures.
+[b]Compelled[/b] Level 3
+Whenever Ceremonious Knight attacks, up to one other target attacking creature gets +0/+2 until end of turn. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+This creature can block up to two attacking creatures.
+[b]Compelled[/b] Level 3
+Whenever this creature attacks, another target attacking creature gets +0/+2 until end of turn.
+special_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+Ceremonious Knight can block up to two attacking creatures.
+[b]Compelled[/b] Level 3
+Whenever Ceremonious Knight attacks, up to one other target attacking creature gets +0/+2 until end of turn. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+This creature can block up to two attacking creatures.
+[b]Compelled[/b] Level 3
+Whenever this creature attacks, another target attacking creature gets +0/+2 until end of turn.
+
+Choreographed Sentry
+rules_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+First strike
+[b]Compelled[/b] Level 3
+Choreographed Sentry gets +2/+0. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+This creature has first strike
+[b]Compelled[/b] Level 3
+This creature gets +2/+0.
+special_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+First strike
+[b]Compelled[/b] Level 3
+Choreographed Sentry gets +2/+0. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+This creature has first strike
+[b]Compelled[/b] Level 3
+This creature gets +2/+0.
+
+Ethereal Flutist
+
+Mirrorleaf Shaper
+rules_text: Illuminate {3} [i]({3}, put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+Whenever another creature you control enters, untap [b][up to two][/b] target permanent[b][s][/b] you control. Do this only once each turn. => Illuminate {3} [i]({3}: Put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+Whenever another creature you control enters, untap [b][up to two][/b] target permanent[b][s][/b] you control. Do this only once each turn.
+
+Compelled Composer
+
+Moonveil Scout
+rules_text: Illuminate {3} [i]({3}, put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+When Moonveil Scout enters [b][or leaves the battlefield][/b], return up to one other target creature to its owner's hand. => Illuminate {3} [i]({3}: Put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+When this creature enters [b][or leaves the battlefield][/b], return up to one other target creature to its owner's hand.
+
+Canal Lampray
+
+Aegiswing Arbiter
+rules_text: Flying
+When Aegiswing Arbiter enters, you may rehearse 2. If you do, scry 2 and draw a card. [i](To rehearse, tap two other untapped creatures and/or artifacts you control.)[/i] => Flying
+When this creature enters, you may rehearse 2. If you do, scry 2 and draw a card. [i](To rehearse, tap any number of other creatures you control with total mana value 2 or more.)[/i]
+
+Curtain of Mist
+
+Scripted Retraction
+
+Doomed to Party
+
+Stage Double
+
+Ode to Brilliance
+
+Phantom's Silhouette
+
+Cryptmask Swarmer
+rules_text: Flying
+When Cryptmask Swarmer dies, create a 1/1 black Insect creature token with flying. => Flying
+When this creature dies, create a 1/1 black Insect creature token with flying.
+
+Curtain Wailer
+rules_text: Deathtouch
+When Curtain Wailer enters, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, it's abilities trigger as though it died.)[/i] => Deathtouch
+When this creature enters, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, its abilities trigger as though it died.)[/i]
+
+Confetti Collector
+rules_text: When Confetti Collector dies, target opponent loses 2 life. => When this creature dies, target opponent loses 2 life.
+
+Jubilant Harlequin
+rules_text: Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Menace
+Whenever Jubilant Harlequin deals combat damage to a player, create a treasure token. Do this only if it has the spotlight. => Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Menace
+Whenever this creature deals combat damage to a player, create a Treasure token. Do this only if it's spotlighted.
+
+Duskcaller Undertaker
+
+Last Act Heckler
+rules_text: Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Last Act Heckler has +1/+1 as long as it has the spotlight.
+Whenever Last Act Heckler takes the spotlight, target opponent loses 1 life and you gain 1 life. => Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Spotlighted creatures you control have menace.
+Whenever this creature takes the spotlight, target opponent loses 1 life and you gain 1 life.
+
+Gravemarch Petrifex
+rules_text: Menace
+Whenever this creature deals combat damage to a player, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, it's abilities trigger as though it died.)[/i] => Menace
+Whenever this creature deals combat damage to a player, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, its abilities trigger as though it died.)[/i]
+
+Funeral Duskcaller
+rules_text: When Funeral Duskcaller enters, you may discard a card. If you do, choose one.
+• Target player discards a card and you draw a card.
+• Target creature gets -2/-2 until end of turn. => When this creature enters, you may discard a card. If you do, choose one.
+• Target player discards a card and you draw a card.
+• Target creature gets -2/-2 until end of turn.
+
+Dramatic Interlude
+
+Twist Ending
+
+Cackling Comeback
+
+Punchline Curse
+
+Balcony Thief's Approach
+
+Charpyre Scamp
+
+Brimwreath Greeter
+rules_text: Brimwreath Greeter gets +1/+0 as long as another creature you control entered this turn. => This creature gets +1/+0 as long as another creature you control entered this turn.
+
+Banner-Whirl Acrobat
+rules_text: Reach
+Whenever Banner-Whirl Acrobat attacks, you may pay {R}. If you do, it gets +1/+0 until end of turn. => Reach
+Whenever this creature attacks, you may pay {R}. If you do, it gets +1/+0 until end of turn.
+
+Firegag Jester
+rules_text: Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Firegag Jester gets +1/+0 as long as it has the spotlight.
+Firegag Jester deals 1 damage to any target whenever it takes the spotlight. => Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Spotlighted creatures you control get +1/+0.
+Whenever this creature takes the spotlight, it deals 1 damage to any target.
+
+Daredevil Harlequin
+rules_text: Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Haste
+Whenever Daredevil Harlequin attacks, if it has the spotlight, create a tapped treasure token. => Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Haste
+Whenever this creature takes the spotlight, create a Treasure token.
+
+Lanternblaze Chanter
+rules_text: When Lanternblaze Chanter enters, as long as you've advanced this turn, draw a card. [i](You've advanced if a creature's power increased under your control this turn.)[/i] => When this creature enters, as long as you've advanced this turn, draw a card. [i](You've advanced if a creature's power increased under your control this turn.)[/i]
+
+Riothall Busker
+rules_text: Trample
+At the beginning of your end step, if a creature you control was dealt damage this turn, put a +1/+1 counter on Riothall Busker.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Trample
+At the beginning of your end step, if a creature you control was dealt damage this turn, put a +1/+1 counter on this creature.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Fatal Banter
+
+Glory's Final Bout
+
+Stike the Stage
+
+Festival's Flamewhirl
+
+Hellish Harmony
+
+Moss Sprite
+rules_text: {T}, Sacrifice Moss Sprite: Untap target nonartifact permanent. => {T}, Sacrifice this creature: Untap target nonartifact permanent.
+
+Lunar Dancer
+rules_text: Illuminate {G} [i]({G}, put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+[b][{T}: Add {G}.]
+[/b]When Lunar Dancer enters, you gain 2 life. => Illuminate {G} [i]({G}: Put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+[b][{T}: Add {G}.]
+[/b]When this creature enters, you gain 2 life.
+
+Brimwreath Trailblazer
+rules_text: When Brimwreath Trailblazer enters, search your library for a basic land card, put it onto the battlefield tapped under your control, then shuffle. => When this creature enters, search your library for a basic land card, put it onto the battlefield tapped under your control, then shuffle.
+
+Garden Lasher
+rules_text: Reach, trample
+{6}, {T}, Sacrifice Garden Lasher: Put a +1/+1 counter on each other creature you control. Activate only as a sorcery. => Reach, trample
+{6}, {T}, Sacrifice this creature: Put a +1/+1 counter on each other creature you control. Activate only as a sorcery.
+
+Eulogist's Puppet
+rules_text: {G}, {T}: Untap target creature you control.
+When Eulogist's Puppet dies, untap up to one target creature. => {G}, {T}: Untap target creature you control.
+When this creature dies, untap up to one target creature.
+
+Bloom-Strider
+rules_text: Illuminate {2} [i]({2}, put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+Whenever Bloom-Strider enters [b][or attacks][/b], create a 2/2 green elemental creature token. => Illuminate {2} [i]({2}: Put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+Whenever this creature enters [b][or attacks][/b], create a 2/2 green elemental creature token.
+
+Funeral Harpist
+rules_text: Deathtouch
+Whenever a creature an opponent controls dies, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, it's abilities trigger as though it died.)[/i] => Deathtouch
+Whenever a creature an opponent controls dies, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, its abilities trigger as though it died.)[/i]
+
+Pallbearer Myconid
+rules_text: When Pallbearer Myconid enters, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, it's abilities trigger as though it died.)[/i] => When this creature enters, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, its abilities trigger as though it died.)[/i]
+
+Masked Scale-Stalker
+rules_text: Vigilance
+When Masked Scale-Stalker enters, destroy up to one target creature with flying. => Vigilance
+When this creature enters, destroy up to one target creature with flying.
+
+Moss Burrower
+rules_text: When Moss Burrower enters, mill three cards. You may put a land card from among the cards milled this way into your hand. If you don't, put a +1/+1 counter on Moss Burrower. => When this creature enters, mill three cards. You may put a land card from among the cards milled this way into your hand. If you don't, put a +1/+1 counter on this creature.
+
+Trailblazer's Resolve
+
+Mourning Twilight
+rules_text: Choose one — 
+• Destroy target artifact or enchantment.
+• Bereave [i](To bereave, you may exile a creature card from your graveyard. If you do, it's abilities trigger as though it died.)[/i] => Choose one — 
+• Destroy target artifact or enchantment.
+• Bereave [i](To bereave, you may exile a creature card from your graveyard. If you do, its abilities trigger as though it died.)[/i]
+
+Beneath the Canopy
+
+Moon's Sterling Gaze
+
+Skulking Mask
+
+Lunarveil Aegis
+
+Grand Opening Scissors
+
+Chorusdrum
+
+Drystraw Puppet
+rules_text: When Drystraw Puppet dies, create a 1/1 colorless artifact creature token. => When this creature dies, create a 1/1 colorless artifact creature token.
+
+Locked Treasure Box
+
+Velour Virtuosa
+rules_text: Whenever this creature becomes tapped, you may rehearse 1. It you do, untap it. Do this only once each turn. [i](To rehearse, tap another untapped creature or artifact you control.)[/i]
+{W}{U}, {T}: Target creature gets -2/-0 until end of turn. Activate only as a sorcery. => Whenever this creature becomes tapped, you may rehearse 2. It you do, untap it. Do this only once each turn. [i](To rehearse, tap any number of other creatures you control with total mana value 2 or more.)[/i]
+{W}{U}, {T}: Target creature gets -2/-0 until end of turn. Activate only as a sorcery.
+
+Opulent Performance
+
+Proud Auteur
+
+Barrel Jester
+rules_text: Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Barrel Jester has menace as long as it has the spotlight.
+Whenever Barrel Jester takes the spotlight, it gains deathtouch until end of turn. => Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Spotlighted creatures you control get +1/+1 and have “When this creature dies, target opponent loses 1 life.”
+Whenever this creature takes the spotlight, it gains deathtouch until end of turn.
+
+Abandoned Stage Prop
+
+Flameskit Imp
+
+Formation Rider
+
+Banners Raised
+
+Processional Champion
+rules_text: First strike
+When Processional Champion enters, other creatures you control get +1/+0 until end of turn. => First strike
+When this creature enters, other creatures you control get +1/+0 until end of turn.
+
+Catacomb Deepguard
+rules_text: Whenever Catacomb Deepguard or another nontoken creature you control enters, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, it's abilities trigger as though it died.)[/i] => Whenever this or another nontoken creature you control enters, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, its abilities trigger as though it died.)[/i]
+
+Requiem's Toll
+
+Gravestone Feeder
+
+Twilight Ranger
+rules_text: Illuminate {1}{G}{U} [i]({1}{G}{U}, put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+Whenever one or more other creatures you control enter [b][or attack][/b], Twilight Ranger gets +1/+1 until end of turn. => Illuminate {1}{G}{U} [i]({1}{G}{U}: Put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+Whenever one or more other creatures you control enter [b][or attack][/b], this creature gets +1/+1 until end of turn.
+
+Delayed Firework
+
+Moonsprig Phantom
+
+Carnival Courtyard
+
+Gravehall Dais
+
+Parade Courtyard
+
+Ritual Courtyard
+
+Funeral Courtyard
+
+Theater Courtyard
+
+Cryptcourt Duke
+rules_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+When Cryptcourt Duke dies, target creature gets -2/-2 until end of turn.
+[b]Compelled[/b] Level 3
+When Cryptcourt Duke dies, target player discards a card. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+When this creature dies, target creature gets -2/-2 until end of turn.
+[b]Compelled[/b] Level 3
+When this creature dies, target player discards a card.
+special_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+When Cryptcourt Duke dies, target creature gets -2/-2 until end of turn.
+[b]Compelled[/b] Level 3
+When Cryptcourt Duke dies, target player discards a card. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+When this creature dies, target creature gets -2/-2 until end of turn.
+[b]Compelled[/b] Level 3
+When this creature dies, target player discards a card.
+
+Warline Percussionist
+rules_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+{R}, {T}: Target creature gains haste until end of turn. Activate only as a sorcery.
+[b]Compelled[/b] Level 3
+{R}, {T}: Target creature gets +2/+0 and until end of turn. Activate only as a sorcery. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+{R}, {T}: Target creature gains haste until end of turn. Activate only as a sorcery.
+[b]Compelled[/b] Level 3
+{R}, {T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+special_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+{R}, {T}: Target creature gains haste until end of turn. Activate only as a sorcery.
+[b]Compelled[/b] Level 3
+{R}, {T}: Target creature gets +2/+0 and until end of turn. Activate only as a sorcery. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+{R}, {T}: Target creature gains haste until end of turn. Activate only as a sorcery.
+[b]Compelled[/b] Level 3
+{R}, {T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+
+Cryptmask Stalker
+rules_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+When Cryptmask Stalker dies, put a +1/+1 counter on up to one target creature.
+[b]Compelled[/b] Level 3
+Cryptmask Stalker has Deathtouch. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+When this creature dies, put a +1/+1 counter on up to one target creature.
+[b]Compelled[/b] Level 3
+This creature has Deathtouch.
+special_text: Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+When Cryptmask Stalker dies, put a +1/+1 counter on up to one target creature.
+[b]Compelled[/b] Level 3
+Cryptmask Stalker has Deathtouch. => Gain the next level as a sorcery to add its ability.
+Poise [i](As your combat begins, choose whether all permanents you control with poise are composed or compelled until your next combat.)[/i]
+[b]Composed[/b] Level 2
+When this creature dies, put a +1/+1 counter on up to one target creature.
+[b]Compelled[/b] Level 3
+This creature has Deathtouch.
+
+Gliding Frostweaver
+rules_text: Flash
+When Gliding Frostweaver enters, if all other creatures you control are tapped, untap them. If all other creatures you control are untapped, they get +1/+1 until end of turn. => Flash
+When this creature enters, if all other creatures you control are tapped, untap them. If all other creatures you control are untapped, they get +1/+1 until end of turn.
+
+Genasi Jewel Conductor
+rules_text: Whenever another nontoken creature you control enters, you may rehearse 1. If you do, untap Genasi Jewel Conductor and put a +1/+1 counter on it. [i](To rehearse, tap another untapped creature or artifact you control.)[/i] => Whenever another nontoken creature you control enters, you may rehearse 2. If you do, untap this creature and put a +1/+1 counter on it. [i](To rehearse, tap any number of other creatures you control with total mana value 2 or more.)[/i]
+
+Wavetide Dance
+
+Razerwire Walker
+rules_text: Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Whenever another creature you control dies, if it had the spotlight, Razerwire Walker takes the spotlight.
+Razerwire Walker has double strike as long as it has the spotlight. => Debut [i](Whenever a creature you control attacks alone, it has the spotlight until another creature you control takes it.)[/i]
+Whenever a creature you control enters, you may have it take the spotlight.
+Whenever this creature takes the spotlight, it gains double strike until end of turn.
+
+Carnival Detonator
+rules_text: Whenever a creature you control deals combat damage to a player, if it had the spotlight, create a treasure token.
+Whenever Carnival Detonator attacks, you may sacrifice an artifact. When you do, Carnival Detonator deals 2 damage to target opponent. => Whenever a creature you control deals combat damage to a player, if it had the spotlight, create a Treasure token.
+Whenever this creature attacks, you may sacrifice an artifact. When you do, this creature deals 2 damage to target opponent.
+
+Elegance Masque
+
+Entropy Masque
+
+Twist of the Knife
+
+Carrion Vessel
+
+Death-Suitor Drone
+rules_text: Reach
+Whenever you bereave, create a 1/1 black and green Insect Drone creature token. Do this only once each turn.
+Whenever a token creature you control dies, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, it's abilities trigger as though it died.)[/i] => Reach
+Whenever you bereave, create a 1/1 black and green Insect Drone creature token. Do this only once each turn.
+Whenever a token creature you control dies, bereave. [i](To bereave, you may exile a creature card from your graveyard. If you do, its abilities trigger as though it died.)[/i]
+
+Procession's Veil
+
+Nirvana Masque
+
+Ceremonious Veterans
+
+Rhythm-Keeper
+
+Parade Masque
+
+Parade Baton
+
+Glint Armored Vigilant
+rules_text: Illuminate {3} [i]({3}, put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+Vigilance, [b][hexproof]
+[/b]Whenever Glint Armored Vigilant deals combat damage to a player, untap up to one target permanent you control. => Illuminate {3} [i]({3}: Put a moonlight counter on this creature, unlocking the text in brackets. Activate only as a sorcery.)[/i]
+Vigilance, [b][hexproof]
+[/b]Whenever this creature deals combat damage to a player, untap up to one target permanent you control.
+
+Silverbirch Walker
+rules_text: Flash
+When Silverbirch Walker enters, put up to one land from your hand onto the battlefield tapped under your control. If you control a creature with a moonlight counter on it, that land enters untapped instead. => Flash
+When this creature enters, put up to one land from your hand onto the battlefield tapped under your control. If you control a creature with a moonlight counter on it, that land enters untapped instead.
+
+Radiant Masque
+
+Adorned in Silverlight
+
+
+type: Creature — Human Performer => Legendary Creature — Gorgon Druid
+cost: {1}{W}{U} => {3}{G}
+rules_text: Flying
+Whenever Guildtide Maestro attacks, you may rehearse 2. if you do, tap target creature and put a stun counter on it. [i](To rehearse, tap two other untapped creatures and/or artifacts you control.)[/i] => Deathtouch
+At the beginning of your upkeep, mill two cards. Bereave for each creature card that entered your graveyard this way. [i](To bereave, you may exile a creature card from your graveyard. If you do, its abilities trigger as though it died.)[/i]
+Whenever you bereave for the second time each turn, create a 1/1 green Snake creature token with deathtouch.
+pt: 2/3 => 3/3
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

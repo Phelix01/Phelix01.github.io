@@ -1,0 +1,3073 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Guildtide Maestro",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Performer",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/189_Guildtide Maestro.png"
+			}
+		},
+		{
+			"name": "Stagebreaker Jack",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Clown Knight",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/202_Stagebreaker Jack.png"
+			}
+		},
+		{
+			"name": "Gleaming Fire Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Performer",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/186_Gleaming Fire Dancer.png"
+			}
+		},
+		{
+			"name": "Lunarlight Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/190_Lunarlight Druid.png"
+			}
+		},
+		{
+			"name": "Parade Guide",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/22_Parade Guide.png"
+			}
+		},
+		{
+			"name": "Stage-Trained Familiar",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/29_Stage-Trained Familiar.png"
+			}
+		},
+		{
+			"name": "Confetti Elemental",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Elemental",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/5_Confetti Elemental.png"
+			}
+		},
+		{
+			"name": "Festival Banner-Bearer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/9_Festival Banner-Bearer.png"
+			}
+		},
+		{
+			"name": "Dwarven Flash Mob",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dwarf Performer",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/7_Dwarven Flash Mob.png"
+			}
+		},
+		{
+			"name": "Stoic Seraphim",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/30_Stoic Seraphim.png"
+			}
+		},
+		{
+			"name": "Vigilant Riposte",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/34_Vigilant Riposte.png"
+			}
+		},
+		{
+			"name": "Choreographed Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/4_Choreographed Strike.png"
+			}
+		},
+		{
+			"name": "Shattering Crescendo",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/27_Shattering Crescendo.png"
+			}
+		},
+		{
+			"name": "Party Foul",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/23_Party Foul.png"
+			}
+		},
+		{
+			"name": "Contagious Laughter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/6_Contagious Laughter.png"
+			}
+		},
+		{
+			"name": "Silk Seamstress",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/28_Silk Seamstress.png"
+			}
+		},
+		{
+			"name": "Maskscroll Familiar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Fox Illusion",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/54_Maskscroll Familiar.png"
+			}
+		},
+		{
+			"name": "Gildscroll Playwright",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/50_Gildscroll Playwright.png"
+			}
+		},
+		{
+			"name": "Ceremonious Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/2_Ceremonious Knight.png"
+			}
+		},
+		{
+			"name": "Choreographed Sentry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/3_Choreographed Sentry.png"
+			}
+		},
+		{
+			"name": "Ethereal Flutist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Bard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/48_Ethereal Flutist.png"
+			}
+		},
+		{
+			"name": "Mirrorleaf Shaper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/57_Mirrorleaf Shaper.png"
+			}
+		},
+		{
+			"name": "Compelled Composer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/40_Compelled Composer.png"
+			}
+		},
+		{
+			"name": "Moonveil Scout",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/60_Moonveil Scout.png"
+			}
+		},
+		{
+			"name": "Canal Lampray",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/38_Canal Lampray.png"
+			}
+		},
+		{
+			"name": "Aegiswing Arbiter",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/36_Aegiswing Arbiter.png"
+			}
+		},
+		{
+			"name": "Curtain of Mist",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/42_Curtain of Mist.png"
+			}
+		},
+		{
+			"name": "Scripted Retraction",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/65_Scripted Retraction.png"
+			}
+		},
+		{
+			"name": "Doomed to Party",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/44_Doomed to Party.png"
+			}
+		},
+		{
+			"name": "Stage Double",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/67_Stage Double.png"
+			}
+		},
+		{
+			"name": "Ode to Brilliance",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/62_Ode to Brilliance.png"
+			}
+		},
+		{
+			"name": "Phantom's Silhouette",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/64_Phantom's Silhouette.png"
+			}
+		},
+		{
+			"name": "Cryptmask Swarmer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Drone",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/79_Cryptmask Swarmer.png"
+			}
+		},
+		{
+			"name": "Curtain Wailer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/81_Curtain Wailer.png"
+			}
+		},
+		{
+			"name": "Confetti Collector",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goblin Mercenary",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/75_Confetti Collector.png"
+			}
+		},
+		{
+			"name": "Jubilant Harlequin",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Tiefling Clown",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/91_Jubilant Harlequin.png"
+			}
+		},
+		{
+			"name": "Duskcaller Undertaker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/85_Duskcaller Undertaker.png"
+			}
+		},
+		{
+			"name": "Last Act Heckler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/92_Last Act Heckler.png"
+			}
+		},
+		{
+			"name": "Gravemarch Petrifex",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Gorgon Shaman",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/89_Gravemarch Petrifex.png"
+			}
+		},
+		{
+			"name": "Funeral Duskcaller",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/88_Funeral Duskcaller.png"
+			}
+		},
+		{
+			"name": "Dramatic Interlude",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/83_Dramatic Interlude.png"
+			}
+		},
+		{
+			"name": "Twist Ending",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/102_Twist Ending.png"
+			}
+		},
+		{
+			"name": "Cackling Comeback",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/73_Cackling Comeback.png"
+			}
+		},
+		{
+			"name": "Punchline Curse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/98_Punchline Curse.png"
+			}
+		},
+		{
+			"name": "Balcony Thief's Approach",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/72_Balcony Thief's Approach.png"
+			}
+		},
+		{
+			"name": "Charpyre Scamp",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Imp",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/109_Charpyre Scamp.png"
+			}
+		},
+		{
+			"name": "Brimwreath Greeter",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/107_Brimwreath Greeter.png"
+			}
+		},
+		{
+			"name": "Banner-Whirl Acrobat",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Performer",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/106_Banner-Whirl Acrobat.png"
+			}
+		},
+		{
+			"name": "Firegag Jester",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/119_Firegag Jester.png"
+			}
+		},
+		{
+			"name": "Daredevil Harlequin",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Devil Performer",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/112_Daredevil Harlequin.png"
+			}
+		},
+		{
+			"name": "Lanternblaze Chanter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dwarf Bard",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/125_Lanternblaze Chanter.png"
+			}
+		},
+		{
+			"name": "Riothall Busker",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Ogre Mercenary Bard",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/132_Riothall Busker.png"
+			}
+		},
+		{
+			"name": "Fatal Banter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/115_Fatal Banter.png"
+			}
+		},
+		{
+			"name": "Glory's Final Bout",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/121_Glory's Final Bout.png"
+			}
+		},
+		{
+			"name": "Stike the Stage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/136_Stike the Stage.png"
+			}
+		},
+		{
+			"name": "Festival's Flamewhirl",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/118_Festival's Flamewhirl.png"
+			}
+		},
+		{
+			"name": "Hellish Harmony",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/123_Hellish Harmony.png"
+			}
+		},
+		{
+			"name": "Moss Sprite",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/161_Moss Sprite.png"
+			}
+		},
+		{
+			"name": "Lunar Dancer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Dryad Performer",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/156_Lunar Dancer.png"
+			}
+		},
+		{
+			"name": "Brimwreath Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/147_Brimwreath Trailblazer.png"
+			}
+		},
+		{
+			"name": "Garden Lasher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/152_Garden Lasher.png"
+			}
+		},
+		{
+			"name": "Eulogist's Puppet",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Plant Toy",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/151_Eulogist's Puppet.png"
+			}
+		},
+		{
+			"name": "Bloom-Strider",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/145_Bloom-Strider.png"
+			}
+		},
+		{
+			"name": "Funeral Harpist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Gorgon Bard",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/184_Funeral Harpist.png"
+			}
+		},
+		{
+			"name": "Pallbearer Myconid",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus Druid",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/165_Pallbearer Myconid.png"
+			}
+		},
+		{
+			"name": "Masked Scale-Stalker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Snake Assassin",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/158_Masked Scale-Stalker.png"
+			}
+		},
+		{
+			"name": "Moss Burrower",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Mole",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/160_Moss Burrower.png"
+			}
+		},
+		{
+			"name": "Trailblazer's Resolve",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/171_Trailblazer's Resolve.png"
+			}
+		},
+		{
+			"name": "Mourning Twilight",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/164_Mourning Twilight.png"
+			}
+		},
+		{
+			"name": "Beneath the Canopy",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/143_Beneath the Canopy.png"
+			}
+		},
+		{
+			"name": "Moon's Sterling Gaze",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/159_Moon's Sterling Gaze.png"
+			}
+		},
+		{
+			"name": "Skulking Mask",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/220_Skulking Mask.png"
+			}
+		},
+		{
+			"name": "Lunarveil Aegis",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/191_Lunarveil Aegis.png"
+			}
+		},
+		{
+			"name": "Grand Opening Scissors",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/217_Grand Opening Scissors.png"
+			}
+		},
+		{
+			"name": "Chorusdrum",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/212_Chorusdrum.png"
+			}
+		},
+		{
+			"name": "Drystraw Puppet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Scarecrow Toy",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/214_Drystraw Puppet.png"
+			}
+		},
+		{
+			"name": "Locked Treasure Box",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Treasure",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/218_Locked Treasure Box.png"
+			}
+		},
+		{
+			"name": "Velour Virtuosa",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Performer",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/205_Velour Virtuosa.png"
+			}
+		},
+		{
+			"name": "Opulent Performance",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/193_Opulent Performance.png"
+			}
+		},
+		{
+			"name": "Proud Auteur",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Creature — Human Performer",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/211_Proud Auteur.png"
+			}
+		},
+		{
+			"name": "Barrel Jester",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Clown Rogue",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/175_Barrel Jester.png"
+			}
+		},
+		{
+			"name": "Abandoned Stage Prop",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/172_Abandoned Stage Prop.png"
+			}
+		},
+		{
+			"name": "Flameskit Imp",
+			"rarity": "common",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Creature — Imp Spirit",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/207_Flameskit Imp.png"
+			}
+		},
+		{
+			"name": "Formation Rider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/183_Formation Rider.png"
+			}
+		},
+		{
+			"name": "Banners Raised",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/174_Banners Raised.png"
+			}
+		},
+		{
+			"name": "Processional Champion",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/210_Processional Champion.png"
+			}
+		},
+		{
+			"name": "Catacomb Deepguard",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/178_Catacomb Deepguard.png"
+			}
+		},
+		{
+			"name": "Requiem's Toll",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/199_Requiem's Toll.png"
+			}
+		},
+		{
+			"name": "Gravestone Feeder",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Creature — Insect Drone",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/208_Gravestone Feeder.png"
+			}
+		},
+		{
+			"name": "Twilight Ranger",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/203_Twilight Ranger.png"
+			}
+		},
+		{
+			"name": "Delayed Firework",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/213_Delayed Firework.png"
+			}
+		},
+		{
+			"name": "Moonsprig Phantom",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/209_Moonsprig Phantom.png"
+			}
+		},
+		{
+			"name": "Carnival Courtyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/224_Carnival Courtyard.png"
+			}
+		},
+		{
+			"name": "Gravehall Dais",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/228_Gravehall Dais.png"
+			}
+		},
+		{
+			"name": "Parade Courtyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/229_Parade Courtyard.png"
+			}
+		},
+		{
+			"name": "Ritual Courtyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/230_Ritual Courtyard.png"
+			}
+		},
+		{
+			"name": "Funeral Courtyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/227_Funeral Courtyard.png"
+			}
+		},
+		{
+			"name": "Theater Courtyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/233_Theater Courtyard.png"
+			}
+		},
+		{
+			"name": "Cryptcourt Duke",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Skeleton Noble",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/77_Cryptcourt Duke.png"
+			}
+		},
+		{
+			"name": "Warline Percussionist",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dwarf Soldier",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/139_Warline Percussionist.png"
+			}
+		},
+		{
+			"name": "Cryptmask Stalker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Assassin",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/150_Cryptmask Stalker.png"
+			}
+		},
+		{
+			"name": "Gliding Frostweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Elemental Performer",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/187_Gliding Frostweaver.png"
+			}
+		},
+		{
+			"name": "Genasi Jewel Conductor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Elemental Advisor",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/185_Genasi Jewel Conductor.png"
+			}
+		},
+		{
+			"name": "Wavetide Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/206_Wavetide Dance.png"
+			}
+		},
+		{
+			"name": "Razerwire Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Performer",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/198_Razerwire Walker.png"
+			}
+		},
+		{
+			"name": "Carnival Detonator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Clown Rogue",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/176_Carnival Detonator.png"
+			}
+		},
+		{
+			"name": "Elegance Masque",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "181",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/BTH-files/img/181_Elegance Masque_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/181_Elegance Masque_front.png"
+			}
+		},
+		{
+			"name": "Entropy Masque",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "182",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/BTH-files/img/182_Entropy Masque_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/182_Entropy Masque_front.png"
+			}
+		},
+		{
+			"name": "Twist of the Knife",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{R}{R}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/204_Twist of the Knife.png"
+			}
+		},
+		{
+			"name": "Carrion Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/177_Carrion Vessel.png"
+			}
+		},
+		{
+			"name": "Death-Suitor Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Insect Drone",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/180_Death-Suitor Drone.png"
+			}
+		},
+		{
+			"name": "Procession's Veil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/196_Procession's Veil.png"
+			}
+		},
+		{
+			"name": "Nirvana Masque",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "192",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/BTH-files/img/192_Nirvana Masque_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/192_Nirvana Masque_front.png"
+			}
+		},
+		{
+			"name": "Ceremonious Veterans",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/179_Ceremonious Veterans.png"
+			}
+		},
+		{
+			"name": "Rhythm-Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Soldier Performer",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/200_Rhythm-Keeper.png"
+			}
+		},
+		{
+			"name": "Parade Masque",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "195",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/BTH-files/img/195_Parade Masque_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/195_Parade Masque_front.png"
+			}
+		},
+		{
+			"name": "Parade Baton",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/194_Parade Baton.png"
+			}
+		},
+		{
+			"name": "Glint Armored Vigilant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/188_Glint Armored Vigilant.png"
+			}
+		},
+		{
+			"name": "Silverbirch Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Treefolk",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/201_Silverbirch Walker.png"
+			}
+		},
+		{
+			"name": "Radiant Masque",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "197",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Phelix01.github.io/sets/BTH-files/img/197_Radiant Masque_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/197_Radiant Masque_front.png"
+			}
+		},
+		{
+			"name": "Adorned in Silverlight",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/173_Adorned in Silverlight.png"
+			}
+		},
+		{
+			"name": "Theatrical Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/32_Theatrical Mentor.png"
+			}
+		},
+		{
+			"name": "Exhibition Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/8_Exhibition Duelist.png"
+			}
+		},
+		{
+			"name": "Opera's Royal Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/20_Opera's Royal Guard.png"
+			}
+		},
+		{
+			"name": "Festival Courier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/10_Festival Courier.png"
+			}
+		},
+		{
+			"name": "Poisebound Tutor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Advisor",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/24_Poisebound Tutor.png"
+			}
+		},
+		{
+			"name": "Parade Alleycat",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/21_Parade Alleycat.png"
+			}
+		},
+		{
+			"name": "War Harpist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel Warrior Bard",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/35_War Harpist.png"
+			}
+		},
+		{
+			"name": "Inconspicuous Inspector",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird Detective",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/13_Inconspicuous Inspector.png"
+			}
+		},
+		{
+			"name": "Novice Stage Manager",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/18_Novice Stage Manager.png"
+			}
+		},
+		{
+			"name": "Inseparable Romance",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/14_Inseparable Romance.png"
+			}
+		},
+		{
+			"name": "Transpuppify",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/33_Transpuppify.png"
+			}
+		},
+		{
+			"name": "Poised Retribution",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/25_Poised Retribution.png"
+			}
+		},
+		{
+			"name": "Gentleman's Ghost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/12_Gentleman's Ghost.png"
+			}
+		},
+		{
+			"name": "March of the Halo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/17_March of the Halo.png"
+			}
+		},
+		{
+			"name": "Stolen Visage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/31_Stolen Visage.png"
+			}
+		},
+		{
+			"name": "Canal Stinger",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/39_Canal Stinger.png"
+			}
+		},
+		{
+			"name": "Masqued Echomage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/55_Masqued Echomage.png"
+			}
+		},
+		{
+			"name": "Moonblade Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/59_Moonblade Aspirant.png"
+			}
+		},
+		{
+			"name": "Aurel, Skycourt Orator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Bird Advisor",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/37_Aurel, Skycourt Orator.png"
+			}
+		},
+		{
+			"name": "Covert Analyst",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Rogue",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/41_Covert Analyst.png"
+			}
+		},
+		{
+			"name": "Lunalight Faerie",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/53_Lunalight Faerie.png"
+			}
+		},
+		{
+			"name": "Elegant-Eye Priestess",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Tiefling Cleric",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/45_Elegant-Eye Priestess.png"
+			}
+		},
+		{
+			"name": "Painted Marblefang",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Cat Elemental",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/63_Painted Marblefang.png"
+			}
+		},
+		{
+			"name": "Flow Form",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/49_Flow Form.png"
+			}
+		},
+		{
+			"name": "Misty Step",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/58_Misty Step.png"
+			}
+		},
+		{
+			"name": "Unforeseen Current",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/70_Unforeseen Current.png"
+			}
+		},
+		{
+			"name": "Standing Ovation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/68_Standing Ovation.png"
+			}
+		},
+		{
+			"name": "Graceful Exhibition",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/52_Graceful Exhibition.png"
+			}
+		},
+		{
+			"name": "Motley Masquerade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/61_Motley Masquerade.png"
+			}
+		},
+		{
+			"name": "Shifting Facade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/66_Shifting Facade.png"
+			}
+		},
+		{
+			"name": "Pervasive Nimblist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/96_Pervasive Nimblist.png"
+			}
+		},
+		{
+			"name": "Mourning Raven",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/94_Mourning Raven.png"
+			}
+		},
+		{
+			"name": "Thrills, Punchline Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Devil Clown",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/101_Thrills, Punchline Predator.png"
+			}
+		},
+		{
+			"name": "Vengeful Widow",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/103_Vengeful Widow.png"
+			}
+		},
+		{
+			"name": "Graveside Minstrel",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Bard",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/90_Graveside Minstrel.png"
+			}
+		},
+		{
+			"name": "Prize Pit Bouncer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Ogre Mercenary",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/97_Prize Pit Bouncer.png"
+			}
+		},
+		{
+			"name": "Cryptmask Graverobber",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/78_Cryptmask Graverobber.png"
+			}
+		},
+		{
+			"name": "Sadistic Showstopper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Clown Rogue",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/99_Sadistic Showstopper.png"
+			}
+		},
+		{
+			"name": "Stageburrow Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/100_Stageburrow Lurker.png"
+			}
+		},
+		{
+			"name": "Curtain Call Catastrophe",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/80_Curtain Call Catastrophe.png"
+			}
+		},
+		{
+			"name": "Dress the Stage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/84_Dress the Stage.png"
+			}
+		},
+		{
+			"name": "VIP Entrance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/104_VIP Entrance.png"
+			}
+		},
+		{
+			"name": "Peek Performance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/95_Peek Performance.png"
+			}
+		},
+		{
+			"name": "Welcome to the Show",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/105_Welcome to the Show.png"
+			}
+		},
+		{
+			"name": "Final Audition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/87_Final Audition.png"
+			}
+		},
+		{
+			"name": "Crackfire Devil",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Devil Rogue",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/111_Crackfire Devil.png"
+			}
+		},
+		{
+			"name": "Party Virtuoso",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Satyr Performer",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/129_Party Virtuoso.png"
+			}
+		},
+		{
+			"name": "Hellhymn Troubadour",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Tiefling Bard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/122_Hellhymn Troubadour.png"
+			}
+		},
+		{
+			"name": "Emberjuggle Trickster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/114_Emberjuggle Trickster.png"
+			}
+		},
+		{
+			"name": "Emberhoof Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/113_Emberhoof Colossus.png"
+			}
+		},
+		{
+			"name": "Private Instigator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/130_Private Instigator.png"
+			}
+		},
+		{
+			"name": "Maniacal Thaumaturge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Tiefling Wizard",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/127_Maniacal Thaumaturge.png"
+			}
+		},
+		{
+			"name": "Festival Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon Performer",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/116_Festival Drake.png"
+			}
+		},
+		{
+			"name": "Spellbinding Soprano",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/133_Spellbinding Soprano.png"
+			}
+		},
+		{
+			"name": "Wicked Whirl",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/140_Wicked Whirl.png"
+			}
+		},
+		{
+			"name": "Revelry in Twilight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/131_Revelry in Twilight.png"
+			}
+		},
+		{
+			"name": "Party Favors",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/128_Party Favors.png"
+			}
+		},
+		{
+			"name": "Jealous Soliloquy",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/124_Jealous Soliloquy.png"
+			}
+		},
+		{
+			"name": "Spotlight of Madness",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/134_Spotlight of Madness.png"
+			}
+		},
+		{
+			"name": "Ventriloquist's Vice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/137_Ventriloquist's Vice.png"
+			}
+		},
+		{
+			"name": "Sundryl, Lunarlight Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/170_Sundryl, Lunarlight Seer.png"
+			}
+		},
+		{
+			"name": "Grove Infiltrator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/154_Grove Infiltrator.png"
+			}
+		},
+		{
+			"name": "Birchglow Beaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Beaver",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/144_Birchglow Beaver.png"
+			}
+		},
+		{
+			"name": "Gravemire Sibyl",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Gorgon",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/153_Gravemire Sibyl.png"
+			}
+		},
+		{
+			"name": "Reclusive Naturalist",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/166_Reclusive Naturalist.png"
+			}
+		},
+		{
+			"name": "Carnival Vinecrawler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental Performer",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/149_Carnival Vinecrawler.png"
+			}
+		},
+		{
+			"name": "Silverlight Ranger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/169_Silverlight Ranger.png"
+			}
+		},
+		{
+			"name": "Segmented Skitterer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/167_Segmented Skitterer.png"
+			}
+		},
+		{
+			"name": "Mossgrave Extractor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/162_Mossgrave Extractor.png"
+			}
+		},
+		{
+			"name": "Lunarlight Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/157_Lunarlight Strike.png"
+			}
+		},
+		{
+			"name": "Showstopping Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/168_Showstopping Strength.png"
+			}
+		},
+		{
+			"name": "Mourner's Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/163_Mourner's Journey.png"
+			}
+		},
+		{
+			"name": "Alluring Aroma",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/142_Alluring Aroma.png"
+			}
+		},
+		{
+			"name": "The Land Remembers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/155_The Land Remembers.png"
+			}
+		},
+		{
+			"name": "Stage Banner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/221_Stage Banner.png"
+			}
+		},
+		{
+			"name": "Festival Float",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/216_Festival Float.png"
+			}
+		},
+		{
+			"name": "Phantom's Roost",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/219_Phantom's Roost.png"
+			}
+		},
+		{
+			"name": "Festival Band",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/215_Festival Band.png"
+			}
+		},
+		{
+			"name": "Crypt-Risen Cavalier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/76_Crypt-Risen Cavalier.png"
+			}
+		},
+		{
+			"name": "Scaffolded Piazza",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/231_Scaffolded Piazza.png"
+			}
+		},
+		{
+			"name": "Birchmoon Plaza",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/223_Birchmoon Plaza.png"
+			}
+		},
+		{
+			"name": "Skypeak Plaza",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/232_Skypeak Plaza.png"
+			}
+		},
+		{
+			"name": "Duskmire Plaza",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/226_Duskmire Plaza.png"
+			}
+		},
+		{
+			"name": "Azuretide Plaza",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/222_Azuretide Plaza.png"
+			}
+		},
+		{
+			"name": "Dawncourt Plaza",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Courtyard",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/225_Dawncourt Plaza.png"
+			}
+		},
+		{
+			"name": "Furnace Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Performer",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/120_Furnace Dancer.png"
+			}
+		},
+		{
+			"name": "Brooding Eggminder",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect Drone",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/148_Brooding Eggminder.png"
+			}
+		},
+		{
+			"name": "Finale Swan",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/11_Finale Swan.png"
+			}
+		},
+		{
+			"name": "Aveline, Celestial Pirouette",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Angel Performer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/1_Aveline, Celestial Pirouette.png"
+			}
+		},
+		{
+			"name": "Renthilda, Lead Lutenist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Dwarf Bard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/26_Renthilda, Lead Lutenist.png"
+			}
+		},
+		{
+			"name": "Ivory Adjudicator",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/16_Ivory Adjudicator.png"
+			}
+		},
+		{
+			"name": "Only One Shall Wake",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/19_Only One Shall Wake.png"
+			}
+		},
+		{
+			"name": "Intermission",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/15_Intermission.png"
+			}
+		},
+		{
+			"name": "Elistair, Esteemed Director",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Bird Advisor",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/46_Elistair, Esteemed Director.png"
+			}
+		},
+		{
+			"name": "Mirrorglass Seraph",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}{U}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/56_Mirrorglass Seraph.png"
+			}
+		},
+		{
+			"name": "Cyril, the Living Chorus",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Faerie Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/43_Cyril, the Living Chorus.png"
+			}
+		},
+		{
+			"name": "Graceful Ejection",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/51_Graceful Ejection.png"
+			}
+		},
+		{
+			"name": "Unflattering Command",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/69_Unflattering Command.png"
+			}
+		},
+		{
+			"name": "Ephemoral Exchange",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/47_Ephemoral Exchange.png"
+			}
+		},
+		{
+			"name": "Evaron, Besotted Phantom",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Horror Bard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/86_Evaron, Besotted Phantom.png"
+			}
+		},
+		{
+			"name": "Celessa, Phantom's Muse",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/74_Celessa, Phantom's Muse.png"
+			}
+		},
+		{
+			"name": "Curtainfall",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/82_Curtainfall.png"
+			}
+		},
+		{
+			"name": "Artistic Liberties",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/71_Artistic Liberties.png"
+			}
+		},
+		{
+			"name": "Laughtrack",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/93_Laughtrack.png"
+			}
+		},
+		{
+			"name": "Voltspasm Arsonist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Demon Performer",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/138_Voltspasm Arsonist.png"
+			}
+		},
+		{
+			"name": "Caine, Cynical Showman",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Clown Advisor",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/108_Caine, Cynical Showman.png"
+			}
+		},
+		{
+			"name": "Step Right Up",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/135_Step Right Up.png"
+			}
+		},
+		{
+			"name": "Coffers to Coffins",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/110_Coffers to Coffins.png"
+			}
+		},
+		{
+			"name": "Lymara, Parade's Herald",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/126_Lymara, Parade's Herald.png"
+			}
+		},
+		{
+			"name": "Festival Fever",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/117_Festival Fever.png"
+			}
+		},
+		{
+			"name": "Boughblade Warden",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dryad Ranger Druid",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/146_Boughblade Warden.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Gorgon Druid",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/BTH-files/img/141_.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Vengeful Widow
+	2 Finale Swan
+	2 Aveline, Celestial Pirouette
+	2 Renthilda, Lead Lutenist
+	2 Ivory Adjudicator
+	2 Only One Shall Wake
+	2 Intermission
+	2 Elistair, Esteemed Director
+	2 Mirrorglass Seraph
+	2 Cyril, the Living Chorus
+	2 Graceful Ejection
+	2 Unflattering Command
+	2 Ephemoral Exchange
+	2 Evaron, Besotted Phantom
+	2 Celessa, Phantom's Muse
+	2 Curtainfall
+	2 Artistic Liberties
+	2 Laughtrack
+	2 Voltspasm Arsonist
+	2 Caine, Cynical Showman
+	2 Step Right Up
+	2 Coffers to Coffins
+	2 Lymara, Parade's Herald
+	2 Festival Fever
+	2 Boughblade Warden
+	2 
+[uncommon(3)]
+	4 Guildtide Maestro
+	4 Stagebreaker Jack
+	4 Gleaming Fire Dancer
+	4 Lunarlight Druid
+	4 Funeral Harpist
+	4 Delayed Firework
+	4 Gliding Frostweaver
+	4 Genasi Jewel Conductor
+	4 Wavetide Dance
+	4 Razerwire Walker
+	4 Carnival Detonator
+	4 Elegance Masque
+	4 Entropy Masque
+	4 Twist of the Knife
+	4 Carrion Vessel
+	4 Death-Suitor Drone
+	4 Procession's Veil
+	4 Nirvana Masque
+	4 Ceremonious Veterans
+	4 Rhythm-Keeper
+	4 Parade Masque
+	4 Parade Baton
+	4 Glint Armored Vigilant
+	4 Silverbirch Walker
+	4 Radiant Masque
+	4 Adorned in Silverlight
+	4 Theatrical Mentor
+	4 Exhibition Duelist
+	4 Opera's Royal Guard
+	4 Festival Courier
+	4 Poisebound Tutor
+	4 Parade Alleycat
+	4 War Harpist
+	4 Inconspicuous Inspector
+	4 Novice Stage Manager
+	4 Inseparable Romance
+	4 Transpuppify
+	4 Poised Retribution
+	4 Gentleman's Ghost
+	4 March of the Halo
+	4 Stolen Visage
+	4 Canal Stinger
+	4 Masqued Echomage
+	4 Moonblade Aspirant
+	4 Aurel, Skycourt Orator
+	4 Covert Analyst
+	4 Lunalight Faerie
+	4 Elegant-Eye Priestess
+	4 Painted Marblefang
+	4 Flow Form
+	4 Misty Step
+	4 Unforeseen Current
+	4 Standing Ovation
+	4 Graceful Exhibition
+	4 Motley Masquerade
+	4 Shifting Facade
+	4 Pervasive Nimblist
+	4 Mourning Raven
+	4 Thrills, Punchline Predator
+	4 Graveside Minstrel
+	4 Prize Pit Bouncer
+	4 Cryptmask Graverobber
+	4 Sadistic Showstopper
+	4 Stageburrow Lurker
+	4 Curtain Call Catastrophe
+	4 Dress the Stage
+	4 VIP Entrance
+	4 Peek Performance
+	4 Welcome to the Show
+	4 Final Audition
+	4 Party Virtuoso
+	4 Hellhymn Troubadour
+	4 Emberjuggle Trickster
+	4 Emberhoof Colossus
+	4 Private Instigator
+	4 Maniacal Thaumaturge
+	4 Festival Drake
+	4 Spellbinding Soprano
+	4 Wicked Whirl
+	4 Revelry in Twilight
+	4 Party Favors
+	4 Jealous Soliloquy
+	4 Spotlight of Madness
+	4 Ventriloquist's Vice
+	4 Sundryl, Lunarlight Seer
+	4 Grove Infiltrator
+	4 Birchglow Beaver
+	4 Gravemire Sibyl
+	4 Reclusive Naturalist
+	4 Carnival Vinecrawler
+	4 Silverlight Ranger
+	4 Segmented Skitterer
+	4 Mossgrave Extractor
+	4 Lunarlight Strike
+	4 Showstopping Strength
+	4 Mourner's Journey
+	4 Alluring Aroma
+	4 The Land Remembers
+	4 Stage Banner
+	4 Festival Float
+	4 Phantom's Roost
+	4 Festival Band
+	4 Crypt-Risen Cavalier
+	4 Scaffolded Piazza
+	4 Birchmoon Plaza
+	4 Skypeak Plaza
+	4 Duskmire Plaza
+	4 Azuretide Plaza
+	4 Dawncourt Plaza
+	4 Furnace Dancer
+	4 Brooding Eggminder
+[common(7)]
+	8 Parade Guide
+	8 Stage-Trained Familiar
+	8 Confetti Elemental
+	8 Festival Banner-Bearer
+	8 Dwarven Flash Mob
+	8 Stoic Seraphim
+	8 Vigilant Riposte
+	8 Choreographed Strike
+	8 Shattering Crescendo
+	8 Party Foul
+	8 Contagious Laughter
+	8 Silk Seamstress
+	8 Maskscroll Familiar
+	8 Gildscroll Playwright
+	8 Ceremonious Knight
+	8 Choreographed Sentry
+	8 Ethereal Flutist
+	8 Mirrorleaf Shaper
+	8 Compelled Composer
+	8 Moonveil Scout
+	8 Canal Lampray
+	8 Aegiswing Arbiter
+	8 Curtain of Mist
+	8 Scripted Retraction
+	8 Doomed to Party
+	8 Stage Double
+	8 Ode to Brilliance
+	8 Phantom's Silhouette
+	8 Cryptmask Swarmer
+	8 Curtain Wailer
+	8 Confetti Collector
+	8 Jubilant Harlequin
+	8 Duskcaller Undertaker
+	8 Last Act Heckler
+	8 Gravemarch Petrifex
+	8 Funeral Duskcaller
+	8 Dramatic Interlude
+	8 Twist Ending
+	8 Cackling Comeback
+	8 Punchline Curse
+	8 Balcony Thief's Approach
+	8 Charpyre Scamp
+	8 Brimwreath Greeter
+	8 Banner-Whirl Acrobat
+	8 Firegag Jester
+	8 Daredevil Harlequin
+	8 Lanternblaze Chanter
+	8 Riothall Busker
+	8 Fatal Banter
+	8 Glory's Final Bout
+	8 Stike the Stage
+	8 Festival's Flamewhirl
+	8 Hellish Harmony
+	8 Moss Sprite
+	8 Lunar Dancer
+	8 Brimwreath Trailblazer
+	8 Garden Lasher
+	8 Eulogist's Puppet
+	8 Bloom-Strider
+	8 Pallbearer Myconid
+	8 Masked Scale-Stalker
+	8 Moss Burrower
+	8 Trailblazer's Resolve
+	8 Mourning Twilight
+	8 Beneath the Canopy
+	8 Moon's Sterling Gaze
+	8 Skulking Mask
+	8 Lunarveil Aegis
+	8 Grand Opening Scissors
+	8 Chorusdrum
+	8 Drystraw Puppet
+	8 Locked Treasure Box
+	8 Velour Virtuosa
+	8 Opulent Performance
+	8 Proud Auteur
+	8 Barrel Jester
+	8 Abandoned Stage Prop
+	8 Flameskit Imp
+	8 Formation Rider
+	8 Banners Raised
+	8 Processional Champion
+	8 Catacomb Deepguard
+	8 Requiem's Toll
+	8 Gravestone Feeder
+	8 Twilight Ranger
+	8 Moonsprig Phantom
+	8 Carnival Courtyard
+	8 Gravehall Dais
+	8 Parade Courtyard
+	8 Ritual Courtyard
+	8 Funeral Courtyard
+	8 Theater Courtyard
+	8 Cryptcourt Duke
+	8 Warline Percussionist
+	8 Cryptmask Stalker
+	8 Crackfire Devil
+[foil(1)]
+	6 Guildtide Maestro
+	6 Stagebreaker Jack
+	6 Gleaming Fire Dancer
+	6 Lunarlight Druid
+	12 Parade Guide
+	12 Stage-Trained Familiar
+	12 Confetti Elemental
+	12 Festival Banner-Bearer
+	12 Dwarven Flash Mob
+	12 Stoic Seraphim
+	12 Vigilant Riposte
+	12 Choreographed Strike
+	12 Shattering Crescendo
+	12 Party Foul
+	12 Contagious Laughter
+	12 Silk Seamstress
+	12 Maskscroll Familiar
+	12 Gildscroll Playwright
+	12 Ceremonious Knight
+	12 Choreographed Sentry
+	12 Ethereal Flutist
+	12 Mirrorleaf Shaper
+	12 Compelled Composer
+	12 Moonveil Scout
+	12 Canal Lampray
+	12 Aegiswing Arbiter
+	12 Curtain of Mist
+	12 Scripted Retraction
+	12 Doomed to Party
+	12 Stage Double
+	12 Ode to Brilliance
+	12 Phantom's Silhouette
+	12 Cryptmask Swarmer
+	12 Curtain Wailer
+	12 Confetti Collector
+	12 Jubilant Harlequin
+	12 Duskcaller Undertaker
+	12 Last Act Heckler
+	12 Gravemarch Petrifex
+	12 Funeral Duskcaller
+	12 Dramatic Interlude
+	12 Twist Ending
+	12 Cackling Comeback
+	12 Punchline Curse
+	12 Balcony Thief's Approach
+	12 Charpyre Scamp
+	12 Brimwreath Greeter
+	12 Banner-Whirl Acrobat
+	12 Firegag Jester
+	12 Daredevil Harlequin
+	12 Lanternblaze Chanter
+	12 Riothall Busker
+	12 Fatal Banter
+	12 Glory's Final Bout
+	12 Stike the Stage
+	12 Festival's Flamewhirl
+	12 Hellish Harmony
+	12 Moss Sprite
+	12 Lunar Dancer
+	12 Brimwreath Trailblazer
+	12 Garden Lasher
+	12 Eulogist's Puppet
+	12 Bloom-Strider
+	6 Funeral Harpist
+	12 Pallbearer Myconid
+	12 Masked Scale-Stalker
+	12 Moss Burrower
+	12 Trailblazer's Resolve
+	12 Mourning Twilight
+	12 Beneath the Canopy
+	12 Moon's Sterling Gaze
+	12 Skulking Mask
+	12 Lunarveil Aegis
+	12 Grand Opening Scissors
+	12 Chorusdrum
+	12 Drystraw Puppet
+	12 Locked Treasure Box
+	12 Velour Virtuosa
+	12 Opulent Performance
+	12 Proud Auteur
+	12 Barrel Jester
+	12 Abandoned Stage Prop
+	12 Flameskit Imp
+	12 Formation Rider
+	12 Banners Raised
+	12 Processional Champion
+	12 Catacomb Deepguard
+	12 Requiem's Toll
+	12 Gravestone Feeder
+	12 Twilight Ranger
+	6 Delayed Firework
+	12 Moonsprig Phantom
+	12 Carnival Courtyard
+	12 Gravehall Dais
+	12 Parade Courtyard
+	12 Ritual Courtyard
+	12 Funeral Courtyard
+	12 Theater Courtyard
+	12 Cryptcourt Duke
+	12 Warline Percussionist
+	12 Cryptmask Stalker
+	6 Gliding Frostweaver
+	6 Genasi Jewel Conductor
+	6 Wavetide Dance
+	6 Razerwire Walker
+	6 Carnival Detonator
+	6 Elegance Masque
+	6 Entropy Masque
+	6 Twist of the Knife
+	6 Carrion Vessel
+	6 Death-Suitor Drone
+	6 Procession's Veil
+	6 Nirvana Masque
+	6 Ceremonious Veterans
+	6 Rhythm-Keeper
+	6 Parade Masque
+	6 Parade Baton
+	6 Glint Armored Vigilant
+	6 Silverbirch Walker
+	6 Radiant Masque
+	6 Adorned in Silverlight
+	6 Theatrical Mentor
+	6 Exhibition Duelist
+	6 Opera's Royal Guard
+	6 Festival Courier
+	6 Poisebound Tutor
+	6 Parade Alleycat
+	6 War Harpist
+	6 Inconspicuous Inspector
+	6 Novice Stage Manager
+	6 Inseparable Romance
+	6 Transpuppify
+	6 Poised Retribution
+	6 Gentleman's Ghost
+	6 March of the Halo
+	6 Stolen Visage
+	6 Canal Stinger
+	6 Masqued Echomage
+	6 Moonblade Aspirant
+	6 Aurel, Skycourt Orator
+	6 Covert Analyst
+	6 Lunalight Faerie
+	6 Elegant-Eye Priestess
+	6 Painted Marblefang
+	6 Flow Form
+	6 Misty Step
+	6 Unforeseen Current
+	6 Standing Ovation
+	6 Graceful Exhibition
+	6 Motley Masquerade
+	6 Shifting Facade
+	6 Pervasive Nimblist
+	6 Mourning Raven
+	6 Thrills, Punchline Predator
+	2 Vengeful Widow
+	6 Graveside Minstrel
+	6 Prize Pit Bouncer
+	6 Cryptmask Graverobber
+	6 Sadistic Showstopper
+	6 Stageburrow Lurker
+	6 Curtain Call Catastrophe
+	6 Dress the Stage
+	6 VIP Entrance
+	6 Peek Performance
+	6 Welcome to the Show
+	6 Final Audition
+	12 Crackfire Devil
+	6 Party Virtuoso
+	6 Hellhymn Troubadour
+	6 Emberjuggle Trickster
+	6 Emberhoof Colossus
+	6 Private Instigator
+	6 Maniacal Thaumaturge
+	6 Festival Drake
+	6 Spellbinding Soprano
+	6 Wicked Whirl
+	6 Revelry in Twilight
+	6 Party Favors
+	6 Jealous Soliloquy
+	6 Spotlight of Madness
+	6 Ventriloquist's Vice
+	6 Sundryl, Lunarlight Seer
+	6 Grove Infiltrator
+	6 Birchglow Beaver
+	6 Gravemire Sibyl
+	6 Reclusive Naturalist
+	6 Carnival Vinecrawler
+	6 Silverlight Ranger
+	6 Segmented Skitterer
+	6 Mossgrave Extractor
+	6 Lunarlight Strike
+	6 Showstopping Strength
+	6 Mourner's Journey
+	6 Alluring Aroma
+	6 The Land Remembers
+	6 Stage Banner
+	6 Festival Float
+	6 Phantom's Roost
+	6 Festival Band
+	6 Crypt-Risen Cavalier
+	6 Scaffolded Piazza
+	6 Birchmoon Plaza
+	6 Skypeak Plaza
+	6 Duskmire Plaza
+	6 Azuretide Plaza
+	6 Dawncourt Plaza
+	6 Furnace Dancer
+	6 Brooding Eggminder
+	2 Finale Swan
+	2 Aveline, Celestial Pirouette
+	2 Renthilda, Lead Lutenist
+	2 Ivory Adjudicator
+	2 Only One Shall Wake
+	2 Intermission
+	2 Elistair, Esteemed Director
+	2 Mirrorglass Seraph
+	2 Cyril, the Living Chorus
+	2 Graceful Ejection
+	2 Unflattering Command
+	2 Ephemoral Exchange
+	2 Evaron, Besotted Phantom
+	2 Celessa, Phantom's Muse
+	2 Curtainfall
+	2 Artistic Liberties
+	2 Laughtrack
+	2 Voltspasm Arsonist
+	2 Caine, Cynical Showman
+	2 Step Right Up
+	2 Coffers to Coffins
+	2 Lymara, Parade's Herald
+	2 Festival Fever
+	2 Boughblade Warden
+	2 
+[wildcard(1)]
+	15 Guildtide Maestro
+	15 Stagebreaker Jack
+	15 Gleaming Fire Dancer
+	15 Lunarlight Druid
+	6 Parade Guide
+	6 Stage-Trained Familiar
+	6 Confetti Elemental
+	6 Festival Banner-Bearer
+	6 Dwarven Flash Mob
+	6 Stoic Seraphim
+	6 Vigilant Riposte
+	6 Choreographed Strike
+	6 Shattering Crescendo
+	6 Party Foul
+	6 Contagious Laughter
+	6 Silk Seamstress
+	6 Maskscroll Familiar
+	6 Gildscroll Playwright
+	6 Ceremonious Knight
+	6 Choreographed Sentry
+	6 Ethereal Flutist
+	6 Mirrorleaf Shaper
+	6 Compelled Composer
+	6 Moonveil Scout
+	6 Canal Lampray
+	6 Aegiswing Arbiter
+	6 Curtain of Mist
+	6 Scripted Retraction
+	6 Doomed to Party
+	6 Stage Double
+	6 Ode to Brilliance
+	6 Phantom's Silhouette
+	6 Cryptmask Swarmer
+	6 Curtain Wailer
+	6 Confetti Collector
+	6 Jubilant Harlequin
+	6 Duskcaller Undertaker
+	6 Last Act Heckler
+	6 Gravemarch Petrifex
+	6 Funeral Duskcaller
+	6 Dramatic Interlude
+	6 Twist Ending
+	6 Cackling Comeback
+	6 Punchline Curse
+	6 Balcony Thief's Approach
+	6 Charpyre Scamp
+	6 Brimwreath Greeter
+	6 Banner-Whirl Acrobat
+	6 Firegag Jester
+	6 Daredevil Harlequin
+	6 Lanternblaze Chanter
+	6 Riothall Busker
+	6 Fatal Banter
+	6 Glory's Final Bout
+	6 Stike the Stage
+	6 Festival's Flamewhirl
+	6 Hellish Harmony
+	6 Moss Sprite
+	6 Lunar Dancer
+	6 Brimwreath Trailblazer
+	6 Garden Lasher
+	6 Eulogist's Puppet
+	6 Bloom-Strider
+	15 Funeral Harpist
+	6 Pallbearer Myconid
+	6 Masked Scale-Stalker
+	6 Moss Burrower
+	6 Trailblazer's Resolve
+	6 Mourning Twilight
+	6 Beneath the Canopy
+	6 Moon's Sterling Gaze
+	6 Skulking Mask
+	6 Lunarveil Aegis
+	6 Grand Opening Scissors
+	6 Chorusdrum
+	6 Drystraw Puppet
+	6 Locked Treasure Box
+	6 Velour Virtuosa
+	6 Opulent Performance
+	6 Proud Auteur
+	6 Barrel Jester
+	6 Abandoned Stage Prop
+	6 Flameskit Imp
+	6 Formation Rider
+	6 Banners Raised
+	6 Processional Champion
+	6 Catacomb Deepguard
+	6 Requiem's Toll
+	6 Gravestone Feeder
+	6 Twilight Ranger
+	15 Delayed Firework
+	6 Moonsprig Phantom
+	6 Carnival Courtyard
+	6 Gravehall Dais
+	6 Parade Courtyard
+	6 Ritual Courtyard
+	6 Funeral Courtyard
+	6 Theater Courtyard
+	6 Cryptcourt Duke
+	6 Warline Percussionist
+	6 Cryptmask Stalker
+	15 Gliding Frostweaver
+	15 Genasi Jewel Conductor
+	15 Wavetide Dance
+	15 Razerwire Walker
+	15 Carnival Detonator
+	15 Elegance Masque
+	15 Entropy Masque
+	15 Twist of the Knife
+	15 Carrion Vessel
+	15 Death-Suitor Drone
+	15 Procession's Veil
+	15 Nirvana Masque
+	15 Ceremonious Veterans
+	15 Rhythm-Keeper
+	15 Parade Masque
+	15 Parade Baton
+	15 Glint Armored Vigilant
+	15 Silverbirch Walker
+	15 Radiant Masque
+	15 Adorned in Silverlight
+	15 Theatrical Mentor
+	15 Exhibition Duelist
+	15 Opera's Royal Guard
+	15 Festival Courier
+	15 Poisebound Tutor
+	15 Parade Alleycat
+	15 War Harpist
+	15 Inconspicuous Inspector
+	15 Novice Stage Manager
+	15 Inseparable Romance
+	15 Transpuppify
+	15 Poised Retribution
+	15 Gentleman's Ghost
+	15 March of the Halo
+	15 Stolen Visage
+	15 Canal Stinger
+	15 Masqued Echomage
+	15 Moonblade Aspirant
+	15 Aurel, Skycourt Orator
+	15 Covert Analyst
+	15 Lunalight Faerie
+	15 Elegant-Eye Priestess
+	15 Painted Marblefang
+	15 Flow Form
+	15 Misty Step
+	15 Unforeseen Current
+	15 Standing Ovation
+	15 Graceful Exhibition
+	15 Motley Masquerade
+	15 Shifting Facade
+	15 Pervasive Nimblist
+	15 Mourning Raven
+	15 Thrills, Punchline Predator
+	7 Vengeful Widow
+	15 Graveside Minstrel
+	15 Prize Pit Bouncer
+	15 Cryptmask Graverobber
+	15 Sadistic Showstopper
+	15 Stageburrow Lurker
+	15 Curtain Call Catastrophe
+	15 Dress the Stage
+	15 VIP Entrance
+	15 Peek Performance
+	15 Welcome to the Show
+	15 Final Audition
+	6 Crackfire Devil
+	15 Party Virtuoso
+	15 Hellhymn Troubadour
+	15 Emberjuggle Trickster
+	15 Emberhoof Colossus
+	15 Private Instigator
+	15 Maniacal Thaumaturge
+	15 Festival Drake
+	15 Spellbinding Soprano
+	15 Wicked Whirl
+	15 Revelry in Twilight
+	15 Party Favors
+	15 Jealous Soliloquy
+	15 Spotlight of Madness
+	15 Ventriloquist's Vice
+	15 Sundryl, Lunarlight Seer
+	15 Grove Infiltrator
+	15 Birchglow Beaver
+	15 Gravemire Sibyl
+	15 Reclusive Naturalist
+	15 Carnival Vinecrawler
+	15 Silverlight Ranger
+	15 Segmented Skitterer
+	15 Mossgrave Extractor
+	15 Lunarlight Strike
+	15 Showstopping Strength
+	15 Mourner's Journey
+	15 Alluring Aroma
+	15 The Land Remembers
+	15 Stage Banner
+	15 Festival Float
+	15 Phantom's Roost
+	15 Festival Band
+	15 Crypt-Risen Cavalier
+	15 Scaffolded Piazza
+	15 Birchmoon Plaza
+	15 Skypeak Plaza
+	15 Duskmire Plaza
+	15 Azuretide Plaza
+	15 Dawncourt Plaza
+	15 Furnace Dancer
+	15 Brooding Eggminder
+	7 Finale Swan
+	7 Aveline, Celestial Pirouette
+	7 Renthilda, Lead Lutenist
+	7 Ivory Adjudicator
+	7 Only One Shall Wake
+	7 Intermission
+	7 Elistair, Esteemed Director
+	7 Mirrorglass Seraph
+	7 Cyril, the Living Chorus
+	7 Graceful Ejection
+	7 Unflattering Command
+	7 Ephemoral Exchange
+	7 Evaron, Besotted Phantom
+	7 Celessa, Phantom's Muse
+	7 Curtainfall
+	7 Artistic Liberties
+	7 Laughtrack
+	7 Voltspasm Arsonist
+	7 Caine, Cynical Showman
+	7 Step Right Up
+	7 Coffers to Coffins
+	7 Lymara, Parade's Herald
+	7 Festival Fever
+	7 Boughblade Warden
+	7 
