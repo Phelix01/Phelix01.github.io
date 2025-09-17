@@ -6,6 +6,11 @@
             "formats": "Draft"
         },
         {
+            "set_code": "CTRA",
+            "set_name": "Cryoterra",
+            "formats": "Draft"
+        },
+        {
             "set_code": "HTH2",
             "set_name": "Hearth-Hollow: Root & Remedy",
             "formats": "Draft"

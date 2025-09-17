@@ -176,9 +176,12 @@
 	<img class="preload-hidden" src="/img/dot.png" />
 	<img class="preload-hidden" src="/sets/BTH-files/logo.png" />
 	<img class="preload-hidden" src="/sets/BTH-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CTRA-files/icon.png" />
 		<img class="preload-hidden" src="/sets/HTH2-files/icon.png" />
 		<img class="preload-hidden" src="/sets/SLIP-files/icon.png" />
 		<img class="preload-hidden" src="/sets/TFA-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/BTH-files/bg.png" />
+
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -193,6 +196,8 @@
 	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="BTH"><img src="/sets/BTH-files/icon.png">Brimwreath: The Eternal Celebration</a>
+	
+		<a class="set-bar inactive" href="CTRA"><img src="/sets/CTRA-files/icon.png">Cryoterra</a>
 	
 		<a class="set-bar inactive" href="HTH2"><img src="/sets/HTH2-files/icon.png">Hearth-Hollow: Root & Remedy</a>
 	
@@ -691,7 +696,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		loadImages();
 	});
 

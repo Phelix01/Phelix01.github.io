@@ -176,9 +176,12 @@
 	<img class="preload-hidden" src="/img/dot.png" />
 	<img class="preload-hidden" src="/sets/TFA-files/logo.png" />
 	<img class="preload-hidden" src="/sets/BTH-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CTRA-files/icon.png" />
 		<img class="preload-hidden" src="/sets/HTH2-files/icon.png" />
 		<img class="preload-hidden" src="/sets/SLIP-files/icon.png" />
 		<img class="preload-hidden" src="/sets/TFA-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/TFA-files/bg.png" />
+
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -195,6 +198,8 @@
 		<a class="set-bar" href="TFA"><img src="/sets/TFA-files/icon.png">Tales From the Afterworld</a>
 	
 		<a class="set-bar inactive" href="BTH"><img src="/sets/BTH-files/icon.png">Brimwreath: The Eternal Celebration</a>
+	
+		<a class="set-bar inactive" href="CTRA"><img src="/sets/CTRA-files/icon.png">Cryoterra</a>
 	
 		<a class="set-bar inactive" href="HTH2"><img src="/sets/HTH2-files/icon.png">Hearth-Hollow: Root & Remedy</a>
 	
@@ -486,7 +491,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		loadImages();
 	});
 
