@@ -1,4 +1,524 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Hellfire Ravager added.
+Solution Regulator added.
+Smogwraith added.
+Scrapcasting Adept added.
+Frostveil Agent added.
+Noble Attendant added.
+Break the Shackles added.
+Ordinate Frostguard added.
+Blizzard Patrol Angel added.
+Cremated Furnace Spirit added.
+Determined Seed-Watcher added.
+Fearsome Tribe Guard added.
+Laborious Strength added.
+Hailstrike added.
+Ghostflower Cougar added.
+Ordinate Field Marshal added.
+Fearless Dissenter added.
+Fumesoul Stalker added.
+Frostfoot Night Patrol added.
+Auroral Moth added.
+Factorysalve Healer added.
+Reinforcement Rebel added.
+Blizzardfang Howler added.
+Hailforged Justiciar added.
+Fjord Hermit added.
+Through the Smoke added.
+The Bigger They Fall added.
+Frostwake Uprising added.
+Ceremonial Cryoblade added.
+Chilling Informant added.
+Wastrel of the Deepfrost added.
+Steelfeather Salvager added.
+Cryospawn Experiment 77 added.
+Snowcaster Adept added.
+Frostguard Fabricator added.
+Hailmind Terror added.
+Ordinate Broker Baron added.
+Read the Runes added.
+Pressure Overload added.
+Nullfrost added.
+Seared Memory added.
+Thawed Insight added.
+Sudden Chill added.
+Cryoglass Extractor added.
+Mournflight Wisp added.
+Squallwight added.
+Dusklight Arsonist added.
+Veinreader Informant added.
+Mourning Gentleman added.
+Rimebone Fiend added.
+Cruel Overseer added.
+Killer's Conspiricy added.
+Glaciertusk Hauler added.
+Crystal-Quill Auditor added.
+Crushing Attrition added.
+Furnace's Fleshfuel added.
+Frozen Retrieval added.
+Gutterflux Mutation added.
+Heatvein Tracker added.
+Canary Phoenix added.
+Smelt-Melt Ragers added.
+Thermafrost Mauler added.
+Rebelbane Captain added.
+Incendiary Revolutionary added.
+Chainlash Devil added.
+Reckless Mechanist added.
+Razorboot Glider added.
+Scrapfire Surge added.
+Meltdown Mastery added.
+Rub It In added.
+Anarchist's Fury added.
+Billowing Flames added.
+Dredgemole added.
+Frostmaul War Captain added.
+Rustpyre Oracle added.
+Pinecrag Surveyor added.
+Deepfreeze Oracle added.
+Viscera Archivist added.
+Caldera Wurm added.
+Shivermaw Scuttler added.
+Spirit of the Verdigris added.
+Siphon Warmth added.
+Skypiercer's Rebuke added.
+Glacial Excavation added.
+War Party's Call added.
+Anointed Resolve added.
+Ice Climbing Gear added.
+Stained Cryoglass Lens added.
+Smokestack Coalossus added.
+Glassflesh Idol added.
+Lost Heritage Blade added.
+Frozen Maintenance Tunnel added.
+Crystalwood Verge added.
+Permafrost Crossing added.
+Slagwaste Tundra added.
+Heatvein Chasm added.
+Bloomspire Pines added.
+Aurora Fen added.
+Thermoflow Conduit added.
+Smogchoked Snowscape added.
+Spearglass Barrens added.
+Icemire Thicket added.
+Sinéad, Battleguard Nurse added.
+Tyga, Hand of the Hailstorm added.
+Brassbound Suppressor added.
+Chimneyborn Eidolon added.
+Annex Angel added.
+Rimeshroud Apparition added.
+Squallsong added.
+Ordinate's End added.
+Avalanche Runner added.
+Kessra Scrapwright added.
+Juris, Propaganda Savant added.
+Glaciator Fiend added.
+Mage of Thawed Memories added.
+Frostlock added.
+Unexpected Detour added.
+Cryosculpt added.
+Rimezone added.
+Cryoglass Foresight Orb added.
+Fumidia, the Smog Witch added.
+Shiverclaw the Abominable added.
+Thornbite Stalker added.
+Sinewspawn added.
+Chain Devoted Priest added.
+Heatdeath Erasure added.
+Dreadthaw added.
+Combat Triage added.
+Heat Extraction added.
+Liora, Rebellion Igniter added.
+The Scrapmaw Engine added.
+Rooftop Rebel added.
+Hellcart Horror added.
+Smokestack Pyromancer added.
+Double-Up added.
+Heatrush added.
+Suffocating Fumes added.
+Uprising Legacy added.
+Morvane, Rotsown Druid added.
+Orris, Scarred Trailblazer added.
+Karnir War Recruiter added.
+Thawborn Hydra added.
+Frostbite Snail added.
+Frostkindling Druid added.
+Tundralight Renewal added.
+Frozen Might added.
+Cryoterra's Claim added.
+
+Scorchfoot Ravager removed.
+Frostguard Ordinator removed.
+Oppressive Magistrate removed.
+Scrapcaster Adept removed.
+Tundra Agent removed.
+Cryotax Attendant removed.
+Frigid Winds removed.
+Tree-Burrow Ferret removed.
+Sky Patrol Angel removed.
+Rising Smogwraith removed.
+Karnir Seed-Watcher removed.
+Karnir Tribe Guardian removed.
+Laborious Endurance removed.
+Blizzard's Claw removed.
+
+Frostburn Explorer
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Haste
+Pay {V}, {T}, Sacrifice this creature: Search your library for a basic land card, put it onto the battlefield, then shuffle. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Haste
+Pay {V}, {T}, Sacrifice this creature: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+Furnace Rebel
+rules_text: First strike
+[i][i]Revolt[/i] — [/i]At the beginning of your end step, if a permanent you controlled left the battlefield this turn, create a 1/1 red Rebel creature token with menace. => Menace
+[i][i]Revolt[/i] — [/i]At the beginning of your end step, if a permanent you controlled left the battlefield this turn, create a 1/1 red Rebel creature token with menace.
+pt: 2/1 => 2/2
+
+Frostbitten Mirebeast
+cost: {1}{B}{G} => {3}{B}
+rules_text: Trample
+When this creature enters, other creatures you control gain trample until end of turn.
+Defrost 3 — {S}{B}{G} [i]({S}{B}{G}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token.)[/i] => Trample
+When this creature enters, it mill three cards. You may return one among them from your graveyard to your hand.
+Defrost 3 — {S}{B}{B} [i]({S}{B}{B}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)[/i]
+pt: 3/3 => 3/4
+
+Snowdrift Angel
+rules_text: Flying
+[i]Snowfall[/i] — Whenever a snow permanent enters under your control, creatures you control with flying gain vigilance until end of turn. => Flying
+Whenever you cast another snow spell, put a +1/+1 counter on up to one target creature.
+{1}{S}, {T}: Tap target untapped creature.
+
+Karnir Coldwatch
+type: Snow Creature — Yeti Ranger => Snow Creature — Karnir Ranger
+rules_text: Reach
+Other Yeti you control have trample.
+[i]Snowfall[/i] — Whenever a snow permanent enters under your control, Yeti you control get +1/+1. => Vigilance, reach
+Other Karnir you control have vigilance.
+[i]Snowfall[/i] — Whenever another snow permanent enters under your control, Karnir you control get +1/+1 until end of turn.
+
+Priestess in Rags
+
+Defiant Recruit
+
+Coldspire Patrol
+
+Crystal-Bound Thrall
+
+Karnir Frostspeaker
+type: Snow Creature — Yeti Shaman => Snow Creature — Karnir Shaman
+
+Crag-Scout Falcon
+
+Quota Enforcer
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+{W}, Pay {V}, {T}: Tap another target creature. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+{W}, Pay {V}, {T}: Tap another target creature.
+
+Saborpelt Dissenter
+
+Frostgrave Spirit
+rules_text: Flying
+When this creature dies, create a 1/1 white snow Spirit creature token with flying. => Flying
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+
+Longhouse Alpha
+type: Snow Creature — Yeti Warrior => Snow Creature — Karnir Warrior
+rules_text: Vigilance
+At the beginning of combat on your turn, another target Yeti you control gets +1/+1 and gains vigilance until end of turn. => Vigilance
+At the beginning of combat on your turn, another target Karnir you control gets +1/+1 and gains vigilance until end of turn.
+
+Contraband Inspector
+
+Ice Encrusted Mammoth
+
+Calculated Defiance
+
+Glacial Grasp
+
+Lost in Tundra
+
+Stand Together
+
+Rouse the Uprising
+rules_text: Choose one —
+• Create two 1/1 white Human Rebel creature tokens.
+• Create a 2/2 white snow Yeti creature token with vigilance. => Choose one —
+• Create two 1/1 white Human Rebel creature tokens.
+• Create a 2/2 white snow Karnir creature token with vigilance.
+
+Cryoprison Lantern
+
+Iceway Lookout
+
+Snowball Elemental
+
+Mnemonic Cryomancer
+
+Cryoglass Broker
+rules_text: When this creature enters, create a tapped Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i]
+Whenever you sacrifice a Crystal token, you may pay {S}. If you do, untap target nonland permanent you control. => When this creature enters, create a tapped Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i]
+Whenever you sacrifice an artifact, you may pay {S}. If you do, untap target nonland permanent you control.
+
+Smolder-Bone Nomad
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Vigilance
+When this creature dies, you may pay {V}. If you do, scry 2, then draw a card. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Vigilance
+When this creature dies, you may pay {V}. If you do, scry 2, then draw a card.
+
+Climbing Cliff Troll
+
+Oversized Glacierfin
+
+Fjordbreaker Walrus
+
+Cryoglass Vault-Guardian
+
+Shard of Insight
+rules_text: Scry 1, then draw a card.
+Defrost 2 — {S} [i]({S}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost.)[/i] => Scry 1, then draw a card.
+Create a Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i]
+
+Spellthaw
+
+Glacial Ward
+
+Ordinator's Greed
+
+Condemn to the Cold
+
+Tactical Dive
+rules_text: Choose one —
+• Target creature gets +1/+1 and gains flying until end of turn.
+• Target creature you control with flying gets +2/+2 and can't be blocked this turn. => Target creature you control gets +2/+2 and gains flying until end of turn.
+
+Permafreeze
+
+Crushing Cave-In
+
+Shiverpick
+
+Black-Ice Ghoul
+rules_text: Deathtouch
+When this creature dies, create a Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i] => {S}: This creature gains deathtouch until end of turn.
+When this creature dies, create a Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i]
+
+Scavenging Outcast
+rules_text: When this creature enters, mill a card, draw a card, then you lose 2 life.
+Defrost 2 — {S} [i]({S}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token.)[/i] => When this creature enters, mill a card, draw a card, then you lose 2 life.
+Defrost 2 — {S} [i]({S}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)[/i]
+
+Forge-Belt Thrasher
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+This creature gets +1/+1 and has menace as long as you have one or more {V}[i](A heat counter.)[/i]. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+This creature gets +1/+1 and has menace as long as you have one or more {V}[i](A heat counter.)[/i].
+
+Shardwing Operative
+
+Service Tunnel Ghast
+
+Cryoglass Inspector
+
+Frostwight
+
+Heatguard Ogre
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Menace
+This creature gets +2/+0 as long as you have three or more {V}. [i](Heat counters.)[/i] => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Menace
+This creature gets +2/+0 as long as you have three or more {V}. [i](Heat counters.)[/i]
+
+Grim Cremationist
+rules_text: {3}, Sacrifice this or another creature: Draw a card. => {2}, Sacrifice this or another creature: Target opponent loses 1 life and you gain 1 life.
+
+Extermination Patrol
+rules_text: When this creature dies, you may choose one —
+• Create a 1/1 black Rat creature token.
+• Target creature gets -1/-1 until end of turn. => When this creature dies, choose one —
+• Each opponent loses 1 life and you gain 1 life.
+• Target creature gets -1/-1 until end of turn.
+
+
+Abominable Behemoth
+cost: {5}{B} => {4}{B}{G}
+rules_text: When this creature enters, if it entered from anywhere other than your hand, target opponent loses 2 life and you gain 2 life.
+Defrost 4 — {2}{S}{B} [i]({2}{S}{B}: Exile this from your graveyard with four ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token.)[/i] => When this creature enters, if it entered from anywhere other than your hand, return up to one target creature card with mana value 3 or less from your graveyard to your battlefield tapped.
+Defrost 4 — {S}{B}{G} [i]({S}{B}{G}: Exile this from your graveyard with four ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)[/i]
+
+Carrion Skreech
+
+Dark Consultation
+rules_text: As an additional cost to cast this spell,you may sacrifice a creature. If you do, it costs {2} less to cast.
+Scry 1, then draw two cards. => As an additional cost to cast this spell, you may sacrifice a creature. If you do, it costs {2} less to cast.
+Scry 1, then draw two cards.
+
+Bitter Selection
+
+Accident Report
+
+Noise in the Pipes
+
+Frigid Touch
+
+From Beneath the Ice
+
+Curse of Glass
+rules_text: Enchant Creature
+Enchanted creature gets -2/-2.
+When enchanted creature dies, its controller loses 1 life and you gain 1 life. => Enchant Creature
+Enchanted creature gets -2/-2.
+When enchanted creature dies, its controller loses 2 life and you gain 2 life.
+
+Plucked Thoughts
+
+Roaming Flame Spirit
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Haste
+This creature gets +1/+0 as long as you have one or more {V}. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Haste
+This creature gets +1/+0 as long as you have one or more {V}.
+
+Cryo-Slagrunner
+
+Downhill Raider
+type: Snow Creature — Human Rogue => Snow Creature — Human Rebel
+
+Bloodfrost Evoker
+
+Rampaging Snow-Hog
+rules_text: Menace
+Whenever this creature attacks, it gets +1/+0 until end of turn for each other attacking creature.
+Defrost 2 — {S}{R} [i]({S}{R}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token.)[/i] => Menace
+Whenever this creature attacks, it gets +1/+0 until end of turn for each other attacking creature.
+Defrost 2 — {S}{R} [i]({S}{R}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)[/i]
+
+Billowing Demagogue
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Pay {V}, {T}: This creature deals 1 damage to each opponent.
+Whenever you cast a noncreature spell, untap this creature. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Pay {V}, {T}: This creature deals 1 damage to each opponent.
+Whenever you cast a noncreature spell, untap this creature.
+
+Rusted Glass Miner
+
+Kindlecoil Serpent
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Pay {V}{V}: Target creature gets +1/+1 and gains haste until end of turn. Activate only as a sorcery and only once each turn. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Pay {V}{V}: Target creature gets +1/+1 and gains haste until end of turn. Activate only as a sorcery and only once each turn.
+
+Gutterspike Brute
+
+Vengeful Frost Giant
+
+Ordinate Bruiser
+
+Scorch Protocol
+
+Piercing Bloodrush
+type: Snow Instant => Instant
+rules_text: Target creature gets +3/+0 and gains haste until end of turn.
+Defrost 2 — {S} [i]({S}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost.)[/i] => Target creature gets +3/+0 and gains haste until end of turn.
+
+Enforcing Fist
+
+Payback Strike
+
+Ignition of Truth
+rules_text: Kicker—Pay {V} [i](You may pay {V} in addition to any other costs as you cast this spell.)[/i]
+Discard a card, then draw two cards. If this spell was kicked, the next instant or sorcery spell you cast this turn costs {2} less to cast. => Kicker—Pay {V} [i](You may pay {V} in addition to any other costs as you cast this spell.)[/i]
+Discard a card, then draw two cards. If this spell was kicked, the next artifact spell you cast this turn costs {2} less to cast.
+
+Rimeburst
+
+Empowering Warmth
+rules_text: Enchant creature
+Enchanted creature has stoke. [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Enchanted creature gets +X/+0, where X is equal to the number of your {V}. => Enchant creature
+Enchanted creature has stoke. [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Enchanted creature gets +X/+0, where X is equal to the number of your {V}.
+
+Ice-Trekking Cleats
+
+Snowblossom Hare
+
+Glacierwood Lumberjack
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Pay {V}{V}: Put a +1/+1 counter on this creature. Activate only as a sorcery. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Pay {V}{V}: Put a +1/+1 counter on this creature. Activate only as a sorcery.
+
+Outskirts Botanist
+
+Icetongue Frog
+rules_text: Reach
+When this creature enters, if it entered from anywhere other than your hand, it enters with two additional +1/+1 counters on it.
+Defrost 3 — {1}{S}{G} [i]({1}{S}{G}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token.)[/i] => Reach
+When this creature enters, if it entered from anywhere other than your hand, it enters with two additional +1/+1 counters on it.
+Defrost 3 — {1}{S}{G} [i]({1}{S}{G}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)[/i]
+
+Glacierwood Spirit
+rules_text: When this creature enters, untap up to one target creature you control then create a Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i] => When this creature enters, target creature you control gets +1/+1 until end of turn. Then create a Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i]
+
+Icebank Ambusher
+
+Wandering Tundra Shaman
+rules_text: Vigilance
+When this creature enters, you gain 3 life.
+Defrost 3 — {2}{S}{G} [i]({2}{S}{G}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token.)[/i] => Vigilance
+When this creature enters, you gain 3 life.
+Defrost 3 — {2}{S}{G} [i]({2}{S}{G}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)[/i]
+
+Creeping Ice-Vines
+
+Cryotroll
+rules_text: Reach
+When this reature enters, create a Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i]
+Forestcycling {2S} [i]({2S}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+When this creature enters, create a Crystal token. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i]
+Forestcycling {2S} [i]({2S}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Druid of the Silent Wild
+rules_text: When this creature enters, return up to one other target permanent you control to its owner's hand. => When this creature enters, you may sacrifice a land. If you do, return up to one other target land or creature card with mana value 2 or less from your graveyard to your hand.
+
+Collapsing Infrastructure
+
+Scavenger's Drop
+
+Bloom through the Ice
+
+Companion's Warmth
+
+Frigid Endurance
+
+Makeshift Campfire
+rules_text: Stoke [i](As long as you control a permanent with Stoke, You get {V} each time a creature you control deals combat damage to a player.)[/i]
+Pay {V}{V}, {T}: Untap target permanent you control. => Stoke [i](As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)[/i]
+Pay {V}{V}, {T}: Untap target permanent you control.
+
+Ordinator's Wand
+
+Cryoglass Specimen
+rules_text: {1}, {T}: Add one mana of any color.
+{2S}, {T}, Sacrifice this artifact: Scry 1, then draw a card. => {1}, {T}: Add one mana of any color.
+{2S}, {T}, Sacrifice this artifact: Create a tapped Crystal token, then draw a card. [i](It's a snow artifact with “{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.”)[/i]
+
+Incinerator Golem
+
+Cleansing Torch
+rules_text: {2}, {T}: Add {V} or Scry 1.
+{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. If that permanent is a snow permanent, exile it instead. => {2}, {T}: Add {V} or Scry 2.
+{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. If that permanent is a snow permanent, exile it instead.
+
+Glacier's Peak
+rules_text: {T}: Add {C}.
+{2}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => {T}: Add {C}.
+{2}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

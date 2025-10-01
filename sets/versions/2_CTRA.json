@@ -1,7 +1,7 @@
 ﻿{
     "name": "Cryoterra",
     "formats": "Draft",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "cards": [
         {
@@ -4468,6 +4468,5 @@
             "artist": "Midjourney",
             "notes": ""
         }
-    ],
-    "version": 2
+    ]
 }
