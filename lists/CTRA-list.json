@@ -13,19 +13,19 @@
     },
     {
         "card_name": "Chain Devoted Priest",
-        "number": 92,
+        "number": 91,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Double-Up",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Cryoterra's Claim",
-        "number": 180,
+        "number": 179,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -43,19 +43,19 @@
     },
     {
         "card_name": "Combat Triage",
-        "number": 93,
+        "number": 92,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Heatrush",
-        "number": 144,
+        "number": 143,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Frostbite Snail",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -73,19 +73,19 @@
     },
     {
         "card_name": "Dreadthaw",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Hellcart Horror",
-        "number": 146,
+        "number": 145,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Frostkindling Druid",
-        "number": 189,
+        "number": 188,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -103,19 +103,19 @@
     },
     {
         "card_name": "Fumidia, the Smog Witch",
-        "number": 109,
+        "number": 108,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Liora, Rebellion Igniter",
-        "number": 151,
+        "number": 150,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Frozen Might",
-        "number": 191,
+        "number": 190,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -133,19 +133,19 @@
     },
     {
         "card_name": "Heat Extraction",
-        "number": 114,
+        "number": 113,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Rooftop Rebel",
-        "number": 162,
+        "number": 161,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Karnir War Recruiter",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -163,19 +163,19 @@
     },
     {
         "card_name": "Heatdeath Erasure",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "The Scrapmaw Engine",
-        "number": 167,
+        "number": 166,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Morvane, Rotsown Druid",
-        "number": 201,
+        "number": 200,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -193,19 +193,19 @@
     },
     {
         "card_name": "Shiverclaw the Abominable",
-        "number": 126,
+        "number": 125,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Smokestack Pyromancer",
-        "number": 169,
+        "number": 168,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Orris, Scarred Trailblazer",
-        "number": 202,
+        "number": 201,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -223,19 +223,19 @@
     },
     {
         "card_name": "Sinewspawn",
-        "number": 127,
+        "number": 126,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Suffocating Fumes",
-        "number": 170,
+        "number": 169,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Thawborn Hydra",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -247,25 +247,25 @@
     },
     {
         "card_name": "Unexpected Detour",
-        "number": 86,
+        "number": 85,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Thornbite Stalker",
-        "number": 129,
+        "number": 128,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Uprising Legacy",
-        "number": 172,
+        "number": 171,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Tundralight Renewal",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -283,19 +283,19 @@
     },
     {
         "card_name": "Cruel Overseer",
-        "number": 94,
+        "number": 93,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Anarchist's Fury",
-        "number": 131,
+        "number": 130,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Anointed Resolve",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -313,19 +313,19 @@
     },
     {
         "card_name": "Crushing Attrition",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Billowing Flames",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Deepfreeze Oracle",
-        "number": 182,
+        "number": 181,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -343,19 +343,19 @@
     },
     {
         "card_name": "Crystal-Quill Auditor",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Canary Phoenix",
-        "number": 135,
+        "number": 134,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Dredgemole",
-        "number": 184,
+        "number": 183,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -373,19 +373,19 @@
     },
     {
         "card_name": "Dusklight Arsonist",
-        "number": 101,
+        "number": 100,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Chainlash Devil",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Frostmaul War Captain",
-        "number": 190,
+        "number": 189,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -403,19 +403,19 @@
     },
     {
         "card_name": "Frozen Retrieval",
-        "number": 108,
+        "number": 107,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Heatvein Tracker",
-        "number": 145,
+        "number": 144,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Glacial Excavation",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -433,19 +433,19 @@
     },
     {
         "card_name": "Furnace's Fleshfuel",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Incendiary Revolutionary",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Pinecrag Surveyor",
-        "number": 204,
+        "number": 203,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -463,19 +463,19 @@
     },
     {
         "card_name": "Glaciertusk Hauler",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Meltdown Mastery",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Rustpyre Oracle",
-        "number": 205,
+        "number": 204,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -493,19 +493,19 @@
     },
     {
         "card_name": "Gutterflux Mutation",
-        "number": 113,
+        "number": 112,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Razorboot Glider",
-        "number": 157,
+        "number": 156,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Shivermaw Scuttler",
-        "number": 207,
+        "number": 206,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -523,19 +523,19 @@
     },
     {
         "card_name": "Killer's Conspiricy",
-        "number": 117,
+        "number": 116,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Rebelbane Captain",
-        "number": 158,
+        "number": 157,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Siphon Warmth",
-        "number": 208,
+        "number": 207,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -553,19 +553,19 @@
     },
     {
         "card_name": "Mournflight Wisp",
-        "number": 118,
+        "number": 117,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Reckless Mechanist",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Skypiercer's Rebuke",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -583,19 +583,19 @@
     },
     {
         "card_name": "Mourning Gentleman",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Rub It In",
-        "number": 163,
+        "number": 162,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Spirit of the Verdigris",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -613,19 +613,19 @@
     },
     {
         "card_name": "Rimebone Fiend",
-        "number": 122,
+        "number": 121,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Scrapfire Surge",
-        "number": 166,
+        "number": 165,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Viscera Archivist",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -643,19 +643,19 @@
     },
     {
         "card_name": "Squallwight",
-        "number": 128,
+        "number": 127,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Smelt-Melt Ragers",
-        "number": 168,
+        "number": 167,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "War Party's Call",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -667,25 +667,25 @@
     },
     {
         "card_name": "Thawed Insight",
-        "number": 85,
+        "number": 84,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Veinreader Informant",
-        "number": 130,
+        "number": 129,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Thermafrost Mauler",
-        "number": 171,
+        "number": 170,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Bloom through the Ice",
-        "number": 175,
+        "number": 174,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -697,25 +697,25 @@
     },
     {
         "card_name": "Wastrel of the Deepfrost",
-        "number": 87,
+        "number": 86,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Accident Report",
-        "number": 88,
+        "number": 87,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Billowing Demagogue",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Caldera Wurm",
-        "number": 176,
+        "number": 175,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -733,19 +733,19 @@
     },
     {
         "card_name": "Bitter Selection",
-        "number": 89,
+        "number": 88,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Bloodfrost Evoker",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Collapsing Infrastructure",
-        "number": 177,
+        "number": 176,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -763,19 +763,19 @@
     },
     {
         "card_name": "Black-Ice Ghoul",
-        "number": 90,
+        "number": 89,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Cremated Furnace Spirit",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Companion's Warmth",
-        "number": 178,
+        "number": 177,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -793,19 +793,19 @@
     },
     {
         "card_name": "Carrion Skreech",
-        "number": 91,
+        "number": 90,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Cryo-Slagrunner",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Creeping Ice-Vines",
-        "number": 179,
+        "number": 178,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -823,19 +823,19 @@
     },
     {
         "card_name": "Cryoglass Inspector",
-        "number": 96,
+        "number": 95,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Downhill Raider",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Cryotroll",
-        "number": 181,
+        "number": 180,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -853,19 +853,19 @@
     },
     {
         "card_name": "Curse of Glass",
-        "number": 98,
+        "number": 97,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Empowering Warmth",
-        "number": 141,
+        "number": 140,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Determined Seed-Watcher",
-        "number": 183,
+        "number": 182,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -883,19 +883,19 @@
     },
     {
         "card_name": "Dark Consultation",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Enforcing Fist",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Druid of the Silent Wild",
-        "number": 185,
+        "number": 184,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -913,19 +913,19 @@
     },
     {
         "card_name": "Extermination Patrol",
-        "number": 102,
+        "number": 101,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Gutterspike Brute",
-        "number": 143,
+        "number": 142,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Fearsome Tribe Guard",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -943,19 +943,19 @@
     },
     {
         "card_name": "Forge-Belt Thrasher",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Ice-Trekking Cleats",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Frigid Endurance",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -973,19 +973,19 @@
     },
     {
         "card_name": "Frigid Touch",
-        "number": 104,
+        "number": 103,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Ignition of Truth",
-        "number": 148,
+        "number": 147,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Ghostflower Cougar",
-        "number": 192,
+        "number": 191,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1003,19 +1003,19 @@
     },
     {
         "card_name": "From Beneath the Ice",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Kindlecoil Serpent",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Glacierwood Lumberjack",
-        "number": 194,
+        "number": 193,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1033,19 +1033,19 @@
     },
     {
         "card_name": "Frostbitten Mirebeast",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Ordinate Bruiser",
-        "number": 153,
+        "number": 152,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Glacierwood Spirit",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1063,19 +1063,19 @@
     },
     {
         "card_name": "Frostwight",
-        "number": 107,
+        "number": 106,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Payback Strike",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Hailstrike",
-        "number": 196,
+        "number": 195,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1093,19 +1093,19 @@
     },
     {
         "card_name": "Grim Cremationist",
-        "number": 112,
+        "number": 111,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Piercing Bloodrush",
-        "number": 155,
+        "number": 154,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Icebank Ambusher",
-        "number": 197,
+        "number": 196,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1123,19 +1123,19 @@
     },
     {
         "card_name": "Heatguard Ogre",
-        "number": 116,
+        "number": 115,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Rampaging Snow-Hog",
-        "number": 156,
+        "number": 155,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Icetongue Frog",
-        "number": 198,
+        "number": 197,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1153,19 +1153,19 @@
     },
     {
         "card_name": "Noise in the Pipes",
-        "number": 120,
+        "number": 119,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Rimeburst",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Laborious Strength",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1183,19 +1183,19 @@
     },
     {
         "card_name": "Plucked Thoughts",
-        "number": 121,
+        "number": 120,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Roaming Flame Spirit",
-        "number": 161,
+        "number": 160,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Outskirts Botanist",
-        "number": 203,
+        "number": 202,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1213,19 +1213,19 @@
     },
     {
         "card_name": "Scavenging Outcast",
-        "number": 123,
+        "number": 122,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Rusted Glass Miner",
-        "number": 164,
+        "number": 163,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Scavenger's Drop",
-        "number": 206,
+        "number": 205,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1243,19 +1243,19 @@
     },
     {
         "card_name": "Service Tunnel Ghast",
-        "number": 124,
+        "number": 123,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Scorch Protocol",
-        "number": 165,
+        "number": 164,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Snowblossom Hare",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1273,39 +1273,21 @@
     },
     {
         "card_name": "Shardwing Operative",
-        "number": 125,
+        "number": 124,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Vengeful Frost Giant",
-        "number": 173,
+        "number": 172,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Wandering Tundra Shaman",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "CTRA"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Tactical Dive",
-        "number": 84,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1322,31 +1304,31 @@
     "a->gold",
     {
         "card_name": "Snowdrift Angel",
-        "number": 225,
+        "number": 224,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Frostveil Agent",
-        "number": 219,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Hellfire Ravager",
-        "number": 221,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Frostburn Explorer",
         "number": 218,
         "shape": "normal",
         "set": "CTRA"
     },
     {
+        "card_name": "Hellfire Ravager",
+        "number": 220,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
+        "card_name": "Frostburn Explorer",
+        "number": 217,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
         "card_name": "Karnir Coldwatch",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1367,31 +1349,31 @@
     },
     {
         "card_name": "Smogwraith",
-        "number": 224,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Scrapcasting Adept",
         "number": 223,
         "shape": "normal",
         "set": "CTRA"
     },
     {
+        "card_name": "Scrapcasting Adept",
+        "number": 222,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
         "card_name": "\nAbominable Behemoth",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Furnace Rebel",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Solution Regulator",
-        "number": 226,
+        "number": 225,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1410,61 +1392,61 @@
     "a->colorless",
     {
         "card_name": "Glassflesh Idol",
-        "number": 230,
+        "number": 229,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Ice Climbing Gear",
-        "number": 231,
+        "number": 230,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Lost Heritage Blade",
-        "number": 233,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Smokestack Coalossus",
-        "number": 236,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Stained Cryoglass Lens",
-        "number": 237,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Cleansing Torch",
-        "number": 227,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Cryoglass Specimen",
-        "number": 228,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Incinerator Golem",
         "number": 232,
         "shape": "normal",
         "set": "CTRA"
     },
     {
+        "card_name": "Smokestack Coalossus",
+        "number": 235,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
+        "card_name": "Stained Cryoglass Lens",
+        "number": 236,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
+        "card_name": "Cleansing Torch",
+        "number": 226,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
+        "card_name": "Cryoglass Specimen",
+        "number": 227,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
+        "card_name": "Incinerator Golem",
+        "number": 231,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
         "card_name": "Makeshift Campfire",
-        "number": 234,
+        "number": 233,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Ordinator's Wand",
-        "number": 235,
+        "number": 234,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1485,31 +1467,31 @@
     },
     {
         "card_name": "Permafrost Crossing",
-        "number": 244,
+        "number": 243,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Slagwaste Tundra",
-        "number": 245,
+        "number": 244,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Heatvein Chasm",
-        "number": 242,
+        "number": 241,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Bloomspire Pines",
-        "number": 239,
+        "number": 238,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Crystalwood Verge",
-        "number": 240,
+        "number": 239,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1530,31 +1512,31 @@
     },
     {
         "card_name": "Spearglass Barrens",
-        "number": 247,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Thermoflow Conduit",
-        "number": 248,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Icemire Thicket",
-        "number": 243,
-        "shape": "normal",
-        "set": "CTRA"
-    },
-    {
-        "card_name": "Smogchoked Snowscape",
         "number": 246,
         "shape": "normal",
         "set": "CTRA"
     },
     {
+        "card_name": "Thermoflow Conduit",
+        "number": 247,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
+        "card_name": "Icemire Thicket",
+        "number": 242,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
+        "card_name": "Smogchoked Snowscape",
+        "number": 245,
+        "shape": "normal",
+        "set": "CTRA"
+    },
+    {
         "card_name": "Aurora Fen",
-        "number": 238,
+        "number": 237,
         "shape": "normal",
         "set": "CTRA"
     },
@@ -1575,13 +1557,13 @@
     },
     {
         "card_name": "Frozen Maintenance Tunnel",
-        "number": 229,
+        "number": 228,
         "shape": "normal",
         "set": "CTRA"
     },
     {
         "card_name": "Glacier's Peak",
-        "number": 241,
+        "number": 240,
         "shape": "normal",
         "set": "CTRA"
     },

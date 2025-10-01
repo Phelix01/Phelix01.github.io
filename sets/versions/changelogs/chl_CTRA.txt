@@ -1,4 +1,506 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+Tactical Dive removed.
+
+Frostburn Explorer
+
+Hellfire Ravager
+
+Furnace Rebel
+
+Solution Regulator
+
+Smogwraith
+
+Frostbitten Mirebeast
+
+Scrapcasting Adept
+
+Snowdrift Angel
+
+Frostveil Agent
+
+Karnir Coldwatch
+
+Noble Attendant
+
+Priestess in Rags
+
+Defiant Recruit
+
+Coldspire Patrol
+
+Crystal-Bound Thrall
+
+Karnir Frostspeaker
+
+Crag-Scout Falcon
+
+Quota Enforcer
+
+Saborpelt Dissenter
+
+Frostgrave Spirit
+
+Longhouse Alpha
+
+Contraband Inspector
+
+Ice Encrusted Mammoth
+
+Calculated Defiance
+
+Glacial Grasp
+
+Lost in Tundra
+
+Stand Together
+
+Rouse the Uprising
+
+Break the Shackles
+
+Cryoprison Lantern
+
+Iceway Lookout
+
+Snowball Elemental
+
+Mnemonic Cryomancer
+
+Cryoglass Broker
+
+Ordinate Frostguard
+
+Smolder-Bone Nomad
+
+Climbing Cliff Troll
+
+Oversized Glacierfin
+
+Fjordbreaker Walrus
+
+Cryoglass Vault-Guardian
+
+Shard of Insight
+
+Spellthaw
+
+Glacial Ward
+
+Ordinator's Greed
+
+Condemn to the Cold
+
+Permafreeze
+
+Blizzard Patrol Angel
+
+Crushing Cave-In
+
+Shiverpick
+
+Black-Ice Ghoul
+
+Scavenging Outcast
+
+Forge-Belt Thrasher
+
+Shardwing Operative
+
+Service Tunnel Ghast
+
+Cryoglass Inspector
+
+Frostwight
+
+Heatguard Ogre
+
+Grim Cremationist
+
+Extermination Patrol
+
+Carrion Skreech
+
+Dark Consultation
+
+Bitter Selection
+
+Accident Report
+
+Noise in the Pipes
+
+Frigid Touch
+
+From Beneath the Ice
+
+Curse of Glass
+
+Plucked Thoughts
+
+Roaming Flame Spirit
+
+Cryo-Slagrunner
+
+Downhill Raider
+
+Bloodfrost Evoker
+
+Rampaging Snow-Hog
+
+Billowing Demagogue
+
+Rusted Glass Miner
+
+Kindlecoil Serpent
+
+Gutterspike Brute
+
+Vengeful Frost Giant
+
+Ordinate Bruiser
+
+Cremated Furnace Spirit
+
+Scorch Protocol
+
+Piercing Bloodrush
+
+Enforcing Fist
+
+Payback Strike
+
+Ignition of Truth
+
+Rimeburst
+
+Empowering Warmth
+
+Ice-Trekking Cleats
+
+Determined Seed-Watcher
+
+Snowblossom Hare
+
+Glacierwood Lumberjack
+
+Outskirts Botanist
+
+Icetongue Frog
+
+Glacierwood Spirit
+
+Fearsome Tribe Guard
+
+Icebank Ambusher
+
+Wandering Tundra Shaman
+
+Creeping Ice-Vines
+
+Cryotroll
+
+Druid of the Silent Wild
+
+Laborious Strength
+
+Collapsing Infrastructure
+
+Hailstrike
+
+Scavenger's Drop
+
+Bloom through the Ice
+
+Companion's Warmth
+
+Frigid Endurance
+
+Makeshift Campfire
+
+Ordinator's Wand
+
+Cryoglass Specimen
+
+Incinerator Golem
+
+Cleansing Torch
+
+Glacier's Peak
+
+Ghostflower Cougar
+
+Ordinate Field Marshal
+
+Fearless Dissenter
+
+Fumesoul Stalker
+
+Frostfoot Night Patrol
+
+Auroral Moth
+
+Factorysalve Healer
+
+Reinforcement Rebel
+
+Blizzardfang Howler
+
+Hailforged Justiciar
+
+Fjord Hermit
+
+Through the Smoke
+
+The Bigger They Fall
+
+Frostwake Uprising
+
+Ceremonial Cryoblade
+
+Chilling Informant
+
+Wastrel of the Deepfrost
+
+Steelfeather Salvager
+
+Cryospawn Experiment 77
+
+Snowcaster Adept
+
+Frostguard Fabricator
+
+Hailmind Terror
+
+Ordinate Broker Baron
+
+Read the Runes
+
+Pressure Overload
+
+Nullfrost
+
+Seared Memory
+
+Thawed Insight
+
+Sudden Chill
+
+Cryoglass Extractor
+
+Mournflight Wisp
+
+Squallwight
+
+Dusklight Arsonist
+
+Veinreader Informant
+
+Mourning Gentleman
+
+Rimebone Fiend
+
+Cruel Overseer
+
+Killer's Conspiricy
+
+Glaciertusk Hauler
+
+Crystal-Quill Auditor
+
+Crushing Attrition
+
+Furnace's Fleshfuel
+
+Frozen Retrieval
+
+Gutterflux Mutation
+
+Heatvein Tracker
+
+Canary Phoenix
+
+Smelt-Melt Ragers
+
+Thermafrost Mauler
+
+Rebelbane Captain
+
+Incendiary Revolutionary
+
+Chainlash Devil
+
+Reckless Mechanist
+
+Razorboot Glider
+
+Scrapfire Surge
+
+Meltdown Mastery
+
+Rub It In
+
+Anarchist's Fury
+
+Billowing Flames
+
+Dredgemole
+
+Frostmaul War Captain
+
+Rustpyre Oracle
+
+Pinecrag Surveyor
+
+Deepfreeze Oracle
+
+Viscera Archivist
+
+Caldera Wurm
+
+Shivermaw Scuttler
+
+Spirit of the Verdigris
+
+Siphon Warmth
+
+Skypiercer's Rebuke
+
+Glacial Excavation
+
+War Party's Call
+
+Anointed Resolve
+
+Ice Climbing Gear
+
+Stained Cryoglass Lens
+
+Smokestack Coalossus
+
+Glassflesh Idol
+
+Lost Heritage Blade
+
+Frozen Maintenance Tunnel
+
+Crystalwood Verge
+
+Permafrost Crossing
+
+Slagwaste Tundra
+
+Heatvein Chasm
+
+Bloomspire Pines
+
+Aurora Fen
+
+Thermoflow Conduit
+
+Smogchoked Snowscape
+
+Spearglass Barrens
+
+Icemire Thicket
+
+Sinéad, Battleguard Nurse
+
+Tyga, Hand of the Hailstorm
+
+Brassbound Suppressor
+
+Chimneyborn Eidolon
+
+Annex Angel
+
+Rimeshroud Apparition
+
+Squallsong
+
+Ordinate's End
+
+Avalanche Runner
+
+Kessra Scrapwright
+
+Juris, Propaganda Savant
+
+Glaciator Fiend
+
+Mage of Thawed Memories
+
+Frostlock
+
+Unexpected Detour
+
+Cryosculpt
+
+Rimezone
+
+Cryoglass Foresight Orb
+
+Fumidia, the Smog Witch
+
+Shiverclaw the Abominable
+
+Thornbite Stalker
+
+Sinewspawn
+
+Chain Devoted Priest
+
+Heatdeath Erasure
+
+Dreadthaw
+
+Combat Triage
+
+Heat Extraction
+
+Liora, Rebellion Igniter
+
+The Scrapmaw Engine
+
+Rooftop Rebel
+
+Hellcart Horror
+
+Smokestack Pyromancer
+
+Double-Up
+
+Heatrush
+
+Suffocating Fumes
+
+Uprising Legacy
+
+Morvane, Rotsown Druid
+
+Orris, Scarred Trailblazer
+
+Karnir War Recruiter
+
+Thawborn Hydra
+
+Frostbite Snail
+
+Frostkindling Druid
+
+Tundralight Renewal
+
+Frozen Might
+
+Cryoterra's Claim
+
+
+Abominable Behemoth
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Hellfire Ravager added.
