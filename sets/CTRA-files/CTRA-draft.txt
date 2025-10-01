@@ -4,230 +4,230 @@
 			"name": "Frostburn Explorer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Creature — Human Scout",
-			"collector_number": "101",
+			"type": "Creature — Human Scout ",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/101_Frostburn Explorer.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/218_Frostburn Explorer.png"
 			}
 		},
 		{
-			"name": "Scorchfoot Ravager",
+			"name": "Hellfire Ravager",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Elemental Demon",
-			"collector_number": "106",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Elemental Demon ",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/106_Scorchfoot Ravager.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/221_Hellfire Ravager.png"
 			}
 		},
 		{
 			"name": "Furnace Rebel",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Creature — Human Rebel",
-			"collector_number": "103",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/103_Furnace Rebel.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/220_Furnace Rebel.png"
 			}
 		},
 		{
-			"name": "Frostguard Ordinator",
+			"name": "Solution Regulator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "102",
+			"type": "Creature — Mutant Advisor ",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/102_Frostguard Ordinator.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/226_Solution Regulator.png"
 			}
 		},
 		{
-			"name": "Oppressive Magistrate",
+			"name": "Smogwraith",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Human Noble",
-			"collector_number": "105",
+			"type": "Creature — Elemental Horror ",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/105_Oppressive Magistrate.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/224_Smogwraith.png"
 			}
 		},
 		{
 			"name": "Frostbitten Mirebeast",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Snow Creature — Beast",
-			"collector_number": "100",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Snow Creature — Beast ",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/100_Frostbitten Mirebeast.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/106_Frostbitten Mirebeast.png"
 			}
 		},
 		{
-			"name": "Scrapcaster Adept",
+			"name": "Scrapcasting Adept",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Elemental Wizard",
-			"collector_number": "107",
+			"type": "Creature — Mutant Artificer ",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/107_Scrapcaster Adept.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/223_Scrapcasting Adept.png"
 			}
 		},
 		{
 			"name": "Snowdrift Angel",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Snow Creature — Angel Scout",
-			"collector_number": "108",
+			"type": "Snow Creature — Angel Scout ",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/108_Snowdrift Angel.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/225_Snowdrift Angel.png"
 			}
 		},
 		{
-			"name": "Tundra Agent",
+			"name": "Frostveil Agent",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{B}",
-			"type": "Creature — Faerie Assassin",
-			"collector_number": "109",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Faerie Assassin ",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/109_Tundra Agent.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/219_Frostveil Agent.png"
 			}
 		},
 		{
 			"name": "Karnir Coldwatch",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Snow Creature — Yeti Ranger",
-			"collector_number": "104",
+			"type": "Snow Creature — Karnir Ranger ",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/104_Karnir Coldwatch.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/222_Karnir Coldwatch.png"
 			}
 		},
 		{
-			"name": "Cryotax Attendant",
+			"name": "Noble Attendant",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Noble",
-			"collector_number": "6",
+			"type": "Creature — Human Noble ",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/6_Cryotax Attendant.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/30_Noble Attendant.png"
 			}
 		},
 		{
 			"name": "Priestess in Rags",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "16",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/16_Priestess in Rags.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/33_Priestess in Rags.png"
 			}
 		},
 		{
 			"name": "Defiant Recruit",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Rebel",
-			"collector_number": "8",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/8_Defiant Recruit.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/16_Defiant Recruit.png"
 			}
 		},
 		{
 			"name": "Coldspire Patrol",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "2",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/2_Coldspire Patrol.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/11_Coldspire Patrol.png"
 			}
 		},
 		{
 			"name": "Crystal-Bound Thrall",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Ogre",
-			"collector_number": "7",
+			"type": "Creature — Ogre ",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/7_Crystal-Bound Thrall.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/15_Crystal-Bound Thrall.png"
 			}
 		},
 		{
 			"name": "Karnir Frostspeaker",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Snow Creature — Yeti Shaman",
-			"collector_number": "13",
+			"type": "Snow Creature — Karnir Shaman ",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/13_Karnir Frostspeaker.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/27_Karnir Frostspeaker.png"
 			}
 		},
 		{
 			"name": "Crag-Scout Falcon",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Snow Creature — Bird",
-			"collector_number": "4",
+			"type": "Snow Creature — Bird ",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/4_Crag-Scout Falcon.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/13_Crag-Scout Falcon.png"
 			}
 		},
 		{
 			"name": "Quota Enforcer",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "17",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/17_Quota Enforcer.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/34_Quota Enforcer.png"
 			}
 		},
 		{
 			"name": "Saborpelt Dissenter",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Cat Rebel",
-			"collector_number": "19",
+			"type": "Creature — Cat Rebel ",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/19_Saborpelt Dissenter.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/38_Saborpelt Dissenter.png"
 			}
 		},
 		{
 			"name": "Frostgrave Spirit",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Elemental Horror",
-			"collector_number": "10",
+			"type": "Creature — Elemental Horror ",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/10_Frostgrave Spirit.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/21_Frostgrave Spirit.png"
 			}
 		},
 		{
 			"name": "Longhouse Alpha",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Snow Creature — Yeti Warrior",
-			"collector_number": "14",
+			"type": "Snow Creature — Karnir Warrior ",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/14_Longhouse Alpha.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/28_Longhouse Alpha.png"
 			}
 		},
 		{
 			"name": "Contraband Inspector",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "3",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/3_Contraband Inspector.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/12_Contraband Inspector.png"
 			}
 		},
 		{
 			"name": "Ice Encrusted Mammoth",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
-			"type": "Snow Creature — Elephant",
-			"collector_number": "12",
+			"type": "Snow Creature — Elephant ",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/12_Ice Encrusted Mammoth.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/26_Ice Encrusted Mammoth.png"
 			}
 		},
 		{
@@ -235,19 +235,19 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "1",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/1_Calculated Defiance.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/8_Calculated Defiance.png"
 			}
 		},
 		{
 			"name": "Glacial Grasp",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Snow Enchantment — Aura",
-			"collector_number": "11",
+			"type": "Snow Enchantment — Aura ",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/11_Glacial Grasp.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/24_Glacial Grasp.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/15_Lost in Tundra.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/29_Lost in Tundra.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "20",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/20_Stand Together.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/41_Stand Together.png"
 			}
 		},
 		{
@@ -275,19 +275,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "18",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/18_Rouse the Uprising.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/37_Rouse the Uprising.png"
 			}
 		},
 		{
-			"name": "Frigid Winds",
+			"name": "Break the Shackles",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/9_Frigid Winds.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/7_Break the Shackles.png"
 			}
 		},
 		{
@@ -295,109 +295,109 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Snow Artifact",
-			"collector_number": "5",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/5_Cryoprison Lantern.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/14_Cryoprison Lantern.png"
 			}
 		},
 		{
 			"name": "Iceway Lookout",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Scout",
-			"collector_number": "28",
+			"type": "Creature — Human Scout ",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/28_Iceway Lookout.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/61_Iceway Lookout.png"
 			}
 		},
 		{
 			"name": "Snowball Elemental",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Snow Creature — Elemental",
-			"collector_number": "37",
+			"type": "Snow Creature — Elemental ",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/37_Snowball Elemental.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/79_Snowball Elemental.png"
 			}
 		},
 		{
 			"name": "Mnemonic Cryomancer",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Snow Creature — Human Wizard",
-			"collector_number": "29",
+			"type": "Snow Creature — Human Wizard ",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/29_Mnemonic Cryomancer.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/65_Mnemonic Cryomancer.png"
 			}
 		},
 		{
 			"name": "Cryoglass Broker",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Noble",
-			"collector_number": "24",
+			"type": "Creature — Human Noble ",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/24_Cryoglass Broker.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/49_Cryoglass Broker.png"
 			}
 		},
 		{
-			"name": "Tree-Burrow Ferret",
+			"name": "Ordinate Frostguard",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Ferret",
-			"collector_number": "40",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/40_Tree-Burrow Ferret.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/68_Ordinate Frostguard.png"
 			}
 		},
 		{
 			"name": "Smolder-Bone Nomad",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Skeleton",
-			"collector_number": "36",
+			"type": "Creature — Skeleton ",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/36_Smolder-Bone Nomad.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/78_Smolder-Bone Nomad.png"
 			}
 		},
 		{
 			"name": "Climbing Cliff Troll",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Snow Creature — Troll",
-			"collector_number": "21",
+			"type": "Snow Creature — Troll ",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/21_Climbing Cliff Troll.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/46_Climbing Cliff Troll.png"
 			}
 		},
 		{
 			"name": "Oversized Glacierfin",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Fish",
-			"collector_number": "31",
+			"type": "Creature — Fish ",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/31_Oversized Glacierfin.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/70_Oversized Glacierfin.png"
 			}
 		},
 		{
 			"name": "Fjordbreaker Walrus",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Snow Creature — Walrus",
-			"collector_number": "26",
+			"type": "Snow Creature — Walrus ",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/26_Fjordbreaker Walrus.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/55_Fjordbreaker Walrus.png"
 			}
 		},
 		{
 			"name": "Cryoglass Vault-Guardian",
 			"rarity": "common",
 			"mana_cost": "{6}{U}",
-			"type": "Artifact Creature — Elemental Construct",
-			"collector_number": "25",
+			"type": "Artifact Creature — Elemental Construct ",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/25_Cryoglass Vault-Guardian.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/52_Cryoglass Vault-Guardian.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/33_Shard of Insight.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/76_Shard of Insight.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "38",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/38_Spellthaw.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/81_Spellthaw.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/27_Glacial Ward.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/58_Glacial Ward.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "30",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/30_Ordinator's Greed.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/69_Ordinator's Greed.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Snow Instant",
-			"collector_number": "22",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/22_Condemn to the Cold.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/47_Condemn to the Cold.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/39_Tactical Dive.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/84_Tactical Dive.png"
 			}
 		},
 		{
@@ -465,161 +465,159 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Snow Sorcery",
-			"collector_number": "32",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/32_Permafreeze.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/71_Permafreeze.png"
 			}
 		},
 		{
-			"name": "Sky Patrol Angel",
+			"name": "Blizzard Patrol Angel",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Snow Creature — Angel Scout",
-			"collector_number": "35",
+			"type": "Snow Creature — Angel Scout ",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/35_Sky Patrol Angel.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/44_Blizzard Patrol Angel.png"
 			}
 		},
 		{
 			"name": "Crushing Cave-In",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "23",
+			"type": "Enchantment — Aura ",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/23_Crushing Cave-In.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/48_Crushing Cave-In.png"
 			}
 		},
 		{
 			"name": "Shiverpick",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Snow Artifact — Equipment",
-			"collector_number": "34",
+			"type": "Snow Artifact — Equipment ",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/34_Shiverpick.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/77_Shiverpick.png"
 			}
 		},
 		{
 			"name": "Black-Ice Ghoul",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Snow Creature — Zombie",
-			"collector_number": "44",
+			"type": "Snow Creature — Zombie ",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/44_Black-Ice Ghoul.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/90_Black-Ice Ghoul.png"
 			}
 		},
 		{
 			"name": "Scavenging Outcast",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Snow Creature — Human Peasant",
-			"collector_number": "58",
+			"type": "Snow Creature — Human Peasant  ",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/58_Scavenging Outcast.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/123_Scavenging Outcast.png"
 			}
 		},
 		{
 			"name": "Forge-Belt Thrasher",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Mutant Rogue",
-			"collector_number": "50",
+			"type": "Creature — Mutant Rogue ",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/50_Forge-Belt Thrasher.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/103_Forge-Belt Thrasher.png"
 			}
 		},
 		{
 			"name": "Shardwing Operative",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Faerie Assassin",
-			"collector_number": "60",
+			"type": "Creature — Faerie Assassin ",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/60_Shardwing Operative.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/125_Shardwing Operative.png"
 			}
 		},
 		{
 			"name": "Service Tunnel Ghast",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Horror",
-			"collector_number": "59",
+			"type": "Creature — Horror ",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/59_Service Tunnel Ghast.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/124_Service Tunnel Ghast.png"
 			}
 		},
 		{
 			"name": "Cryoglass Inspector",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "46",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/46_Cryoglass Inspector.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/96_Cryoglass Inspector.png"
 			}
 		},
 		{
 			"name": "Frostwight",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Snow Creature — Shade",
-			"collector_number": "53",
+			"type": "Snow Creature — Shade ",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/53_Frostwight.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/107_Frostwight.png"
 			}
 		},
 		{
 			"name": "Heatguard Ogre",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Ogre Berserker",
-			"collector_number": "55",
+			"type": "Creature — Ogre Berserker ",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/55_Heatguard Ogre.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/116_Heatguard Ogre.png"
 			}
 		},
 		{
 			"name": "Grim Cremationist",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Zombie Cleric",
-			"collector_number": "54",
+			"type": "Creature — Zombie Cleric ",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/54_Grim Cremationist.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/112_Grim Cremationist.png"
 			}
 		},
 		{
 			"name": "Extermination Patrol",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "49",
+			"type": " Creature — Human Soldier ",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/49_Extermination Patrol.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/102_Extermination Patrol.png"
 			}
 		},
 		{
-			"name": "
-Abominable Behemoth",
-			"rarity": "common",
-			"mana_cost": "{5}{B}",
-			"type": "Snow Creature — Yeti Horror",
-			"collector_number": "41",
+			"name": "\nAbominable Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Snow Creature — Yeti Horror ",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/41_
-Abominable Behemoth.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/217_\nAbominable Behemoth.png"
 			}
 		},
 		{
 			"name": "Carrion Skreech",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Imp",
-			"collector_number": "45",
+			"type": "Creature — Imp ",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/45_Carrion Skreech.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/91_Carrion Skreech.png"
 			}
 		},
 		{
@@ -627,9 +625,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/48_Dark Consultation.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/99_Dark Consultation.png"
 			}
 		},
 		{
@@ -637,9 +635,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Snow Instant",
-			"collector_number": "43",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/43_Bitter Selection.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/89_Bitter Selection.png"
 			}
 		},
 		{
@@ -647,9 +645,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/42_Accident Report.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/88_Accident Report.png"
 			}
 		},
 		{
@@ -657,9 +655,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "56",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/56_Noise in the Pipes.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/120_Noise in the Pipes.png"
 			}
 		},
 		{
@@ -667,9 +665,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Snow Instant",
-			"collector_number": "51",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/51_Frigid Touch.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/104_Frigid Touch.png"
 			}
 		},
 		{
@@ -677,19 +675,19 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "52",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/52_From Beneath the Ice.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/105_From Beneath the Ice.png"
 			}
 		},
 		{
 			"name": "Curse of Glass",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "47",
+			"type": "Enchantment — Aura ",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/47_Curse of Glass.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/98_Curse of Glass.png"
 			}
 		},
 		{
@@ -697,129 +695,129 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "57",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/57_Plucked Thoughts.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/121_Plucked Thoughts.png"
 			}
 		},
 		{
 			"name": "Roaming Flame Spirit",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Elemental Spirit",
-			"collector_number": "77",
+			"type": "Creature — Elemental Spirit ",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/77_Roaming Flame Spirit.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/161_Roaming Flame Spirit.png"
 			}
 		},
 		{
 			"name": "Cryo-Slagrunner",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Rebel",
-			"collector_number": "63",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/63_Cryo-Slagrunner.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/138_Cryo-Slagrunner.png"
 			}
 		},
 		{
 			"name": "Downhill Raider",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Snow Creature — Human Rogue",
-			"collector_number": "64",
+			"type": "Snow Creature — Human Rebel ",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/64_Downhill Raider.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/140_Downhill Raider.png"
 			}
 		},
 		{
 			"name": "Bloodfrost Evoker",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Vampire Warlock",
-			"collector_number": "62",
+			"type": "Creature — Vampire Warlock ",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/62_Bloodfrost Evoker.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/134_Bloodfrost Evoker.png"
 			}
 		},
 		{
 			"name": "Rampaging Snow-Hog",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Snow Creature — Boar",
-			"collector_number": "74",
+			"type": "Snow Creature — Boar ",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/74_Rampaging Snow-Hog.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/156_Rampaging Snow-Hog.png"
 			}
 		},
 		{
 			"name": "Billowing Demagogue",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Mutant Wizard",
-			"collector_number": "61",
+			"type": "Creature — Mutant Wizard ",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/61_Billowing Demagogue.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/132_Billowing Demagogue.png"
 			}
 		},
 		{
 			"name": "Rusted Glass Miner",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Artifact Creature — Golem Construct",
-			"collector_number": "78",
+			"type": "Artifact Creature — Golem Construct ",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/78_Rusted Glass Miner.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/164_Rusted Glass Miner.png"
 			}
 		},
 		{
 			"name": "Kindlecoil Serpent",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Elemental Snake",
-			"collector_number": "70",
+			"type": "Creature — Elemental Snake ",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/70_Kindlecoil Serpent.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/150_Kindlecoil Serpent.png"
 			}
 		},
 		{
 			"name": "Gutterspike Brute",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Mutant Rebel",
-			"collector_number": "67",
+			"type": "Creature — Mutant Rebel ",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/67_Gutterspike Brute.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/143_Gutterspike Brute.png"
 			}
 		},
 		{
 			"name": "Vengeful Frost Giant",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Snow Creature — Giant",
-			"collector_number": "80",
+			"type": "Snow Creature — Giant ",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/80_Vengeful Frost Giant.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/173_Vengeful Frost Giant.png"
 			}
 		},
 		{
 			"name": "Ordinate Bruiser",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "71",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/71_Ordinate Bruiser.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/153_Ordinate Bruiser.png"
 			}
 		},
 		{
-			"name": "Rising Smogwraith",
+			"name": "Cremated Furnace Spirit",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Spirit",
-			"collector_number": "76",
+			"type": "Creature — Spirit ",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/76_Rising Smogwraith.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/137_Cremated Furnace Spirit.png"
 			}
 		},
 		{
@@ -827,19 +825,19 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "79",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/79_Scorch Protocol.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/165_Scorch Protocol.png"
 			}
 		},
 		{
 			"name": "Piercing Bloodrush",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Snow Instant",
-			"collector_number": "73",
+			"type": "Instant",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/73_Piercing Bloodrush.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/155_Piercing Bloodrush.png"
 			}
 		},
 		{
@@ -847,9 +845,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/66_Enforcing Fist.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/142_Enforcing Fist.png"
 			}
 		},
 		{
@@ -857,9 +855,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/72_Payback Strike.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/154_Payback Strike.png"
 			}
 		},
 		{
@@ -867,9 +865,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/69_Ignition of Truth.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/148_Ignition of Truth.png"
 			}
 		},
 		{
@@ -877,159 +875,159 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Snow Sorcery",
-			"collector_number": "75",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/75_Rimeburst.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/160_Rimeburst.png"
 			}
 		},
 		{
 			"name": "Empowering Warmth",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment — Aura",
-			"collector_number": "65",
+			"type": "Enchantment — Aura ",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/65_Empowering Warmth.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/141_Empowering Warmth.png"
 			}
 		},
 		{
 			"name": "Ice-Trekking Cleats",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Snow Artifact — Equipment",
-			"collector_number": "68",
+			"type": "Snow Artifact — Equipment ",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/68_Ice-Trekking Cleats.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/147_Ice-Trekking Cleats.png"
 			}
 		},
 		{
-			"name": "Karnir Seed-Watcher",
+			"name": "Determined Seed-Watcher",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Snow Creature — Yeti Druid",
-			"collector_number": "93",
+			"type": "Snow Creature — Karnir Elf Druid ",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/93_Karnir Seed-Watcher.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/183_Determined Seed-Watcher.png"
 			}
 		},
 		{
 			"name": "Snowblossom Hare",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Rabbit",
-			"collector_number": "98",
+			"type": "Creature — Rabbit ",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/98_Snowblossom Hare.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/210_Snowblossom Hare.png"
 			}
 		},
 		{
 			"name": "Glacierwood Lumberjack",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Ranger",
-			"collector_number": "89",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/89_Glacierwood Lumberjack.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/194_Glacierwood Lumberjack.png"
 			}
 		},
 		{
 			"name": "Outskirts Botanist",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Citizen",
-			"collector_number": "96",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/96_Outskirts Botanist.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/203_Outskirts Botanist.png"
 			}
 		},
 		{
 			"name": "Icetongue Frog",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Snow Creature — Frog",
-			"collector_number": "92",
+			"type": "Snow Creature — Frog ",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/92_Icetongue Frog.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/198_Icetongue Frog.png"
 			}
 		},
 		{
 			"name": "Glacierwood Spirit",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Spirit",
-			"collector_number": "90",
+			"type": "Creature — Spirit ",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/90_Glacierwood Spirit.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/195_Glacierwood Spirit.png"
 			}
 		},
 		{
-			"name": "Karnir Tribe Guardian",
+			"name": "Fearsome Tribe Guard",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Snow Creature — Yeti Warrior",
-			"collector_number": "94",
+			"type": "Snow Creature — Karnir Warrior ",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/94_Karnir Tribe Guardian.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/186_Fearsome Tribe Guard.png"
 			}
 		},
 		{
 			"name": "Icebank Ambusher",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Crocodile",
-			"collector_number": "91",
+			"type": "Creature — Crocodile ",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/91_Icebank Ambusher.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/197_Icebank Ambusher.png"
 			}
 		},
 		{
 			"name": "Wandering Tundra Shaman",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Snow Creature — Giant Shaman",
-			"collector_number": "99",
+			"type": "Snow Creature — Giant Shaman ",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/99_Wandering Tundra Shaman.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/215_Wandering Tundra Shaman.png"
 			}
 		},
 		{
 			"name": "Creeping Ice-Vines",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Snow Creature — Plant Wall",
-			"collector_number": "85",
+			"type": "Snow Creature — Plant Wall ",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/85_Creeping Ice-Vines.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/179_Creeping Ice-Vines.png"
 			}
 		},
 		{
 			"name": "Cryotroll",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Snow Creature — Elemental Troll",
-			"collector_number": "86",
+			"type": "Snow Creature — Elemental Troll ",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/86_Cryotroll.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/181_Cryotroll.png"
 			}
 		},
 		{
 			"name": "Druid of the Silent Wild",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Druid",
-			"collector_number": "87",
+			"type": "Creature — Human Druid ",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/87_Druid of the Silent Wild.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/185_Druid of the Silent Wild.png"
 			}
 		},
 		{
-			"name": "Laborious Endurance",
+			"name": "Laborious Strength",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/95_Laborious Endurance.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/200_Laborious Strength.png"
 			}
 		},
 		{
@@ -1037,19 +1035,19 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/83_Collapsing Infrastructure.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/177_Collapsing Infrastructure.png"
 			}
 		},
 		{
-			"name": "Blizzard's Claw",
+			"name": "Hailstrike",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Snow Instant",
-			"collector_number": "81",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/81_Blizzard's Claw.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/196_Hailstrike.png"
 			}
 		},
 		{
@@ -1057,9 +1055,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/97_Scavenger's Drop.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/206_Scavenger's Drop.png"
 			}
 		},
 		{
@@ -1067,9 +1065,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "82",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/82_Bloom through the Ice.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/175_Bloom through the Ice.png"
 			}
 		},
 		{
@@ -1077,19 +1075,19 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/84_Companion's Warmth.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/178_Companion's Warmth.png"
 			}
 		},
 		{
 			"name": "Frigid Endurance",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura",
-			"collector_number": "88",
+			"type": "Enchantment — Aura ",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/88_Frigid Endurance.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/187_Frigid Endurance.png"
 			}
 		},
 		{
@@ -1097,19 +1095,19 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "113",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/113_Makeshift Campfire.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/234_Makeshift Campfire.png"
 			}
 		},
 		{
 			"name": "Ordinator's Wand",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Snow Artifact — Equipment",
-			"collector_number": "114",
+			"type": "Snow Artifact — Equipment ",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/114_Ordinator's Wand.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/235_Ordinator's Wand.png"
 			}
 		},
 		{
@@ -1117,19 +1115,19 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Snow Artifact",
-			"collector_number": "111",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/111_Cryoglass Specimen.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/228_Cryoglass Specimen.png"
 			}
 		},
 		{
 			"name": "Incinerator Golem",
 			"rarity": "common",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Golem Construct",
-			"collector_number": "112",
+			"type": "Artifact Creature — Golem Construct ",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/112_Incinerator Golem.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/232_Incinerator Golem.png"
 			}
 		},
 		{
@@ -1137,9 +1135,9 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "110",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/110_Cleansing Torch.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/227_Cleansing Torch.png"
 			}
 		},
 		{
@@ -1147,363 +1145,1840 @@ Abominable Behemoth.png"
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Snow Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/241_Glacier's Peak.png"
+			}
+		},
+		{
+			"name": "Ghostflower Cougar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cat ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/192_Ghostflower Cougar.png"
+			}
+		},
+		{
+			"name": "Ordinate Field Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/31_Ordinate Field Marshal.png"
+			}
+		},
+		{
+			"name": "Fearless Dissenter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/18_Fearless Dissenter.png"
+			}
+		},
+		{
+			"name": "Fumesoul Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Spirit ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/23_Fumesoul Stalker.png"
+			}
+		},
+		{
+			"name": "Frostfoot Night Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Snow Creature — Karnir Warrior ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/20_Frostfoot Night Patrol.png"
+			}
+		},
+		{
+			"name": "Auroral Moth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Snow Creature — Insect ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/2_Auroral Moth.png"
+			}
+		},
+		{
+			"name": "Factorysalve Healer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/17_Factorysalve Healer.png"
+			}
+		},
+		{
+			"name": "Reinforcement Rebel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/35_Reinforcement Rebel.png"
+			}
+		},
+		{
+			"name": "Blizzardfang Howler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Snow Creature — Dog Beast ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/5_Blizzardfang Howler.png"
+			}
+		},
+		{
+			"name": "Hailforged Justiciar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/25_Hailforged Justiciar.png"
+			}
+		},
+		{
+			"name": "Fjord Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Snow Creature — Karnir Shaman ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/19_Fjord Hermit.png"
+			}
+		},
+		{
+			"name": "Through the Smoke",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/42_Through the Smoke.png"
+			}
+		},
+		{
+			"name": "The Bigger They Fall",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/4_The Bigger They Fall.png"
+			}
+		},
+		{
+			"name": "Frostwake Uprising",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/22_Frostwake Uprising.png"
+			}
+		},
+		{
+			"name": "Ceremonial Cryoblade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Snow Artifact — Equipment ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/9_Ceremonial Cryoblade.png"
+			}
+		},
+		{
+			"name": "Chilling Informant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Mutant Rogue ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/45_Chilling Informant.png"
+			}
+		},
+		{
+			"name": "Wastrel of the Deepfrost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/87_Wastrel of the Deepfrost.png"
+			}
+		},
+		{
+			"name": "Steelfeather Salvager",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Bird Construct ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/82_Steelfeather Salvager.png"
+			}
+		},
+		{
+			"name": "Cryospawn Experiment 77",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Snow Creature — Mutant Horror ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/54_Cryospawn Experiment 77.png"
+			}
+		},
+		{
+			"name": "Snowcaster Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Creature — Human Wizard ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/80_Snowcaster Adept.png"
+			}
+		},
+		{
+			"name": "Frostguard Fabricator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/56_Frostguard Fabricator.png"
+			}
+		},
+		{
+			"name": "Hailmind Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Snow Creature — Jellyfish Nightmare ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/60_Hailmind Terror.png"
+			}
+		},
+		{
+			"name": "Ordinate Broker Baron",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/67_Ordinate Broker Baron.png"
+			}
+		},
+		{
+			"name": "Read the Runes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/73_Read the Runes.png"
+			}
+		},
+		{
+			"name": "Pressure Overload",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/72_Pressure Overload.png"
+			}
+		},
+		{
+			"name": "Nullfrost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/66_Nullfrost.png"
+			}
+		},
+		{
+			"name": "Seared Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/75_Seared Memory.png"
+			}
+		},
+		{
+			"name": "Thawed Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/85_Thawed Insight.png"
+			}
+		},
+		{
+			"name": "Sudden Chill",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/83_Sudden Chill.png"
+			}
+		},
+		{
+			"name": "Cryoglass Extractor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/50_Cryoglass Extractor.png"
+			}
+		},
+		{
+			"name": "Mournflight Wisp",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/118_Mournflight Wisp.png"
+			}
+		},
+		{
+			"name": "Squallwight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Creature — Zombie ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/128_Squallwight.png"
+			}
+		},
+		{
+			"name": "Dusklight Arsonist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/101_Dusklight Arsonist.png"
+			}
+		},
+		{
+			"name": "Veinreader Informant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/130_Veinreader Informant.png"
+			}
+		},
+		{
+			"name": "Mourning Gentleman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Citizen ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/119_Mourning Gentleman.png"
+			}
+		},
+		{
+			"name": "Rimebone Fiend",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Snow Creature — Skeleton Horror ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/122_Rimebone Fiend.png"
+			}
+		},
+		{
+			"name": "Cruel Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Solider ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/94_Cruel Overseer.png"
+			}
+		},
+		{
+			"name": "Killer's Conspiricy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/117_Killer's Conspiricy.png"
+			}
+		},
+		{
+			"name": "Glaciertusk Hauler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Snow Creature — Elephant ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/111_Glaciertusk Hauler.png"
+			}
+		},
+		{
+			"name": "Crystal-Quill Auditor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/97_Crystal-Quill Auditor.png"
+			}
+		},
+		{
+			"name": "Crushing Attrition",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/95_Crushing Attrition.png"
+			}
+		},
+		{
+			"name": "Furnace's Fleshfuel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/110_Furnace's Fleshfuel.png"
+			}
+		},
+		{
+			"name": "Frozen Retrieval",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Snow Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/108_Frozen Retrieval.png"
+			}
+		},
+		{
+			"name": "Gutterflux Mutation",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/113_Gutterflux Mutation.png"
+			}
+		},
+		{
+			"name": "Heatvein Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/145_Heatvein Tracker.png"
+			}
+		},
+		{
+			"name": "Canary Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Phoenix ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/135_Canary Phoenix.png"
+			}
+		},
+		{
+			"name": "Smelt-Melt Ragers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/168_Smelt-Melt Ragers.png"
+			}
+		},
+		{
+			"name": "Thermafrost Mauler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Snow Artifact Creature — Beast Construct ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/171_Thermafrost Mauler.png"
+			}
+		},
+		{
+			"name": "Rebelbane Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Mutant Soldier ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/158_Rebelbane Captain.png"
+			}
+		},
+		{
+			"name": "Incendiary Revolutionary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/149_Incendiary Revolutionary.png"
+			}
+		},
+		{
+			"name": "Chainlash Devil",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Devil ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/136_Chainlash Devil.png"
+			}
+		},
+		{
+			"name": "Reckless Mechanist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/159_Reckless Mechanist.png"
+			}
+		},
+		{
+			"name": "Razorboot Glider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Snow Creature — Human Rebel ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/157_Razorboot Glider.png"
+			}
+		},
+		{
+			"name": "Scrapfire Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/166_Scrapfire Surge.png"
+			}
+		},
+		{
+			"name": "Meltdown Mastery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/152_Meltdown Mastery.png"
+			}
+		},
+		{
+			"name": "Rub It In",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/163_Rub It In.png"
+			}
+		},
+		{
+			"name": "Anarchist's Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/131_Anarchist's Fury.png"
+			}
+		},
+		{
+			"name": "Billowing Flames",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/133_Billowing Flames.png"
+			}
+		},
+		{
+			"name": "Dredgemole",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Snow Creature — Mole Beast ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/184_Dredgemole.png"
+			}
+		},
+		{
+			"name": "Frostmaul War Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Snow Creature — Karnir Warrior ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/190_Frostmaul War Captain.png"
+			}
+		},
+		{
+			"name": "Rustpyre Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/205_Rustpyre Oracle.png"
+			}
+		},
+		{
+			"name": "Pinecrag Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/204_Pinecrag Surveyor.png"
+			}
+		},
+		{
+			"name": "Deepfreeze Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Snow Creature — Karnir Elder ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/182_Deepfreeze Oracle.png"
+			}
+		},
+		{
+			"name": "Viscera Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Mutant Scientist ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/214_Viscera Archivist.png"
+			}
+		},
+		{
+			"name": "Caldera Wurm",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Wurm ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/176_Caldera Wurm.png"
+			}
+		},
+		{
+			"name": "Shivermaw Scuttler",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Snow Creature — Crab  ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/207_Shivermaw Scuttler.png"
+			}
+		},
+		{
+			"name": "Spirit of the Verdigris",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit Druid ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/211_Spirit of the Verdigris.png"
+			}
+		},
+		{
+			"name": "Siphon Warmth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/208_Siphon Warmth.png"
+			}
+		},
+		{
+			"name": "Skypiercer's Rebuke",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/209_Skypiercer's Rebuke.png"
+			}
+		},
+		{
+			"name": "Glacial Excavation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/193_Glacial Excavation.png"
+			}
+		},
+		{
+			"name": "War Party's Call",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/216_War Party's Call.png"
+			}
+		},
+		{
+			"name": "Anointed Resolve",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/174_Anointed Resolve.png"
+			}
+		},
+		{
+			"name": "Ice Climbing Gear",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Snow Artifact — Equipment ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/231_Ice Climbing Gear.png"
+			}
+		},
+		{
+			"name": "Stained Cryoglass Lens",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Snow Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/237_Stained Cryoglass Lens.png"
+			}
+		},
+		{
+			"name": "Smokestack Coalossus",
+			"rarity": "uncommon",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/236_Smokestack Coalossus.png"
+			}
+		},
+		{
+			"name": "Glassflesh Idol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Homunculus ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/230_Glassflesh Idol.png"
+			}
+		},
+		{
+			"name": "Lost Heritage Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/233_Lost Heritage Blade.png"
+			}
+		},
+		{
+			"name": "Frozen Maintenance Tunnel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Artifact Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/229_Frozen Maintenance Tunnel.png"
+			}
+		},
+		{
+			"name": "Crystalwood Verge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/240_Crystalwood Verge.png"
+			}
+		},
+		{
+			"name": "Permafrost Crossing",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/244_Permafrost Crossing.png"
+			}
+		},
+		{
+			"name": "Slagwaste Tundra",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/245_Slagwaste Tundra.png"
+			}
+		},
+		{
+			"name": "Heatvein Chasm",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/242_Heatvein Chasm.png"
+			}
+		},
+		{
+			"name": "Bloomspire Pines",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/239_Bloomspire Pines.png"
+			}
+		},
+		{
+			"name": "Aurora Fen",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/238_Aurora Fen.png"
+			}
+		},
+		{
+			"name": "Thermoflow Conduit",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/248_Thermoflow Conduit.png"
+			}
+		},
+		{
+			"name": "Smogchoked Snowscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/246_Smogchoked Snowscape.png"
+			}
+		},
+		{
+			"name": "Spearglass Barrens",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/247_Spearglass Barrens.png"
+			}
+		},
+		{
+			"name": "Icemire Thicket",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/243_Icemire Thicket.png"
+			}
+		},
+		{
+			"name": "Sinéad, Battleguard Nurse",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Cleric Rebel ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/39_Sinéad, Battleguard Nurse.png"
+			}
+		},
+		{
+			"name": "Tyga, Hand of the Hailstorm",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Snow Creature — Karnir Shaman ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/43_Tyga, Hand of the Hailstorm.png"
+			}
+		},
+		{
+			"name": "Brassbound Suppressor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Mutant Soldier ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/6_Brassbound Suppressor.png"
+			}
+		},
+		{
+			"name": "Chimneyborn Eidolon",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Spirit Construct ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/10_Chimneyborn Eidolon.png"
+			}
+		},
+		{
+			"name": "Annex Angel",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel Warrior ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/1_Annex Angel.png"
+			}
+		},
+		{
+			"name": "Rimeshroud Apparition",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Snow Creature — Spirit ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/36_Rimeshroud Apparition.png"
+			}
+		},
+		{
+			"name": "Squallsong",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Snow Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/40_Squallsong.png"
+			}
+		},
+		{
+			"name": "Ordinate's End",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/32_Ordinate's End.png"
+			}
+		},
+		{
+			"name": "Avalanche Runner",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Snow Artifact — Equipment ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/3_Avalanche Runner.png"
+			}
+		},
+		{
+			"name": "Kessra Scrapwright",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/63_Kessra Scrapwright.png"
+			}
+		},
+		{
+			"name": "Juris, Propaganda Savant",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/62_Juris, Propaganda Savant.png"
+			}
+		},
+		{
+			"name": "Glaciator Fiend",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Creature — Abomination ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/59_Glaciator Fiend.png"
+			}
+		},
+		{
+			"name": "Mage of Thawed Memories",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/64_Mage of Thawed Memories.png"
+			}
+		},
+		{
+			"name": "Frostlock",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Snow Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/57_Frostlock.png"
+			}
+		},
+		{
+			"name": "Unexpected Detour",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/86_Unexpected Detour.png"
+			}
+		},
+		{
+			"name": "Cryosculpt",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/53_Cryosculpt.png"
+			}
+		},
+		{
+			"name": "Rimezone",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/74_Rimezone.png"
+			}
+		},
+		{
+			"name": "Cryoglass Foresight Orb",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Artifact — Crystal ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/51_Cryoglass Foresight Orb.png"
+			}
+		},
+		{
+			"name": "Fumidia, the Smog Witch",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/109_Fumidia, the Smog Witch.png"
+			}
+		},
+		{
+			"name": "Shiverclaw the Abominable",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Snow Creature — Yeti Horror ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/126_Shiverclaw the Abominable.png"
+			}
+		},
+		{
+			"name": "Thornbite Stalker",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Faerie Vampire ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/129_Thornbite Stalker.png"
+			}
+		},
+		{
+			"name": "Sinewspawn",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Mutant Abomination ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/127_Sinewspawn.png"
+			}
+		},
+		{
+			"name": "Chain Devoted Priest",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Cleric ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/92_Chain Devoted Priest.png"
+			}
+		},
+		{
+			"name": "Heatdeath Erasure",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/CTRA-files/img/115_Glacier's Peak.png"
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/115_Heatdeath Erasure.png"
+			}
+		},
+		{
+			"name": "Dreadthaw",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Snow Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/100_Dreadthaw.png"
+			}
+		},
+		{
+			"name": "Combat Triage",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/93_Combat Triage.png"
+			}
+		},
+		{
+			"name": "Heat Extraction",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/114_Heat Extraction.png"
+			}
+		},
+		{
+			"name": "Liora, Rebellion Igniter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Rebel ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/151_Liora, Rebellion Igniter.png"
+			}
+		},
+		{
+			"name": "The Scrapmaw Engine",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/167_The Scrapmaw Engine.png"
+			}
+		},
+		{
+			"name": "Rooftop Rebel",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/162_Rooftop Rebel.png"
+			}
+		},
+		{
+			"name": "Hellcart Horror",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct Horror ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/146_Hellcart Horror.png"
+			}
+		},
+		{
+			"name": "Smokestack Pyromancer",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/169_Smokestack Pyromancer.png"
+			}
+		},
+		{
+			"name": "Double-Up",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/139_Double-Up.png"
+			}
+		},
+		{
+			"name": "Heatrush",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/144_Heatrush.png"
+			}
+		},
+		{
+			"name": "Suffocating Fumes",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/170_Suffocating Fumes.png"
+			}
+		},
+		{
+			"name": "Uprising Legacy",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/172_Uprising Legacy.png"
+			}
+		},
+		{
+			"name": "Morvane, Rotsown Druid",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Mutant Druid ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/201_Morvane, Rotsown Druid.png"
+			}
+		},
+		{
+			"name": "Orris, Scarred Trailblazer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Ranger ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/202_Orris, Scarred Trailblazer.png"
+			}
+		},
+		{
+			"name": "Karnir War Recruiter",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Snow Creature — Karnir Shaman ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/199_Karnir War Recruiter.png"
+			}
+		},
+		{
+			"name": "Thawborn Hydra",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Creature — Hydra ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/212_Thawborn Hydra.png"
+			}
+		},
+		{
+			"name": "Frostbite Snail",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Snow Creature — Snail ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/188_Frostbite Snail.png"
+			}
+		},
+		{
+			"name": "Frostkindling Druid",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/189_Frostkindling Druid.png"
+			}
+		},
+		{
+			"name": "Tundralight Renewal",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/213_Tundralight Renewal.png"
+			}
+		},
+		{
+			"name": "Frozen Might",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/191_Frozen Might.png"
+			}
+		},
+		{
+			"name": "Cryoterra's Claim",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/CTRA-files/img/180_Cryoterra's Claim.png"
 			}
 		}
 	]
-
-[rare(1)]
-[uncommon(3)]
-	4 Frostburn Explorer
-	4 Scorchfoot Ravager
-	4 Furnace Rebel
-	4 Frostguard Ordinator
-	4 Oppressive Magistrate
-	4 Frostbitten Mirebeast
-	4 Scrapcaster Adept
-	4 Snowdrift Angel
-	4 Tundra Agent
-	4 Karnir Coldwatch
-[common(7)]
-	8 Cryotax Attendant
-	8 Priestess in Rags
-	8 Defiant Recruit
-	8 Coldspire Patrol
-	8 Crystal-Bound Thrall
-	8 Karnir Frostspeaker
-	8 Crag-Scout Falcon
-	8 Quota Enforcer
-	8 Saborpelt Dissenter
-	8 Frostgrave Spirit
-	8 Longhouse Alpha
-	8 Contraband Inspector
-	8 Ice Encrusted Mammoth
-	8 Calculated Defiance
-	8 Glacial Grasp
-	8 Lost in Tundra
-	8 Stand Together
-	8 Rouse the Uprising
-	8 Frigid Winds
-	8 Cryoprison Lantern
-	8 Iceway Lookout
-	8 Snowball Elemental
-	8 Mnemonic Cryomancer
-	8 Cryoglass Broker
-	8 Tree-Burrow Ferret
-	8 Smolder-Bone Nomad
-	8 Climbing Cliff Troll
-	8 Oversized Glacierfin
-	8 Fjordbreaker Walrus
-	8 Cryoglass Vault-Guardian
-	8 Shard of Insight
-	8 Spellthaw
-	8 Glacial Ward
-	8 Ordinator's Greed
-	8 Condemn to the Cold
-	8 Tactical Dive
-	8 Permafreeze
-	8 Sky Patrol Angel
-	8 Crushing Cave-In
-	8 Shiverpick
-	8 Black-Ice Ghoul
-	8 Scavenging Outcast
-	8 Forge-Belt Thrasher
-	8 Shardwing Operative
-	8 Service Tunnel Ghast
-	8 Cryoglass Inspector
-	8 Frostwight
-	8 Heatguard Ogre
-	8 Grim Cremationist
-	8 Extermination Patrol
-	8 
-Abominable Behemoth
-	8 Carrion Skreech
-	8 Dark Consultation
-	8 Bitter Selection
-	8 Accident Report
-	8 Noise in the Pipes
-	8 Frigid Touch
-	8 From Beneath the Ice
-	8 Curse of Glass
-	8 Plucked Thoughts
-	8 Roaming Flame Spirit
-	8 Cryo-Slagrunner
-	8 Downhill Raider
-	8 Bloodfrost Evoker
-	8 Rampaging Snow-Hog
-	8 Billowing Demagogue
-	8 Rusted Glass Miner
-	8 Kindlecoil Serpent
-	8 Gutterspike Brute
-	8 Vengeful Frost Giant
-	8 Ordinate Bruiser
-	8 Rising Smogwraith
-	8 Scorch Protocol
-	8 Piercing Bloodrush
-	8 Enforcing Fist
-	8 Payback Strike
-	8 Ignition of Truth
-	8 Rimeburst
-	8 Empowering Warmth
-	8 Ice-Trekking Cleats
-	8 Karnir Seed-Watcher
-	8 Snowblossom Hare
-	8 Glacierwood Lumberjack
-	8 Outskirts Botanist
-	8 Icetongue Frog
-	8 Glacierwood Spirit
-	8 Karnir Tribe Guardian
-	8 Icebank Ambusher
-	8 Wandering Tundra Shaman
-	8 Creeping Ice-Vines
-	8 Cryotroll
-	8 Druid of the Silent Wild
-	8 Laborious Endurance
-	8 Collapsing Infrastructure
-	8 Blizzard's Claw
-	8 Scavenger's Drop
-	8 Bloom through the Ice
-	8 Companion's Warmth
-	8 Frigid Endurance
-	8 Makeshift Campfire
-	8 Ordinator's Wand
-	8 Cryoglass Specimen
-	8 Incinerator Golem
-	8 Cleansing Torch
-	8 Glacier's Peak
-[foil(1)]
-	6 Frostburn Explorer
-	6 Scorchfoot Ravager
-	6 Furnace Rebel
-	6 Frostguard Ordinator
-	6 Oppressive Magistrate
-	6 Frostbitten Mirebeast
-	6 Scrapcaster Adept
-	6 Snowdrift Angel
-	6 Tundra Agent
-	6 Karnir Coldwatch
-	12 Cryotax Attendant
-	12 Priestess in Rags
-	12 Defiant Recruit
-	12 Coldspire Patrol
-	12 Crystal-Bound Thrall
-	12 Karnir Frostspeaker
-	12 Crag-Scout Falcon
-	12 Quota Enforcer
-	12 Saborpelt Dissenter
-	12 Frostgrave Spirit
-	12 Longhouse Alpha
-	12 Contraband Inspector
-	12 Ice Encrusted Mammoth
-	12 Calculated Defiance
-	12 Glacial Grasp
-	12 Lost in Tundra
-	12 Stand Together
-	12 Rouse the Uprising
-	12 Frigid Winds
-	12 Cryoprison Lantern
-	12 Iceway Lookout
-	12 Snowball Elemental
-	12 Mnemonic Cryomancer
-	12 Cryoglass Broker
-	12 Tree-Burrow Ferret
-	12 Smolder-Bone Nomad
-	12 Climbing Cliff Troll
-	12 Oversized Glacierfin
-	12 Fjordbreaker Walrus
-	12 Cryoglass Vault-Guardian
-	12 Shard of Insight
-	12 Spellthaw
-	12 Glacial Ward
-	12 Ordinator's Greed
-	12 Condemn to the Cold
-	12 Tactical Dive
-	12 Permafreeze
-	12 Sky Patrol Angel
-	12 Crushing Cave-In
-	12 Shiverpick
-	12 Black-Ice Ghoul
-	12 Scavenging Outcast
-	12 Forge-Belt Thrasher
-	12 Shardwing Operative
-	12 Service Tunnel Ghast
-	12 Cryoglass Inspector
-	12 Frostwight
-	12 Heatguard Ogre
-	12 Grim Cremationist
-	12 Extermination Patrol
-	12 
-Abominable Behemoth
-	12 Carrion Skreech
-	12 Dark Consultation
-	12 Bitter Selection
-	12 Accident Report
-	12 Noise in the Pipes
-	12 Frigid Touch
-	12 From Beneath the Ice
-	12 Curse of Glass
-	12 Plucked Thoughts
-	12 Roaming Flame Spirit
-	12 Cryo-Slagrunner
-	12 Downhill Raider
-	12 Bloodfrost Evoker
-	12 Rampaging Snow-Hog
-	12 Billowing Demagogue
-	12 Rusted Glass Miner
-	12 Kindlecoil Serpent
-	12 Gutterspike Brute
-	12 Vengeful Frost Giant
-	12 Ordinate Bruiser
-	12 Rising Smogwraith
-	12 Scorch Protocol
-	12 Piercing Bloodrush
-	12 Enforcing Fist
-	12 Payback Strike
-	12 Ignition of Truth
-	12 Rimeburst
-	12 Empowering Warmth
-	12 Ice-Trekking Cleats
-	12 Karnir Seed-Watcher
-	12 Snowblossom Hare
-	12 Glacierwood Lumberjack
-	12 Outskirts Botanist
-	12 Icetongue Frog
-	12 Glacierwood Spirit
-	12 Karnir Tribe Guardian
-	12 Icebank Ambusher
-	12 Wandering Tundra Shaman
-	12 Creeping Ice-Vines
-	12 Cryotroll
-	12 Druid of the Silent Wild
-	12 Laborious Endurance
-	12 Collapsing Infrastructure
-	12 Blizzard's Claw
-	12 Scavenger's Drop
-	12 Bloom through the Ice
-	12 Companion's Warmth
-	12 Frigid Endurance
-	12 Makeshift Campfire
-	12 Ordinator's Wand
-	12 Cryoglass Specimen
-	12 Incinerator Golem
-	12 Cleansing Torch
-	12 Glacier's Peak
-[wildcard(1)]
-	15 Frostburn Explorer
-	15 Scorchfoot Ravager
-	15 Furnace Rebel
-	15 Frostguard Ordinator
-	15 Oppressive Magistrate
-	15 Frostbitten Mirebeast
-	15 Scrapcaster Adept
-	15 Snowdrift Angel
-	15 Tundra Agent
-	15 Karnir Coldwatch
-	6 Cryotax Attendant
-	6 Priestess in Rags
-	6 Defiant Recruit
-	6 Coldspire Patrol
-	6 Crystal-Bound Thrall
-	6 Karnir Frostspeaker
-	6 Crag-Scout Falcon
-	6 Quota Enforcer
-	6 Saborpelt Dissenter
-	6 Frostgrave Spirit
-	6 Longhouse Alpha
-	6 Contraband Inspector
-	6 Ice Encrusted Mammoth
-	6 Calculated Defiance
-	6 Glacial Grasp
-	6 Lost in Tundra
-	6 Stand Together
-	6 Rouse the Uprising
-	6 Frigid Winds
-	6 Cryoprison Lantern
-	6 Iceway Lookout
-	6 Snowball Elemental
-	6 Mnemonic Cryomancer
-	6 Cryoglass Broker
-	6 Tree-Burrow Ferret
-	6 Smolder-Bone Nomad
-	6 Climbing Cliff Troll
-	6 Oversized Glacierfin
-	6 Fjordbreaker Walrus
-	6 Cryoglass Vault-Guardian
-	6 Shard of Insight
-	6 Spellthaw
-	6 Glacial Ward
-	6 Ordinator's Greed
-	6 Condemn to the Cold
-	6 Tactical Dive
-	6 Permafreeze
-	6 Sky Patrol Angel
-	6 Crushing Cave-In
-	6 Shiverpick
-	6 Black-Ice Ghoul
-	6 Scavenging Outcast
-	6 Forge-Belt Thrasher
-	6 Shardwing Operative
-	6 Service Tunnel Ghast
-	6 Cryoglass Inspector
-	6 Frostwight
-	6 Heatguard Ogre
-	6 Grim Cremationist
-	6 Extermination Patrol
-	6 
-Abominable Behemoth
-	6 Carrion Skreech
-	6 Dark Consultation
-	6 Bitter Selection
-	6 Accident Report
-	6 Noise in the Pipes
-	6 Frigid Touch
-	6 From Beneath the Ice
-	6 Curse of Glass
-	6 Plucked Thoughts
-	6 Roaming Flame Spirit
-	6 Cryo-Slagrunner
-	6 Downhill Raider
-	6 Bloodfrost Evoker
-	6 Rampaging Snow-Hog
-	6 Billowing Demagogue
-	6 Rusted Glass Miner
-	6 Kindlecoil Serpent
-	6 Gutterspike Brute
-	6 Vengeful Frost Giant
-	6 Ordinate Bruiser
-	6 Rising Smogwraith
-	6 Scorch Protocol
-	6 Piercing Bloodrush
-	6 Enforcing Fist
-	6 Payback Strike
-	6 Ignition of Truth
-	6 Rimeburst
-	6 Empowering Warmth
-	6 Ice-Trekking Cleats
-	6 Karnir Seed-Watcher
-	6 Snowblossom Hare
-	6 Glacierwood Lumberjack
-	6 Outskirts Botanist
-	6 Icetongue Frog
-	6 Glacierwood Spirit
-	6 Karnir Tribe Guardian
-	6 Icebank Ambusher
-	6 Wandering Tundra Shaman
-	6 Creeping Ice-Vines
-	6 Cryotroll
-	6 Druid of the Silent Wild
-	6 Laborious Endurance
-	6 Collapsing Infrastructure
-	6 Blizzard's Claw
-	6 Scavenger's Drop
-	6 Bloom through the Ice
-	6 Companion's Warmth
-	6 Frigid Endurance
-	6 Makeshift Campfire
-	6 Ordinator's Wand
-	6 Cryoglass Specimen
-	6 Incinerator Golem
-	6 Cleansing Torch
-	6 Glacier's Peak
+[RareSlot(1)]
+2 Sinéad, Battleguard Nurse
+2 Tyga, Hand of the Hailstorm
+2 Brassbound Suppressor
+2 Chimneyborn Eidolon
+2 Annex Angel
+2 Rimeshroud Apparition
+2 Squallsong
+2 Ordinate's End
+2 Avalanche Runner
+2 Kessra Scrapwright
+2 Juris, Propaganda Savant
+2 Glaciator Fiend
+2 Mage of Thawed Memories
+2 Frostlock
+2 Unexpected Detour
+2 Cryosculpt
+2 Rimezone
+2 Cryoglass Foresight Orb
+2 Fumidia, the Smog Witch
+2 Shiverclaw the Abominable
+2 Thornbite Stalker
+2 Sinewspawn
+2 Chain Devoted Priest
+2 Heatdeath Erasure
+2 Dreadthaw
+2 Combat Triage
+2 Heat Extraction
+2 Liora, Rebellion Igniter
+2 The Scrapmaw Engine
+2 Rooftop Rebel
+2 Hellcart Horror
+2 Smokestack Pyromancer
+2 Double-Up
+2 Heatrush
+2 Suffocating Fumes
+2 Uprising Legacy
+2 Morvane, Rotsown Druid
+2 Orris, Scarred Trailblazer
+2 Karnir War Recruiter
+2 Thawborn Hydra
+2 Frostbite Snail
+2 Frostkindling Druid
+2 Tundralight Renewal
+2 Frozen Might
+2 Cryoterra's Claim
+[UncommonSlot(4)]
+9 Frostburn Explorer
+9 Hellfire Ravager
+9 Furnace Rebel
+9 Solution Regulator
+9 Smogwraith
+9 Scrapcasting Adept
+9 Snowdrift Angel
+9 Frostveil Agent
+9 Karnir Coldwatch
+9 \nAbominable Behemoth
+9 Ordinate Field Marshal
+9 Fearless Dissenter
+9 Fumesoul Stalker
+9 Frostfoot Night Patrol
+9 Auroral Moth
+9 Factorysalve Healer
+9 Reinforcement Rebel
+9 Blizzardfang Howler
+9 Hailforged Justiciar
+9 Fjord Hermit
+9 Through the Smoke
+9 The Bigger They Fall
+9 Frostwake Uprising
+9 Ceremonial Cryoblade
+9 Chilling Informant
+9 Wastrel of the Deepfrost
+9 Steelfeather Salvager
+9 Cryospawn Experiment 77
+9 Snowcaster Adept
+9 Frostguard Fabricator
+9 Hailmind Terror
+9 Ordinate Broker Baron
+9 Read the Runes
+9 Pressure Overload
+9 Nullfrost
+9 Seared Memory
+9 Thawed Insight
+9 Sudden Chill
+9 Cryoglass Extractor
+9 Mournflight Wisp
+9 Squallwight
+9 Dusklight Arsonist
+9 Veinreader Informant
+9 Mourning Gentleman
+9 Rimebone Fiend
+9 Cruel Overseer
+9 Killer's Conspiricy
+9 Glaciertusk Hauler
+9 Crystal-Quill Auditor
+9 Crushing Attrition
+9 Furnace's Fleshfuel
+9 Frozen Retrieval
+9 Gutterflux Mutation
+9 Heatvein Tracker
+9 Canary Phoenix
+9 Smelt-Melt Ragers
+9 Thermafrost Mauler
+9 Rebelbane Captain
+9 Incendiary Revolutionary
+9 Chainlash Devil
+9 Reckless Mechanist
+9 Razorboot Glider
+9 Scrapfire Surge
+9 Meltdown Mastery
+9 Rub It In
+9 Anarchist's Fury
+9 Billowing Flames
+9 Dredgemole
+9 Frostmaul War Captain
+9 Rustpyre Oracle
+9 Pinecrag Surveyor
+9 Deepfreeze Oracle
+9 Viscera Archivist
+9 Shivermaw Scuttler
+9 Spirit of the Verdigris
+9 Siphon Warmth
+9 Skypiercer's Rebuke
+9 Glacial Excavation
+9 War Party's Call
+9 Anointed Resolve
+9 Ice Climbing Gear
+9 Stained Cryoglass Lens
+9 Smokestack Coalossus
+9 Glassflesh Idol
+9 Lost Heritage Blade
+9 Frozen Maintenance Tunnel
+9 Crystalwood Verge
+9 Permafrost Crossing
+9 Slagwaste Tundra
+9 Heatvein Chasm
+9 Bloomspire Pines
+9 Aurora Fen
+9 Thermoflow Conduit
+9 Smogchoked Snowscape
+9 Spearglass Barrens
+9 Icemire Thicket
+[CommonSlot(7)]
+30 Frostbitten Mirebeast
+30 Noble Attendant
+30 Priestess in Rags
+30 Defiant Recruit
+30 Coldspire Patrol
+30 Crystal-Bound Thrall
+30 Karnir Frostspeaker
+30 Crag-Scout Falcon
+30 Quota Enforcer
+30 Saborpelt Dissenter
+30 Frostgrave Spirit
+30 Longhouse Alpha
+30 Contraband Inspector
+30 Ice Encrusted Mammoth
+30 Calculated Defiance
+30 Glacial Grasp
+30 Lost in Tundra
+30 Stand Together
+30 Rouse the Uprising
+30 Break the Shackles
+30 Cryoprison Lantern
+30 Iceway Lookout
+30 Snowball Elemental
+30 Mnemonic Cryomancer
+30 Cryoglass Broker
+30 Ordinate Frostguard
+30 Smolder-Bone Nomad
+30 Climbing Cliff Troll
+30 Oversized Glacierfin
+30 Fjordbreaker Walrus
+30 Cryoglass Vault-Guardian
+30 Shard of Insight
+30 Spellthaw
+30 Glacial Ward
+30 Ordinator's Greed
+30 Condemn to the Cold
+30 Tactical Dive
+30 Permafreeze
+30 Blizzard Patrol Angel
+30 Crushing Cave-In
+30 Shiverpick
+30 Black-Ice Ghoul
+30 Scavenging Outcast
+30 Forge-Belt Thrasher
+30 Shardwing Operative
+30 Service Tunnel Ghast
+30 Cryoglass Inspector
+30 Frostwight
+30 Heatguard Ogre
+30 Grim Cremationist
+30 Extermination Patrol
+30 Carrion Skreech
+30 Dark Consultation
+30 Bitter Selection
+30 Accident Report
+30 Noise in the Pipes
+30 Frigid Touch
+30 From Beneath the Ice
+30 Curse of Glass
+30 Plucked Thoughts
+30 Roaming Flame Spirit
+30 Cryo-Slagrunner
+30 Downhill Raider
+30 Bloodfrost Evoker
+30 Rampaging Snow-Hog
+30 Billowing Demagogue
+30 Rusted Glass Miner
+30 Kindlecoil Serpent
+30 Gutterspike Brute
+30 Vengeful Frost Giant
+30 Ordinate Bruiser
+30 Cremated Furnace Spirit
+30 Scorch Protocol
+30 Piercing Bloodrush
+30 Enforcing Fist
+30 Payback Strike
+30 Ignition of Truth
+30 Rimeburst
+30 Empowering Warmth
+30 Ice-Trekking Cleats
+30 Determined Seed-Watcher
+30 Snowblossom Hare
+30 Glacierwood Lumberjack
+30 Outskirts Botanist
+30 Icetongue Frog
+30 Glacierwood Spirit
+30 Fearsome Tribe Guard
+30 Icebank Ambusher
+30 Wandering Tundra Shaman
+30 Creeping Ice-Vines
+30 Cryotroll
+30 Druid of the Silent Wild
+30 Laborious Strength
+30 Collapsing Infrastructure
+30 Hailstrike
+30 Scavenger's Drop
+30 Bloom through the Ice
+30 Companion's Warmth
+30 Frigid Endurance
+30 Makeshift Campfire
+30 Ordinator's Wand
+30 Cryoglass Specimen
+30 Incinerator Golem
+30 Cleansing Torch
+30 Glacier's Peak
+30 Ghostflower Cougar
+30 Caldera Wurm
+[WildcardSlot(1)]
+10 Frostburn Explorer
+10 Hellfire Ravager
+10 Furnace Rebel
+10 Solution Regulator
+10 Smogwraith
+10 Frostbitten Mirebeast
+10 Scrapcasting Adept
+10 Snowdrift Angel
+10 Frostveil Agent
+10 Karnir Coldwatch
+10 Noble Attendant
+10 Priestess in Rags
+10 Defiant Recruit
+10 Coldspire Patrol
+10 Crystal-Bound Thrall
+10 Karnir Frostspeaker
+10 Crag-Scout Falcon
+10 Quota Enforcer
+10 Saborpelt Dissenter
+10 Frostgrave Spirit
+10 Longhouse Alpha
+10 Contraband Inspector
+10 Ice Encrusted Mammoth
+10 Calculated Defiance
+10 Glacial Grasp
+10 Lost in Tundra
+10 Stand Together
+10 Rouse the Uprising
+10 Break the Shackles
+10 Cryoprison Lantern
+10 Iceway Lookout
+10 Snowball Elemental
+10 Mnemonic Cryomancer
+10 Cryoglass Broker
+10 Ordinate Frostguard
+10 Smolder-Bone Nomad
+10 Climbing Cliff Troll
+10 Oversized Glacierfin
+10 Fjordbreaker Walrus
+10 Cryoglass Vault-Guardian
+10 Shard of Insight
+10 Spellthaw
+10 Glacial Ward
+10 Ordinator's Greed
+10 Condemn to the Cold
+10 Tactical Dive
+10 Permafreeze
+10 Blizzard Patrol Angel
+10 Crushing Cave-In
+10 Shiverpick
+10 Black-Ice Ghoul
+10 Scavenging Outcast
+10 Forge-Belt Thrasher
+10 Shardwing Operative
+10 Service Tunnel Ghast
+10 Cryoglass Inspector
+10 Frostwight
+10 Heatguard Ogre
+10 Grim Cremationist
+10 Extermination Patrol
+10 \nAbominable Behemoth
+10 Carrion Skreech
+10 Dark Consultation
+10 Bitter Selection
+10 Accident Report
+10 Noise in the Pipes
+10 Frigid Touch
+10 From Beneath the Ice
+10 Curse of Glass
+10 Plucked Thoughts
+10 Roaming Flame Spirit
+10 Cryo-Slagrunner
+10 Downhill Raider
+10 Bloodfrost Evoker
+10 Rampaging Snow-Hog
+10 Billowing Demagogue
+10 Rusted Glass Miner
+10 Kindlecoil Serpent
+10 Gutterspike Brute
+10 Vengeful Frost Giant
+10 Ordinate Bruiser
+10 Cremated Furnace Spirit
+10 Scorch Protocol
+10 Piercing Bloodrush
+10 Enforcing Fist
+10 Payback Strike
+10 Ignition of Truth
+10 Rimeburst
+10 Empowering Warmth
+10 Ice-Trekking Cleats
+10 Determined Seed-Watcher
+10 Snowblossom Hare
+10 Glacierwood Lumberjack
+10 Outskirts Botanist
+10 Icetongue Frog
+10 Glacierwood Spirit
+10 Fearsome Tribe Guard
+10 Icebank Ambusher
+10 Wandering Tundra Shaman
+10 Creeping Ice-Vines
+10 Cryotroll
+10 Druid of the Silent Wild
+10 Laborious Strength
+10 Collapsing Infrastructure
+10 Hailstrike
+10 Scavenger's Drop
+10 Bloom through the Ice
+10 Companion's Warmth
+10 Frigid Endurance
+10 Makeshift Campfire
+10 Ordinator's Wand
+10 Cryoglass Specimen
+10 Incinerator Golem
+10 Cleansing Torch
+10 Glacier's Peak
+10 Ghostflower Cougar
+10 Ordinate Field Marshal
+10 Fearless Dissenter
+10 Fumesoul Stalker
+10 Frostfoot Night Patrol
+10 Auroral Moth
+10 Factorysalve Healer
+10 Reinforcement Rebel
+10 Blizzardfang Howler
+10 Hailforged Justiciar
+10 Fjord Hermit
+10 Through the Smoke
+10 The Bigger They Fall
+10 Frostwake Uprising
+10 Ceremonial Cryoblade
+10 Chilling Informant
+10 Wastrel of the Deepfrost
+10 Steelfeather Salvager
+10 Cryospawn Experiment 77
+10 Snowcaster Adept
+10 Frostguard Fabricator
+10 Hailmind Terror
+10 Ordinate Broker Baron
+10 Read the Runes
+10 Pressure Overload
+10 Nullfrost
+10 Seared Memory
+10 Thawed Insight
+10 Sudden Chill
+10 Cryoglass Extractor
+10 Mournflight Wisp
+10 Squallwight
+10 Dusklight Arsonist
+10 Veinreader Informant
+10 Mourning Gentleman
+10 Rimebone Fiend
+10 Cruel Overseer
+10 Killer's Conspiricy
+10 Glaciertusk Hauler
+10 Crystal-Quill Auditor
+10 Crushing Attrition
+10 Furnace's Fleshfuel
+10 Frozen Retrieval
+10 Gutterflux Mutation
+10 Heatvein Tracker
+10 Canary Phoenix
+10 Smelt-Melt Ragers
+10 Thermafrost Mauler
+10 Rebelbane Captain
+10 Incendiary Revolutionary
+10 Chainlash Devil
+10 Reckless Mechanist
+10 Razorboot Glider
+10 Scrapfire Surge
+10 Meltdown Mastery
+10 Rub It In
+10 Anarchist's Fury
+10 Billowing Flames
+10 Dredgemole
+10 Frostmaul War Captain
+10 Rustpyre Oracle
+10 Pinecrag Surveyor
+10 Deepfreeze Oracle
+10 Viscera Archivist
+10 Caldera Wurm
+10 Shivermaw Scuttler
+10 Spirit of the Verdigris
+10 Siphon Warmth
+10 Skypiercer's Rebuke
+10 Glacial Excavation
+10 War Party's Call
+10 Anointed Resolve
+10 Ice Climbing Gear
+10 Stained Cryoglass Lens
+10 Smokestack Coalossus
+10 Glassflesh Idol
+10 Lost Heritage Blade
+10 Frozen Maintenance Tunnel
+10 Crystalwood Verge
+10 Permafrost Crossing
+10 Slagwaste Tundra
+10 Heatvein Chasm
+10 Bloomspire Pines
+10 Aurora Fen
+10 Thermoflow Conduit
+10 Smogchoked Snowscape
+10 Spearglass Barrens
+10 Icemire Thicket
+10 Sinéad, Battleguard Nurse
+10 Tyga, Hand of the Hailstorm
+10 Brassbound Suppressor
+10 Chimneyborn Eidolon
+10 Annex Angel
+10 Rimeshroud Apparition
+10 Squallsong
+10 Ordinate's End
+10 Avalanche Runner
+10 Kessra Scrapwright
+10 Juris, Propaganda Savant
+10 Glaciator Fiend
+10 Mage of Thawed Memories
+10 Frostlock
+10 Unexpected Detour
+10 Cryosculpt
+10 Rimezone
+10 Cryoglass Foresight Orb
+10 Fumidia, the Smog Witch
+10 Shiverclaw the Abominable
+10 Thornbite Stalker
+10 Sinewspawn
+10 Chain Devoted Priest
+10 Heatdeath Erasure
+10 Dreadthaw
+10 Combat Triage
+10 Heat Extraction
+10 Liora, Rebellion Igniter
+10 The Scrapmaw Engine
+10 Rooftop Rebel
+10 Hellcart Horror
+10 Smokestack Pyromancer
+10 Double-Up
+10 Heatrush
+10 Suffocating Fumes
+10 Uprising Legacy
+10 Morvane, Rotsown Druid
+10 Orris, Scarred Trailblazer
+10 Karnir War Recruiter
+10 Thawborn Hydra
+10 Frostbite Snail
+10 Frostkindling Druid
+10 Tundralight Renewal
+10 Frozen Might
+10 Cryoterra's Claim
+[LandSlot(1)]
