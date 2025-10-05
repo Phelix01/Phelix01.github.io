@@ -1,4 +1,638 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Spud Spectre
+
+Protective Homesteader
+
+Hearthstead Hound
+
+Hollow Flame Spirit
+
+Faceless Preacher
+
+Dawning Farmhand
+
+Pixie Field Scout
+
+Salve Herbalist
+
+Threshingfield Steward
+
+Sunseed Seraph
+
+Laboring Bisonbear
+
+Savor the Harvest
+
+A Farmer's Lament
+
+Foreordain
+
+Lost Among the Maize
+
+Plow the Fields
+
+Strike Through the Grass
+
+Shepherd's Oath
+
+Doomed to Observe
+
+Aetherling
+
+Pondkin Scholar
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Misfire Infuser
+
+Runestone Owl
+
+Fogfen Lurker
+
+Azure River Drake
+
+Aloof Pondkin
+
+Sudden Recollection
+
+Indecisive Mixture
+
+Brainjuice Tincture
+
+Thoughtcycle
+
+Unexpected Reaction
+
+Lost in the Breeze
+
+Bewildering Haze
+
+Nettle's Determination
+
+Maeve's Nightmare Serum
+
+Leshy Bone Collector
+
+Living Death Potion
+
+Deepstone Alchemist
+
+Malefic Visitor
+
+Trespassing Forager
+
+Shade of Truth
+
+Grotesque Bogbat
+
+Fate Alley Agent
+
+Fate Enforcer
+
+Harvest Cloak Thief
+
+Dastardly Blend
+
+Touch of Nightshade
+
+Sift Through Bones
+
+Return Mostly Alive
+
+Graverot
+
+Gaul's Fading Promise
+
+Unstable Concotion
+
+Unseelie Embrace
+
+Essence of the Drowned
+
+Torchpath Courior
+
+Scroll-Cast Apprentice
+
+Reckless Blacksmith
+
+Torchpath Scavenger
+
+Burgundy Spire Initiate
+
+Pixie Spear-Swarmer
+
+Unseelie Flamecrafter
+
+Branchspark Igniter
+
+Charcoal Howler
+
+Flamesword Archivist
+
+Firebelly Brew
+
+Infernal Insight
+
+Flamerally
+
+Barnfire
+
+Quick Thinking
+
+Arcane Surge
+
+Searing Shots
+
+This is Fine
+
+Electrify Fists
+
+Eladrin Grovetender
+
+Thornpaw Apothecary
+
+Sunfruit Harvester
+
+Skittering Barktail
+
+Eladrin Ranger
+
+Harvest Cycle Stag
+
+Hag Warden
+
+Grovewarden Sentinel
+
+Bushwhacker Scout
+
+Timbermarch Caller
+
+Domesticated Rumblehorn
+
+Living Orchard
+
+Cycle's Provision
+
+Friends of the Forest
+
+Dominant Struggle
+
+Eladrin Purity
+
+Bountiful Protection
+
+Harvestmark Shot
+
+Taste Test
+
+Hearthside Bartender
+
+Updraft Angel
+
+Harvest Angel
+
+Willowmutt
+
+Devout Shadekin
+
+Knight of Labor
+
+Sunleaf Apprentice
+
+Proud Farmdaughter
+
+Cloud Contract
+
+A Cold Welcome
+
+Dawnrush Formation
+
+Lakefront Crab
+
+Mystic Mistmage
+
+Eccentric Alchemist
+
+Unseelie Ambusher
+
+Leshy Apothecary
+
+Free-Range Faerie
+
+Elixir Behemoth
+
+Refine the Recipe
+
+Essence Unbound
+
+Tincture Trade
+
+Academic Interference
+
+Tragic Pixie
+
+Acolyte of Ichor
+
+Resurgent Residue
+
+Deadwood Sprite
+
+Unseelie Ritualist
+
+Forgotten Shadekin
+
+Shadekin Fateweaver
+
+Hollowed Delusion
+
+Defy the Commandment
+
+Dark Court Summoning
+
+Rotting Rites
+
+Gleeful Cutthroat
+
+Genasi Flame Adept
+
+Sparkscript Tutor
+
+Rebuking Evoker
+
+Combustion Theorist
+
+Gloamfire Matron
+
+Goldfire Golem
+
+Campfire Troll
+
+Incite Chaos
+
+Terminal Discharge
+
+Down the Hatch
+
+Compost Rattler
+
+Frondplume Strider
+
+Eladrin Arborist
+
+Rotcycle Shambler
+
+Eithana, Treepaw Scout
+
+Cyclegrove Empath
+
+Leaflash Ambusher
+
+Vinyard Wurm
+
+Feybark Ritual
+
+Pixie Battle Hero
+
+Barleystout Farmer
+
+Alessa, Warden Paragon
+
+Palehorn Shadebeast
+
+Harvest Scion
+
+Fallow the Farmland
+
+Swarm Charge
+
+Coralia Trickweaver
+
+Tempo Flux
+
+Tincturetwist, Zany Alchemist
+
+Mind-Vault Parasite
+
+Dreamdew Hexlet
+
+Aethergate Breach
+
+Unbound Secrets
+
+Stunwing Osprey
+
+Deep Gnome Researcher
+
+Queen's Smogwing
+
+Painted Autumnfang
+
+Cranky ol' Tommon
+
+Stalking Cyclebreaker
+
+Roston, Defense Instructor
+
+Pixie Swarmleader
+
+Harvest's Allure
+
+Array of Ingredients
+
+Farm Razer
+
+Fallen Leaf Aura
+
+Musclebound Deep Gnome
+
+Bread for Brawn
+
+Farmshade
+
+Roaming Battlepriest
+
+Lead the Take-Off
+
+A Pinch of Stardust
+
+Lost in the Sauce
+
+Arrogant Ingenuity
+
+Daydreaming
+
+Forbidden Ingredients
+
+Faerie's Malice
+
+Shadetouch Aura
+
+Soiled Farmseed
+
+Shatter Flask
+
+Puff Pivot
+
+Inspiring Ambition
+
+Menacing Fae
+
+Skyfall Infusion
+
+Orchard's Rest
+
+Enchanting Presence
+
+Aura of Healing Wind
+
+Granary Guardian
+
+Snaproot Tactician
+
+Clover, the Wallbreaker
+
+Passing Radiance
+
+Astral Apothecary
+
+Drowned Bog Witch
+
+Gloomfield Stalker
+
+Doc Morvix, Corpse Artisan
+
+Greedy Nyxwing
+
+Graveyard's Gift
+
+Spite the Face
+
+Remorseful Apparition
+
+Bloodbrew Coagulater
+
+Aged Toothcap
+
+Blazette's Pet Dragon
+
+Bonfire Blossomkeeper
+
+Tatiana, Combustive Scholar
+
+Groundling Pixie Captain
+
+Ravenous Ramshackler
+
+Glitterspark Eruption
+
+Flashfuse Convulsion
+
+Aerial Superiority
+
+Rageleaf Channeler
+
+Nettle, Sparkwing Prodigy
+
+Whispers from the Mire
+
+Abandoned Hamlet
+
+Booming Blade
+
+Say Ah!
+
+Rush of the Groundlings
+
+Lynx, Grovefang Alpha
+
+Alyra, Orchard's Heart
+
+Harvest Tithe
+
+Beastial Howl
+
+Fungal Benediction
+
+Deathsap Adder
+
+Drybark Protector
+
+Harvest Market Keeper
+
+Unseelie Accord
+
+Hearthmeadow Shepherd
+
+Quinn, Funerary Hostess
+
+Deeplab Vaporsmith
+
+Ophelia, Fate's Cartographer
+
+Abaros, Spire Headmaster
+
+Gerome, The Farmfather
+
+Bladesong
+
+Nyxpetal, Numbing Needle
+
+Gharrak, Forgotten Monarch
+
+Blazette, Blazing Blunder
+
+Bannerflame Mage
+
+Elderbark Sentinel
+
+Hydrevan, Warrior Druid
+
+Erydin, Eladrin Bladesinger
+
+Maeve, Teahouse Owner
+
+Glimmer Speaker
+
+Maple-Ridge Dragon
+
+Ayela, Ranger Princess
+
+Gaul, High Observer
+
+Winry, Ascended Battlemage
+
+Rot Reclaimation
+
+Swarmstep Volley
+
+Tide of the Sunseed
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Razorwire Gauntlets
+
+Hearthfire Shard
+
+Bottled Arcfire
+
+Comforting Candle
+
+Horseman's Head
+
+Runic Cuirass
+
+Pocket Potion
+
+Whispering Wind Chime
+
+Faerie's Soul Carver
+
+Wildroot Infusion
+
+Duskopal Medallion
+
+The Night Diamond
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fungal Foothills
+
+Fated Crossroad
+
+Crimson Mist Falls
+
+Inkwater Boardwalk
+
+Sunpetal Meadow
+
+Deadfall Marsh
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Burgundy Spire
+
+Infusion of Verdant Energy
+
+Elixir of Refined Thought
+
+Potion of Ascendance
+
+Tincture of Drowned Kings
+
+Draught of Boilingblood
+
+Potion
+
+Potion
+
+Potion
+
+Food
+
+Food
+
+Food
+
+Treasure
+
+Treasure
+
+Treasure
+
+Farmer
+
+Spirit Farmer
+
+Shade
+
+Dawnlight
+
+Elf Ranger
+
+Softpaw Lookout
+
+Sheep
+
+Fungus
+
+Plant Angel
+
+Beast
+
+Beast
+
+Fungus Beast
+
+Eithana
+
+Plant Army
+
+Faerie Assassin
+
+Zombie
+
+Faerie Soldier
+
+Faerie Rogue
+
+Faerie Berserker
+
+Harvest Nexus
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
