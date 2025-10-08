@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Gerome, The Farmfather",
-        "number": 15,
+        "number": 14,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Fallow the Farmland",
-        "number": 11,
+        "number": 10,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -139,7 +139,7 @@
     },
     {
         "card_name": "Draught of Boilingblood",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -151,7 +151,7 @@
     },
     {
         "card_name": "Harvest Scion",
-        "number": 17,
+        "number": 16,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Flashfuse Convulsion",
-        "number": 157,
+        "number": 159,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -199,7 +199,7 @@
     },
     {
         "card_name": "Glitterspark Eruption",
-        "number": 160,
+        "number": 162,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -229,7 +229,7 @@
     },
     {
         "card_name": "Groundling Pixie Captain",
-        "number": 163,
+        "number": 165,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -259,7 +259,7 @@
     },
     {
         "card_name": "Ravenous Ramshackler",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -289,7 +289,7 @@
     },
     {
         "card_name": "Rush of the Groundlings",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -319,7 +319,7 @@
     },
     {
         "card_name": "Tatiana, Combustive Scholar",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Down the Hatch",
-        "number": 150,
+        "number": 151,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -421,7 +421,7 @@
     },
     {
         "card_name": "Dawnrush Formation",
-        "number": 7,
+        "number": 6,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -439,7 +439,7 @@
     },
     {
         "card_name": "Genasi Flame Adept",
-        "number": 158,
+        "number": 160,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -451,7 +451,7 @@
     },
     {
         "card_name": "Devout Shadekin",
-        "number": 8,
+        "number": 7,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -469,7 +469,7 @@
     },
     {
         "card_name": "Gleeful Cutthroat",
-        "number": 159,
+        "number": 161,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -481,7 +481,7 @@
     },
     {
         "card_name": "Farmshade",
-        "number": 13,
+        "number": 12,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -499,7 +499,7 @@
     },
     {
         "card_name": "Gloamfire Matron",
-        "number": 161,
+        "number": 163,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -511,7 +511,7 @@
     },
     {
         "card_name": "Harvest Angel",
-        "number": 16,
+        "number": 15,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -529,7 +529,7 @@
     },
     {
         "card_name": "Goldfire Golem",
-        "number": 162,
+        "number": 164,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -541,7 +541,7 @@
     },
     {
         "card_name": "Hearthside Bartender",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -559,7 +559,7 @@
     },
     {
         "card_name": "Incite Chaos",
-        "number": 164,
+        "number": 166,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -571,7 +571,7 @@
     },
     {
         "card_name": "Knight of Labor",
-        "number": 22,
+        "number": 21,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -589,7 +589,7 @@
     },
     {
         "card_name": "Inspiring Ambition",
-        "number": 166,
+        "number": 168,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -601,7 +601,7 @@
     },
     {
         "card_name": "Lead the Take-Off",
-        "number": 24,
+        "number": 23,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -619,7 +619,7 @@
     },
     {
         "card_name": "Menacing Fae",
-        "number": 167,
+        "number": 169,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "Puff Pivot",
-        "number": 169,
+        "number": 171,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -679,7 +679,7 @@
     },
     {
         "card_name": "Rebuking Evoker",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -709,7 +709,7 @@
     },
     {
         "card_name": "Shatter Flask",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -739,7 +739,7 @@
     },
     {
         "card_name": "Sparkscript Tutor",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -769,7 +769,7 @@
     },
     {
         "card_name": "Terminal Discharge",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -780,8 +780,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Dawning Farmhand",
-        "number": 6,
+        "card_name": "Doomed to Observe",
+        "number": 8,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -810,7 +810,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Doomed to Observe",
+        "card_name": "Faceless Preacher",
         "number": 9,
         "shape": "normal",
         "set": "HHRR"
@@ -840,8 +840,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Faceless Preacher",
-        "number": 10,
+        "card_name": "A Farmer's Lament",
+        "number": 11,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -870,8 +870,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "A Farmer's Lament",
-        "number": 12,
+        "card_name": "Foreordain",
+        "number": 13,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -900,8 +900,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Foreordain",
-        "number": 14,
+        "card_name": "Harvest's Allure",
+        "number": 17,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -930,8 +930,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Harvest's Allure",
-        "number": 18,
+        "card_name": "Hearthstead Hound",
+        "number": 19,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -948,8 +948,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Electrify Fists",
-        "number": 152,
+        "card_name": "Combustive Curiosity",
+        "number": 150,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -960,7 +960,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Hearthstead Hound",
+        "card_name": "Hollow Flame Spirit",
         "number": 20,
         "shape": "normal",
         "set": "HHRR"
@@ -978,7 +978,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Farm Razer",
+        "card_name": "Electrify Fists",
         "number": 153,
         "shape": "normal",
         "set": "HHRR"
@@ -990,8 +990,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Hollow Flame Spirit",
-        "number": 21,
+        "card_name": "Laboring Bisonbear",
+        "number": 22,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1008,7 +1008,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Firebelly Brew",
+        "card_name": "Farm Razer",
         "number": 154,
         "shape": "normal",
         "set": "HHRR"
@@ -1020,8 +1020,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Laboring Bisonbear",
-        "number": 23,
+        "card_name": "Lost Among the Maize",
+        "number": 24,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1038,7 +1038,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Flamerally",
+        "card_name": "Firebelly Brew",
         "number": 155,
         "shape": "normal",
         "set": "HHRR"
@@ -1050,7 +1050,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Lost Among the Maize",
+        "card_name": "Morningtide Harvester",
         "number": 25,
         "shape": "normal",
         "set": "HHRR"
@@ -1068,7 +1068,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Flamesword Archivist",
+        "card_name": "Flamerally",
         "number": 156,
         "shape": "normal",
         "set": "HHRR"
@@ -1098,8 +1098,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Infernal Insight",
-        "number": 165,
+        "card_name": "Flamesword Archivist",
+        "number": 157,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1128,8 +1128,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Pixie Spear-Swarmer",
-        "number": 168,
+        "card_name": "Flash of Resolve",
+        "number": 158,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1158,8 +1158,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Quick Thinking",
-        "number": 170,
+        "card_name": "Infernal Insight",
+        "number": 167,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1188,8 +1188,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Reckless Blacksmith",
-        "number": 173,
+        "card_name": "Pixie Spear-Swarmer",
+        "number": 170,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1218,8 +1218,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Scroll-Cast Apprentice",
-        "number": 175,
+        "card_name": "Reckless Blacksmith",
+        "number": 174,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1248,7 +1248,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Searing Shots",
+        "card_name": "Scroll-Cast Apprentice",
         "number": 176,
         "shape": "normal",
         "set": "HHRR"
@@ -1278,8 +1278,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "This is Fine",
-        "number": 181,
+        "card_name": "Searing Shots",
+        "number": 177,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1869,13 +1869,19 @@
     },
     {
         "card_name": "Plains",
-        "number": 290,
+        "number": 289,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Island",
-        "number": 293,
+        "number": 291,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Plains",
+        "number": 290,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1886,20 +1892,14 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Plains",
-        "number": 289,
+        "card_name": "Swamp",
+        "number": 295,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Swamp",
         "number": 294,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Swamp",
-        "number": 295,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1917,13 +1917,13 @@
     },
     {
         "card_name": "Forest",
-        "number": 302,
+        "number": 301,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Forest",
-        "number": 300,
+        "number": 302,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1935,19 +1935,19 @@
     },
     {
         "card_name": "Forest",
-        "number": 301,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Island",
-        "number": 291,
+        "number": 300,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Island",
         "number": 292,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Island",
+        "number": 293,
         "shape": "normal",
         "set": "HHRR"
     },
