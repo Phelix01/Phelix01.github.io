@@ -163,7 +163,7 @@
 		{
 			"name": "Strike Through the Grass",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Instant",
 			"collector_number": "40",
 			"image_uris": {
@@ -293,8 +293,8 @@
 		{
 			"name": "Indecisive Mixture",
 			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Sorcery",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/69_Indecisive Mixture.png"
@@ -303,7 +303,7 @@
 		{
 			"name": "Brainjuice Tincture",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Elemental Shaman ",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/116_Leshy Bone Collector.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/117_Leshy Bone Collector.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Potion Spider ",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/117_Living Death Potion.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/118_Living Death Potion.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Faerie Assassin ",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/118_Malefic Visitor.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/119_Malefic Visitor.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bat Zombie ",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/113_Grotesque Bogbat.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/114_Grotesque Bogbat.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/114_Harvest Cloak Thief.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/115_Harvest Cloak Thief.png"
 			}
 		},
 		{
@@ -553,7 +553,7 @@
 		{
 			"name": "Essence of the Drowned",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura ",
 			"collector_number": "101",
 			"image_uris": {
@@ -1033,7 +1033,7 @@
 		{
 			"name": "A Cold Welcome",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "5",
 			"image_uris": {
@@ -1235,19 +1235,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Shade Illusion ",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/115_Hollowed Delusion.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/116_Hollowed Delusion.png"
 			}
 		},
 		{
-			"name": "Defy the Commandment",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
-			"collector_number": "99",
+			"name": "Grave's Embrace",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/99_Defy the Commandment.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/111_Grave's Embrace.png"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Gnome Berserker ",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/119_Musclebound Deep Gnome.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/120_Musclebound Deep Gnome.png"
 			}
 		},
 		{
@@ -1994,10 +1994,10 @@
 			"name": "Doc Morvix, Corpse Artisan",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Zombie ",
-			"collector_number": "100",
+			"type": "Legendary Creature — Zombie Cleric ",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/100_Doc Morvix, Corpse Artisan.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/99_Doc Morvix, Corpse Artisan.png"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Faerie Rogue ",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/112_Greedy Nyxwing.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/113_Greedy Nyxwing.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/111_Graveyard's Gift.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/112_Graveyard's Gift.png"
 			}
 		},
 		{
@@ -2031,13 +2031,13 @@
 			}
 		},
 		{
-			"name": "Remorseful Apparition",
+			"name": "Druid of the Spoiled Orchard",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}",
-			"type": "Creature — Nightmare Spirit ",
-			"collector_number": "121",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Zombie Elf Druid ",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/121_Remorseful Apparition.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/100_Druid of the Spoiled Orchard.png"
 			}
 		},
 		{
@@ -2171,16 +2171,6 @@
 			}
 		},
 		{
-			"name": "Abandoned Hamlet",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "275",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/275_Abandoned Hamlet.png"
-			}
-		},
-		{
 			"name": "Booming Blade",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}{U}{U}",
@@ -2193,7 +2183,7 @@
 		{
 			"name": "Say Ah!",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "125",
 			"image_uris": {
@@ -2273,7 +2263,7 @@
 		{
 			"name": "Drybark Protector",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Treefolk Shaman ",
 			"collector_number": "197",
 			"image_uris": {
@@ -2365,9 +2355,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Faerie Rogue ",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/120_Nyxpetal, Numbing Needle.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/121_Nyxpetal, Numbing Needle.png"
 			}
 		},
 		{
@@ -2403,7 +2393,7 @@
 		{
 			"name": "Elderbark Sentinel",
 			"rarity": "mythic",
-			"mana_cost": "{2}{G}{G}{G}",
+			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Treefolk Elder ",
 			"collector_number": "202",
 			"image_uris": {
@@ -2423,7 +2413,7 @@
 		{
 			"name": "Erydin, Eladrin Bladesinger",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{U}",
+			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Elf Wizard ",
 			"collector_number": "239",
 			"image_uris": {
@@ -2431,7 +2421,7 @@
 			}
 		},
 		{
-			"name": "Maeve, Teahouse Owner",
+			"name": "Maeve, Teahouse Keeper",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Nymph Alchemist ",
@@ -2440,11 +2430,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/HHRR-files/img/243_Maeve, Teahouse Owner_back.png"
+					"en": "https://Phelix01.github.io/sets/HHRR-files/img/243_Maeve, Teahouse Keeper_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/243_Maeve, Teahouse Owner_front.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/243_Maeve, Teahouse Keeper_front.png"
 			}
 		},
 		{
@@ -2686,9 +2676,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/282_Gustriver Streamway.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/283_Gustriver Streamway.png"
 			}
 		},
 		{
@@ -2696,9 +2686,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/287_Wildflower Valley.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/288_Wildflower Valley.png"
 			}
 		},
 		{
@@ -2706,9 +2696,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/281_Fungal Foothills.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/282_Fungal Foothills.png"
 			}
 		},
 		{
@@ -2716,9 +2706,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/279_Fated Crossroad.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/280_Fated Crossroad.png"
 			}
 		},
 		{
@@ -2726,9 +2716,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/277_Crimson Mist Falls.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/278_Crimson Mist Falls.png"
 			}
 		},
 		{
@@ -2736,9 +2726,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/284_Inkwater Boardwalk.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/285_Inkwater Boardwalk.png"
 			}
 		},
 		{
@@ -2746,9 +2736,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/285_Sunpetal Meadow.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/286_Sunpetal Meadow.png"
 			}
 		},
 		{
@@ -2756,9 +2746,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/278_Deadfall Marsh.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/279_Deadfall Marsh.png"
 			}
 		},
 		{
@@ -2766,9 +2756,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/280_Fogfen Crossing.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/281_Fogfen Crossing.png"
 			}
 		},
 		{
@@ -2776,9 +2766,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/286_Veilbrook Basin.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/287_Veilbrook Basin.png"
 			}
 		},
 		{
@@ -2786,59 +2776,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/276_Burgundy Spire.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp ",
-			"collector_number": "298",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/298_Swamp.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains ",
-			"collector_number": "288",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/288_Plains.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island ",
-			"collector_number": "294",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/294_Island.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains ",
-			"collector_number": "290",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/290_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains ",
-			"collector_number": "289",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/289_Plains.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/277_Burgundy Spire.png"
 			}
 		},
 		{
@@ -2852,13 +2792,73 @@
 			}
 		},
 		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/289_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/293_Island.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/291_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/290_Plains.png"
+			}
+		},
+		{
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "296",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/296_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/298_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/299_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/303_Mountain.png"
 			}
 		},
 		{
@@ -2872,13 +2872,13 @@
 			}
 		},
 		{
-			"name": "Mountain",
+			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain ",
-			"collector_number": "300",
+			"type": "Basic Land — Forest ",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/300_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/306_Forest.png"
 			}
 		},
 		{
@@ -2886,19 +2886,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "304",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/304_Forest.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest ",
-			"collector_number": "305",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/305_Forest.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/308_Forest.png"
 			}
 		},
 		{
@@ -2916,9 +2906,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "306",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/306_Forest.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/307_Forest.png"
 			}
 		},
 		{
@@ -2926,9 +2916,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "292",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/292_Island.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/294_Island.png"
 			}
 		},
 		{
@@ -2936,59 +2926,59 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "293",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/293_Island.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/295_Island.png"
 			}
 		},
 		{
-			"name": "Infusion of Verdant Energy",
+			"name": "Infusion of Vitality",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Potion ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/217_Infusion of Verdant Energy.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/217_Infusion of Vitality.png"
 			}
 		},
 		{
-			"name": "Elixir of Refined Thought",
+			"name": "Elixir of Insight",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Potion ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/64_Elixir of Refined Thought.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/64_Elixir of Insight.png"
 			}
 		},
 		{
-			"name": "Decoction of Ascendance",
+			"name": "Decoction of Grace",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Potion ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/7_Decoction of Ascendance.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/7_Decoction of Grace.png"
 			}
 		},
 		{
-			"name": "Tincture of Drowned Kings",
+			"name": "Tincture of Dread",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Potion ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/132_Tincture of Drowned Kings.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/132_Tincture of Dread.png"
 			}
 		},
 		{
-			"name": "Draught of Boilingblood",
+			"name": "Draught of Zeal",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Potion ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/151_Draught of Boilingblood.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/151_Draught of Zeal.png"
 			}
 		},
 		{
@@ -3276,9 +3266,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "283",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/283_Harvest Nexus.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/284_Harvest Nexus.png"
 			}
 		},
 		{
@@ -3316,9 +3306,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "307",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/307_Forest.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/305_Forest.png"
 			}
 		},
 		{
@@ -3326,9 +3316,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "295",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/295_Island.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/296_Island.png"
 			}
 		},
 		{
@@ -3336,9 +3326,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/291_Plains.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/292_Plains.png"
 			}
 		},
 		{
@@ -3346,9 +3336,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/299_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/300_Swamp.png"
 			}
 		},
 		{
@@ -3356,9 +3346,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "303",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/303_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/304_Mountain.png"
+			}
+		},
+		{
+			"name": "Abandoned Hamlet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/275_Abandoned Hamlet.png"
+			}
+		},
+		{
+			"name": "Alchemist's Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/276_Alchemist's Den.png"
 			}
 		}
 	]
@@ -3384,7 +3394,7 @@
 2 Greedy Nyxwing
 2 Graveyard's Gift
 2 Spite the Face
-2 Remorseful Apparition
+2 Druid of the Spoiled Orchard
 2 Bloodbrew Coagulater
 2 Blazette's Pet Dragon
 2 Bonfire Blossomkeeper
@@ -3416,11 +3426,11 @@
 2 Wildroot Infusion
 2 Duskopal Medallion
 2 Burgundy Spire
-2 Infusion of Verdant Energy
-2 Elixir of Refined Thought
-2 Decoction of Ascendance
-2 Tincture of Drowned Kings
-2 Draught of Boilingblood
+2 Infusion of Vitality
+2 Elixir of Insight
+2 Decoction of Grace
+2 Tincture of Dread
+2 Draught of Zeal
 2 Harvest Nexus
 2 Passing Radiance
 1 Ophelia, Fate's Cartographer
@@ -3433,7 +3443,7 @@
 1 Elderbark Sentinel
 1 Hydrevan, Warrior Druid
 1 Erydin, Eladrin Bladesinger
-1 Maeve, Teahouse Owner
+1 Maeve, Teahouse Keeper
 1 Glimmer Speaker
 1 Maple-Ridge Dragon
 1 Ayela, Ranger Princess
@@ -3475,7 +3485,6 @@
 9 Forgotten Shadekin
 9 Shadekin Fateweaver
 9 Hollowed Delusion
-9 Defy the Commandment
 9 Dark Court Summoning
 9 Rotting Rites
 9 Gleeful Cutthroat
@@ -3545,6 +3554,7 @@
 9 Fogfen Crossing
 9 Veilbrook Basin
 9 Stalking Cyclebreaker
+9 Alchemist's Den
 [CommonSlot(7)]
 30 Spud Spectre
 30 Protective Homesteader
@@ -3640,18 +3650,19 @@
 30 Bountiful Protection
 30 Harvestmark Shot
 30 Taste Test
+30 Grave's Embrace
 30 Harvest's Allure
 30 Array of Ingredients
 30 Farm Razer
 30 Glory of Falling Leaves
 30 Musclebound Deep Gnome
-30 Abandoned Hamlet
 30 Drifting Scarecrow
 30 Harvesting Tools
 30 Razorwire Gauntlets
 30 Hearthfire Shard
 30 Bottled Arcfire
 30 Softpaw Lookout
+30 Abandoned Hamlet
 [WildcardSlot(2)]
 10 Spud Spectre
 10 Protective Homesteader
@@ -3777,7 +3788,7 @@
 10 Forgotten Shadekin
 10 Shadekin Fateweaver
 10 Hollowed Delusion
-10 Defy the Commandment
+10 Grave's Embrace
 10 Dark Court Summoning
 10 Rotting Rites
 10 Gleeful Cutthroat
@@ -3856,7 +3867,7 @@
 10 Greedy Nyxwing
 10 Graveyard's Gift
 10 Spite the Face
-10 Remorseful Apparition
+10 Druid of the Spoiled Orchard
 10 Bloodbrew Coagulater
 10 Aged Toothcap
 10 Blazette's Pet Dragon
@@ -3870,7 +3881,6 @@
 10 Rageleaf Channeler
 10 Nettle, Sparkwing Prodigy
 10 Whispers from the Mire
-10 Abandoned Hamlet
 10 Booming Blade
 10 Say Ah!
 10 Fury of the Groundlings
@@ -3896,7 +3906,7 @@
 10 Elderbark Sentinel
 10 Hydrevan, Warrior Druid
 10 Erydin, Eladrin Bladesinger
-10 Maeve, Teahouse Owner
+10 Maeve, Teahouse Keeper
 10 Glimmer Speaker
 10 Maple-Ridge Dragon
 10 Ayela, Ranger Princess
@@ -3930,14 +3940,16 @@
 10 Fogfen Crossing
 10 Veilbrook Basin
 10 Burgundy Spire
-10 Infusion of Verdant Energy
-10 Elixir of Refined Thought
-10 Decoction of Ascendance
-10 Tincture of Drowned Kings
-10 Draught of Boilingblood
+10 Infusion of Vitality
+10 Elixir of Insight
+10 Decoction of Grace
+10 Tincture of Dread
+10 Draught of Zeal
 10 Softpaw Lookout
 10 Harvest Nexus
 10 Gerome, the Farmfather
 10 Stalking Cyclebreaker
 10 Passing Radiance
+10 Abandoned Hamlet
+10 Alchemist's Den
 [LandSlot(1)]

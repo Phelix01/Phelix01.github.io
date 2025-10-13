@@ -43,7 +43,7 @@
     },
     {
         "card_name": "Nyxpetal, Numbing Needle",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -103,7 +103,7 @@
     },
     {
         "card_name": "Doc Morvix, Corpse Artisan",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -120,7 +120,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Decoction of Ascendance",
+        "card_name": "Decoction of Grace",
         "number": 7,
         "shape": "normal",
         "set": "HHRR"
@@ -132,13 +132,13 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Gloomfield Stalker",
-        "number": 109,
+        "card_name": "Druid of the Spoiled Orchard",
+        "number": 100,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Draught of Boilingblood",
+        "card_name": "Draught of Zeal",
         "number": 151,
         "shape": "normal",
         "set": "HHRR"
@@ -162,8 +162,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Graveyard's Gift",
-        "number": 111,
+        "card_name": "Gloomfield Stalker",
+        "number": 109,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -186,13 +186,13 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Elixir of Refined Thought",
+        "card_name": "Elixir of Insight",
         "number": 64,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Greedy Nyxwing",
+        "card_name": "Graveyard's Gift",
         "number": 112,
         "shape": "normal",
         "set": "HHRR"
@@ -222,8 +222,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Remorseful Apparition",
-        "number": 121,
+        "card_name": "Greedy Nyxwing",
+        "number": 113,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -294,7 +294,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Infusion of Verdant Energy",
+        "card_name": "Infusion of Vitality",
         "number": 217,
         "shape": "normal",
         "set": "HHRR"
@@ -312,7 +312,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Tincture of Drowned Kings",
+        "card_name": "Tincture of Dread",
         "number": 132,
         "shape": "normal",
         "set": "HHRR"
@@ -432,8 +432,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Defy the Commandment",
-        "number": 99,
+        "card_name": "Faerie's Malice",
+        "number": 102,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -462,8 +462,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Faerie's Malice",
-        "number": 102,
+        "card_name": "Forbidden Ingredients",
+        "number": 105,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -492,8 +492,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Forbidden Ingredients",
-        "number": 105,
+        "card_name": "Forgotten Shadekin",
+        "number": 106,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -522,8 +522,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Forgotten Shadekin",
-        "number": 106,
+        "card_name": "Hollowed Delusion",
+        "number": 116,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -552,8 +552,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Hollowed Delusion",
-        "number": 115,
+        "card_name": "Resurgent Residue",
+        "number": 122,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -582,8 +582,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Resurgent Residue",
-        "number": 122,
+        "card_name": "Rotting Rites",
+        "number": 124,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -612,8 +612,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Rotting Rites",
-        "number": 124,
+        "card_name": "Shadekin Fateweaver",
+        "number": 127,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -642,8 +642,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Shadekin Fateweaver",
-        "number": 127,
+        "card_name": "Shadetouch Aura",
+        "number": 128,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -672,8 +672,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Shadetouch Aura",
-        "number": 128,
+        "card_name": "Soiled Farmseed",
+        "number": 130,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -702,8 +702,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Soiled Farmseed",
-        "number": 130,
+        "card_name": "Tragic Pixie",
+        "number": 134,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -732,8 +732,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Tragic Pixie",
-        "number": 134,
+        "card_name": "Unseelie Ritualist",
+        "number": 137,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -762,8 +762,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Unseelie Ritualist",
-        "number": 137,
+        "card_name": "Dastardly Blend",
+        "number": 96,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -792,8 +792,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Dastardly Blend",
-        "number": 96,
+        "card_name": "Deepstone Alchemist",
+        "number": 98,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -822,8 +822,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Deepstone Alchemist",
-        "number": 98,
+        "card_name": "Essence of the Drowned",
+        "number": 101,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -852,8 +852,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Essence of the Drowned",
-        "number": 101,
+        "card_name": "Fate Alley Agent",
+        "number": 103,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -882,8 +882,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Fate Alley Agent",
-        "number": 103,
+        "card_name": "Fate Enforcer",
+        "number": 104,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -912,8 +912,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Fate Enforcer",
-        "number": 104,
+        "card_name": "Gaul's Fading Promise",
+        "number": 107,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -942,8 +942,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Gaul's Fading Promise",
-        "number": 107,
+        "card_name": "Graverot",
+        "number": 110,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -972,8 +972,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Graverot",
-        "number": 110,
+        "card_name": "Grave's Embrace",
+        "number": 111,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1003,7 +1003,7 @@
     },
     {
         "card_name": "Grotesque Bogbat",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1033,7 +1033,7 @@
     },
     {
         "card_name": "Harvest Cloak Thief",
-        "number": 114,
+        "number": 115,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1063,7 +1063,7 @@
     },
     {
         "card_name": "Leshy Bone Collector",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1093,7 +1093,7 @@
     },
     {
         "card_name": "Living Death Potion",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1123,7 +1123,7 @@
     },
     {
         "card_name": "Malefic Visitor",
-        "number": 118,
+        "number": 119,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1153,7 +1153,7 @@
     },
     {
         "card_name": "Musclebound Deep Gnome",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1399,7 +1399,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Maeve, Teahouse Owner",
+        "card_name": "Maeve, Teahouse Keeper",
         "number": 243,
         "shape": "transform double faced",
         "set": "HHRR"
@@ -1734,75 +1734,30 @@
     },
     {
         "card_name": "Gustriver Streamway",
-        "number": 282,
+        "number": 283,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Inkwater Boardwalk",
-        "number": 284,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Deadfall Marsh",
-        "number": 278,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Fungal Foothills",
-        "number": 281,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Sunpetal Meadow",
         "number": 285,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Fated Crossroad",
+        "card_name": "Deadfall Marsh",
         "number": 279,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Crimson Mist Falls",
-        "number": 277,
+        "card_name": "Fungal Foothills",
+        "number": 282,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Fogfen Crossing",
-        "number": 280,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Wildflower Valley",
-        "number": 287,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Veilbrook Basin",
+        "card_name": "Sunpetal Meadow",
         "number": 286,
         "shape": "normal",
         "set": "HHRR"
@@ -1823,14 +1778,65 @@
         "card_name": "er"
     },
     {
+        "card_name": "Fated Crossroad",
+        "number": 280,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Crimson Mist Falls",
+        "number": 278,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Fogfen Crossing",
+        "number": 281,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Wildflower Valley",
+        "number": 288,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Veilbrook Basin",
+        "number": 287,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
         "card_name": "Burgundy Spire",
-        "number": 276,
+        "number": 277,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Harvest Nexus",
-        "number": 283,
+        "number": 284,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Alchemist's Den",
+        "number": 276,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1844,9 +1850,6 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -1863,25 +1866,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 298,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Plains",
-        "number": 288,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Island",
-        "number": 294,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Plains",
-        "number": 290,
+        "number": 297,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1892,80 +1877,26 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Swamp",
-        "number": 297,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Swamp",
-        "number": 296,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Mountain",
-        "number": 302,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Mountain",
-        "number": 300,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Forest",
-        "number": 304,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Forest",
-        "number": 305,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Mountain",
-        "number": 301,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Forest",
-        "number": 306,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Island",
-        "number": 292,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
         "card_name": "Island",
         "number": 293,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Forest",
-        "number": 307,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Island",
-        "number": 295,
+        "card_name": "Plains",
+        "number": 291,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Plains",
-        "number": 291,
+        "number": 290,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 298,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1978,6 +1909,78 @@
     {
         "card_name": "Mountain",
         "number": 303,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 302,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Forest",
+        "number": 306,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Forest",
+        "number": 308,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 301,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Forest",
+        "number": 307,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Island",
+        "number": 294,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Island",
+        "number": 295,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Forest",
+        "number": 305,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Island",
+        "number": 296,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Plains",
+        "number": 292,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 300,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 304,
         "shape": "normal",
         "set": "HHRR"
     },

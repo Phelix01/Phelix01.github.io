@@ -1,4 +1,795 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Grave's Embrace added.
+Druid of the Spoiled Orchard added.
+Maeve, Teahouse Keeper added.
+Infusion of Vitality added.
+Elixir of Insight added.
+Decoction of Grace added.
+Tincture of Dread added.
+Draught of Zeal added.
+Alchemist's Den added.
+
+Defy the Commandment removed.
+Remorseful Apparition removed.
+Maeve, Teahouse Owner removed.
+Infusion of Verdant Energy removed.
+Elixir of Refined Thought removed.
+Decoction of Ascendance removed.
+Tincture of Drowned Kings removed.
+Draught of Boilingblood removed.
+
+Spud Spectre
+
+Protective Homesteader
+
+Hearthstead Hound
+
+Hollow Flame Spirit
+
+Faceless Preacher
+rules_text: Memorialize {W} [i](You may cast this for its memorialize cost rather than its mana cost if a creature card was put into exile this turn.)[/i]
+Vigilance => Memorialize {W} [i](You may cast this for {W} if a creature card was put into exile this turn.)[/i]
+Vigilance
+
+Morningtide Harvester
+
+Pixie Field Scout
+
+Salve Herbalist
+
+Threshingfield Steward
+
+Sunseed Seraph
+
+Laboring Bisonbear
+
+Savor the Harvest
+
+A Farmer's Lament
+
+Foreordain
+
+Lost Among the Maize
+rules_text: Exile target creature. Return it to the battlefield under its owner's control at the next end step. If you control that creature, it enters with a +1/+1 counter on it, otherwise it enters tapped. => Exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step. If you control it, it enters with a +1/+1 counter on it, otherwise it enters tapped.
+
+Plow the Fields
+
+Strike Through the Grass
+cost: {3}{W} => {4}{W}
+rules_text: This spell costs {1} less for each counter among creatures you control.
+Exile target creature. => This spell costs {1} less for each permanent you control with a counter on it.
+Exile target creature.
+
+Shepherd's Oath
+
+Doomed to Observe
+
+Aetherling
+
+Pondkin Scholar
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Misfire Infuser
+
+Runestone Owl
+
+Fogfen Lurker
+
+Dreaming Pondscale
+
+Aloof Pondkin
+
+Sudden Recollection
+
+Indecisive Mixture
+type: Sorcery => Instant
+cost: {U} => {3}{U}
+rules_text: Create a Potion token with your choice of up to two counters from among flying, or +1/+1. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+Scry 1, then if you control two or more artifacts, draw a card. => Choose one —
+• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+• Create a Potion token with a +1/+1, flying, and vigilance counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+
+Brainjuice Tincture
+cost: {2}{U} => {1}{U}{U}
+
+Thoughtcycle
+
+Unexpected Reaction
+
+Lost in the Breeze
+
+Bewildering Haze
+
+Nettle's Determination
+
+Maeve's Nightmare Serum
+
+Leshy Bone Collector
+
+Living Death Potion
+
+Deepstone Alchemist
+
+Malefic Visitor
+
+Trespassing Forager
+
+Shade of Truth
+rules_text: Memorialize {B} [i](You may cast this for its memorialize cost rather than its mana cost if a creature card was put into exile this turn.)[/i]
+Menace => Memorialize {B} [i](You may cast this for {B} if a creature card was put into exile this turn.)[/i]
+Menace
+
+Grotesque Bogbat
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+Flying
+This creature has deathtouch as long as it's decayed. => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Flying
+This creature has deathtouch as long as it's decayed.
+
+Fate Alley Agent
+
+Fate Enforcer
+
+Harvest Cloak Thief
+
+Dastardly Blend
+
+Touch of Nightshade
+
+Sift Through Bones
+
+Return Mostly Alive
+
+Graverot
+
+Gaul's Fading Promise
+
+Unstable Concotion
+rules_text: As an additional cost to cast this spell, sacrifice an artifact.
+Destroy target creature. => As an additional cost to cast this spell, sacrifice an artifact or pay {3}.
+Destroy target creature.
+
+Unseelie Embrace
+
+Essence of the Drowned
+cost: {1}{B} => {2}{B}
+rules_text: Enchant creature
+Enchanted creature has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+When enchanted creature dies, its controller loses 2 life and you gain 2 life. => Enchant creature
+Enchanted creature gets +2/+2.
+If enchanted creature would die, you may exile it instead. If you do, return this Aura to your hand.
+
+Torchpath Courior
+
+Scroll-Cast Apprentice
+
+Reckless Blacksmith
+
+Torchpath Scavenger
+
+Burgundy Spire Initiate
+
+Pixie Spear-Swarmer
+
+Groundling Concocter
+
+Branchspark Igniter
+
+Charcoal Howler
+
+Flamesword Archivist
+
+Firebelly Brew
+
+Infernal Insight
+
+Flamerally
+
+Barnfire
+
+Flash of Resolve
+
+Arcane Surge
+
+Searing Shots
+
+Flammable Fascination
+
+Electrify Fists
+
+Eladrin Grovetender
+
+Thornpaw Apothecary
+
+Sunfruit Harvester
+
+Skittering Barktail
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+This creature gets +1/+1 as long as it's decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+This creature gets +1/+1 as long as it's decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Orchard Ranger
+
+Harvest Cycle Stag
+
+Hag Warden
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+This creature has hexproof as long as it's decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+This creature has hexproof as long as it's decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Grovewarden Sentinel
+
+Bushwhacker Scout
+
+Timbermarch Caller
+
+Domesticated Rumblehorn
+
+Living Orchard
+
+Cycle's Provision
+
+Friends of the Forest
+
+Dominant Struggle
+
+Eladrin Purity
+
+Bountiful Protection
+
+Harvestmark Shot
+
+Taste Test
+
+Hearthside Bartender
+
+Updraft Angel
+
+Harvest Angel
+
+Willowmutt
+
+Devout Shadekin
+
+Knight of Labor
+
+Sunleaf Apprentice
+
+Proud Farmdaughter
+
+Cloud Contract
+
+A Cold Welcome
+cost: {2}{W} => {2}{W}{W}
+rules_text: Create two 1/1 white and black Shade creature tokens. => Memorialize {W}{W} [i](You may cast this for {W}{W} if a creature card was put into exile this turn.)[/i]
+Creatures you control get +2/+2 until end of turn.
+Put a +1/+1 counter on each Shade you control.
+
+Dawnrush Formation
+
+Lakefront Crab
+
+Mystic Mistmage
+
+Eccentric Alchemist
+
+Unseelie Ambusher
+
+Leshy Apothecary
+
+Free-Range Faerie
+
+Elixir Behemoth
+
+Refine the Recipe
+
+Essence Unbound
+
+Tincture Trade
+
+Epiphany Surge
+
+Tragic Pixie
+
+Acolyte of Ichor
+
+Resurgent Residue
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+{3}{B}: Remove a counter from this creature. => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+{3}{B}: Remove a counter from this creature.
+
+Deadwood Sprite
+
+Unseelie Ritualist
+
+Forgotten Shadekin
+
+Shadekin Fateweaver
+
+Hollowed Delusion
+
+Dark Court Summoning
+
+Rotting Rites
+
+Gleeful Cutthroat
+
+Genasi Flame Adept
+
+Sparkscript Tutor
+
+Rebuking Evoker
+rules_text: Menace
+Whenever one or more counters are put on a creature you don't control, you may pay {2}. If you do, this creature deals 1 damage to that creature. => Menace
+Whenever one or more counters are put on a creature, you may pay {1}. If you do, this creature deals 1 damage to that creature.
+
+Combustion Theorist
+
+Gloamfire Matron
+
+Goldfire Golem
+
+Campfire Troll
+
+Incite Chaos
+
+Terminal Discharge
+
+Down the Hatch
+
+Compost Rattler
+rules_text: Flash
+Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+This creature has deathtouch as long as it's decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Flash
+Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+This creature has deathtouch as long as it's decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Frondplume Strider
+
+Eladrin Arborist
+
+Rotcycle Shambler
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+Decayed creatures you control get +1/+1 and have trample. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Decayed creatures you control get +1/+1 and have trample. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Eithana, Treepaw Scout
+
+Cyclegrove Empath
+
+Leaflash Ambusher
+
+Vinyard Wurm
+
+Feybark Ritual
+
+Pixie Battle Hero
+
+Barleystout Farmer
+
+Alessa, Warden Paragon
+
+Palehorn Shadebeast
+rules_text: Memorialize {1}{W} [i](You may cast this for its memorialize cost rather than its mana cost if a creature card was put into exile this turn.)[/i]
+At the beginning of your end step, if a creature card you own was put into exile this turn, create a 1/1 white and black Shade creature token. => Memorialize {1}{W} [i](You may cast this for {1}{W} if a creature card was put into exile this turn.)[/i]
+Whenever this or another Shade you control enters, exile a card from a graveyard.
+Whenever a creature card is put into exile, this creature gets +1/+1 until end of turn and you gain 1 life.
+
+Harvest Scion
+
+Fallow the Farmland
+
+Swarm Charge
+
+Coralia Trickweaver
+
+Tempo Flux
+
+Tincturetwist, Zany Alchemist
+
+Mind-Vault Parasite
+
+Dreamdew Hexlet
+
+Aethergate Breach
+
+Unbound Secrets
+
+Stunwing Osprey
+
+Deep Gnome Researcher
+rules_text: When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+{T}: Put a +1/+1 or menace counter on target Potion you control. => When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+{T}: Put a +1/+1 counter or a menace counter on target Potion you control.
+
+Queen's Smogwing
+
+Painted Autumnfang
+
+Cranky ol' Tommon
+
+Roston, Defense Instructor
+rules_text: First strike
+Whenever Roston attacks, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i]
+Whenever you cast your first noncreature spell each turn, you may switch the power and toughness of Roston until end of turn. => First strike
+Whenever Roston attacks, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i]
+Whenever you cast your first noncreature spell each turn, you may switch Roston's power and toughness until end of turn.
+
+Pixie Swarmleader
+
+Harvest's Allure
+
+Array of Ingredients
+
+Farm Razer
+
+Glory of Falling Leaves
+
+Musclebound Deep Gnome
+
+Bread for Brawn
+
+Farmshade
+
+Roaming Battlepriest
+
+Lead the Take-Off
+
+A Pinch of Stardust
+
+Lost in the Sauce
+
+Arrogant Ingenuity
+
+Daydream
+
+Forbidden Ingredients
+
+Faerie's Malice
+
+Shadetouch Aura
+
+Soiled Farmseed
+rules_text: Creatures you control have rotting. [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+Whenever a decayed creature you control dies, each opponent loses 1 life and you gain 1 life. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Creatures you control have rotting. [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Whenever a decayed creature you control dies, each opponent loses 1 life and you gain 1 life. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Shatter Flask
+
+Puff Pivot
+
+Inspiring Ambition
+
+Menacing Fae
+
+Skyfall Infusion
+
+Orchard's Rest
+
+Enchanting Presence
+
+Aura of Healing Wind
+
+Granary Guardian
+
+Snaproot Tactician
+
+Clover, the Wallbreaker
+
+Astral Apothecary
+
+Drowned Bog Witch
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+Decayed creatures you control have deathtouch. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Decayed creatures you control have deathtouch. [i](Creatures with decayed can't block. When they attack, sacrifice it at end of combat.)[/i]
+
+Gloomfield Stalker
+rules_text: Deathtouch
+Other Shade spells you cast have Memorialize {X}, where X is half that spell's mana value, rounded up. [i](You may cast them for {X} rather than their mana cost if a creature card was put into exile this turn.)[/i] => Deathtouch
+Other Shade spells you cast have Memorialize {X}, where X is half that spell's mana value, rounded up. [i](You may cast them for {X} if a creature card was put into exile this turn.)[/i]
+pt: 2/2 => 3/3
+
+Doc Morvix, Corpse Artisan
+type: Legendary Creature — Zombie => Legendary Creature — Zombie Cleric
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+When Doc Morvix enters, you may exile two target creature cards from graveyards. When you do, create a black Zombie creature token with the power of one card and toughness of the other. => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+When Doc Morvix enters, you may exile two target creature cards from graveyards. When you do, create a black Zombie creature token with the power of one card and toughness of the other.
+pt: 2/1 => 3/2
+
+Greedy Nyxwing
+pt: 3/2 => 3/3
+
+Graveyard's Gift
+
+Spite the Face
+rules_text: As an additional cost to cast this spell, sacrifice a nontoken creature you control.
+Draw X cards, where X is the sacrificed creature's mana value. => As an additional cost to cast this spell, sacrifice a nontoken creature.
+Draw X cards, where X is the sacrificed creature's mana value.
+
+Bloodbrew Coagulater
+
+Aged Toothcap
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+Whenever a nontoken creature you control with decayed dies, create a 1/1 black and green Fungus creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Whenever a nontoken creature you control with decayed dies, create a 1/1 black and green Fungus creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Blazette's Pet Dragon
+
+Bonfire Blossomkeeper
+
+Tatiana, Combustive Scholar
+
+Groundling Pixie Captain
+
+Ravenous Ramshackler
+
+Glitterspark Eruption
+
+Flashfuse Convulsion
+
+Aerial Superiority
+
+Rageleaf Channeler
+
+Nettle, Sparkwing Prodigy
+
+Whispers from the Mire
+
+Booming Blade
+
+Say Ah!
+cost: {2}{B} => {1}{B}{B}
+rules_text: Whenever an opponent loses life for the first time each turn, draw a card. Do this only if you've gained life this turn. => At the beginning of your upkeep, you may sacrifice a permanent. If you do, each opponent loses 1 life and you gain 1 life.
+Whenever one or more opponents lose life, draw a card. This ability only triggers once each turn.
+
+Fury of the Groundlings
+
+Lynx, Grovefang Alpha
+
+Alyra, Orchard's Heart
+
+Harvest Tithe
+
+Beastial Howl
+
+Fungal Emergence
+
+Deathsap Adder
+
+Drybark Protector
+cost: {2}{G} => {3}{G}{G}
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+Decayed creatures you control have trample and hexproof. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Decayed creatures you control have trample and hexproof. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt: 3/3 => 5/5
+
+Harvest Market Keeper
+
+Shadow of the Bitter Veil
+
+Hearthmeadow Shepherd
+
+Quinn, Funerary Hostess
+
+Deeplab Vaporsmith
+
+Ophelia, Fate's Cartographer
+pt: 2/2 => 3/3
+
+Abaros, Spire Headmaster
+rules_text: Whenever a creature you control deals combat damage to an opponent, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i]
+Whenever a creature you control innovates, exile up to one target noncreature spell from your graveyard. You may cast it until the end of your next turn. When you do, exile it as it resolves. => Whenever a creature you control deals combat damage to an opponent, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i]
+Whenever a creature you control innovates, exile up to one target noncreature spell from your graveyard. You may cast a copy of it until the end of your next turn.
+
+Bladesong
+rules_text: Untap all creatures you control. When you do, tap all untapped creatures you don't control. You may draw a card for each creature tapped this way. => Untap all creatures you control. When you do, tap all untapped creatures you don't control. You may draw a card for each creature untapped this way.
+
+Nyxpetal, Numbing Needle
+
+Gharrak, Forgotten Monarch
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield its owner's control with a decayed counter on it.)[/i]
+As long as Gharrak is decayed, during combat on your turn, creatures you control with decayed can't be sacrificed.
+Gharrak gets +1/+1 for each other creature you control with decayed. => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+As long as Gharrak is decayed, during combat on your turn, creatures you control with decayed can't be sacrificed.
+Gharrak gets +1/+1 for each other creature you control with decayed.
+
+Blazette, Blazing Blunder
+
+Bannerflame Mage
+
+Elderbark Sentinel
+cost: {2}{G}{G}{G} => {4}{G}{G}{G}
+rules_text: Vigilance, reach
+Whenever a creature an opponent controls dies, put X +1/+1 counters on this creature where X is that creature's toughness.
+This creature has trample as long as it has four or more +1/+1 counters on it. => Trample, reach
+Whenever another creature you control enters, put X +1/+1 counters on this creature where X is that creature's toughness. Do this only once each turn.
+
+Hydrevan, Warrior Druid
+rules_text: Reach
+Whenever Hydrevan attacks, create a 2/2 green Elf Ranger creature token with reach.
+Other Elves you control get +1/+1 and have ward {2}. => Haste
+Whenever Hydrevan attacks, create a 2/2 green Elf Ranger creature token with reach.
+Hydrevan gets +1/+1 for each other Elf you control.
+
+Erydin, Eladrin Bladesinger
+cost: {1}{G}{U} => {2}{G}{U}
+rules_text: Flash
+Whenever you cast a spell on an opponent's turn, put a +1/+1 counter on Erydin.
+Other creatures you control get +1/+1 for each +1/+1 counter on Erydin.
+Creatures you don't control get -1/-0 for each +1/+1 counter on Erydin. => Flash
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Erydin.
+Other creatures you control get +1/+1 for each +1/+1 counter on Erydin.
+Creatures you don't control get -X/-0, where X is half the number of +1/+1 counters on Erydin, rounded down.
+
+Glimmer Speaker
+
+Maple-Ridge Dragon
+
+Ayela, Ranger Princess
+
+Gaul, High Observer
+rules_text: Memorialize {W}{B} [i](You may cast this for its memorialize cost rather than its mana cost if a creature card was put into exile this turn.)[/i]
+Gaul's power is equal to the number of Shades you control.
+Whenever one or more creature cards are put into exile from anywhere, create a 1/1 white and black Shade creature token. => Memorialize {W}{B} [i](You may cast this for {W}{B} if a creature card was put into exile this turn.)[/i]
+Gaul's power is equal to the number of Shades you control.
+Whenever one or more creature cards are put into exile from anywhere, create a 1/1 white and black Shade creature token.
+
+Winry, Ascended Battlemage
+
+Rot Reclaimation
+
+Swarmstep Volley
+
+Tide of the Sunseed
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Razorwire Gauntlets
+
+Hearthfire Shard
+
+Bottled Arcfire
+
+Comforting Candle
+
+Horseman's Head
+
+Runic Cuirass
+
+Pocket Potion
+rules_text: Flash
+Pocket Potion enters with your choice of a counter on it from among haste, vigilance, first strike, trample, or lifelink.
+{2}, {T}, Sacrifice this artifact: Put all of its counters onto target creature. => Flash
+Pocket Potion enters with your choice of a counter on it from among haste, menace vigilance, first strike, trample, or lifelink.
+{2}, {T}, Sacrifice this artifact: Put all of its counters onto target creature.
+
+Whispering Wind Chime
+
+Faerie's Soul Carver
+rules_text: Equipped creature gets +3/+3.
+As long as the equipped creature is a Faerie, it has deathtouch.
+Whenever equipped creature deals combat damage to a player, they sacrifice a nonland permanent. If they can't, draw a card.
+Equip {3} => Equipped creature gets +3/+3.
+As long as equipped creature is a Faerie, it has deathtouch.
+Whenever equipped creature deals combat damage to a player, they may sacrifice a nonland permanent. If they don't, they lose 1 life and you draw a card.
+Equip {3}
+
+Wildroot Infusion
+
+Duskopal Medallion
+rules_text: Whenever an opponent puts a counter on a permanent they control, you may put a counter of that kind on a permanent you control.
+{3}, {T}, Sacrifice Duskopal Medallion: Target opponent loses 1 life for each counter among permanents they control and you gain that much life. Activate only as a sorcery. => Whenever a creature or artifact an opponent controls with counters on it leaves the battlefield, put one of its counters onto up to one target creature or artifact you control.
+{3}, {T}, Sacrifice Duskopal Medallion: Target opponent loses 1 life for each counter among permanents you control and you gain that much life.
+
+The Night Diamond
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fungal Foothills
+
+Fated Crossroad
+
+Crimson Mist Falls
+
+Inkwater Boardwalk
+
+Sunpetal Meadow
+
+Deadfall Marsh
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Burgundy Spire
+
+Potion
+
+Potion
+
+Potion
+
+Food
+
+Food
+
+Food
+
+Treasure
+
+Treasure
+
+Treasure
+
+Farmer
+
+Spirit Farmer
+
+Shade
+
+Dawnlight
+
+Elf Ranger
+
+Softpaw Lookout
+
+Sheep
+
+Fungus
+
+Plant Angel
+
+Beast
+
+Bear
+
+Fungus Beast
+
+Eithana
+
+Plant
+
+Faerie Assassin
+
+Zombie
+
+Faerie Soldier
+
+Faerie Rogue
+
+Faerie Berserker
+
+Harvest Nexus
+rules_text: This land enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+{2}, {T}: Harvest. [i](To harvest, sacrifice a noncreature token or remove a +1/+1 counter from a permanent you control.)[/i] => {T}, Harvest: Add one mana of any color. [i](To harvest, sacrifice a noncreature token or remove a +1/+1 counter from a permanent you control.)[/i]
+{T}, Sacrifice this land: Harvest up to three times. Then, add one mana of any color for each time you harvested this way.
+
+Gerome, the Farmfather
+
+Stalking Cyclebreaker
+rules_text: Memorialize {WB}{WB} [i](You may cast this for its memorialize cost rather than its mana cost if a creature card was put into exile this turn.)[/i]
+Whenever this creature enters or attacks, you may exile a card from a graveyard. If you do, Shades you control get +1/+1 until end of turn. => Memorialize {WB}{WB} [i](You may cast this for {WB}{WB} if a creature card was put into exile this turn.)[/i]
+Whenever this creature enters or attacks, you may exile a card from a graveyard. If you do, Shades you control get +1/+1 until end of turn.
+
+Passing Radiance
+
+Abandoned Hamlet
+rules_text: When this land enters, put a +1/+1 counter on up to one target permanent you control.
+{T}: Add {C}. => {T}: Add {C}.
+{1}, {T}, Sacrifice this land: Put a +1/+1 counter on target permanent. Activate only as a sorcery.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Dreaming Pondscale added.
