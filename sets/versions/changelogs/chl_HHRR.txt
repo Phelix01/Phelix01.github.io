@@ -1,4 +1,863 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Salve Healer added.
+Rotstone Alchemist added.
+Wildbrew Mixer added.
+Glimmering Oak-Stag added.
+Cankerwood Witch added.
+Harvest Warden added.
+Ripened Growth added.
+Tincturetwist, Zany Chemist added.
+Gnome Researcher added.
+Aura of Falling Leaves added.
+Musclebound Gnome added.
+Steeped in Thought added.
+Rejuvenating Winds added.
+Preservation Tonic added.
+Saproling added.
+Eccentric Experimenter added.
+Solemn Scarecrow added.
+Cranky ol' Tommon added.
+Alessa, Warden Paragon added.
+Tincturetwist, Zany Chemist added.
+Coralia Trickweaver added.
+Doc Morvix, Corpse Artisan added.
+Tatiana, Combustive Scholar added.
+Alyra, Orchard's Heart added.
+Lynx, Grovefang Alpha added.
+Quinn, Funerary Hostess added.
+Nettle, Sparkwing Prodigy added.
+Clover, the Wallbreaker added.
+Gerome, the Farmfather added.
+Ophelia, Fate's Cartographer added.
+Abaros, Spire Headmaster added.
+Nyxpetal, Numbing Needle added.
+Gharrak, Forgotten Monarch added.
+Blazette, Blazing Blunder added.
+Hydrevan, Ranger General added.
+Gaul, High Observer added.
+Winry, Ascended Battlemage added.
+Erydin, Eladrin Bladesinger added.
+Eithana, Treepaw Scout added.
+Ayela, Ranger Princess added.
+Roston, Defense Instructor added.
+
+Salve Herbalist removed.
+Deepstone Alchemist removed.
+Thornpaw Apothecary removed.
+Harvest Cycle Stag removed.
+Hag Warden removed.
+Bushwhacker Scout removed.
+Cycle's Provision removed.
+Eccentric Alchemist removed.
+Tincturetwist, Zany Alchemist removed.
+Deep Gnome Researcher removed.
+Glory of Falling Leaves removed.
+Musclebound Deep Gnome removed.
+Lost in the Sauce removed.
+Aura of Healing Wind removed.
+Horseman's Head removed.
+Potion removed.
+Potion removed.
+Food removed.
+Food removed.
+Treasure removed.
+Treasure removed.
+Bear removed.
+
+Spud Spectre
+rules_text: When this creature dies, you may put a +1/+1 counter on another target creature you control. => When this creature leaves the battlefield, you may put a +1/+1 counter on another target creature you control.
+
+Protective Homesteader
+
+Hearthstead Hound
+
+Hollow Flame Spirit
+
+Faceless Preacher
+
+Morningtide Harvester
+
+Pixie Field Scout
+
+Threshingfield Steward
+
+Sunseed Seraph
+
+Laboring Bisonbear
+rules_text: At the beginning of your end step, if a counter was put on a permanent you control this turn, you may harvest. If you do, draw a card. [i](To harvest, sacrifice a noncreature token or remove a +1/+1 counter from a permanent you control.)[/i] => At the beginning of your end step, if a counter was put onto a permanent you control this turn, you may harvest. If you do, draw a card. [i](To harvest, sacrifice a noncreature token or remove a +1/+1 counter from a permanent you control.)[/i]
+
+Savor the Harvest
+
+A Farmer's Lament
+cost: {1}{W} => {W}
+rules_text: Create two 1/1 white Spirit Farmer creature tokens. => As an additional cost to cast this spell, you may either pay {2} or exile two creature cards from your graveyard.
+Create two 1/1 white Spirit Farmer creature tokens.
+
+Foreordain
+
+Lost Among the Maize
+
+Plow the Fields
+
+Strike Through the Grass
+
+Shepherd's Oath
+rules_text: Enchant creature
+Enchanted creature gets +2/+2 and has vigilance.
+When enchanted creature dies, create a 1/1 white Spirit Farmer creature token. => Enchant creature
+Enchanted creature gets +2/+2 and has vigilance.
+When enchanted creature leaves the battlefield, create a 1/1 white Spirit Farmer creature token.
+
+Aetherling
+
+Pondkin Scholar
+type: Creature — Faerie => Creature — Faerie Wizard
+
+Riverside Herbalist
+
+Eager Thaumaturge
+rules_text: When this creature enters, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => When this creature enters, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Misfire Infuser
+
+Runestone Owl
+
+Fogfen Lurker
+
+Dreaming Pondscale
+
+Aloof Pondkin
+type: Creature — Faerie Wizard => Creature — Faerie Citizen
+
+Sudden Recollection
+rules_text: Return up to one instant or sorcery card from your graveyard to your hand. Then, up to one target creature you control innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Choose one —
+• Return target instant or sorcery spell from your graveyard to your hand.
+• Target creature you control innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Indecisive Mixture
+
+Brainjuice Tincture
+
+Thoughtcycle
+
+Unexpected Reaction
+
+Lost in the Breeze
+
+Bewildering Haze
+
+Nettle's Determination
+rules_text: Enchant creature
+Enchanted creature has flying.
+Whenever enchanted creature deals combat damage to a player, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Enchant creature
+Enchanted creature has flying.
+Whenever enchanted creature deals combat damage to a player, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Maeve's Nightmare Serum
+
+Leshy Bone Collector
+rules_text: When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+Whenever another nontoken creature dies, put a +1/+1 counter on up to one target Potion you control. => Whenever this creature enters or another nontoken creature leaves the battlefield, create a Potion token. Do this only once each turn. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+{B}, Sacrifice another creature: Put a +1/+1 counter on a Potion you control.
+
+Living Death Potion
+
+Malefic Visitor
+
+Trespassing Forager
+rules_text: Whenever a permanent with a counter on it leaves the battlefield, you may put one of those counters on this creature. Do this only once each turn. => Whenever a creature or artifact with a counter on it leaves the battlefield, you may put one of those counters on this creature. Do this only once each turn.
+
+Shade of Truth
+
+Grotesque Bogbat
+type: Creature — Bat Zombie => Creature — Zombie Bat
+pt: 2/3 => 2/2
+
+Fate Alley Agent
+
+Fate Enforcer
+
+Harvest Cloak Thief
+
+Dastardly Blend
+rules_text: Target player discards a card and loses 2 life.
+Create a Potion token with your choice of a decayed or deathtouch counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i] => Target player discards a card and loses 2 life.
+Create a Potion token with your choice of a menace or deathtouch counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+
+Touch of Nightshade
+
+Sift Through Bones
+
+Return Mostly Alive
+
+Graverot
+
+Gaul's Fading Promise
+
+Unstable Concotion
+
+Unseelie Embrace
+rules_text: Enchant creature
+Enchanted creature gets +2/+2 as long as it's a Fairy. Otherwise, it gets -2/-2. => Enchant creature
+Enchanted creature gets +2/+2 as long as it's a Faerie. Otherwise, it gets -2/-2.
+
+Essence of the Drowned
+
+Torchpath Courior
+
+Scroll-Cast Apprentice
+rules_text: {R}, {T}, Sacrifice a noncreature permanent: This creature innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => {R}, {T}, Sacrifice a noncreature permanent: This creature innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Reckless Blacksmith
+
+Torchpath Scavenger
+
+Burgundy Spire Initiate
+
+Pixie Spear-Swarmer
+
+Groundling Concocter
+
+Branchspark Igniter
+
+Charcoal Howler
+
+Flamesword Archivist
+
+Firebelly Brew
+
+Infernal Insight
+
+Flamerally
+cost: {2}{R}{R} => {3}{R}
+
+Barnfire
+
+Flash of Resolve
+cost: {1}{R}{R} => {2}{R}
+
+Arcane Surge
+
+Searing Shots
+
+Flammable Fascination
+
+Electrify Fists
+
+Eladrin Grovetender
+
+Sunfruit Harvester
+rules_text: {2}{G}, {T}: Put a +1/+1 counter on up to one target permanent you control. Activate only as a sorcery. => {2}{G}, {T}: Put a +1/+1 counter on up to one target creature or artifact you control. Activate only as a sorcery.
+
+Skittering Barktail
+type: Creature — Squirrel Zombie => Creature — Zombie Squirrel
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+This creature gets +1/+1 as long as it's decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+This creature gets +1/+1 as long as it has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Orchard Ranger
+
+Grovewarden Sentinel
+rules_text: Vigilance
+Elves you control get +0/+1. => Vigilance
+Other Elves you control get +0/+1.
+pt: 5/4 => 5/5
+
+Timbermarch Caller
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature enters, create two 1/1 green Plant creature tokens with reach. => Flash
+When this creature enters, create two 1/1 green Saproling creature tokens with reach.
+
+Domesticated Rumblehorn
+
+Living Orchard
+
+Friends of the Forest
+cost: {G}{G}{G} => {3}{G}
+rules_text: Choose one —
+• Create three 1/1 green Beast creature tokens.
+• Create a 3/3 green Bear creature token with trample. => Choose one —
+• Create two 1/1 green Beast creature tokens.
+• Put two +1/+1 counters and one trample counter on target creature you control.
+
+Dominant Struggle
+
+Eladrin Purity
+
+Bountiful Protection
+
+Harvestmark Shot
+
+Taste Test
+
+Hearthside Bartender
+
+Updraft Angel
+cost: {1}{W}{W} => {2}{W}
+rules_text: Flying
+Other creatures you control with flying get +1/+1. => Flying
+At the beginning of combat during your turn, up to one other target creature gains flying until end of turn.
+pt: 2/2 => 2/3
+
+Harvest Angel
+
+Willowmutt
+
+Devout Shadekin
+
+Knight of Labor
+rules_text: Vigilance, first strike
+When this creature dies, create two 1/1 white Farmer creature tokens. => Vigilance
+When this creature leaves the battlefield, you may exile it. If you do, create two 1/1 white Farmer creature tokens.
+
+Sunleaf Apprentice
+rules_text: When this creature enters, create a Potion token with a double strike counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+{1}, {T}: Put a +1/+1 counter on target Potion you control. Activate only as a sorcery. => When this creature enters, create a Potion token with your choice of either a flying or lifelink counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+{1}, {T}: Put a +1/+1 counter on target Potion you control. Then if that Potion has three or more counters on it, you gain 1 life.
+
+Proud Farmdaughter
+rules_text: Other Farmers you control get +1/+1.
+Whenever this creature or another Farmer you control enters, you may harvest. If you do, target creature you control gets +2/+2 until end of turn. [i](To harvest, sacrifice a noncreature token or remove a +1/+1 counter from a permanent you control.)[/i] => Whenever this or another Farmer you control enters, you may harvest. If you do, target creature gets +2/+2 until end of turn. [i](To harvest, sacrifice a noncreature token or remove a +1/+1 counter from a permanent you control.)[/i]
+pt: 5/4 => 5/5
+
+Cloud Contract
+
+A Cold Welcome
+
+Dawnrush Formation
+cost: {3}{W} => {3}{W}{W}
+rules_text: Creatures you control get +1/+1 until end of turn.
+If you control three or more attacking creatures, those creatures gain first strike until end of turn. => This spell costs {2} less if you control three or more attacking creatures.
+Attacking creatures you control gain first strike until end of turn.
+
+Lakefront Crab
+rules_text: Whenever you cast a noncreature spell for a cost other than its mana value, draw a card. => Whenever you cast a noncreature spell for a cost other than its mana value, you may draw a card. If you do, discard a card.
+
+Mystic Mistmage
+rules_text: Whenever you cast your first noncreature spell during your turn, this creature innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Whenever you cast your first noncreature spell during your turn, this creature innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Unseelie Ambusher
+
+Leshy Apothecary
+rules_text: When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+{1}{U}, {T}, Choose one kind of counter on a permanent: Put a counter of the chosen kind on target Potion you control. => When this creature enters, create a Potion token with a counter of your choice on it from among +1/+1, flying, or vigilance. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+{T}: Add {U}. This mana can't be used to cast non-Alchemist spells.
+pt: 2/2 => 1/3
+
+Free-Range Faerie
+cost: {2}{U} => {1}{U}{U}
+
+Elixir Behemoth
+
+Refine the Recipe
+
+Essence Unbound
+
+Tincture Trade
+
+Epiphany Surge
+rules_text: Choose a Permanent you control, then counter target spell unless its controller pays {X}, where X is one plus the chosen permanent's mana value. If the chosen permanent is a Wizard, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Choose a Permanent you control, then counter target spell unless its controller pays {X}, where X is one plus the chosen permanent's mana value. If the chosen permanent is a Wizard, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Tragic Pixie
+
+Acolyte of Ichor
+rules_text: When this creature enters, create a Potion token with a decayed counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+Whenever you sacrifice a Potion, you may choose a kind of counter that was on it. If you do, put one counter of that kind on target creature. => When this creature enters, create a Potion token with two +1/+1 counters on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+Whenever you sacrifice a Potion, you may choose a kind of counter that was on it. If you do, put a counter of that kind on target creature.
+
+Resurgent Residue
+
+Deadwood Sprite
+rules_text: When this creature enters, create a Potion token with a decayed counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+{2}{B}, {T}: Remove a counter from target creature. Activate only as a sorcery. => When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+Whenever a creature you control dies, you may put a +1/+1 counter onto a Potion you control.
+{2}{B}, {T}: Remove a counter from target creature. Activate only as a sorcery.
+
+Unseelie Ritualist
+
+Forgotten Shadekin
+rules_text: Whenever this or another Shade you control enters, you may exile a creature card from a graveyard. If you do, put a +1/+1 counter on this creature. => Whenever this or another Shade you control enters, you may exile a creature card from your graveyard. If you do, put a +1/+1 counter on this creature.
+
+Shadekin Fateweaver
+
+Hollowed Delusion
+
+Grave's Embrace
+
+Dark Court Summoning
+
+Rotting Rites
+
+Gleeful Cutthroat
+rules_text: Flying
+Whenever a Faerie and/or Rogue you control enters, this creature deals 1 damage to target opponent. => Flying
+Whenever a Faerie or Rogue you control enters, this creature deals 1 damage to target opponent.
+
+Genasi Flame Adept
+rules_text: Whenever you cast a noncreature spell, this creature deals 1 damage to target opponent. If this is the second time this effect triggered this turn, this creature innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Whenever you cast a noncreature spell, this creature deals 1 damage to target opponent. If this is the second time this effect triggered this turn, this creature innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Sparkscript Tutor
+
+Rebuking Evoker
+
+Combustion Theorist
+
+Goldfire Golem
+type: Creature — Elemental Golem => Artifact Creature — Elemental Golem
+
+Campfire Troll
+
+Incite Chaos
+cost: {1}{R}{R} => {2}{R}
+
+Terminal Discharge
+
+Down the Hatch
+cost: {1}{R}{R} => {2}{R}
+rules_text: Target creature you control gets +3/+0 and gains first strike and haste until end of turn.
+Flashback {2}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target creature you control gets +3/+0 and gains first strike and haste until end of turn.
+Flashback {4}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Compost Rattler
+
+Frondplume Strider
+
+Eladrin Arborist
+rules_text: {T}: Add {W} or {G}.
+{G}{W}, {T}, Sacrifice this creature: Put a +1/+1 counter on up to one target permanent you control and draw a card. => {T}: Add {W} or {G}.
+{G}{W}, {T}, Sacrifice this creature: Put a +1/+1 counter on up to one target creature or artifact you control, then draw a card.
+
+Rotcycle Shambler
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Decayed creatures you control get +1/+1 and have trample. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Decayed creatures you control get +1/+1. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Eithana, Treepaw Scout
+
+Cyclegrove Empath
+
+Leaflash Ambusher
+
+Vinyard Wurm
+
+Feybark Ritual
+
+Pixie Battle Hero
+
+Barleystout Farmer
+
+Alessa, Warden Paragon
+
+Palehorn Shadebeast
+
+Harvest Scion
+
+Fallow the Farmland
+
+Swarm Charge
+
+Coralia Trickweaver
+
+Tempo Flux
+
+Mind-Vault Parasite
+
+Dreamdew Hexlet
+
+Aethergate Breach
+
+Unbound Secrets
+
+Stunwing Osprey
+
+Queen's Smogwing
+
+Painted Autumnfang
+
+Cranky ol' Tommon
+
+Roston, Defense Instructor
+rules_text: First strike
+Whenever Roston attacks, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i]
+Whenever you cast your first noncreature spell each turn, you may switch Roston's power and toughness until end of turn. => First strike
+Whenever Roston attacks, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+Whenever you cast your first noncreature spell each turn, you may switch Roston's power and toughness until end of turn.
+
+Pixie Swarmleader
+
+Harvest's Allure
+
+Array of Ingredients
+cost: {U} => {2}{U}
+rules_text: When this enchantment enters, create a Potion token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+Whenever a Potion you control enters, you may put a +1/+1 counter on it. => When this enchantment enters, draw a card, then create a Potion token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters onto target creature. Activate only as a sorcery.”)[/i]
+Whenever a Potion you control enters, you may put a +1/+1 counter on it.
+
+Farm Razer
+
+Bread for Brawn
+rules_text: At the beginning of your upkeep, you may pay {2}. If you do, put a +1/+1 counter on up to one target creature. => At the beginning of your upkeep, you may pay {2} or sacrifice an artifact. If you do, put a +1/+1 counter onto up to one target creature.
+
+Farmshade
+
+Roaming Battlepriest
+
+Lead the Take-Off
+
+A Pinch of Stardust
+cost: {1}{U}{U} => {3}{U}
+
+Arrogant Ingenuity
+rules_text: Enchant creature
+Enchanted creature can't be blocked as long as it has two or less counters on it.
+Whenever enchanted creature deals combat damage to a player, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Enchant creature
+Enchanted creature can't be blocked as long as it has two or less counters on it.
+Whenever enchanted creature deals combat damage to a player, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Daydream
+
+Forbidden Ingredients
+
+Faerie's Malice
+
+Shadetouch Aura
+
+Soiled Farmseed
+
+Shatter Flask
+
+Puff Pivot
+
+Inspiring Ambition
+rules_text: Whenever you cast your second noncreature spell each turn, up to one target creature you control innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i]
+At the beginning of your end step, put a +1/+1 counter on each creature you control that innovated this turn. => Whenever you cast your second noncreature spell each turn, up to one target creature you control innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+At the beginning of your end step, put a +1/+1 counter on each creature you control that innovated this turn.
+
+Menacing Fae
+
+Skyfall Infusion
+
+Orchard's Rest
+
+Enchanting Presence
+
+Granary Guardian
+
+Snaproot Tactician
+
+Clover, the Wallbreaker
+
+Astral Apothecary
+
+Drowned Bog Witch
+
+Gloomfield Stalker
+
+Doc Morvix, Corpse Artisan
+
+Greedy Nyxwing
+
+Graveyard's Gift
+
+Spite the Face
+
+Druid of the Spoiled Orchard
+
+Bloodbrew Coagulater
+
+Aged Toothcap
+
+Blazette's Pet Dragon
+
+Bonfire Blossomkeeper
+
+Tatiana, Combustive Scholar
+rules_text: Whenever an opponent is dealt noncombat damage for the first time each turn, Tatiana innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i]
+Whenever Tatiana innovates, you may copy the next noncreature spell you cast this turn. You may choose new targets for the copy. => Whenever an opponent is dealt noncombat damage for the first time each turn, Tatiana innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+Whenever Tatiana innovates, you may copy the next noncreature spell you cast this turn. You may choose new targets for the copy.
+
+Groundling Pixie Captain
+
+Ravenous Ramshackler
+
+Glitterspark Eruption
+cost: {R}{R}{R} => {2}{R}{R}
+
+Flashfuse Convulsion
+cost: {1}{R}{R} => {3}{R}
+rules_text: Choose one. If you control three or more attacking creatures, you may choose both.
+• Flashfuse Convulsion deals 4 damage to any target.
+• Each attacking creature you control innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Choose one. If you control three or more attacking creatures, you may choose both.
+• Flashfuse Convulsion deals 4 damage to any target.
+• Each attacking creature you control innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Rageleaf Channeler
+
+Nettle, Sparkwing Prodigy
+rules_text: Flying
+Whenever you cast a noncreature spell, Nettle innovates, then deals 2 damage to target opponent. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Flying
+Whenever you cast a noncreature spell, Nettle innovates, then deals 2 damage to target opponent. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Whispers from the Mire
+rules_text: Whenever a nontoken creature you control dies, if it wasn't decayed, return it to the battlefield under your control with a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Decayed creatures you control have hexproof. => Nontoken creatures you control have rotting. [i](When it dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Decayed creatures you control have menace.
+
+Booming Blade
+cost: {G}{G}{U}{U} => {2}{G}{G}{U}{U}
+rules_text: Target creature you control fights target creature you don't control. When they do, return all other creatures to their owners' hand. => Target creature you control fights target creature you don't control. Then, return each other creature to its owner's hand.
+
+Say Ah!
+
+Fury of the Groundlings
+
+Lynx, Grovefang Alpha
+
+Alyra, Orchard's Heart
+rules_text: [i][i]Landfall[/i] — [/i]Whenever a land you control enters, you may harvest. [i](To harvest, sacrifice a noncreature token or remove a +1/+1 counter from a permanent you control.)[/i]
+At the beginning of your end step, distribute X +1/+1 counters onto creatures you control, where X is the number of times you've harvested this turn. => [i][i]Landfall[/i] — [/i]Whenever a land you control enters, you may harvest. [i](To harvest, sacrifice a noncreature token or remove a +1/+1 counter from a permanent you control.)[/i]
+At the beginning of your end step, put X +1/+1 counters onto up to X target creatures you control, where X is the number of times you've harvested this turn.
+
+Harvest Tithe
+
+Beastial Howl
+
+Fungal Emergence
+
+Deathsap Adder
+
+Drybark Protector
+rules_text: Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Decayed creatures you control have trample and hexproof. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Rotting [i](When this creature dies, if it wasn't decayed, return it to the battlefield under its owner's control with a decayed counter.)[/i]
+Decayed creatures you control have trample. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Harvest Market Keeper
+
+Shadow of the Bitter Veil
+
+Hearthmeadow Shepherd
+
+Quinn, Funerary Hostess
+
+Deeplab Vaporsmith
+type: Creature — Gnome Alchemist => Creature — Dwarf Alchemist
+rules_text: When this creature enters, move any number of counters from among permanents you control to this creature.
+{U}{B}, Remove a counter from this creature: Target creature gets -1/-1 until end of turn. Activate only as a sorcery. => When this creature enters, move any number of +1/+1 counters from among permanents you control onto this creature.
+{U}{U}: Move a +1/+1 counter from a permanent you control to this creature. Activate only as a sorcery.
+{B}{B}, Remove X +1/+1 counters from this creature: Target creature gets -X/-X until end of turn. Activate only as a sorcery.
+
+Ophelia, Fate's Cartographer
+cost: {3}{W} => {2}{W}{W}
+rules_text: Whenever a nontoken creature you control dies, return it to the battlefield under your control tapped with a finality counter on it. It becomes a Shade in addition to its other types. => Whenever a nontoken creature you control dies, return it to the battlefield its owner's control with a finality counter on it. It becomes a Shade in addition to its other types.
+
+Abaros, Spire Headmaster
+cost: {2}{U}{U} => {3}{U}
+rules_text: Whenever a creature you control deals combat damage to an opponent, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i]
+Whenever a creature you control innovates, exile up to one target noncreature spell from your graveyard. You may cast a copy of it until the end of your next turn. => Whenever a creature you control deals combat damage to an opponent, it innovates. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+Whenever a creature you control innovates, exile up to one target noncreature spell from your graveyard. You may cast a copy of it until the end of your next turn.
+
+Nyxpetal, Numbing Needle
+
+Gharrak, Forgotten Monarch
+
+Blazette, Blazing Blunder
+
+Bannerflame Mage
+cost: {2}{R} => {1}{R}{R}
+rules_text: Other creatures you control have haste.
+Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, creatures you control get +2/+0 until end of turn. => Other creatures you control have haste.
+Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, other creatures you control get +2/+0 until end of turn.
+pt: 3/3 => 2/3
+
+Elderbark Sentinel
+
+Hydrevan, Warrior Druid
+
+Erydin, Eladrin Bladesinger
+cost: {2}{G}{U} => {1}{G}{U}
+rules_text: Flash
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Erydin.
+Other creatures you control get +1/+1 for each +1/+1 counter on Erydin.
+Creatures you don't control get -X/-0, where X is half the number of +1/+1 counters on Erydin, rounded down. => Flash
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Erydin.
+Whenever you cast an instant spell, you may remove a number of +1/+1 counters from Erydin equal to that spell's mana value. If you do, copy that spell, and you may choose new targets for the copy.
+
+Maeve, Teahouse Keeper
+rules_text: When Maeve enters, create a Potion token with a +1/+1 counter on it.
+{UB}, {T}: Put a +1/+1, flying, or deathtouch counter on target Potion you control.
+Whenever you sacrifice a Potion with three or more different kinds of counters on it, transform Maeve, Teahouse Keeper. => When Maeve enters, create a Potion token with a +1/+1 counter on it.
+{UB}, {T}: Put a +1/+1, flying, or deathtouch counter onto target Potion you control.
+Whenever you sacrifice a Potion with three or more different kinds of counters on it, transform Maeve, Teahouse Keeper.
+
+Glimmer Speaker
+
+Maple-Ridge Dragon
+
+Ayela, Ranger Princess
+
+Gaul, High Observer
+
+Winry, Ascended Battlemage
+rules_text: Whenever you cast a noncreature spell, Winry innovates X times, where X is the number of noncreature spells you've cast this turn with different types. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {1} less.)[/i] => Whenever you cast a noncreature spell, Winry innovates X times, where X is the number of noncreature spells you've cast this turn with different types. [i](You may either put a +1/+1 counter on it or have the next noncreature spell you cast this turn cost {2} less.)[/i]
+
+Rot Reclaimation
+
+Swarmstep Volley
+rules_text: At the end of the first combat phase this turn, there's an additional combat phase. At the beginning of that combat, untap all creatures you control, and they gain double strike and vigilance until end of turn. => After the next combat phase this turn, there's an additional combat phase. At the beginning of that combat, untap each creature you control. They gain double strike and vigilance until end of turn.
+
+Tide of the Sunseed
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Razorwire Gauntlets
+
+Hearthfire Shard
+
+Bottled Arcfire
+
+Comforting Candle
+
+Runic Cuirass
+
+Pocket Potion
+
+Whispering Wind Chime
+
+Faerie's Soul Carver
+
+Wildroot Infusion
+
+Duskopal Medallion
+
+The Night Diamond
+rules_text: When this artifact enters and at the beginning of your upkeep, choose one that hasn't been chosen. If you can't, exile The Night Diamond, then return it to the battlefield transformed.
+• Draw three cards and lose 3 life.
+• Exile target permanent you control. When you do, exile a permanent target opponent controls. => When this artifact enters and at the beginning of your upkeep, choose one —
+• Draw two cards and lose 2 life.
+• Exile target nonland permanent.
+• Transform The Night Diamond.
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fungal Foothills
+
+Fated Crossroad
+
+Crimson Mist Falls
+
+Inkwater Boardwalk
+
+Sunpetal Meadow
+
+Deadfall Marsh
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Burgundy Spire
+
+Infusion of Vitality
+
+Elixir of Insight
+
+Decoction of Grace
+
+Tincture of Dread
+
+Draught of Zeal
+
+Potion
+
+Food
+
+Treasure
+
+Farmer
+
+Spirit Farmer
+
+Shade
+
+Dawnlight
+
+Elf Ranger
+
+Softpaw Lookout
+
+Sheep
+
+Fungus
+
+Plant Angel
+
+Beast
+
+Fungus Beast
+
+Eithana
+
+Plant
+
+Faerie Assassin
+
+Zombie
+
+Faerie Soldier
+
+Faerie Rogue
+
+Faerie Berserker
+
+Harvest Nexus
+
+Gerome, the Farmfather
+
+Stalking Cyclebreaker
+
+Passing Radiance
+
+Abandoned Hamlet
+
+Alchemist's Den
+
+Aerial Superiority
+type: Sorcery => Enchantment
+cost: {2}{W}{W}{U}{U} => {1}{W}{U}
+rules_text: Creatures you control with flying get +1/+1 until end of turn.
+Tap each creature and artifact you don't control and put a stun counter on them. => When this enchantment enters, tap each creature you don't control without flying and put a stun counter on it.
+Creatures you control with flying enter with an additional +1/+1 counter on them and have ward {2}.
+
+Bladesong
+type: Instant => Enchantment — Aura
+cost: {3}{U}{U}{U} => {2}{U}{U}
+rules_text: Untap all creatures you control. When you do, tap all untapped creatures you don't control. You may draw a card for each creature untapped this way. => Enchant creature
+Enchanted creature has flying and ward {2}.
+Whenever enchanted creature deals combat damage to a player, put a +1/+1 counter on it. Then you may reveal an instant card or a card with flash from your hand. If it has mana value less than enchanted creature's power, you may cast it without paying its mana cost.
+
+Doomed to Observe
+rules_text: Enchant creature
+Enchanted creature cannot attack or block and loses all abilities.
+When enchanted creature dies, shuffle Doomed to Observe into your library. => Enchant creature
+Enchanted creature cannot attack or block and loses all of its abilities.
+When enchanted creature leaves the battlefield, you may shuffle this enchantment into your library.
+
+Gloamfire Matron
+rules_text: Other Faeries you control have haste.
+This creature has flying as long as it's attacking.
+This creature's power is equal to the number of Faeries you control. => Other Faeries you control have haste.
+This creature has flying as long as it's attacking.
+This creature gets +1/+0 for each creature you control with haste.
+pt: */3 => 1/3
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Grave's Embrace added.
