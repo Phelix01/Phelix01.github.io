@@ -2351,13 +2351,13 @@
 			}
 		},
 		{
-			"name": "Hydrevan, Warrior Druid",
+			"name": "Hydrevan, Ranger General",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature — Elf Warrior Druid ",
-			"collector_number": "228",
+			"type": "Legendary Creature — Elf Ranger ",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/228_Hydrevan, Warrior Druid.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/227_Hydrevan, Ranger General.png"
 			}
 		},
 		{
@@ -3486,9 +3486,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Elf Ranger ",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/227_Hydrevan, Ranger General.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/228_Hydrevan, Ranger General.png"
 			}
 		},
 		{
@@ -3641,7 +3641,7 @@
 1 Blazette, Blazing Blunder
 1 Bannerflame Mage
 1 Elderbark Sentinel
-1 Hydrevan, Warrior Druid
+1 Hydrevan, Ranger General
 1 Erydin, Eladrin Bladesinger
 1 Maeve, Teahouse Keeper
 1 Glimmer Speaker
@@ -4114,7 +4114,7 @@
 10 Blazette, Blazing Blunder
 10 Bannerflame Mage
 10 Elderbark Sentinel
-10 Hydrevan, Warrior Druid
+10 Hydrevan, Ranger General
 10 Erydin, Eladrin Bladesinger
 10 Maeve, Teahouse Keeper
 10 Glimmer Speaker
