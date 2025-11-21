@@ -1,0 +1,1042 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Pipfizzle, the Dreadbrewer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Gnome Alchemist ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/45_Pipfizzle, the Dreadbrewer.png"
+			}
+		},
+		{
+			"name": "Potion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Potion ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/1_Potion.png"
+			}
+		},
+		{
+			"name": "Eryndor Essencewright",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Nymph Alchemist ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/42_Eryndor Essencewright.png"
+			}
+		},
+		{
+			"name": "Gnome Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/44_Gnome Researcher.png"
+			}
+		},
+		{
+			"name": "Astral Apothecary",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Skeleton Alchemist ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/2_Astral Apothecary.png"
+			}
+		},
+		{
+			"name": "Eccentric Experimenter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/7_Eccentric Experimenter.png"
+			}
+		},
+		{
+			"name": "Rootcellar Chemist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Alchemist ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/34_Rootcellar Chemist.png"
+			}
+		},
+		{
+			"name": "Lifebinder Leshy",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elemental Alchemist ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/29_Lifebinder Leshy.png"
+			}
+		},
+		{
+			"name": "Reactive Backfire",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/47_Reactive Backfire.png"
+			}
+		},
+		{
+			"name": "Dread Witch Cauldronist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Elf Alchemist ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/40_Dread Witch Cauldronist.png"
+			}
+		},
+		{
+			"name": "Misfire Infuser",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Tiefling Alchemist ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/13_Misfire Infuser.png"
+			}
+		},
+		{
+			"name": "Thrummingbird",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Phyrexian Bird Horror ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/20_Thrummingbird.png"
+			}
+		},
+		{
+			"name": "Flux Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/8_Flux Channeler.png"
+			}
+		},
+		{
+			"name": "Essencelift Trickster",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/43_Essencelift Trickster.png"
+			}
+		},
+		{
+			"name": "Deepglow Skate",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Fish ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/5_Deepglow Skate.png"
+			}
+		},
+		{
+			"name": "Disciple of the Vault",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/25_Disciple of the Vault.png"
+			}
+		},
+		{
+			"name": "Woe Strider",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/36_Woe Strider.png"
+			}
+		},
+		{
+			"name": "Marionette Master",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/31_Marionette Master.png"
+			}
+		},
+		{
+			"name": "Cauldron Crawler",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Potion Construct ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/23_Cauldron Crawler.png"
+			}
+		},
+		{
+			"name": "Ravien the Homunculist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Alchemist ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/46_Ravien the Homunculist.png"
+			}
+		},
+		{
+			"name": "Cytoplast Manipulator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard Mutant ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/4_Cytoplast Manipulator.png"
+			}
+		},
+		{
+			"name": "Baleful Strix",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Bird ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/37_Baleful Strix.png"
+			}
+		},
+		{
+			"name": "Goldflask Instructor",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Alchemist ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/9_Goldflask Instructor.png"
+			}
+		},
+		{
+			"name": "Stillroom Saboteur",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Faerie Rogue Alchemist ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/19_Stillroom Saboteur.png"
+			}
+		},
+		{
+			"name": "Troublebrew Technician",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Gnome Alchemist ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/49_Troublebrew Technician.png"
+			}
+		},
+		{
+			"name": "Mutagenic Miscreation",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}{B}",
+			"type": "Artifact Creature — Abomination ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/33_Mutagenic Miscreation.png"
+			}
+		},
+		{
+			"name": "Deeplab Vaporsmith",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Dwarf Alchemist ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/39_Deeplab Vaporsmith.png"
+			}
+		},
+		{
+			"name": "Sol Ring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/59_Sol Ring.png"
+			}
+		},
+		{
+			"name": "Mind Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/55_Mind Stone.png"
+			}
+		},
+		{
+			"name": "Dimir Signet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/52_Dimir Signet.png"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/69_Command Tower.png"
+			}
+		},
+		{
+			"name": "Solemn Simulacrum",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/60_Solemn Simulacrum.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Bauble",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/63_Wayfarer's Bauble.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/50_Arcane Signet.png"
+			}
+		},
+		{
+			"name": "Talisman of Dominance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/62_Talisman of Dominance.png"
+			}
+		},
+		{
+			"name": "Fellwar Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/54_Fellwar Stone.png"
+			}
+		},
+		{
+			"name": "Preservation Tonic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Potion ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/57_Preservation Tonic.png"
+			}
+		},
+		{
+			"name": "Pocket Potion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Potion ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/56_Pocket Potion.png"
+			}
+		},
+		{
+			"name": "Swiftfoot Boots",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/61_Swiftfoot Boots.png"
+			}
+		},
+		{
+			"name": "Midnight Clock",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/12_Midnight Clock.png"
+			}
+		},
+		{
+			"name": "Rage Essence Mixture",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Potion ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/58_Rage Essence Mixture.png"
+			}
+		},
+		{
+			"name": "Wildroot Infusion",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Potion ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/64_Wildroot Infusion.png"
+			}
+		},
+		{
+			"name": "Bottled Arcfire",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Potion ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/51_Bottled Arcfire.png"
+			}
+		},
+		{
+			"name": "Grand Architect",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Vedalken Artificer",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/10_Grand Architect.png"
+			}
+		},
+		{
+			"name": "Steady Progress",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/18_Steady Progress.png"
+			}
+		},
+		{
+			"name": "Delay",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/6_Delay.png"
+			}
+		},
+		{
+			"name": "Inexorable Tide",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/11_Inexorable Tide.png"
+			}
+		},
+		{
+			"name": "Measured Eradication",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/32_Measured Eradication.png"
+			}
+		},
+		{
+			"name": "Drown in the Loch",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/41_Drown in the Loch.png"
+			}
+		},
+		{
+			"name": "Feed the Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/26_Feed the Swarm.png"
+			}
+		},
+		{
+			"name": "Unstable Concotion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/35_Unstable Concotion.png"
+			}
+		},
+		{
+			"name": "Slip Out the Back",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/17_Slip Out the Back.png"
+			}
+		},
+		{
+			"name": "Refine the Recipe",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/16_Refine the Recipe.png"
+			}
+		},
+		{
+			"name": "Tincture Trade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/21_Tincture Trade.png"
+			}
+		},
+		{
+			"name": "Unbound Secrets",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/22_Unbound Secrets.png"
+			}
+		},
+		{
+			"name": "Forbidden Ingredients",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/27_Forbidden Ingredients.png"
+			}
+		},
+		{
+			"name": "A Pinch of Stardust",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/15_A Pinch of Stardust.png"
+			}
+		},
+		{
+			"name": "Catalyst Binding",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/38_Catalyst Binding.png"
+			}
+		},
+		{
+			"name": "Languish",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/28_Languish.png"
+			}
+		},
+		{
+			"name": "Array of Ingredients",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/1_Array of Ingredients.png"
+			}
+		},
+		{
+			"name": "Fae-Charged Phial",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Potion ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/53_Fae-Charged Phial.png"
+			}
+		},
+		{
+			"name": "Tormenting Extraction",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/48_Tormenting Extraction.png"
+			}
+		},
+		{
+			"name": "Brainjuice Tincture",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/3_Brainjuice Tincture.png"
+			}
+		},
+		{
+			"name": "Dastardly Blend",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/24_Dastardly Blend.png"
+			}
+		},
+		{
+			"name": "An Offer You Can't Refuse",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/14_An Offer You Can't Refuse.png"
+			}
+		},
+		{
+			"name": "Living Death Potion",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Potion Spider ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/30_Living Death Potion.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/72_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Path of Ancestry",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/78_Path of Ancestry.png"
+			}
+		},
+		{
+			"name": "Exotic Orchard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/73_Exotic Orchard.png"
+			}
+		},
+		{
+			"name": "Alchemist's Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/66_Alchemist's Den.png"
+			}
+		},
+		{
+			"name": "Myriad Landscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/77_Myriad Landscape.png"
+			}
+		},
+		{
+			"name": "Abundant Herb Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/65_Abundant Herb Garden.png"
+			}
+		},
+		{
+			"name": "Reliquary Tower",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/79_Reliquary Tower.png"
+			}
+		},
+		{
+			"name": "Choked Estuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/68_Choked Estuary.png"
+			}
+		},
+		{
+			"name": "Fetid Pools",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/75_Fetid Pools.png"
+			}
+		},
+		{
+			"name": "Inkwater Boardwalk",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/76_Inkwater Boardwalk.png"
+			}
+		},
+		{
+			"name": "Darkwater Catacombs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/70_Darkwater Catacombs.png"
+			}
+		},
+		{
+			"name": "Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/71_Dismal Backwater.png"
+			}
+		},
+		{
+			"name": "Bojuka Bog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/67_Bojuka Bog.png"
+			}
+		},
+		{
+			"name": "Rogue's Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/80_Rogue's Passage.png"
+			}
+		},
+		{
+			"name": "Witch's Cottage",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/82_Witch's Cottage.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/74_Fabled Passage.png"
+			}
+		},
+		{
+			"name": "Vivid Creek",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/81_Vivid Creek.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/83_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/85_Swamp.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/84_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHC-files/img/86_Swamp.png"
+			}
+		}
+	]
+[RareSlot(1)]
+2 Astral Apothecary
+2 Rootcellar Chemist
+2 Lifebinder Leshy
+2 Reactive Backfire
+2 Dread Witch Cauldronist
+2 Essencelift Trickster
+2 Deepglow Skate
+2 Woe Strider
+2 Marionette Master
+2 Cauldron Crawler
+2 Ravien the Homunculist
+2 Cytoplast Manipulator
+2 Baleful Strix
+2 Goldflask Instructor
+2 Stillroom Saboteur
+2 Troublebrew Technician
+2 Deeplab Vaporsmith
+2 Solemn Simulacrum
+2 Midnight Clock
+2 Wildroot Infusion
+2 Grand Architect
+2 Inexorable Tide
+2 Measured Eradication
+2 Unbound Secrets
+2 Languish
+2 Fae-Charged Phial
+2 Tormenting Extraction
+2 Exotic Orchard
+2 Abundant Herb Garden
+2 Choked Estuary
+2 Fetid Pools
+2 Darkwater Catacombs
+2 Fabled Passage
+1 Pipfizzle, the Dreadbrewer
+1 Eryndor Essencewright
+1 Mutagenic Miscreation
+[UncommonSlot(4)]
+9 Gnome Researcher
+9 Eccentric Experimenter
+9 Thrummingbird
+9 Flux Channeler
+9 Disciple of the Vault
+9 Sol Ring
+9 Mind Stone
+9 Dimir Signet
+9 Arcane Signet
+9 Talisman of Dominance
+9 Fellwar Stone
+9 Preservation Tonic
+9 Pocket Potion
+9 Swiftfoot Boots
+9 Rage Essence Mixture
+9 Delay
+9 Drown in the Loch
+9 Feed the Swarm
+9 Unstable Concotion
+9 Slip Out the Back
+9 Refine the Recipe
+9 Tincture Trade
+9 Forbidden Ingredients
+9 A Pinch of Stardust
+9 Catalyst Binding
+9 An Offer You Can't Refuse
+9 Alchemist's Den
+9 Myriad Landscape
+9 Reliquary Tower
+9 Inkwater Boardwalk
+9 Rogue's Passage
+9 Vivid Creek
+[CommonSlot(7)]
+30 Misfire Infuser
+30 Command Tower
+30 Wayfarer's Bauble
+30 Bottled Arcfire
+30 Steady Progress
+30 Array of Ingredients
+30 Brainjuice Tincture
+30 Dastardly Blend
+30 Living Death Potion
+30 Evolving Wilds
+30 Path of Ancestry
+30 Dismal Backwater
+30 Bojuka Bog
+30 Witch's Cottage
+[WildcardSlot(2)]
+10 Pipfizzle, the Dreadbrewer
+10 Eryndor Essencewright
+10 Gnome Researcher
+10 Astral Apothecary
+10 Eccentric Experimenter
+10 Rootcellar Chemist
+10 Lifebinder Leshy
+10 Reactive Backfire
+10 Dread Witch Cauldronist
+10 Misfire Infuser
+10 Thrummingbird
+10 Flux Channeler
+10 Essencelift Trickster
+10 Deepglow Skate
+10 Disciple of the Vault
+10 Woe Strider
+10 Marionette Master
+10 Cauldron Crawler
+10 Ravien the Homunculist
+10 Cytoplast Manipulator
+10 Baleful Strix
+10 Goldflask Instructor
+10 Stillroom Saboteur
+10 Troublebrew Technician
+10 Mutagenic Miscreation
+10 Deeplab Vaporsmith
+10 Sol Ring
+10 Mind Stone
+10 Dimir Signet
+10 Command Tower
+10 Solemn Simulacrum
+10 Wayfarer's Bauble
+10 Arcane Signet
+10 Talisman of Dominance
+10 Fellwar Stone
+10 Preservation Tonic
+10 Pocket Potion
+10 Swiftfoot Boots
+10 Midnight Clock
+10 Rage Essence Mixture
+10 Wildroot Infusion
+10 Bottled Arcfire
+10 Grand Architect
+10 Steady Progress
+10 Delay
+10 Inexorable Tide
+10 Measured Eradication
+10 Drown in the Loch
+10 Feed the Swarm
+10 Unstable Concotion
+10 Slip Out the Back
+10 Refine the Recipe
+10 Tincture Trade
+10 Unbound Secrets
+10 Forbidden Ingredients
+10 A Pinch of Stardust
+10 Catalyst Binding
+10 Languish
+10 Array of Ingredients
+10 Fae-Charged Phial
+10 Tormenting Extraction
+10 Brainjuice Tincture
+10 Dastardly Blend
+10 An Offer You Can't Refuse
+10 Living Death Potion
+10 Evolving Wilds
+10 Path of Ancestry
+10 Exotic Orchard
+10 Alchemist's Den
+10 Myriad Landscape
+10 Abundant Herb Garden
+10 Reliquary Tower
+10 Choked Estuary
+10 Fetid Pools
+10 Inkwater Boardwalk
+10 Darkwater Catacombs
+10 Dismal Backwater
+10 Bojuka Bog
+10 Rogue's Passage
+10 Witch's Cottage
+10 Fabled Passage
+10 Vivid Creek
+[LandSlot(1)]

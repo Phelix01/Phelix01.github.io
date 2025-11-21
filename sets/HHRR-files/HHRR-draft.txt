@@ -181,13 +181,13 @@
 			}
 		},
 		{
-			"name": "Aetherling",
+			"name": "Arcroot Dewling",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Elemental ",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/53_Aetherling.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/54_Arcroot Dewling.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie Citizen ",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/54_Aloof Pondkin.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/53_Aloof Pondkin.png"
 			}
 		},
 		{
@@ -2373,7 +2373,7 @@
 		{
 			"name": "Maeve, Teahouse Keeper",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Nymph Alchemist ",
 			"collector_number": "263",
 			"back": {
@@ -3790,7 +3790,7 @@
 30 Plow the Fields
 30 Strike Through the Grass
 30 Shepherd's Oath
-30 Aetherling
+30 Arcroot Dewling
 30 Pondkin Scholar
 30 Riverside Herbalist
 30 Eager Thaumaturge
@@ -3897,7 +3897,7 @@
 10 Plow the Fields
 10 Strike Through the Grass
 10 Shepherd's Oath
-10 Aetherling
+10 Arcroot Dewling
 10 Pondkin Scholar
 10 Riverside Herbalist
 10 Eager Thaumaturge
