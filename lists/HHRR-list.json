@@ -37,13 +37,13 @@
     },
     {
         "card_name": "Swift Shadowhawk",
-        "number": 74,
+        "number": 76,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Nyxpetal, Numbing Needle",
-        "number": 107,
+        "number": 106,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -102,8 +102,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Cycle of Decay",
-        "number": 86,
+        "card_name": "Dark Whimsy",
+        "number": 87,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Bramblewing Ambusher",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -138,7 +138,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Celeste, Evocation Archivist",
+        "card_name": "Celeste, Archivist Tutor",
         "number": 137,
         "shape": "normal",
         "set": "HHRR"
@@ -187,7 +187,7 @@
     },
     {
         "card_name": "Plumevale Matriarch",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -217,13 +217,13 @@
     },
     {
         "card_name": "Refract",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Noxious Sewer Chemist",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -247,31 +247,31 @@
     },
     {
         "card_name": "Tempo Flux",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Search for Shadows",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Punish Recklessness",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Venom Synthesis",
-        "number": 204,
+        "number": 203,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Protective Echo",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -289,19 +289,19 @@
     },
     {
         "card_name": "Ruination Blast",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Vineyard Wurm",
-        "number": 205,
+        "card_name": "Vinestone Basker",
+        "number": 204,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Briarbrush Scout",
-        "number": 5,
+        "card_name": "Bramble-Scout",
+        "number": 4,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -343,7 +343,7 @@
     },
     {
         "card_name": "Dark Court Whispers",
-        "number": 87,
+        "number": 86,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -426,8 +426,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Incantation Cataloger",
-        "number": 59,
+        "card_name": "Fogstep",
+        "number": 58,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -456,7 +456,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Inquisitive Examiner",
+        "card_name": "Incantation Cataloger",
         "number": 60,
         "shape": "normal",
         "set": "HHRR"
@@ -468,8 +468,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Dualflame Channeler",
-        "number": 142,
+        "card_name": "Deadfall Corpse-Eater",
+        "number": 141,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -486,8 +486,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Masterful Infusionist",
-        "number": 62,
+        "card_name": "Inquisitive Examiner",
+        "number": 61,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -498,7 +498,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Fae-Cursed Eladrin",
+        "card_name": "Dualflame Channeler",
         "number": 143,
         "shape": "normal",
         "set": "HHRR"
@@ -516,7 +516,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Mistrunner Jackolope",
+        "card_name": "Masterful Infusionist",
         "number": 63,
         "shape": "normal",
         "set": "HHRR"
@@ -540,20 +540,20 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Sanctuary Purge",
-        "number": 31,
+        "card_name": "Pixie Tactician",
+        "number": 26,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Moonlit Spire Thief",
+        "card_name": "Mistrunner Jackolope",
         "number": 64,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Night Queen's Champion",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -570,25 +570,25 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Starlight Cradle",
-        "number": 33,
+        "card_name": "Sanctuary Purge",
+        "number": 32,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Shadow Shrieker",
-        "number": 71,
+        "card_name": "Moonlit Spire Thief",
+        "number": 65,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Overspill",
-        "number": 108,
+        "number": 107,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Needletooth Coven",
+        "card_name": "Mirrorborn Alpha",
         "number": 155,
         "shape": "normal",
         "set": "HHRR"
@@ -600,20 +600,20 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Starlight Infuser",
+        "card_name": "Spiritual Remedy",
         "number": 34,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Stutter-Mage Duo",
-        "number": 72,
+        "card_name": "Roaming Tattercloak",
+        "number": 71,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Plaguefield Shambler",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -630,26 +630,26 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Sunseed Scion",
-        "number": 36,
+        "card_name": "Starlight Cradle",
+        "number": 35,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Tattercloak Presence",
-        "number": 75,
+        "card_name": "Shadow Shrieker",
+        "number": 73,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Putrid Kelpie",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Shatterflask",
-        "number": 160,
+        "card_name": "Prodigy Flare",
+        "number": 157,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -660,25 +660,25 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Swarm Vanguard",
-        "number": 37,
+        "card_name": "Starlight Infuser",
+        "number": 36,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Thirst for Answers",
-        "number": 77,
+        "card_name": "Stutter-Mage Duo",
+        "number": 74,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Resurgent Residue",
-        "number": 112,
+        "number": 111,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Terminal Discharge",
+        "card_name": "Shatterflask",
         "number": 161,
         "shape": "normal",
         "set": "HHRR"
@@ -690,25 +690,25 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Tonic of Rebirth",
+        "card_name": "Sunseed Scion",
         "number": 38,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Tincture Trade",
+        "card_name": "Thirst for Answers",
         "number": 78,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Sanity Robber",
-        "number": 114,
+        "number": 113,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Tonic of Scorching",
+        "card_name": "Terminal Discharge",
         "number": 162,
         "shape": "normal",
         "set": "HHRR"
@@ -726,14 +726,14 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Tonic of Buoyancy",
+        "card_name": "Tincture Trade",
         "number": 79,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Tonic of Leeching",
-        "number": 120,
+        "card_name": "Void Gaze",
+        "number": 122,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -744,7 +744,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Tonic of Incubation",
+        "card_name": "Treeline Watcher",
         "number": 201,
         "shape": "normal",
         "set": "HHRR"
@@ -774,8 +774,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Treeline Watcher",
-        "number": 202,
+        "card_name": "Wild Retribution",
+        "number": 205,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -997,13 +997,13 @@
     },
     {
         "card_name": "Gilded Stasis",
-        "number": 58,
+        "number": 59,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Living Death Potion",
-        "number": 104,
+        "card_name": "Petalshade Spy",
+        "number": 108,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1021,25 +1021,25 @@
     },
     {
         "card_name": "Plow the Fields",
-        "number": 26,
+        "number": 27,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Lost in the Breeze",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Petalshade Spy",
-        "number": 109,
+        "card_name": "Sadistic Blessing",
+        "number": 112,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Devious Pyroweevil",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1051,19 +1051,19 @@
     },
     {
         "card_name": "Protective Homesteader",
-        "number": 28,
+        "number": 29,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Nettle's Determination",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Sadistic Blessing",
-        "number": 113,
+        "card_name": "Sift Through Bones",
+        "number": 115,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1081,18 +1081,18 @@
     },
     {
         "card_name": "Rootguard Sentry",
-        "number": 29,
+        "number": 30,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Quickdraw Lookout",
-        "number": 67,
+        "number": 68,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Sift Through Bones",
+        "card_name": "Sister of the Fens",
         "number": 116,
         "shape": "normal",
         "set": "HHRR"
@@ -1111,13 +1111,13 @@
     },
     {
         "card_name": "Salve Healer",
-        "number": 30,
+        "number": 31,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Riverside Herbalist",
-        "number": 69,
+        "number": 70,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1141,13 +1141,13 @@
     },
     {
         "card_name": "Seedgale Sphinx",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Runefeather Owl",
-        "number": 70,
+        "number": 72,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1171,19 +1171,19 @@
     },
     {
         "card_name": "Strike Through the Grass",
-        "number": 35,
+        "number": 37,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Sudden Solution",
-        "number": 73,
+        "number": 75,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Touch of Nightshade",
-        "number": 121,
+        "number": 120,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1213,19 +1213,19 @@
     },
     {
         "card_name": "Vitality Extraction",
-        "number": 122,
+        "number": 121,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Scholar's Apprentice",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Valley Mender Giant",
-        "number": 203,
+        "number": 202,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1244,7 +1244,7 @@
     "a->gold",
     {
         "card_name": "Solstice, Seedspeaker",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1255,14 +1255,14 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Unyielding Tormentor",
-        "number": 248,
+        "card_name": "Bramble, Voice of Malice",
+        "number": 208,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Gourd, the Overgrown",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1280,7 +1280,7 @@
     },
     {
         "card_name": "Graveplasm",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1292,7 +1292,7 @@
     },
     {
         "card_name": "Village Leveler",
-        "number": 251,
+        "number": 250,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1310,43 +1310,43 @@
     },
     {
         "card_name": "Vespera, Formula Shaper",
-        "number": 249,
+        "number": 248,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Vile Inspection",
-        "number": 250,
+        "number": 249,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Wildrite Channeler",
-        "number": 253,
+        "number": 252,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Sunseed Justiciar",
-        "number": 241,
+        "number": 242,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Sanitarium Matron",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Corinna, Catalyst Brewer",
-        "number": 210,
+        "number": 211,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Court-Caller Minstrel",
-        "number": 211,
+        "card_name": "Grel, Court-Caller Minstrel",
+        "number": 220,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1364,25 +1364,25 @@
     },
     {
         "card_name": "Shifting Pendant",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Runoff Monstrosity",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Gloomthorn Arbiter",
-        "number": 217,
+        "card_name": "Needletooth Coven",
+        "number": 230,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Searing Growth",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1415,7 +1415,7 @@
     },
     {
         "card_name": "Winry, Ascended Battlemage",
-        "number": 255,
+        "number": 254,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1433,7 +1433,7 @@
     },
     {
         "card_name": "Oddity Forager",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1445,19 +1445,19 @@
     },
     {
         "card_name": "Nettle, Sparkwing Prodigy",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Rotmonger",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Clover, Shieldbreaker",
-        "number": 209,
+        "number": 210,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1469,25 +1469,25 @@
     },
     {
         "card_name": "Quinn, Funerary Hostess",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Purge the Archives",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Winds of Decay",
-        "number": 254,
+        "number": 253,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Swarmlings",
-        "number": 243,
+        "number": 244,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1505,25 +1505,25 @@
     },
     {
         "card_name": "Stormflux Theorist",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "BrambleBog Reclaimer",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Swarmcaller Captain",
-        "number": 242,
+        "number": 243,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Graceful Bladesinger",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1534,8 +1534,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Thermal Revisionist",
-        "number": 244,
+        "card_name": "Yvell, Thermal Revisionist",
+        "number": 255,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1547,7 +1547,7 @@
     },
     {
         "card_name": "Warthorn Stinger",
-        "number": 252,
+        "number": 251,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1577,8 +1577,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Draught of Fortitude",
-        "number": 259,
+        "card_name": "Crow's Scythe",
+        "number": 258,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1626,7 +1626,7 @@
     },
     {
         "card_name": "Cursed Tome",
-        "number": 258,
+        "number": 259,
         "shape": "normal",
         "set": "HHRR"
     },
