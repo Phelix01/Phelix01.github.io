@@ -1843,6 +1843,103 @@
     {
         "card_name": "er"
     },
+    "a->token",
+    {
+        "card_name": "Food",
+        "number": 11,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Potion",
+        "number": 12,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 13,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Peasant",
+        "number": 1,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Rat",
+        "number": 2,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Amarsil",
+        "number": 3,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Elf Ranger",
+        "number": 4,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Faerie Assassin",
+        "number": 6,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 5,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Faerie Soldier",
+        "number": 7,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Insect",
+        "number": 8,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Shade",
+        "number": 9,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Zombie Soldier",
+        "number": 10,
+        "shape": "token",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     }

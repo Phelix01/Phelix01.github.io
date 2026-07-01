@@ -2883,6 +2883,136 @@
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/175_Eladrin Ranger Captain.png"
 			}
+		},
+		{
+			"name": "Peasant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Peasant ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/1_Peasant.png"
+			}
+		},
+		{
+			"name": "Shade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Shade ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/9_Shade.png"
+			}
+		},
+		{
+			"name": "Faerie Assassin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Assassin ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/6_Faerie Assassin.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/8_Insect.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/5_Elemental.png"
+			}
+		},
+		{
+			"name": "Faerie Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Soldier ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/7_Faerie Soldier.png"
+			}
+		},
+		{
+			"name": "Rat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/2_Rat.png"
+			}
+		},
+		{
+			"name": "Amarsil",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Token Creature — Wolf ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/3_Amarsil.png"
+			}
+		},
+		{
+			"name": "Elf Ranger",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elf Ranger ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/4_Elf Ranger.png"
+			}
+		},
+		{
+			"name": "Zombie Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie Soldier ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/10_Zombie Soldier.png"
+			}
+		},
+		{
+			"name": "Potion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Potion ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/12_Potion.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/11_Food.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/13_Treasure.png"
+			}
 		}
 	]
 [RareSlot(1)]
