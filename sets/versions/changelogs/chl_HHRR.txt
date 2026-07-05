@@ -1,4 +1,643 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Mistrunner Jackalope added.
+Thrumm, Savage Sovereign added.
+
+Mistrunner Jackolope removed.
+Thrumm, Savage Soverign removed.
+
+Dryad Apothecary
+
+Lowland Farmhands
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Sadistic Blessing
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+
+Brushfire Elemental
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+
+Blazing Clarity
+
+Sunfruit Harvester
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+
+Sudden Solution
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Eladrin Avenger
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Root Ward
+
+Drop of Foxglove
+
+Luminous Growth
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Crone's Grip Elixir
+
+Hemlock Strawjack
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Noon-Cursed Waif
+
+Devout Shadekin
+
+Starlight Infuser
+
+Faerie Farmhand
+
+Bramble-Scout
+
+Sunseed Scion
+
+Wheatcrest Paladin
+
+Forced Fieldwork
+
+Sanctuary Purge
+
+Spiritual Remedy
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Deadfall Corpse-Eater
+rules_text: When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{R}, Exile a creature card from your graveyard: This creature gets +2/+0 until end of turn. Activate only as a sorcery and only once each turn. => When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever this creature attacks, you may exile a creature card from your graveyard. If you do, this creature gets +2/+0 until end of turn.
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+
+BrambleBog Reclaimer
+rules_text: When this creature enters, you may return target creature card with mana value 3 or less from your graveyard to the battlefield with a decayed counter on it.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i] => When this creature enters, return up to one target creature or land card from your graveyard to your hand.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+
+Warthorn Stinger
+
+Myrtlewort Trickster
+rules_text: Flash
+When this creature enters, choose one —
+• Counter target spell unless its controller pays {2}.
+• Target creature gets +2/+2 until end of turn. => Flash
+Flying
+When this creature enters, choose one —
+• Counter target spell unless its controller pays {2}.
+• Target creature gets +2/+2 until end of turn.
+
+Graceful Bladesinger
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Roaming Tattercloak
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+
+Fogstep
+
+Tincture Trade
+
+Dialectician Mentor
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Void Gaze
+
+Bloodletter Pixie
+
+Mirrorborn Alpha
+rules_text: Whenever this creature attacks, if this creature isn't a copy, create a token that's a copy of it. It enters tapped and attacking. Exile tokens created this way at end of combat. => Whenever this creature attacks, if it isn't a copy, create a token that's a copy of it. It enters tapped and attacking. Exile tokens created this way at end of combat.
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+rules_text: This creature has flying during your turn.
+{1}{R}: Target Faerie you control gets +1/+0 and gains first strike until end of turn. Activate only as a sorcery and only once each turn. => This creature has flying during your turn.
+{1}{R}: Target Faerie gets +1/+0 and gains first strike until end of turn. Activate only as a sorcery and only once each turn.
+
+Vale Multiye
+
+Needletooth Coven
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+
+Shatterflask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Prodigy Flare
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Wild Retribution
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Comforting Candle
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+rules_text: When Idina enters, put a vigilance counter on up to one target creature or artifact you control.
+Creatures you control with one or more counters on them get+1/+1 and have “Ward—Harvest.” [i](Whenever that creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2} or removes a +1/+1 counter from a permanent they control.)[/i] => When Idina enters, put a vigilance counter on up to one target creature or artifact you control.
+Creatures you control with one or more counters on them get +1/+1 and have “Ward—Harvest.” [i](Whenever that creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2} or removes a +1/+1 counter from a permanent they control.)[/i]
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Spiteful Plea
+
+Fidget, Pixie Crownling
+
+Celeste, Archivist Tutor
+rules_text: Whenever Celeste enters or attacks, create a 1/1 red Sorcerer creature token with prowess.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, exile the top card of your library. You may play that card for as long as it remains in exile. This ability triggers only once each turn. => Whenever Celeste enters or attacks, create a 1/1 blue and red Elemental creature token with prowess.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, exile the top card of your library. You may play that card for as long as it remains in exile. This ability triggers only once each turn.
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Vinestone Basker
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+
+Hollow Rider
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+
+Graveplasm
+
+Vile Inspection
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Crow's Scythe
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+rules_text: {T}: Add {C}.
+{2}, {T}: Choose a color. Add an amount of mana of that color equal to the number of different kinds of counters among permanents you control. => {T}: Add {C}.
+{2}, {T}: Choose a color. Add one mana of that color for each kind of counter among permanents you control.
+
+Faeverge Pass
+
+Gerome, the Farmfather
+rules_text: Vigilance
+Whenever Gerome enters or attacks, you may harvest. If you do, create a 1/1 white Peasant creature token with vigilance for each time you've harvested this turn. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i] => Vigilance
+Whenever Gerome enters or attacks, you may harvest. If you do, target creature gains first strike until end of turn. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i]
+Whenever you harvest, create a 1/1 white Peasant creature token with vigilance.
+
+Ophelia, High Cartographer
+rules_text: {WB}: Target Shade you control gets +1/+1 until end of turn.
+At the beginning of your end step, return target Shade creature card with mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you've gained this turn. => {WB}: Target Shade you control gets +1/+1 until end of turn.
+At the beginning of your end step, return up to one target Shade creature card with mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you've gained this turn.
+
+Abaros, Spire Archmage
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+
+Exenterate
+
+Blazette, Blazing Blunder
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Maeve, Teahouse Keeper
+
+Bramble, Voice of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+rules_text: Prowess
+Winry enters with a +1/+1 counter on it.
+Whenever you cast an instant or sorcery spell, you may remove a counter from Winry. When you do, you may cast a copy of that spell. You may choose new targets for the copy. => Prowess
+Winry enters with a +1/+1 counter on it.
+Whenever you cast an instant or sorcery spell, you may remove a counter from Winry. When you do, cast a copy of that spell. You may choose new targets for the copy.
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+rules_text: Flying, first strike
+Whenever Thistle attacks, choose up to one other target attacking creature. It gets +2/+0 until end of turn. If that creature is a Faerie, exile the top card of your library. You may play that card until end of turn. => Flying, first strike
+Whenever Thistle attacks, another target creature gets +2/+0 until end of turn. If it's a Faerie, exile the top card of your library. You may play that card this turn.
+
+Traveling Swashbuckler
+
+Yvell, Thermal Revisionist
+
+Sister of the Fens
+
+Petalshade Spy
+
+Dualflame Channeler
+
+Dark Whimsy
+
+Eladrin Ranger Captain
+
+Peasant
+
+Shade
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+pt: X/X => */*
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Peasant added.

@@ -1191,13 +1191,13 @@
 			}
 		},
 		{
-			"name": "Mistrunner Jackolope",
+			"name": "Mistrunner Jackalope",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Rabbit Elemental ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/64_Mistrunner Jackolope.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/64_Mistrunner Jackalope.png"
 			}
 		},
 		{
@@ -2308,13 +2308,13 @@
 			}
 		},
 		{
-			"name": "Thrumm, Savage Soverign",
+			"name": "Thrumm, Savage Sovereign",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
 			"type": "Legendary Creature — Fungus Barbarian ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/200_Thrumm, Savage Soverign.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/200_Thrumm, Savage Sovereign.png"
 			}
 		},
 		{
@@ -2909,9 +2909,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie Assassin ",
-			"collector_number": "6",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/6_Faerie Assassin.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/3_Faerie Assassin.png"
 			}
 		},
 		{
@@ -2929,9 +2929,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental ",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/5_Elemental.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/6_Elemental.png"
 			}
 		},
 		{
@@ -2959,9 +2959,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Token Creature — Wolf ",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/3_Amarsil.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/4_Amarsil.png"
 			}
 		},
 		{
@@ -2969,9 +2969,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elf Ranger ",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/4_Elf Ranger.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/5_Elf Ranger.png"
 			}
 		},
 		{
@@ -3050,7 +3050,7 @@
 2 Ruination Blast
 2 Alyra, Orchard's Heart
 2 Harvest Sprite
-2 Thrumm, Savage Soverign
+2 Thrumm, Savage Sovereign
 2 Vinestone Basker
 2 Choking Roots
 2 Harmonic Sanctuary
@@ -3143,7 +3143,7 @@
 9 Shadow Shrieker
 9 Stutter-Mage Duo
 9 Inquisitive Examiner
-9 Mistrunner Jackolope
+9 Mistrunner Jackalope
 9 Roaming Tattercloak
 9 Engulf
 9 Calcinate
@@ -3420,7 +3420,7 @@
 10 Stutter-Mage Duo
 10 Vespera, Formula Shaper
 10 Inquisitive Examiner
-10 Mistrunner Jackolope
+10 Mistrunner Jackalope
 10 Roaming Tattercloak
 10 Engulf
 10 Calcinate
@@ -3526,7 +3526,7 @@
 10 Ruination Blast
 10 Alyra, Orchard's Heart
 10 Harvest Sprite
-10 Thrumm, Savage Soverign
+10 Thrumm, Savage Sovereign
 10 Vinestone Basker
 10 Choking Roots
 10 Harmonic Sanctuary

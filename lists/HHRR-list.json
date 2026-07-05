@@ -234,7 +234,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Thrumm, Savage Soverign",
+        "card_name": "Thrumm, Savage Sovereign",
         "number": 200,
         "shape": "normal",
         "set": "HHRR"
@@ -546,7 +546,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Mistrunner Jackolope",
+        "card_name": "Mistrunner Jackalope",
         "number": 64,
         "shape": "normal",
         "set": "HHRR"
@@ -1875,26 +1875,26 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Amarsil",
+        "card_name": "Faerie Assassin",
         "number": 3,
         "shape": "token",
         "set": "HHRR"
     },
     {
-        "card_name": "Elf Ranger",
+        "card_name": "Amarsil",
         "number": 4,
         "shape": "token",
         "set": "HHRR"
     },
     {
-        "card_name": "Faerie Assassin",
-        "number": 6,
+        "card_name": "Elf Ranger",
+        "number": 5,
         "shape": "token",
         "set": "HHRR"
     },
     {
         "card_name": "Elemental",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "HHRR"
     },
