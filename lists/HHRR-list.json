@@ -37,7 +37,7 @@
     },
     {
         "card_name": "Swift Shadowhawk",
-        "number": 76,
+        "number": 75,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -115,13 +115,13 @@
     },
     {
         "card_name": "Choking Roots",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Bramblewing Ambusher",
-        "number": 5,
+        "number": 4,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -138,14 +138,14 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Celeste, Archivist Tutor",
+        "card_name": "Celeste, Evocation Archivist",
         "number": 137,
         "shape": "normal",
         "set": "HHRR"
     },
     {
-        "card_name": "Eladrin Ranger Captain",
-        "number": 175,
+        "card_name": "Harmonic Sanctuary",
+        "number": 179,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -174,8 +174,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Harmonic Sanctuary",
-        "number": 179,
+        "card_name": "Harvest Sprite",
+        "number": 180,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -204,8 +204,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Harvest Sprite",
-        "number": 180,
+        "card_name": "Orchard Ranger Captain",
+        "number": 189,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -234,7 +234,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Thrumm, Savage Sovereign",
+        "card_name": "Thrumm, Savage Soverign",
         "number": 200,
         "shape": "normal",
         "set": "HHRR"
@@ -300,8 +300,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Bramble-Scout",
-        "number": 4,
+        "card_name": "Briarbrush Scout",
+        "number": 5,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Discovery of Ghostbloom",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -415,7 +415,7 @@
     },
     {
         "card_name": "Eithana, Treepaw Scout",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -535,7 +535,7 @@
     },
     {
         "card_name": "Manifest Ferocity",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -546,7 +546,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Mistrunner Jackalope",
+        "card_name": "Mistrunner Jackolope",
         "number": 64,
         "shape": "normal",
         "set": "HHRR"
@@ -565,7 +565,7 @@
     },
     {
         "card_name": "Mulching Sovereign",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -606,8 +606,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Roaming Tattercloak",
-        "number": 71,
+        "card_name": "Shadow Shrieker",
+        "number": 72,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -636,7 +636,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Shadow Shrieker",
+        "card_name": "Stutter-Mage Duo",
         "number": 73,
         "shape": "normal",
         "set": "HHRR"
@@ -666,8 +666,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Stutter-Mage Duo",
-        "number": 74,
+        "card_name": "Tattercloak Presence",
+        "number": 76,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -678,7 +678,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Shatterflask",
+        "card_name": "Shatter Flask",
         "number": 161,
         "shape": "normal",
         "set": "HHRR"
@@ -804,8 +804,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Drop of Foxglove",
-        "number": 171,
+        "card_name": "Bountiful Yield",
+        "number": 169,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -834,7 +834,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Dryad Apothecary",
+        "card_name": "Drop of Foxglove",
         "number": 172,
         "shape": "normal",
         "set": "HHRR"
@@ -864,8 +864,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Eladrin Avenger",
-        "number": 174,
+        "card_name": "Dryad Apothecary",
+        "number": 173,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -894,8 +894,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Gentle Loamweaver",
-        "number": 177,
+        "card_name": "Eladrin Avenger",
+        "number": 175,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -924,8 +924,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Grovetender Druid",
-        "number": 178,
+        "card_name": "Gentle Loamweaver",
+        "number": 177,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -954,8 +954,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Lumbering Crop-Guard",
-        "number": 184,
+        "card_name": "Grovetender Druid",
+        "number": 178,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -984,8 +984,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Luminous Growth",
-        "number": 185,
+        "card_name": "Lumbering Crop-Guard",
+        "number": 184,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1015,7 +1015,7 @@
     },
     {
         "card_name": "Luminous Hart",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1045,7 +1045,7 @@
     },
     {
         "card_name": "Orchard Ranger",
-        "number": 189,
+        "number": 188,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1147,7 +1147,7 @@
     },
     {
         "card_name": "Runefeather Owl",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1177,7 +1177,7 @@
     },
     {
         "card_name": "Sudden Solution",
-        "number": 75,
+        "number": 74,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1510,7 +1510,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "BrambleBog Reclaimer",
+        "card_name": "Bramble-Bog Reclaimer",
         "number": 209,
         "shape": "normal",
         "set": "HHRR"
@@ -1809,25 +1809,55 @@
     },
     {
         "card_name": "Island",
-        "number": 284,
-        "shape": "normal",
-        "set": "HHRR"
-    },
-    {
-        "card_name": "Swamp",
         "number": 285,
         "shape": "normal",
         "set": "HHRR"
     },
     {
+        "card_name": "Swamp",
+        "number": 287,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
         "card_name": "Mountain",
-        "number": 286,
+        "number": 289,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Forest",
-        "number": 287,
+        "number": 291,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Plains",
+        "number": 284,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Island",
+        "number": 286,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 288,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 290,
+        "shape": "normal",
+        "set": "HHRR"
+    },
+    {
+        "card_name": "Forest",
+        "number": 292,
         "shape": "normal",
         "set": "HHRR"
     },

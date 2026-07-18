@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dryad Alchemist ",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/172_Dryad Apothecary.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/173_Dryad Apothecary.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird ",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/72_Runefeather Owl.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/71_Runefeather Owl.png"
 			}
 		},
 		{
@@ -178,6 +178,16 @@
 			"collector_number": "57",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/57_Fogfen Lurker.png"
+			}
+		},
+		{
+			"name": "Traveling Swashbuckler",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/80_Traveling Swashbuckler.png"
 			}
 		},
 		{
@@ -228,6 +238,16 @@
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/103_Leshy Bone Collector.png"
+			}
+		},
+		{
+			"name": "Petalshade Spy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Nymph Rogue ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/108_Petalshade Spy.png"
 			}
 		},
 		{
@@ -513,11 +533,11 @@
 		{
 			"name": "Sudden Solution",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/75_Sudden Solution.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/74_Sudden Solution.png"
 			}
 		},
 		{
@@ -615,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Ranger ",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/189_Orchard Ranger.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/188_Orchard Ranger.png"
 			}
 		},
 		{
@@ -635,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elk ",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/186_Luminous Hart.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/185_Luminous Hart.png"
 			}
 		},
 		{
@@ -655,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Elf Knight ",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/174_Eladrin Avenger.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/175_Eladrin Avenger.png"
 			}
 		},
 		{
@@ -695,19 +715,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/171_Drop of Foxglove.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/172_Drop of Foxglove.png"
 			}
 		},
 		{
-			"name": "Luminous Growth",
+			"name": "Bountiful Yield",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "185",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/185_Luminous Growth.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/169_Bountiful Yield.png"
 			}
 		},
 		{
@@ -851,13 +871,13 @@
 			}
 		},
 		{
-			"name": "Bramble-Scout",
+			"name": "Briarbrush Scout",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Faerie Scout ",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/4_Bramble-Scout.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/5_Briarbrush Scout.png"
 			}
 		},
 		{
@@ -898,16 +918,6 @@
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/32_Sanctuary Purge.png"
-			}
-		},
-		{
-			"name": "Spiritual Remedy",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Sorcery",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/34_Spiritual Remedy.png"
 			}
 		},
 		{
@@ -991,13 +1001,13 @@
 			}
 		},
 		{
-			"name": "Deadfall Corpse-Eater",
+			"name": "Needletooth Coven",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Zombie Horror ",
-			"collector_number": "141",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Faerie Assassin ",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/141_Deadfall Corpse-Eater.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/230_Needletooth Coven.png"
 			}
 		},
 		{
@@ -1051,13 +1061,23 @@
 			}
 		},
 		{
-			"name": "BrambleBog Reclaimer",
+			"name": "Yvell, Thermal Revisionist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Tiefling Sorcerer ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/255_Yvell, Thermal Revisionist.png"
+			}
+		},
+		{
+			"name": "Bramble-Bog Reclaimer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Zombie Druid ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/209_BrambleBog Reclaimer.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/209_Bramble-Bog Reclaimer.png"
 			}
 		},
 		{
@@ -1155,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Harpy Warlock ",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/73_Shadow Shrieker.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/72_Shadow Shrieker.png"
 			}
 		},
 		{
@@ -1165,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elf Wizard ",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/74_Stutter-Mage Duo.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/73_Stutter-Mage Duo.png"
 			}
 		},
 		{
@@ -1191,23 +1211,23 @@
 			}
 		},
 		{
-			"name": "Mistrunner Jackalope",
+			"name": "Mistrunner Jackolope",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Rabbit Elemental ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/64_Mistrunner Jackalope.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/64_Mistrunner Jackolope.png"
 			}
 		},
 		{
-			"name": "Roaming Tattercloak",
+			"name": "Tattercloak Presence",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Scarecrow Spirit ",
-			"collector_number": "71",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/71_Roaming Tattercloak.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/76_Tattercloak Presence.png"
 			}
 		},
 		{
@@ -1253,21 +1273,11 @@
 		{
 			"name": "Compulsory Reading",
 			"rarity": "uncommon",
-			"mana_cost": "{X}{U}{U}",
+			"mana_cost": "{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/50_Compulsory Reading.png"
-			}
-		},
-		{
-			"name": "Fogstep",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "58",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/58_Fogstep.png"
 			}
 		},
 		{
@@ -1304,7 +1314,7 @@
 			"name": "Dusk-Rose Acolyte",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Nymph Alchemist ",
+			"type": "Creature — Human Alchemist ",
 			"collector_number": "92",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/92_Dusk-Rose Acolyte.png"
@@ -1441,16 +1451,6 @@
 			}
 		},
 		{
-			"name": "Void Gaze",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "122",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/122_Void Gaze.png"
-			}
-		},
-		{
 			"name": "Bloodletter Pixie",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
@@ -1458,16 +1458,6 @@
 			"collector_number": "128",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/128_Bloodletter Pixie.png"
-			}
-		},
-		{
-			"name": "Mirrorborn Alpha",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Faerie Beast ",
-			"collector_number": "155",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/155_Mirrorborn Alpha.png"
 			}
 		},
 		{
@@ -1501,13 +1491,13 @@
 			}
 		},
 		{
-			"name": "Needletooth Coven",
+			"name": "Dualflame Channeler",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Faerie Assassin ",
-			"collector_number": "230",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Sorcerer ",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/230_Needletooth Coven.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/143_Dualflame Channeler.png"
 			}
 		},
 		{
@@ -1531,13 +1521,13 @@
 			}
 		},
 		{
-			"name": "Shatterflask",
+			"name": "Shatter Flask",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/161_Shatterflask.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/161_Shatter Flask.png"
 			}
 		},
 		{
@@ -1578,16 +1568,6 @@
 			"collector_number": "129",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/129_Bloodlust Blade.png"
-			}
-		},
-		{
-			"name": "Prodigy Flare",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Sorcery",
-			"collector_number": "157",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/157_Prodigy Flare.png"
 			}
 		},
 		{
@@ -1675,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Elf Scout ",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/173_Eithana, Treepaw Scout.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/174_Eithana, Treepaw Scout.png"
 			}
 		},
 		{
@@ -1685,9 +1665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elemental Beast ",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/188_Mulching Sovereign.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/187_Mulching Sovereign.png"
 			}
 		},
 		{
@@ -1715,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/170_Discovery of Ghostbloom.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/171_Discovery of Ghostbloom.png"
 			}
 		},
 		{
@@ -1735,19 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/187_Manifest Ferocity.png"
-			}
-		},
-		{
-			"name": "Wild Retribution",
-			"rarity": "uncommon",
-			"mana_cost": "{X}{G}",
-			"type": "Instant",
-			"collector_number": "205",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/205_Wild Retribution.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/186_Manifest Ferocity.png"
 			}
 		},
 		{
@@ -1912,9 +1882,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Faerie Soldier ",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/5_Bramblewing Ambusher.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/4_Bramblewing Ambusher.png"
 			}
 		},
 		{
@@ -1932,9 +1902,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/284_Island.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/285_Island.png"
 			}
 		},
 		{
@@ -1942,9 +1912,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "285",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/285_Swamp.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/287_Swamp.png"
 			}
 		},
 		{
@@ -1952,9 +1922,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "286",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/286_Mountain.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/289_Mountain.png"
 			}
 		},
 		{
@@ -1962,9 +1932,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "287",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/287_Forest.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/291_Forest.png"
 			}
 		},
 		{
@@ -2218,13 +2188,13 @@
 			}
 		},
 		{
-			"name": "Celeste, Archivist Tutor",
+			"name": "Celeste, Evocation Archivist",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Sorcerer ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/137_Celeste, Archivist Tutor.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/137_Celeste, Evocation Archivist.png"
 			}
 		},
 		{
@@ -2308,23 +2278,13 @@
 			}
 		},
 		{
-			"name": "Thrumm, Savage Sovereign",
+			"name": "Thrumm, Savage Soverign",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
 			"type": "Legendary Creature — Fungus Barbarian ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/200_Thrumm, Savage Sovereign.png"
-			}
-		},
-		{
-			"name": "Vinestone Basker",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Lizard ",
-			"collector_number": "204",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/204_Vinestone Basker.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/200_Thrumm, Savage Soverign.png"
 			}
 		},
 		{
@@ -2332,9 +2292,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/169_Choking Roots.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/170_Choking Roots.png"
 			}
 		},
 		{
@@ -2351,7 +2311,7 @@
 			"name": "Venom Synthesis",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment",
+			"type": "Sorcery",
 			"collector_number": "203",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/203_Venom Synthesis.png"
@@ -2360,7 +2320,7 @@
 		{
 			"name": "Naydel, Guide of Mists",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Cleric ",
 			"collector_number": "229",
 			"image_uris": {
@@ -2370,7 +2330,7 @@
 		{
 			"name": "Hollow Rider",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Spirit Knight ",
 			"collector_number": "221",
 			"image_uris": {
@@ -2400,7 +2360,7 @@
 		{
 			"name": "Nettle, Sparkwing Prodigy",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Faerie Wizard ",
 			"collector_number": "231",
 			"image_uris": {
@@ -2548,16 +2508,6 @@
 			}
 		},
 		{
-			"name": "Crow's Scythe",
-			"rarity": "rare",
-			"mana_cost": "{2}",
-			"type": "Artifact — Equipment ",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/258_Crow's Scythe.png"
-			}
-		},
-		{
 			"name": "Resurrection Potion",
 			"rarity": "rare",
 			"mana_cost": "{4}",
@@ -2620,7 +2570,7 @@
 		{
 			"name": "Abaros, Spire Archmage",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Tiefling Wizard ",
 			"collector_number": "42",
 			"image_uris": {
@@ -2632,9 +2582,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Bird ",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/76_Swift Shadowhawk.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/75_Swift Shadowhawk.png"
 			}
 		},
 		{
@@ -2738,7 +2688,7 @@
 			"name": "Bramble, Voice of Malice",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Faerie Warlock ",
+			"type": "Creature — Faerie Warlock ",
 			"collector_number": "208",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/208_Bramble, Voice of Malice.png"
@@ -2815,26 +2765,6 @@
 			}
 		},
 		{
-			"name": "Traveling Swashbuckler",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Elf Bard ",
-			"collector_number": "80",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/80_Traveling Swashbuckler.png"
-			}
-		},
-		{
-			"name": "Yvell, Thermal Revisionist",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature — Tiefling Sorcerer ",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/255_Yvell, Thermal Revisionist.png"
-			}
-		},
-		{
 			"name": "Sister of the Fens",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
@@ -2845,23 +2775,73 @@
 			}
 		},
 		{
-			"name": "Petalshade Spy",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Nymph Rogue ",
-			"collector_number": "108",
+			"name": "Spiritual Remedy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/108_Petalshade Spy.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/34_Spiritual Remedy.png"
 			}
 		},
 		{
-			"name": "Dualflame Channeler",
+			"name": "Fogstep",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Sorcerer ",
-			"collector_number": "143",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/143_Dualflame Channeler.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/58_Fogstep.png"
+			}
+		},
+		{
+			"name": "Void Gaze",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/122_Void Gaze.png"
+			}
+		},
+		{
+			"name": "Mirrorborn Alpha",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Faerie Beast ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/155_Mirrorborn Alpha.png"
+			}
+		},
+		{
+			"name": "Deadfall Corpse-Eater",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Zombie Horror ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/141_Deadfall Corpse-Eater.png"
+			}
+		},
+		{
+			"name": "Prodigy Flare",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/157_Prodigy Flare.png"
+			}
+		},
+		{
+			"name": "Wild Retribution",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/205_Wild Retribution.png"
 			}
 		},
 		{
@@ -2875,23 +2855,33 @@
 			}
 		},
 		{
-			"name": "Eladrin Ranger Captain",
+			"name": "Orchard Ranger Captain",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elf Ranger ",
-			"collector_number": "175",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/175_Eladrin Ranger Captain.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/189_Orchard Ranger Captain.png"
 			}
 		},
 		{
-			"name": "Peasant",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Peasant ",
-			"collector_number": "1",
+			"name": "Vinestone Basker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Lizard ",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/1_Peasant.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/204_Vinestone Basker.png"
+			}
+		},
+		{
+			"name": "Crow's Scythe",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/258_Crow's Scythe.png"
 			}
 		},
 		{
@@ -2902,6 +2892,16 @@
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/9_Shade.png"
+			}
+		},
+		{
+			"name": "Peasant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Peasant ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/1_Peasant.png"
 			}
 		},
 		{
@@ -3013,6 +3013,56 @@
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/13_Treasure.png"
 			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/284_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/286_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/288_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/290_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/292_Forest.png"
+			}
 		}
 	]
 [RareSlot(1)]
@@ -3041,7 +3091,7 @@
 2 Search for Shadows
 2 Spiteful Plea
 2 Fidget, Pixie Crownling
-2 Celeste, Archivist Tutor
+2 Celeste, Evocation Archivist
 2 Blazette's Cuddlebeast
 2 Lowlands Blacksmith
 2 Manic Inoculator
@@ -3050,8 +3100,7 @@
 2 Ruination Blast
 2 Alyra, Orchard's Heart
 2 Harvest Sprite
-2 Thrumm, Savage Sovereign
-2 Vinestone Basker
+2 Thrumm, Savage Soverign
 2 Choking Roots
 2 Harmonic Sanctuary
 2 Venom Synthesis
@@ -3074,13 +3123,14 @@
 2 Envoy of Shadows
 2 Purge the Archives
 2 Winds of Decay
-2 Crow's Scythe
 2 Resurrection Potion
 2 Sinister Scarecrow
 2 Burgundy Spire
 2 Faeverge Pass
 2 Dark Whimsy
-2 Eladrin Ranger Captain
+2 Orchard Ranger Captain
+2 Vinestone Basker
+2 Crow's Scythe
 1 Gerome, the Farmfather
 1 Ophelia, High Cartographer
 1 Abaros, Spire Archmage
@@ -3110,12 +3160,11 @@
 9 Devout Shadekin
 9 Starlight Infuser
 9 Faerie Farmhand
-9 Bramble-Scout
+9 Briarbrush Scout
 9 Sunseed Scion
 9 Wheatcrest Paladin
 9 Forced Fieldwork
 9 Sanctuary Purge
-9 Spiritual Remedy
 9 Liturgy of Abundance
 9 Umbral Veil
 9 Sanitarium Matron
@@ -3124,13 +3173,14 @@
 9 Blazing Root Brute
 9 Searing Growth
 9 Grel, Court-Caller Minstrel
-9 Deadfall Corpse-Eater
+9 Needletooth Coven
 9 Amber-Leaf Mystic
 9 Holly, Faithful Apiarist
 9 Creeping Fatemother
 9 Inevitable Enforcer
 9 Stormflux Theorist
-9 BrambleBog Reclaimer
+9 Yvell, Thermal Revisionist
+9 Bramble-Bog Reclaimer
 9 Tombyard Celebrant
 9 Swarmcaller Captain
 9 Warthorn Stinger
@@ -3143,14 +3193,13 @@
 9 Shadow Shrieker
 9 Stutter-Mage Duo
 9 Inquisitive Examiner
-9 Mistrunner Jackalope
-9 Roaming Tattercloak
+9 Mistrunner Jackolope
+9 Tattercloak Presence
 9 Engulf
 9 Calcinate
 9 Twisted Machinations
 9 Thirst for Answers
 9 Compulsory Reading
-9 Fogstep
 9 Tincture Trade
 9 Dialectician Mentor
 9 Insatiable Umbra
@@ -3168,21 +3217,18 @@
 9 Dark Court Whispers
 9 Defiled Return
 9 Overspill
-9 Void Gaze
 9 Bloodletter Pixie
-9 Mirrorborn Alpha
 9 Vitriol Transmuter
 9 Glimmersap Cultivator
 9 Vale Multiye
-9 Needletooth Coven
+9 Dualflame Channeler
 9 Burgundy Tome Hoarder
 9 Cruel Transgression
-9 Shatterflask
+9 Shatter Flask
 9 Controlled Burn
 9 Frenzied Discovery
 9 Terminal Discharge
 9 Bloodlust Blade
-9 Prodigy Flare
 9 Fae-Blessed Offshoot
 9 Alyra's Dignitary
 9 Hermetic Vessel-Keeper
@@ -3198,7 +3244,6 @@
 9 Discovery of Ghostbloom
 9 Territory Encroachment
 9 Manifest Ferocity
-9 Wild Retribution
 9 Grainfield Guardian
 9 Pocket Potion
 9 Herbal Safeguard
@@ -3216,8 +3261,13 @@
 9 Paddock Snatcher
 9 Deadfall Marsh
 9 Starlight Cradle
-9 Yvell, Thermal Revisionist
-9 Dualflame Channeler
+9 Spiritual Remedy
+9 Fogstep
+9 Void Gaze
+9 Mirrorborn Alpha
+9 Deadfall Corpse-Eater
+9 Prodigy Flare
+9 Wild Retribution
 [CommonSlot(7)]
 30 Dryad Apothecary
 30 Lowland Farmhands
@@ -3237,11 +3287,13 @@
 30 Uplifting Alchemy
 30 Runefeather Owl
 30 Fogfen Lurker
+30 Traveling Swashbuckler
 30 Seedgale Sphinx
 30 Brainjuice Tincture
 30 Alchemical Array
 30 Gilded Stasis
 30 Leshy Bone Collector
+30 Petalshade Spy
 30 Stalking Sadist
 30 Catacomb Shade
 30 Faithless Reaper
@@ -3289,7 +3341,7 @@
 30 Sylvan Purity
 30 Root Ward
 30 Drop of Foxglove
-30 Luminous Growth
+30 Bountiful Yield
 30 Taste Test
 30 Drifting Scarecrow
 30 Harvesting Tools
@@ -3297,9 +3349,7 @@
 30 Hemlock Strawjack
 30 Abandoned Hamlet
 30 Cursed Tome
-30 Traveling Swashbuckler
 30 Sister of the Fens
-30 Petalshade Spy
 [WildcardSlot(2)]
 10 Dryad Apothecary
 10 Lowland Farmhands
@@ -3319,11 +3369,13 @@
 10 Uplifting Alchemy
 10 Runefeather Owl
 10 Fogfen Lurker
+10 Traveling Swashbuckler
 10 Seedgale Sphinx
 10 Brainjuice Tincture
 10 Alchemical Array
 10 Gilded Stasis
 10 Leshy Bone Collector
+10 Petalshade Spy
 10 Stalking Sadist
 10 Catacomb Shade
 10 Faithless Reaper
@@ -3371,7 +3423,7 @@
 10 Sylvan Purity
 10 Root Ward
 10 Drop of Foxglove
-10 Luminous Growth
+10 Bountiful Yield
 10 Taste Test
 10 Drifting Scarecrow
 10 Harvesting Tools
@@ -3386,12 +3438,11 @@
 10 Devout Shadekin
 10 Starlight Infuser
 10 Faerie Farmhand
-10 Bramble-Scout
+10 Briarbrush Scout
 10 Sunseed Scion
 10 Wheatcrest Paladin
 10 Forced Fieldwork
 10 Sanctuary Purge
-10 Spiritual Remedy
 10 Liturgy of Abundance
 10 Umbral Veil
 10 Sanitarium Matron
@@ -3400,13 +3451,14 @@
 10 Blazing Root Brute
 10 Searing Growth
 10 Grel, Court-Caller Minstrel
-10 Deadfall Corpse-Eater
+10 Needletooth Coven
 10 Amber-Leaf Mystic
 10 Holly, Faithful Apiarist
 10 Creeping Fatemother
 10 Inevitable Enforcer
 10 Stormflux Theorist
-10 BrambleBog Reclaimer
+10 Yvell, Thermal Revisionist
+10 Bramble-Bog Reclaimer
 10 Tombyard Celebrant
 10 Swarmcaller Captain
 10 Warthorn Stinger
@@ -3420,14 +3472,13 @@
 10 Stutter-Mage Duo
 10 Vespera, Formula Shaper
 10 Inquisitive Examiner
-10 Mistrunner Jackalope
-10 Roaming Tattercloak
+10 Mistrunner Jackolope
+10 Tattercloak Presence
 10 Engulf
 10 Calcinate
 10 Twisted Machinations
 10 Thirst for Answers
 10 Compulsory Reading
-10 Fogstep
 10 Tincture Trade
 10 Dialectician Mentor
 10 Insatiable Umbra
@@ -3445,21 +3496,18 @@
 10 Dark Court Whispers
 10 Defiled Return
 10 Overspill
-10 Void Gaze
 10 Bloodletter Pixie
-10 Mirrorborn Alpha
 10 Vitriol Transmuter
 10 Glimmersap Cultivator
 10 Vale Multiye
-10 Needletooth Coven
+10 Dualflame Channeler
 10 Burgundy Tome Hoarder
 10 Cruel Transgression
-10 Shatterflask
+10 Shatter Flask
 10 Controlled Burn
 10 Frenzied Discovery
 10 Terminal Discharge
 10 Bloodlust Blade
-10 Prodigy Flare
 10 Fae-Blessed Offshoot
 10 Alyra's Dignitary
 10 Hermetic Vessel-Keeper
@@ -3475,7 +3523,6 @@
 10 Discovery of Ghostbloom
 10 Territory Encroachment
 10 Manifest Ferocity
-10 Wild Retribution
 10 Grainfield Guardian
 10 Pocket Potion
 10 Herbal Safeguard
@@ -3517,7 +3564,7 @@
 10 Search for Shadows
 10 Spiteful Plea
 10 Fidget, Pixie Crownling
-10 Celeste, Archivist Tutor
+10 Celeste, Evocation Archivist
 10 Blazette's Cuddlebeast
 10 Lowlands Blacksmith
 10 Manic Inoculator
@@ -3526,8 +3573,7 @@
 10 Ruination Blast
 10 Alyra, Orchard's Heart
 10 Harvest Sprite
-10 Thrumm, Savage Sovereign
-10 Vinestone Basker
+10 Thrumm, Savage Soverign
 10 Choking Roots
 10 Harmonic Sanctuary
 10 Venom Synthesis
@@ -3550,7 +3596,6 @@
 10 Envoy of Shadows
 10 Purge the Archives
 10 Winds of Decay
-10 Crow's Scythe
 10 Resurrection Potion
 10 Sinister Scarecrow
 10 Burgundy Spire
@@ -3576,11 +3621,16 @@
 10 Monarch of the Lost Cycle
 10 Divine Herdmaster
 10 Thistle, Sting of Whimsy
-10 Traveling Swashbuckler
-10 Yvell, Thermal Revisionist
 10 Sister of the Fens
-10 Petalshade Spy
-10 Dualflame Channeler
+10 Spiritual Remedy
+10 Fogstep
+10 Void Gaze
+10 Mirrorborn Alpha
+10 Deadfall Corpse-Eater
+10 Prodigy Flare
+10 Wild Retribution
 10 Dark Whimsy
-10 Eladrin Ranger Captain
+10 Orchard Ranger Captain
+10 Vinestone Basker
+10 Crow's Scythe
 [LandSlot(1)]
