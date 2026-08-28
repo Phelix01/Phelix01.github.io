@@ -354,7 +354,7 @@
 			"name": "Brazen Pilferer",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Tiefling Rogue ",
+			"type": "Creature — Azra Rogue ",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/132_Brazen Pilferer.png"
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Faerie Soldier ",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/136_Canopy Skirmisher.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/135_Canopy Skirmisher.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Sorcerer ",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/134_Burgundy Spire Initiate.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/133_Burgundy Spire Initiate.png"
 			}
 		},
 		{
@@ -391,13 +391,13 @@
 			}
 		},
 		{
-			"name": "Brushfire Elemental",
+			"name": "Cropfire Elemental",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Elemental ",
-			"collector_number": "133",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/133_Brushfire Elemental.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/138_Cropfire Elemental.png"
 			}
 		},
 		{
@@ -494,7 +494,7 @@
 			"name": "Eager Thaumaturge",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Tiefling Wizard ",
+			"type": "Creature — Azra Wizard ",
 			"collector_number": "55",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/55_Eager Thaumaturge.png"
@@ -533,7 +533,7 @@
 		{
 			"name": "Sudden Solution",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
@@ -574,7 +574,7 @@
 			"name": "Scholar's Apprentice",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Tiefling Wizard ",
+			"type": "Creature — Azra Wizard ",
 			"collector_number": "160",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/160_Scholar's Apprentice.png"
@@ -894,7 +894,7 @@
 			"name": "Wheatcrest Paladin",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Dwarf Knight ",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/41_Wheatcrest Paladin.png"
@@ -1064,7 +1064,7 @@
 			"name": "Yvell, Thermal Revisionist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature — Tiefling Sorcerer ",
+			"type": "Legendary Creature — Azra Sorcerer ",
 			"collector_number": "255",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/255_Yvell, Thermal Revisionist.png"
@@ -1154,7 +1154,7 @@
 			"name": "Incantation Cataloger",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Tiefling Wizard ",
+			"type": "Creature — Azra Wizard ",
 			"collector_number": "60",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/60_Incantation Cataloger.png"
@@ -1505,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Dragon ",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/135_Burgundy Tome Hoarder.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/134_Burgundy Tome Hoarder.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/138_Controlled Burn.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/137_Controlled Burn.png"
 			}
 		},
 		{
@@ -2031,7 +2031,7 @@
 			"name": "Coralia Trickweaver",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature — Tiefling Wizard ",
+			"type": "Legendary Creature — Azra Wizard ",
 			"collector_number": "51",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/51_Coralia Trickweaver.png"
@@ -2192,9 +2192,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Sorcerer ",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/137_Celeste, Evocation Archivist.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/136_Celeste, Evocation Archivist.png"
 			}
 		},
 		{
@@ -2571,7 +2571,7 @@
 			"name": "Abaros, Spire Archmage",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Legendary Creature — Tiefling Wizard ",
+			"type": "Legendary Creature — Azra Wizard ",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://Phelix01.github.io/sets/HHRR-files/img/42_Abaros, Spire Archmage.png"
@@ -2685,13 +2685,13 @@
 			}
 		},
 		{
-			"name": "Bramble, Voice of Malice",
+			"name": "Bramble, Wings of Malice",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Faerie Warlock ",
+			"type": "Legendary Creature — Faerie Warlock ",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/208_Bramble, Voice of Malice.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/208_Bramble, Wings of Malice.png"
 			}
 		},
 		{
@@ -3144,7 +3144,7 @@
 1 The Midnight Solution
 1 Solstice, Seedspeaker
 1 Maeve, Teahouse Keeper
-1 Bramble, Voice of Malice
+1 Bramble, Wings of Malice
 1 Gourd, the Overgrown
 1 Oddity Forager
 1 Winry, Ascended Battlemage
@@ -3308,7 +3308,7 @@
 30 Canopy Skirmisher
 30 Burgundy Spire Initiate
 30 Brambleblood Channeler
-30 Brushfire Elemental
+30 Cropfire Elemental
 30 Flash of Resolve
 30 Bottled Inferno
 30 Firebelly Brew
@@ -3390,7 +3390,7 @@
 10 Canopy Skirmisher
 10 Burgundy Spire Initiate
 10 Brambleblood Channeler
-10 Brushfire Elemental
+10 Cropfire Elemental
 10 Flash of Resolve
 10 Bottled Inferno
 10 Firebelly Brew
@@ -3613,7 +3613,7 @@
 10 The Midnight Solution
 10 Solstice, Seedspeaker
 10 Maeve, Teahouse Keeper
-10 Bramble, Voice of Malice
+10 Bramble, Wings of Malice
 10 Gourd, the Overgrown
 10 Oddity Forager
 10 Winry, Ascended Battlemage

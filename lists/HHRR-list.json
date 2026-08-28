@@ -139,7 +139,7 @@
     },
     {
         "card_name": "Celeste, Evocation Archivist",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Burgundy Tome Hoarder",
-        "number": 135,
+        "number": 134,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Controlled Burn",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -918,7 +918,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Brushfire Elemental",
+        "card_name": "Burgundy Spire Initiate",
         "number": 133,
         "shape": "normal",
         "set": "HHRR"
@@ -948,8 +948,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Burgundy Spire Initiate",
-        "number": 134,
+        "card_name": "Canopy Skirmisher",
+        "number": 135,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -978,8 +978,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Canopy Skirmisher",
-        "number": 136,
+        "card_name": "Cropfire Elemental",
+        "number": 138,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1255,7 +1255,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Bramble, Voice of Malice",
+        "card_name": "Bramble, Wings of Malice",
         "number": 208,
         "shape": "normal",
         "set": "HHRR"

@@ -1,4 +1,670 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Cropfire Elemental added.
+Bramble, Wings of Malice added.
+
+Brushfire Elemental removed.
+Bramble, Voice of Malice removed.
+
+Dryad Apothecary
+
+Lowland Farmhands
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Traveling Swashbuckler
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Petalshade Spy
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Sadistic Blessing
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+type: Creature — Tiefling Rogue => Creature — Azra Rogue
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+rules_text: This creature has flying during your turn.
+When this creature enters, exile the top card of your library. You may play that card until the end of your next turn. => When this creature enters, exile the top card of your library. You may play that card until the end of your next turn.
+This creature has flying during your turn.
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+rules_text: When this artifact enters, target creature gains haste until end of turn.
+{1}{R}, {T}, Target creature can't block this turn. => When this artifact enters, target creature you control gets +1/+1 and gains haste until end of turn.
+{1}{R}, {T}: Target creature can't block this turn.
+
+Blazing Clarity
+rules_text: As an additional cost to cast this spell, discard two cards.
+Scry 3, then draw three cards. => As an additional cost to cast this spell, discard two cards.
+Scry 2, then draw three cards.
+
+Sunfruit Harvester
+rules_text: Whenever this or another creature you control enters, you may harvest. If you do, create a Food token. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control. A Food token is an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i] => Whenever this or another creature you control enters, you may harvest. If you do, draw a card. Do this only once each turn. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i]
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+type: Creature — Tiefling Wizard => Creature — Azra Wizard
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+
+Sudden Solution
+cost: {1}{U} => {2}{U}
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+type: Creature — Tiefling Wizard => Creature — Azra Wizard
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+rules_text: Vigilance
+This creature has trample as long as it has power 4 or greater. => Vigilance
+This creature has trample as long as you control a creature with power 4 or greater.
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Eladrin Avenger
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Root Ward
+
+Drop of Foxglove
+
+Bountiful Yield
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Crone's Grip Elixir
+
+Hemlock Strawjack
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Noon-Cursed Waif
+
+Devout Shadekin
+
+Starlight Infuser
+
+Faerie Farmhand
+
+Briarbrush Scout
+rules_text: Flying
+Once each turn, whenever another Faerie you control enters, choose one.
+• Target Faerie you control gets +1/+1 until end of turn.
+• Scry 2 => Flying
+Once each turn, whenever another Faerie you control enters, choose one.
+• Target Faerie you control gets +1/+1 until end of turn.
+• Scry 2.
+
+Sunseed Scion
+rules_text: Flying, lifelink
+Whenever this creature attacks, you may harvest. If you do, it gains double strike until end of turn. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i] => Flying
+Whenever this creature attacks, you may harvest. If you do, it gains double strike until end of turn. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i]
+
+Wheatcrest Paladin
+type: Creature — Human Knight => Creature — Dwarf Knight
+
+Forced Fieldwork
+rules_text: Exile target creature. Its controller creates a 1/1 white Peasant creature token. => Exile target creature. Its controller creates a 1/1 white Peasant creature token with vigilance.
+
+Sanctuary Purge
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Needletooth Coven
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+
+Yvell, Thermal Revisionist
+type: Legendary Creature — Tiefling Sorcerer => Legendary Creature — Azra Sorcerer
+
+Bramble-Bog Reclaimer
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+
+Warthorn Stinger
+
+Myrtlewort Trickster
+
+Graceful Bladesinger
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+type: Creature — Tiefling Wizard => Creature — Azra Wizard
+rules_text: When this creature enters, Draw a card, then discard a card.
+[i]Emanate[/i] — Instant and sorcery spells you cast cost {1} less to cast as long as a nonland permanent you control entered this turn and wasn't cast. => When this creature enters, draw a card, then discard a card.
+[i]Emanate[/i] — Instant and sorcery spells you cast cost {1} less to cast as long as a nonland permanent you control entered this turn and wasn't cast.
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+rules_text: Flash
+When this creature enters, exile target non-Elf creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
+{3}{U}, {T}: Return target creature you control to its owner's hand. => Flash
+When this creature enters, exile up to one other target creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
+{3}{U}, {T}: Return target creature you control to its owner's hand.
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Mistrunner Jackolope
+
+Tattercloak Presence
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+rules_text: Tap X target creatures, Distribute three stun counters among tapped creatures your opponents control. => Tap X target creatures, distribute three stun counters among tapped creatures your opponents control.
+
+Tincture Trade
+
+Dialectician Mentor
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+rules_text: Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+{2}{B}: Remove a counter from this creature. => {2}{B}: Remove a counter from this creature.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+rules_text: Cruel Transgression deals 2 damage to target creature. Then, up to one target creature you control deals 2 damage to that creature. => Cruel Transgression deals 2 damage to target creature. Then, up to one target creature you control deals 1 damage to that creature.
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+rules_text: Terminal Discharge deals 4 damage to target creature an opponent controls. If that creature would die this turn, exile it instead. => Terminal Discharge deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+rules_text: Look at the top five cards of your library. Put up to two land cards from among them onto the battlefield tapped, then put the rest into your graveyard or on the bottom of your library in a random order. => Look at the top five cards of your library. Put up to two land cards from among them onto the battlefield tapped, then put the rest into your graveyard or on the bottom of your library in any order.
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Comforting Candle
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+type: Legendary Creature — Tiefling Wizard => Legendary Creature — Azra Wizard
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Spiteful Plea
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+rules_text: Whenever Celesteenters or attacks, create a 1/1 blue and red Elemental creature token with prowess.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, exile the top card of your library. You may play that card for as long as it remains in exile. This ability triggers only once each turn. => Whenever Celeste enters or attacks, create a 1/1 blue and red Elemental creature token with prowess.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, exile the top card of your library. You may play that card for as long as it remains in exile. This ability triggers only once each turn.
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+rules_text: Vigilance
+Whenever a creature spell you control becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {1}.
+If a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Vigilance
+Naydel can't be blocked as long as a creature was put into exile from the battlefield this turn.
+If a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Hollow Rider
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+
+Graveplasm
+
+Vile Inspection
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+rules_text: {WB}: Target Shade you control gets +1/+1 until end of turn.
+At the beginning of your end step, return up to one target Shade creature card with mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you've gained this turn. => {WB}: Target Shade you control gets +1/+1 and gains lifelink until end of turn.
+At the beginning of your end step, return up to one target Shade creature card with mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you've gained this turn.
+
+Abaros, Spire Archmage
+type: Legendary Creature — Tiefling Wizard => Legendary Creature — Azra Wizard
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+
+Exenterate
+
+Blazette, Blazing Blunder
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Maeve, Teahouse Keeper
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+rules_text: Prowess
+Winry enters with a +1/+1 counter on it.
+Whenever you cast an instant or sorcery spell, you may remove a counter from Winry. When you do, cast a copy of that spell. You may choose new targets for the copy. => Prowess
+Whenever Winry enters or deals damage to a player, put a +1/+1 counter on it.
+Whenever you cast an instant or sorcery spell, you may remove a counter from Winry. When you do, cast a copy of that spell. You may choose new targets for the copy.
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Prodigy Flare
+
+Wild Retribution
+
+Dark Whimsy
+
+Orchard Ranger Captain
+
+Vinestone Basker
+rules_text: Trample
+Other creature spells you cast can't be countered.
+Whenever this creature attacks, untap target creature or land. => Trample
+Other creature spells you cast can't be countered.
+Whenever this creature attacks, untap another target creature or land.
+
+Crow's Scythe
+
+Shade
+
+Peasant
+rules_text: Vigilance => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Bountiful Yield added.
