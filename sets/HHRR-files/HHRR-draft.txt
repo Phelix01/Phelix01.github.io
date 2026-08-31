@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Bird ",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/45_Apex Roc.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/44_Apex Roc.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/44_Alchemical Array.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/43_Alchemical Array.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Elemental Alchemist ",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/103_Leshy Bone Collector.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/104_Leshy Bone Collector.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Nymph Rogue ",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/108_Petalshade Spy.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/109_Petalshade Spy.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Shade ",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/94_Faithless Reaper.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/95_Faithless Reaper.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Horror ",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/117_Skinner of the Nightwood.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/118_Skinner of the Nightwood.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Fungus ",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/91_Dreadmarsh Sporehulk.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/92_Dreadmarsh Sporehulk.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/115_Sift Through Bones.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/116_Sift Through Bones.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/98_Graverot.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/99_Graverot.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/112_Sadistic Blessing.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/113_Sadistic Blessing.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Griffin ",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/90_Diseased Griffin.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/91_Diseased Griffin.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/96_Gaul's Fading Promise.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/97_Gaul's Fading Promise.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Shade ",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/101_Insatiable Umbra.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/102_Insatiable Umbra.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Alchemist ",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/92_Dusk-Rose Acolyte.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/93_Dusk-Rose Acolyte.png"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Ooze ",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/111_Resurgent Residue.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/112_Resurgent Residue.png"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/95_Forbidden Ingredients.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/96_Forbidden Ingredients.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Peasant ",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/109_Plaguefield Shambler.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/110_Plaguefield Shambler.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Elemental Beast ",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/110_Putrid Kelpie.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/111_Putrid Kelpie.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Faerie Rogue ",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/113_Sanity Robber.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/114_Sanity Robber.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Nightmare Knight ",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/104_Night Queen's Champion.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/105_Night Queen's Champion.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/99_Grip of the Unseen.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/100_Grip of the Unseen.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/89_Destiny's Thirst.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/90_Destiny's Thirst.png"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/107_Overspill.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/108_Overspill.png"
 			}
 		},
 		{
@@ -2072,9 +2072,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Cleric ",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/43_Aethergate Cleric.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/42_Aethergate Cleric.png"
 			}
 		},
 		{
@@ -2112,9 +2112,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Angel Shade ",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/100_Harbinger of Fates.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/101_Harbinger of Fates.png"
 			}
 		},
 		{
@@ -2122,9 +2122,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Hag Warlock ",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/97_Granny Hagfoot.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/98_Granny Hagfoot.png"
 			}
 		},
 		{
@@ -2132,9 +2132,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Assassin ",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/102_Lantana, Cruel Conspirator.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/103_Lantana, Cruel Conspirator.png"
 			}
 		},
 		{
@@ -2152,9 +2152,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Alchemist ",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/105_Noxious Sewer Chemist.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/106_Noxious Sewer Chemist.png"
 			}
 		},
 		{
@@ -2162,19 +2162,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/114_Search for Shadows.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/115_Search for Shadows.png"
 			}
 		},
 		{
-			"name": "Spiteful Plea",
+			"name": "Delirious Insight",
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/118_Spiteful Plea.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/89_Delirious Insight.png"
 			}
 		},
 		{
@@ -2320,7 +2320,7 @@
 		{
 			"name": "Naydel, Guide of Mists",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
+			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Cleric ",
 			"collector_number": "229",
 			"image_uris": {
@@ -2438,13 +2438,13 @@
 			}
 		},
 		{
-			"name": "Vile Inspection",
+			"name": "Vile Deed",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Instant",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/249_Vile Inspection.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/249_Vile Deed.png"
 			}
 		},
 		{
@@ -2568,13 +2568,13 @@
 			}
 		},
 		{
-			"name": "Abaros, Spire Archmage",
+			"name": "Arabos, Spire Archmage",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Azra Wizard ",
-			"collector_number": "42",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/42_Abaros, Spire Archmage.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/45_Arabos, Spire Archmage.png"
 			}
 		},
 		{
@@ -2592,9 +2592,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Faerie Rogue ",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/106_Nyxpetal, Numbing Needle.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/107_Nyxpetal, Numbing Needle.png"
 			}
 		},
 		{
@@ -2602,9 +2602,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/93_Exenterate.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/94_Exenterate.png"
 			}
 		},
 		{
@@ -2757,7 +2757,7 @@
 		{
 			"name": "Thistle, Sting of Whimsy",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}{W}",
+			"mana_cost": "{R}{R}{W}",
 			"type": "Legendary Creature — Faerie Rogue ",
 			"collector_number": "245",
 			"image_uris": {
@@ -2769,9 +2769,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Hag Wizard ",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/HHRR-files/img/116_Sister of the Fens.png"
+				"en": "https://Phelix01.github.io/sets/HHRR-files/img/117_Sister of the Fens.png"
 			}
 		},
 		{
@@ -3089,7 +3089,7 @@
 2 Cursed Plowman
 2 Noxious Sewer Chemist
 2 Search for Shadows
-2 Spiteful Plea
+2 Delirious Insight
 2 Fidget, Pixie Crownling
 2 Celeste, Evocation Archivist
 2 Blazette's Cuddlebeast
@@ -3116,7 +3116,7 @@
 2 Sunseed Justiciar
 2 Knowledge Whisperer
 2 Graveplasm
-2 Vile Inspection
+2 Vile Deed
 2 Village Leveler
 2 Illicit Transcription
 2 Clover, Shieldbreaker
@@ -3133,7 +3133,7 @@
 2 Crow's Scythe
 1 Gerome, the Farmfather
 1 Ophelia, High Cartographer
-1 Abaros, Spire Archmage
+1 Arabos, Spire Archmage
 1 Swift Shadowhawk
 1 Nyxpetal, Numbing Needle
 1 Exenterate
@@ -3562,7 +3562,7 @@
 10 Cursed Plowman
 10 Noxious Sewer Chemist
 10 Search for Shadows
-10 Spiteful Plea
+10 Delirious Insight
 10 Fidget, Pixie Crownling
 10 Celeste, Evocation Archivist
 10 Blazette's Cuddlebeast
@@ -3589,7 +3589,7 @@
 10 Sunseed Justiciar
 10 Knowledge Whisperer
 10 Graveplasm
-10 Vile Inspection
+10 Vile Deed
 10 Village Leveler
 10 Illicit Transcription
 10 Clover, Shieldbreaker
@@ -3602,7 +3602,7 @@
 10 Faeverge Pass
 10 Gerome, the Farmfather
 10 Ophelia, High Cartographer
-10 Abaros, Spire Archmage
+10 Arabos, Spire Archmage
 10 Swift Shadowhawk
 10 Nyxpetal, Numbing Needle
 10 Exenterate

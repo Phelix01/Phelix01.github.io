@@ -6,14 +6,14 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Abaros, Spire Archmage",
-        "number": 42,
+        "card_name": "Arabos, Spire Archmage",
+        "number": 45,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Exenterate",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -43,7 +43,7 @@
     },
     {
         "card_name": "Nyxpetal, Numbing Needle",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -67,7 +67,7 @@
     },
     {
         "card_name": "Aethergate Cleric",
-        "number": 43,
+        "number": 42,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -132,8 +132,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Granny Hagfoot",
-        "number": 97,
+        "card_name": "Delirious Insight",
+        "number": 89,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -162,8 +162,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Harbinger of Fates",
-        "number": 100,
+        "card_name": "Granny Hagfoot",
+        "number": 98,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -192,8 +192,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Lantana, Cruel Conspirator",
-        "number": 102,
+        "card_name": "Harbinger of Fates",
+        "number": 101,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -222,8 +222,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Noxious Sewer Chemist",
-        "number": 105,
+        "card_name": "Lantana, Cruel Conspirator",
+        "number": 103,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -252,8 +252,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Search for Shadows",
-        "number": 114,
+        "card_name": "Noxious Sewer Chemist",
+        "number": 106,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -282,8 +282,8 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Spiteful Plea",
-        "number": 118,
+        "card_name": "Search for Shadows",
+        "number": 115,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -403,7 +403,7 @@
     },
     {
         "card_name": "Destiny's Thirst",
-        "number": 89,
+        "number": 90,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Dusk-Rose Acolyte",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -463,7 +463,7 @@
     },
     {
         "card_name": "Forbidden Ingredients",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -493,7 +493,7 @@
     },
     {
         "card_name": "Grip of the Unseen",
-        "number": 99,
+        "number": 100,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -523,7 +523,7 @@
     },
     {
         "card_name": "Insatiable Umbra",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Night Queen's Champion",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -583,7 +583,7 @@
     },
     {
         "card_name": "Overspill",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -613,7 +613,7 @@
     },
     {
         "card_name": "Plaguefield Shambler",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -643,7 +643,7 @@
     },
     {
         "card_name": "Putrid Kelpie",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -673,7 +673,7 @@
     },
     {
         "card_name": "Resurgent Residue",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -703,7 +703,7 @@
     },
     {
         "card_name": "Sanity Robber",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -787,7 +787,7 @@
     },
     {
         "card_name": "Alchemical Array",
-        "number": 44,
+        "number": 43,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -817,13 +817,13 @@
     },
     {
         "card_name": "Apex Roc",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "HHRR"
     },
     {
         "card_name": "Diseased Griffin",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -853,7 +853,7 @@
     },
     {
         "card_name": "Dreadmarsh Sporehulk",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -883,7 +883,7 @@
     },
     {
         "card_name": "Faithless Reaper",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -913,7 +913,7 @@
     },
     {
         "card_name": "Gaul's Fading Promise",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -943,7 +943,7 @@
     },
     {
         "card_name": "Graverot",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -973,7 +973,7 @@
     },
     {
         "card_name": "Leshy Bone Collector",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1003,7 +1003,7 @@
     },
     {
         "card_name": "Petalshade Spy",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1033,7 +1033,7 @@
     },
     {
         "card_name": "Sadistic Blessing",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1063,7 +1063,7 @@
     },
     {
         "card_name": "Sift Through Bones",
-        "number": 115,
+        "number": 116,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1093,7 +1093,7 @@
     },
     {
         "card_name": "Sister of the Fens",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1123,7 +1123,7 @@
     },
     {
         "card_name": "Skinner of the Nightwood",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "HHRR"
     },
@@ -1315,7 +1315,7 @@
         "set": "HHRR"
     },
     {
-        "card_name": "Vile Inspection",
+        "card_name": "Vile Deed",
         "number": 249,
         "shape": "normal",
         "set": "HHRR"

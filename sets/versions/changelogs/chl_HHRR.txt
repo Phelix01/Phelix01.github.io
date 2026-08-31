@@ -1,4 +1,664 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Delirious Insight added.
+Vile Deed added.
+Arabos, Spire Archmage added.
+
+Spiteful Plea removed.
+Vile Inspection removed.
+Abaros, Spire Archmage removed.
+
+Dryad Apothecary
+
+Lowland Farmhands
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Traveling Swashbuckler
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Petalshade Spy
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Sadistic Blessing
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+
+Cropfire Elemental
+rules_text: When this creature enters, it deals 3 damage to any target.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+When this creature enters, it deals 3 damage to any target.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+
+Blazing Clarity
+
+Sunfruit Harvester
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+
+Sudden Solution
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+rules_text: Vigilance
+This creature has trample as long as you control a creature with power 4 or greater. => Vigilance, reach
+This creature has trample as long as you control a creature with power 4 or greater.
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Eladrin Avenger
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Root Ward
+
+Drop of Foxglove
+
+Bountiful Yield
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Crone's Grip Elixir
+
+Hemlock Strawjack
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Noon-Cursed Waif
+
+Devout Shadekin
+
+Starlight Infuser
+
+Faerie Farmhand
+
+Briarbrush Scout
+
+Sunseed Scion
+
+Wheatcrest Paladin
+
+Forced Fieldwork
+
+Sanctuary Purge
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Needletooth Coven
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+rules_text: When this creature enters, you may discard a card. If you do, draw a card.
+{U}{R}, {T}: Create a 1/1 blue and red Elemental creature token with prowess. Activate only as a sorcery. [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => When this creature enters, you may discard a card. If you do, draw a card.
+{U}{R}, {T}: Create a 1/1 blue and red Elemental creature token with prowess. Activate only as a sorcery. [i](Whenever you cast a noncreature spell, creatures you control with prowess get +1/+1 until end of turn.)[/i]
+
+Yvell, Thermal Revisionist
+
+Bramble-Bog Reclaimer
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+
+Warthorn Stinger
+
+Myrtlewort Trickster
+
+Graceful Bladesinger
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Mistrunner Jackolope
+
+Tattercloak Presence
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+
+Tincture Trade
+
+Dialectician Mentor
+rules_text: Vigilance
+Whenever you cast a spell during an opponent's turn, untap up to one target tapped creature you control.
+Whenever an opponent casts a spell during your turn, scry 2. => Whenever you cast a spell during an opponent's turn, untap up to one target tapped creature you control.
+Whenever an opponent casts a spell during your turn, scry 2.
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+rules_text: Flying, deathtouch
+Whenever a creature with counters on it dies, each opponent loses 2 life and you gain 2 life. This ability only triggers once each turn. => Flying, deathtouch
+Whenever a creature with one or more counters on it dies, each opponent loses 2 life and you gain 2 life. This ability only triggers once each turn.
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+rules_text: Vigilance
+Whenever one or more counters are put on another creature you control, this creature gets +1/+1 until end of turn. => Reach
+Whenever one or more counters are put on another creature you control, this creature gets +1/+1 until end of turn.
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Comforting Candle
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+rules_text: Vigilance
+When this creature enters, mill three cards.
+{U}, {T}: Choose target instant or sorcery spell from your graveyard. You may cast that card this turn. If that spell would be put into your graveyard, exile it instead. => When this creature enters, mill three cards.
+{U}, {T}: Choose target instant or sorcery spell from your graveyard. You may cast that card this turn. If that spell would be put into your graveyard, exile it instead.
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+cost: {1}{W}{U} => {2}{W}{U}
+
+Hollow Rider
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+rules_text: Flying, trample, vigilance
+Whenever this creature deals combat damage to a player, distribute that many +1/+1 counters among any number of other target creatures you control. => Flying, trample
+Whenever this creature deals combat damage to a player, distribute that many +1/+1 counters among any number of other target creatures you control.
+
+Knowledge Whisperer
+
+Graveplasm
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+rules_text: This artifact enters with a finality counter on it.
+{2}, {T}, Sacrifice this artifact: Return target creature card from a graveyard to the battlefield tapped under your control and put this artifact's counters on it. Activate only as a sorcery. => This artifact enters with a +1/+1 counter on it.
+{2}, {T}, Sacrifice this artifact: Return target creature card from a graveyard to the battlefield under your control and put this artifact's counters on it. Activate only as a sorcery.
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+rules_text: Flying, deathtouch
+Nyxpetal gets +1/+1 for each other creature you control with deathtouch.
+Whenever a creature an opponent controls dies, put a deathtouch counter on another target creature you control. => Flying, deathtouch
+Nyxpetal gets +1/+1 for each other creature you control with a deathtouch.
+Whenever a creature an opponent controls dies, put a deathtouch counter on another target creature you control.
+
+Exenterate
+rules_text: For each card in target players hand, they discard that card unless they pay X life. => For each card in target player's hand, they discard that card unless they pay X life.
+
+Blazette, Blazing Blunder
+rules_text: Flying, haste
+Whenever Blazette deals combat damage to a player, exile the top card of your library. You may play that card until your next end step. At the beginning of your next end step, if that card is still in exile, Blazette deals 2 damage to any target. => Flying, haste
+Whenever Blazette attacks, exile the top card of your library. You may play that card until the end of your next turn.
+Whenever you play a card from exile, Blazette deals 2 damage to each opponent.
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+rules_text: Flying, vigilance
+When this creature enters, exile each other creature you control, then return them to the battlefield under their owner's control.
+Whenever a creature enters under your control, if it wasn't cast, draw a card. => Flying, vigilance
+When this creature enters, exile each other creature you control, then return them to the battlefield under their owner's control.
+Whenever a creature enters under your control and wasn't cast, draw a card.
+
+Maeve, Teahouse Keeper
+
+Bramble, Wings of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+rules_text: Deathtouch, trample
+During combat on your turn, creatures you control with decayed can't be sacrificed.
+{T}, Exile two creature cards from your graveyard: Create a 3/3 black and green Zombie Soldier creature token with decayed and trample. => Menace, trample
+During combat on your turn, creatures you control with decayed can't be sacrificed.
+{T}, Exile two creature cards from your graveyard: Create a 3/3 black and green Zombie Soldier creature token with decayed and trample.
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+cost: {1}{R}{W} => {R}{R}{W}
+rules_text: Flying, first strike
+Whenever Thistle attacks, up to one other target creature gets +2/+0 until end of turn. If it's a Faerie, exile the top card of your library. You may play that card this turn. => Flying, first strike
+Whenever Thistle attacks, up to one other target attacking creature gets +2/+0 until end of turn. If it's a Faerie, exile the top card of your library. You may play that card this turn.
+pt: 3/2 => 2/2
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Prodigy Flare
+
+Wild Retribution
+
+Dark Whimsy
+rules_text: Whenever a nontoken creature you control dies, you lose 2 life and create a Treasure token.
+[i]Emanate[/i] — Whenever a nontoken creature an opponent controls dies, if a nonland permanent you control entered this turn and wasn't cast, that creature's controller loses 2 life unless they discard a card. => Whenever a nontoken creature you control dies, you lose 1 life and create a Treasure token.
+[i]Emanate[/i] — Whenever a nontoken creature an opponent controls dies, if a nonland permanent you control entered this turn and wasn't cast, that creature's controller loses 2 life unless they discard a card.
+
+Orchard Ranger Captain
+
+Vinestone Basker
+
+Crow's Scythe
+rules_text: When this Equipment enters, you may sacrifice a creature. If you do, attach this Equipment to target creature.
+Equipped creature has deathtouch and hexproof.
+Equip {4} => When this Equipment enters, you may sacrifice a creature. If you do, attach this Equipment to target creature you control.
+Equipped creature has deathtouch and hexproof.
+Equip {4}
+
+Shade
+
+Peasant
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Cropfire Elemental added.
