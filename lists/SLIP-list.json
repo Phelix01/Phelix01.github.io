@@ -1,0 +1,1924 @@
+﻿[
+    {
+        "card_name": "Petal-Dance Exemplar",
+        "number": 24,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Arms of the Gale",
+        "number": 38,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Deathloam Garden",
+        "number": 85,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Elusive Street-Thief",
+        "number": 117,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Fateflower Mystic",
+        "number": 159,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Spirit of Eternal Discipline",
+        "number": 29,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Current-Call Druid",
+        "number": 45,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Rice Field Banshee",
+        "number": 103,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ghilen Blazewind",
+        "number": 124,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Luminelth Hydra",
+        "number": 165,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Chosen Hero's Approach",
+        "number": 5,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "High Tide Hijinks",
+        "number": 50,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Auntie Yien, Spirit Matron",
+        "number": 80,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Jett, Erupting Fist",
+        "number": 125,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Blooming of Mirelilies",
+        "number": 150,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Highland Thewada",
+        "number": 13,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Hujan, Galewind Raider",
+        "number": 51,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Family's Demand",
+        "number": 89,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Lotus-Fang Slash",
+        "number": 129,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Jadewurm Guardian",
+        "number": 161,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Luris, Familial Soulcaller",
+        "number": 22,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Naya, Mindshifter",
+        "number": 57,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "From Frond to Flesh",
+        "number": 91,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Skybrand of Wat Kh\u00f3i",
+        "number": 138,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Popoli, Eternally Devoted",
+        "number": 171,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Samart, Hardened Master",
+        "number": 28,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Serendipitous Refraction",
+        "number": 63,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ka-Trinh Orchidblade",
+        "number": 93,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ssaeki, Ragebolt Ionizer",
+        "number": 140,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Undergrowth Larvae",
+        "number": 183,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Temple Lotus-Keeper",
+        "number": 31,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Tidefall Tempest",
+        "number": 69,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Sorrow-Silk Courtesan",
+        "number": 108,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Stormtide Resurgence",
+        "number": 143,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Voice of the Reefmother",
+        "number": 184,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Wandering in Exile",
+        "number": 35,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Undercurrent Snapjaw",
+        "number": 70,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Yaka-Ati, The Huskbloom",
+        "number": 111,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Streetblade Artisan",
+        "number": 145,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ynvi, Sea Tangle Princess",
+        "number": 185,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Chatura Honorclaw",
+        "number": 4,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Break Serenity",
+        "number": 41,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestral Tutor",
+        "number": 79,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Breath Between Blows",
+        "number": 113,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Brackentide Pathfinder",
+        "number": 151,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Devoted Edgekeeper",
+        "number": 6,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Coral Diver Scout",
+        "number": 43,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Breathless Sister",
+        "number": 81,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Burning Discipline",
+        "number": 114,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Coiling Enlightener",
+        "number": 153,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Familial Adjudicator",
+        "number": 8,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Deep Myst Recollection",
+        "number": 46,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Burial-Mound Mauler",
+        "number": 82,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Empowered Mantra",
+        "number": 119,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Deathmist Sweep",
+        "number": 157,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Flying Steel Strike",
+        "number": 10,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Deepdive Submariner",
+        "number": 47,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Creeping Grudge",
+        "number": 84,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Forged Ka-Sai",
+        "number": 122,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Jantira's Revenge",
+        "number": 162,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Geist Channeler",
+        "number": 11,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Echoed Reflection",
+        "number": 48,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Deathsprout Bogbat",
+        "number": 86,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Kahetra Lookout",
+        "number": 126,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Loamline Memories",
+        "number": 163,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ghostly Abuction",
+        "number": 12,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Flying Reef Fish",
+        "number": 49,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Debtbone Envoy",
+        "number": 87,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ley-Storm Calling",
+        "number": 128,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mire-Bloom Terror",
+        "number": 166,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Iron Body Training",
+        "number": 15,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Kahetra Serpent Rider",
+        "number": 52,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Desperate Communion",
+        "number": 88,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Raging Cyclone",
+        "number": 133,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mokoro's Wrath",
+        "number": 168,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ironwind Ka-Sai",
+        "number": 16,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Lost at Sea",
+        "number": 53,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Inheritance Warden",
+        "number": 92,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Sangmai Emberclaw",
+        "number": 135,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mossvein Harrier",
+        "number": 169,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Lotus Ascetic",
+        "number": 18,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Meditation State",
+        "number": 54,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Lastborn Enforcer",
+        "number": 94,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Scaled Volcanomancer",
+        "number": 136,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Pelangi Bondmate",
+        "number": 170,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Loxodon Temple Guard",
+        "number": 21,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Naga Infiltrator",
+        "number": 56,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Memoryseed Gardener",
+        "number": 95,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Scorch Strike",
+        "number": 137,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Reef Sigil",
+        "number": 175,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Sunveil Instructor",
+        "number": 30,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Nimbus Racer",
+        "number": 58,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mokoro Abides",
+        "number": 96,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Stormchase Arcanist",
+        "number": 141,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Rootwake Shepherd",
+        "number": 177,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Tranquil Bloom",
+        "number": 32,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Reefsong",
+        "number": 61,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mokoro Headhunter",
+        "number": 97,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Stormsurge Kraken",
+        "number": 142,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Seagrace Channeler",
+        "number": 179,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Unsuspecting Thievery",
+        "number": 33,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Stormwake Veil",
+        "number": 66,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Searing Psychosis",
+        "number": 106,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Sun-Bleached Hunger",
+        "number": 146,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Shell Ward",
+        "number": 180,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Vessel of Commanding Grace",
+        "number": 34,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Templetide Resonator",
+        "number": 67,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Second Burial",
+        "number": 107,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Swiftform Striker",
+        "number": 147,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Spined Jungle Prowler",
+        "number": 181,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Windstep Soulcaller",
+        "number": 37,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Tidal-Roh",
+        "number": 68,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Soul-for-Soul",
+        "number": 109,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Tempest Eel",
+        "number": 148,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Tidegrove Archer",
+        "number": 182,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestral Duty",
+        "number": 1,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Bloomtide Channeler",
+        "number": 39,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ack-ack Beast",
+        "number": 75,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Blazefist Practitioner",
+        "number": 112,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Bloomboar",
+        "number": 149,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Backalley Training",
+        "number": 2,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Bloomtide Scout",
+        "number": 40,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestor Devourer",
+        "number": 76,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Diving Plunder",
+        "number": 115,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Burial Ground's Bloom",
+        "number": 152,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Banishing Mist",
+        "number": 3,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Coral Colossus",
+        "number": 42,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestoral Grasp",
+        "number": 77,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Eager Sangmai Initiate",
+        "number": 116,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Compost Walker",
+        "number": 154,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Emberhall Aspirant",
+        "number": 7,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Current Shift",
+        "number": 44,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestral Bone Song",
+        "number": 78,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Emberwake Diversion",
+        "number": 118,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Coral Reefguard",
+        "number": 155,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Flame-Walk Protector",
+        "number": 9,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Monsoon's Denial",
+        "number": 55,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Cradlebone Speaker",
+        "number": 83,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Eruption Aura",
+        "number": 120,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Corpsebloom Skirmisher",
+        "number": 156,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Honored Spiritbinder",
+        "number": 14,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Pelangi Reef Seer",
+        "number": 59,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Final Banishment",
+        "number": 90,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Flaretongue Salamander",
+        "number": 121,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Dreadsoil Satiator",
+        "number": 158,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Krabi-Warrior",
+        "number": 17,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of the Reef",
+        "number": 60,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Muck Crawler",
+        "number": 98,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Fury of Rakat Thann",
+        "number": 123,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Floramaris Mystic",
+        "number": 160,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Lotus Spirit",
+        "number": 19,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Riptide Naga",
+        "number": 62,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Offering to Mokoro",
+        "number": 99,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Kahetra Spark Blade",
+        "number": 127,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Looming Rot-Troll",
+        "number": 164,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Loxodon Rust Priest",
+        "number": 20,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Slipstream Knowledge",
+        "number": 64,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Pactblade Invader",
+        "number": 100,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Magma Blazebuilder",
+        "number": 130,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mokoro's Pulse",
+        "number": 167,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Osteokai Graveguard",
+        "number": 23,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Spirit of the Shallows",
+        "number": 65,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of the Afterlife",
+        "number": 101,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mok Lok's Provoker",
+        "number": 131,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of the Rot",
+        "number": 172,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of the Temple",
+        "number": 25,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Undertow Bindings",
+        "number": 71,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Quy-Bound Medium",
+        "number": 102,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of the Storm",
+        "number": 132,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Purifying Vines",
+        "number": 173,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Purifier of Lost Souls",
+        "number": 26,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Undertow Turtle",
+        "number": 72,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Rot Jungle's Bloom",
+        "number": 104,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Reckless Training",
+        "number": 134,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Reef Forest Pelangi",
+        "number": 174,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Rustflight Owlguard",
+        "number": 27,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Veil of the Reef",
+        "number": 73,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Rotgrove Forager",
+        "number": 105,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Snapback Stance",
+        "number": 139,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Reefback Protector",
+        "number": 176,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Windfist Technique",
+        "number": 36,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Washed Up On Shore",
+        "number": 74,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Temple Lantern Keeper",
+        "number": 110,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Stormwake Corsair",
+        "number": 144,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Rotcycle",
+        "number": 178,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ancestral Decree",
+        "number": 190,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ahvani, The Stormsiren",
+        "number": 188,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Avatar of Mokoro",
+        "number": 195,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Dhanik, Sangmai Grandmaster",
+        "number": 201,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Beneath the Tide",
+        "number": 196,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Vay Nhi, Veiled Matriarch",
+        "number": 255,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Sister of the Gale",
+        "number": 245,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Necrofluorescence",
+        "number": 222,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Thousand Form Stance",
+        "number": 252,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Reefmother Asangi",
+        "number": 238,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestral Admonishment",
+        "number": 189,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Grizz, Cloud Forecaster",
+        "number": 207,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Adaliya, Fleshseed Gardener",
+        "number": 187,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Flameparry",
+        "number": 204,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Aomalak, Secret Seeker",
+        "number": 193,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ca Dao Linh, Lineage Poet",
+        "number": 198,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of Kahetra",
+        "number": 232,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Late-Bloomer Wretch",
+        "number": 215,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Lanai, the Butterfly Blade",
+        "number": 214,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Lumelith, The Reefwave",
+        "number": 216,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Paleclaw Escort",
+        "number": 229,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ravya Stormlash",
+        "number": 236,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mokoro's Call",
+        "number": 219,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Master Yhai, Tempered Will",
+        "number": 217,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of Jantira",
+        "number": 231,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of Khuin",
+        "number": 233,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Rough Sea Navigator",
+        "number": 240,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Nis'Sath, Vibrant Grave",
+        "number": 223,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of Sangmai",
+        "number": 235,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Reef-Form",
+        "number": 237,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Uncle Cadeo, Banished Soul",
+        "number": 254,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Tempest Burst",
+        "number": 250,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Prophecy of Mokoro",
+        "number": 234,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Taunting Pridefist",
+        "number": 249,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Tendril-Tide Matriarch",
+        "number": 251,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestral Priestess",
+        "number": 192,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Cindrak Coralfiend",
+        "number": 199,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Kawali, Death's Hunger",
+        "number": 212,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Asingha Disciple",
+        "number": 194,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Aati, Reef's Wisdom",
+        "number": 186,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Hanh, Ancestor's Voice",
+        "number": 208,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Kembang, Tempest's Rage",
+        "number": 213,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mokoro's Will",
+        "number": 220,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ghilen Hope Charger",
+        "number": 206,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Bloomtide's Call",
+        "number": 197,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Omen of Passing",
+        "number": 225,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Omen of Storms",
+        "number": 227,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Omen of Rot",
+        "number": 226,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Omen of Ascension",
+        "number": 224,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Incense Guru",
+        "number": 209,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Sermon of Shadows",
+        "number": 243,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Scorchwake Feint",
+        "number": 242,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Shaman of the Big Men",
+        "number": 244,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Return in Glory",
+        "number": 239,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Omen of Tides",
+        "number": 228,
+        "shape": "transform double faced",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Soul-Marrow Binder",
+        "number": 247,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Stormcloud Conjurer",
+        "number": 248,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Skulkwalker Brood",
+        "number": 246,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Sanda, Discipline's Eyes",
+        "number": 241,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Pelangi Wavereader",
+        "number": 230,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestral Necromancer",
+        "number": 191,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Emberwake Tidetail",
+        "number": 203,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Fungal Pactkeeper",
+        "number": 205,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Diving Phoenix Technique",
+        "number": 202,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Coralstream Mentor",
+        "number": 200,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Jade Reliquarist",
+        "number": 210,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Naga Stormbringer",
+        "number": 221,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mokoro Rot-Shaman",
+        "number": 218,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ka-Sai Warrior",
+        "number": 211,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Tideblessed Diver",
+        "number": 253,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Spoken Beyond Silence",
+        "number": 259,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Twist the Surge",
+        "number": 260,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Gravecycle Offering",
+        "number": 256,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Sangmai Trialist",
+        "number": 258,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Harmony's Shell",
+        "number": 257,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Chiselled Wrath-Idol",
+        "number": 264,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Dragonfly Blades",
+        "number": 265,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Familial Burial Urn",
+        "number": 266,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Gilded Lily",
+        "number": 267,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Salt Charm",
+        "number": 273,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ancestral Wrappings",
+        "number": 261,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Brainstone Idol",
+        "number": 262,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Meditant's Lotus Pho",
+        "number": 269,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Pulse-Grown Grips",
+        "number": 271,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Stormbolt Sampan",
+        "number": 274,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Ceremonial Bone Talon",
+        "number": 263,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Iron Lotus Root",
+        "number": 268,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Overgrown Rust Guardian",
+        "number": 270,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Rustthorn Gauntlet",
+        "number": 272,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Stormcall Gong",
+        "number": 275,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Hidden Monastery",
+        "number": 278,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Hidden Wat",
+        "number": 280,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Hidden Ziggurat",
+        "number": 281,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Hidden Dojo",
+        "number": 277,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Hidden Pagoda",
+        "number": 279,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Temple of Khuin",
+        "number": 285,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Temple of Kahetra",
+        "number": 284,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Temple of Mokoro",
+        "number": 286,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Temple of Sangmai",
+        "number": 287,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Temple of Jantira",
+        "number": 283,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Lotus Temple",
+        "number": 282,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Abandoned Catacomb",
+        "number": 276,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 288,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Island",
+        "number": 291,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 294,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 297,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Plains",
+        "number": 289,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Plains",
+        "number": 290,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Island",
+        "number": 292,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Island",
+        "number": 293,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 295,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 296,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 298,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 299,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Forest",
+        "number": 300,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Forest",
+        "number": 301,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "Forest",
+        "number": 302,
+        "shape": "normal",
+        "set": "SLIP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,11 +1,8 @@
 ﻿{
     "name": "Hearth-Hollow: Root & Remedy",
     "formats": "Draft",
+    "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
-    "unpreviewed": "card back",
-    "image_name": "position",
-    "v_mana": "",
     "cards": [
         {
             "card_name": "Dryad Apothecary",
@@ -23,9 +20,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "0",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -44,9 +38,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Max Games",
-            "alias": "",
-            "position": "1",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -65,9 +56,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "2",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -86,9 +74,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Dave Rapoza",
-            "alias": "",
-            "position": "3",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -107,9 +92,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Helen Blizzard",
-            "alias": "",
-            "position": "4",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -128,9 +110,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "5",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -149,9 +128,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Taras Susak",
-            "alias": "",
-            "position": "6",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -170,9 +146,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "even amundsen",
-            "alias": "",
-            "position": "7",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -191,9 +164,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Nick Gan",
-            "alias": "",
-            "position": "8",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -212,9 +182,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "9",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -233,9 +200,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "10",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -254,9 +218,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "11",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -275,9 +236,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "12",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -296,9 +254,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Diana Khomutina",
-            "alias": "",
-            "position": "13",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -317,9 +272,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "14",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -338,9 +290,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Donton",
-            "alias": "",
-            "position": "15",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -359,9 +308,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Javato",
-            "alias": "",
-            "position": "16",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -380,9 +326,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Vera Radchenko",
-            "alias": "",
-            "position": "17",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -401,9 +344,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "guilherme viana",
-            "alias": "",
-            "position": "18",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -422,9 +362,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "anna lopina",
-            "alias": "",
-            "position": "19",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -443,9 +380,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Thomas Elderman",
-            "alias": "",
-            "position": "20",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -464,9 +398,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Joya Elvira",
-            "alias": "",
-            "position": "21",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -485,9 +416,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Jackson Tjota",
-            "alias": "",
-            "position": "22",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -506,9 +434,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "23",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -527,9 +452,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Marzena Piwowar",
-            "alias": "",
-            "position": "24",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -548,9 +470,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "25",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -569,9 +488,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Janos Brumar",
-            "alias": "",
-            "position": "26",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -590,9 +506,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Daria Rashev",
-            "alias": "",
-            "position": "27",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -611,9 +524,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "denis zhbankov",
-            "alias": "",
-            "position": "28",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -632,9 +542,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "29",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -653,9 +560,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "30",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -674,9 +578,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "31",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -695,9 +596,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Todd Song",
-            "alias": "",
-            "position": "32",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -716,9 +614,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "enmanuel martinez",
-            "alias": "",
-            "position": "33",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -737,9 +632,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Sandara Tang",
-            "alias": "",
-            "position": "34",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -758,9 +650,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Andrew Clark",
-            "alias": "",
-            "position": "35",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -779,9 +668,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Nick Gan",
-            "alias": "",
-            "position": "36",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -800,9 +686,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "37",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -821,9 +704,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Fall Fox",
-            "alias": "",
-            "position": "38",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -842,9 +722,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "39",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -863,9 +740,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "40",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -884,9 +758,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "41",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -905,9 +776,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "42",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -926,9 +794,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "margarita bourkova",
-            "alias": "",
-            "position": "43",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -947,9 +812,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "dominik mayer",
-            "alias": "",
-            "position": "44",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -968,9 +830,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "45",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -989,9 +848,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "46",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1010,9 +866,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Conceptopolis",
-            "alias": "",
-            "position": "47",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1031,9 +884,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "48",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1052,9 +902,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "49",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1073,9 +920,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "50",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1094,9 +938,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "51",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1115,9 +956,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Michelle Wiktoria",
-            "alias": "",
-            "position": "52",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1136,9 +974,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "denis zhbankov",
-            "alias": "",
-            "position": "53",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1157,9 +992,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "54",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1178,9 +1010,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "55",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1199,9 +1028,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "BlizzaArts",
-            "alias": "",
-            "position": "56",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1220,9 +1046,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "guillaume normand",
-            "alias": "",
-            "position": "57",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1241,9 +1064,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "58",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1262,9 +1082,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "ksenia kozhevnikova",
-            "alias": "",
-            "position": "59",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1283,9 +1100,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "60",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1304,9 +1118,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "61",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1325,9 +1136,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "62",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1346,9 +1154,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "63",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1367,9 +1172,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "64",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1388,9 +1190,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Kevin McKenna",
-            "alias": "",
-            "position": "65",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1409,9 +1208,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "marina kleyman",
-            "alias": "",
-            "position": "66",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1430,9 +1226,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "markus stadlober",
-            "alias": "",
-            "position": "67",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1451,9 +1244,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Marisa-Oh",
-            "alias": "",
-            "position": "68",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1472,9 +1262,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Kyle Herring",
-            "alias": "",
-            "position": "69",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1493,9 +1280,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "denys tsiperko",
-            "alias": "",
-            "position": "70",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1514,9 +1298,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "71",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1535,9 +1316,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "72",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1545,7 +1323,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Scarecrow",
-            "number": 259,
+            "number": 261,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1556,9 +1334,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "73",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1566,7 +1341,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 261,
+            "number": 263,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "When this Equipment enters, create a 1/1 white Peasant creature token, then attach this Equipment to it.\nEquipped creature gets +1/+0.\nWhenever equipped creature deals combat damage to a player, put a +1/+1 counter on it.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
@@ -1577,9 +1352,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "74",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1587,7 +1359,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Potion",
-            "number": 268,
+            "number": 270,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.\n{T}: Put a +1/+1 counter on this artifact.\n{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.",
@@ -1598,9 +1370,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Matt Hansen",
-            "alias": "",
-            "position": "75",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1608,7 +1377,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Scarecrow",
-            "number": 262,
+            "number": 264,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Defender, reach\n{2}: This creature gains deathtouch until end of turn.",
@@ -1619,9 +1388,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "serge tsvelykh",
-            "alias": "",
-            "position": "76",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1629,7 +1395,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 269,
+            "number": 271,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land enters with two +1/+1 counters on it.\n{T}: Add {C}.\n{3}, {T}, Sacrifice this land: Distribute its counters among one or two target creatures you control. Activate only as a sorcery.",
@@ -1640,9 +1406,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Andreas Rocha",
-            "alias": "",
-            "position": "77",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1650,7 +1413,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 258,
+            "number": 260,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "When this artifact enters, scry 2.\n{5}, {T}, Sacrifice this artifact: Destroy target nonland permanent.",
@@ -1661,9 +1424,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Applesin",
-            "alias": "",
-            "position": "78",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1682,9 +1442,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "79",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1703,9 +1460,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "80",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1724,9 +1478,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "frank freire",
-            "alias": "",
-            "position": "81",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1745,9 +1496,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Helena Nikulina",
-            "alias": "",
-            "position": "82",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1766,9 +1514,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "83",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1787,9 +1532,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "alice roussel",
-            "alias": "",
-            "position": "84",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1808,9 +1550,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Meniusalau",
-            "alias": "",
-            "position": "85",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1829,9 +1568,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Randy Vargas",
-            "alias": "",
-            "position": "86",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1850,9 +1586,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "87",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1871,9 +1604,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "88",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1892,9 +1622,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "89",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1913,9 +1640,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "aaron nakahara",
-            "alias": "",
-            "position": "90",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1934,9 +1658,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "dominik mayer",
-            "alias": "",
-            "position": "91",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1955,9 +1676,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Olivia Rea",
-            "alias": "",
-            "position": "92",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1965,7 +1683,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Cleric",
-            "number": 237,
+            "number": 238,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "When this creature enters, choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library.",
@@ -1976,9 +1694,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "sebastian szmyd",
-            "alias": "",
-            "position": "93",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -1986,7 +1701,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Ooze",
-            "number": 236,
+            "number": 237,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "This creature enters with a deathtouch counter on it.\nThis creature gets +1/+1 for each different kind of counter on it.",
@@ -1997,9 +1712,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "damian schouweiler",
-            "alias": "",
-            "position": "94",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2018,9 +1730,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "cristiana grati",
-            "alias": "",
-            "position": "95",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2039,9 +1748,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "damian schouweiler",
-            "alias": "",
-            "position": "96",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2049,7 +1755,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 238,
+            "number": 239,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
             "rules_text": "Target creature gets +3/+3 and gains trample and haste until end of turn. You may have it deal damage equal to its power to another target creature.",
@@ -2060,9 +1766,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Sara Tang",
-            "alias": "",
-            "position": "97",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2081,9 +1784,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Igor Krstic",
-            "alias": "",
-            "position": "98",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2091,7 +1791,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Faerie Assassin",
-            "number": 230,
+            "number": 231,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Deathtouch\nWhenever this creature attacks, you may pay {2}. If you do, create a 2/2 red Faerie Assassin creature token. it enters tapped and attacking. Sacrifice that token at end of combat.",
@@ -2102,9 +1802,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "spikulec",
-            "alias": "",
-            "position": "99",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2123,9 +1820,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "tamas patkos",
-            "alias": "",
-            "position": "100",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2144,9 +1838,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Olga Samets",
-            "alias": "",
-            "position": "101",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2165,9 +1856,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "igor krstic",
-            "alias": "",
-            "position": "102",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2186,9 +1874,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "damien mammoliti",
-            "alias": "",
-            "position": "103",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2196,7 +1881,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Wizard",
-            "number": 241,
+            "number": 242,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "When this creature enters, you may discard a card. If you do, draw a card.\n{U}{R}, {T}: Create a 1/1 blue and red Elemental creature token with prowess. Activate only as a sorcery. [i](Whenever you cast a noncreature spell, creatures you control with prowess get +1/+1 until end of turn.)[/i]",
@@ -2207,9 +1892,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "anna podedworna",
-            "alias": "",
-            "position": "104",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2217,7 +1899,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Azra Sorcerer",
-            "number": 255,
+            "number": 256,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "[i]Emanate[/i] \u2014 Whenever Yvell attacks, if a nonland permanent you control entered this turn and wasn't cast, create a token that's a copy of another target creature you control. It enters tapped and attacking. Sacrifice it at end of combat.",
@@ -2228,9 +1910,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "anna podedworna",
-            "alias": "",
-            "position": "105",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2249,9 +1928,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Kekai Kotaki",
-            "alias": "",
-            "position": "106",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2259,7 +1935,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Warlock",
-            "number": 246,
+            "number": 247,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "Whenever a creature you control enters from a graveyard for the first time during each of your turns, you may draw a card. If you don't, return up to one target land card from your graveyard to the battlefield tapped.",
@@ -2270,9 +1946,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "davide luca",
-            "alias": "",
-            "position": "107",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2280,7 +1953,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Faerie Scout",
-            "number": 243,
+            "number": 244,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "Flying\nWhenever this creature enters or you cast another Faerie spell, create a 1/1 red and white Faerie Soldier creature token with flying.",
@@ -2291,9 +1964,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Taras Susak",
-            "alias": "",
-            "position": "108",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2301,7 +1971,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Faerie Warrior",
-            "number": 251,
+            "number": 252,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "Flying\nAt the beginning of your end step, if this creature attacked this turn, it deals 1 damage to target opponent for each Faerie that entered this turn.",
@@ -2312,9 +1982,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Taras Susak",
-            "alias": "",
-            "position": "109",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2322,7 +1989,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Faerie Rogue",
-            "number": 228,
+            "number": 229,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Flash\nFlying\nWhen this creature enters, choose one \u2014\n\u2022 Counter target spell unless its controller pays {2}.\n\u2022 Target creature gets +2/+2 until end of turn.",
@@ -2333,9 +2000,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Benjamin Hill",
-            "alias": "",
-            "position": "110",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2354,9 +2018,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "111",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2364,7 +2025,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 239,
+            "number": 240,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "When this artifact enters, exile target creature you control. Return it to the battlefield under its owner's control.\n{T}, Sacrifice this artifact: Exile target creature. Return it to the battlefield tapped under its owner's control at the beginning of the next end step. If you control that creature, untap it.",
@@ -2375,9 +2036,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "allen panakal",
-            "alias": "",
-            "position": "112",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2396,9 +2054,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "gutierrez",
-            "alias": "",
-            "position": "113",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2417,9 +2072,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "114",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2438,9 +2090,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "fariba khamseh",
-            "alias": "",
-            "position": "115",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2459,9 +2108,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "anato finnstark",
-            "alias": "",
-            "position": "116",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2480,9 +2126,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Hugh Pindur",
-            "alias": "",
-            "position": "117",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2490,7 +2133,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Alchemist",
-            "number": 248,
+            "number": 249,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "When Vespera enters, create a Potion token with your choice of two different kinds of counters on it from among +1/+1, menace, lifelink, deathtouch, and/or flying.\n{3}, {T}: Target Potion you control becomes an X/X colorless Homunculus creature in addition to its other types, where X is the number of different kinds of counters on it. Activate only as a sorcery.",
@@ -2501,9 +2144,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "matheus graef",
-            "alias": "",
-            "position": "118",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2522,9 +2162,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "H.F Evergreen",
-            "alias": "",
-            "position": "119",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2543,9 +2180,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "120",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2564,9 +2198,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "konstantinos skenteridis",
-            "alias": "",
-            "position": "121",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2585,9 +2216,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "denis kornev",
-            "alias": "",
-            "position": "122",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2606,9 +2234,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Alex Aguilar",
-            "alias": "",
-            "position": "123",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2627,9 +2252,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "jihun lee",
-            "alias": "",
-            "position": "124",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2648,9 +2270,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "rogier van de beek",
-            "alias": "",
-            "position": "125",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2669,9 +2288,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "nele klumpe",
-            "alias": "",
-            "position": "126",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2690,9 +2306,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "127",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2711,9 +2324,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "haroon akram",
-            "alias": "",
-            "position": "128",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2732,9 +2342,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "damien mammoliti",
-            "alias": "",
-            "position": "129",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2753,9 +2360,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Anastasya Pionkovskaya",
-            "alias": "",
-            "position": "130",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2774,9 +2378,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "131",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2795,9 +2396,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Taras Susak",
-            "alias": "",
-            "position": "132",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2816,9 +2414,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "artur mosca",
-            "alias": "",
-            "position": "133",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2837,9 +2432,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "rogier van de beek",
-            "alias": "",
-            "position": "134",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2858,9 +2450,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "jakub jagoda",
-            "alias": "",
-            "position": "135",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2879,9 +2468,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "istrandar deovbnj",
-            "alias": "",
-            "position": "136",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2900,9 +2486,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "svetoslav petrov",
-            "alias": "",
-            "position": "137",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2921,9 +2504,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Dante Liu",
-            "alias": "",
-            "position": "138",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2942,9 +2522,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "damien mammoliti",
-            "alias": "",
-            "position": "139",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2963,9 +2540,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "istrandar",
-            "alias": "",
-            "position": "140",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -2984,9 +2558,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "marina krivenko",
-            "alias": "",
-            "position": "141",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3005,9 +2576,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "russell dongjun",
-            "alias": "",
-            "position": "142",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3026,9 +2594,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Anastasia",
-            "alias": "",
-            "position": "143",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3047,9 +2612,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "gabriel cassata",
-            "alias": "",
-            "position": "144",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3068,9 +2630,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "alice roussel",
-            "alias": "",
-            "position": "145",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3089,9 +2648,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Taras Susak",
-            "alias": "",
-            "position": "146",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3110,9 +2666,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "morsylvia",
-            "alias": "",
-            "position": "147",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3131,9 +2684,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Max Fan",
-            "alias": "",
-            "position": "148",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3152,9 +2702,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "matt sellers",
-            "alias": "",
-            "position": "149",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3173,9 +2720,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Jia Cai",
-            "alias": "",
-            "position": "150",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3194,9 +2738,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Applesin",
-            "alias": "",
-            "position": "151",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3215,9 +2756,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "tilly vallaki",
-            "alias": "",
-            "position": "152",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3236,9 +2774,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "ksanda",
-            "alias": "",
-            "position": "153",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3257,9 +2792,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "154",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3278,9 +2810,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "wesley gardner",
-            "alias": "",
-            "position": "155",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3299,9 +2828,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "tiziana federica",
-            "alias": "",
-            "position": "156",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3320,9 +2846,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "ameen naksewee",
-            "alias": "",
-            "position": "157",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3341,9 +2864,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "F3LC4T",
-            "alias": "",
-            "position": "158",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3362,9 +2882,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "david roterberg",
-            "alias": "",
-            "position": "159",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3383,9 +2900,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "160",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3404,9 +2918,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Denis Zhbankov",
-            "alias": "",
-            "position": "161",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3425,9 +2936,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "jordan kerbow",
-            "alias": "",
-            "position": "162",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3446,9 +2954,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "mike kime",
-            "alias": "",
-            "position": "163",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3467,9 +2972,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "164",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3488,9 +2990,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Maxime Minard",
-            "alias": "",
-            "position": "165",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3509,9 +3008,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "sandara decy",
-            "alias": "",
-            "position": "166",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3530,9 +3026,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "julian bauer",
-            "alias": "",
-            "position": "167",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3551,9 +3044,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "julian bauer",
-            "alias": "",
-            "position": "168",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3572,9 +3062,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "max berthelot",
-            "alias": "",
-            "position": "169",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3593,9 +3080,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "galen dara",
-            "alias": "",
-            "position": "170",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3603,7 +3087,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Scarecrow",
-            "number": 260,
+            "number": 262,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.\n{2}, {T}, Sacrifice this artifact: Exile target opponent's graveyard.",
@@ -3614,9 +3098,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "danijela antunovic",
-            "alias": "",
-            "position": "171",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3624,7 +3105,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Potion",
-            "number": 265,
+            "number": 267,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Flash\nThis artifact enters with your choice of a counter on it from among haste, menace, vigilance, flying, trample, lifelink, or reach.\n{2}, {T}, Sacrifice this artifact: Put its counters on target creature.",
@@ -3635,9 +3116,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "172",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3645,7 +3123,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Potion",
-            "number": 263,
+            "number": 265,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "This artifact enters with a +1/+1 and a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]\n{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\nWhen this artifact is put into your graveyard from the battlefield, draw a card.",
@@ -3656,9 +3134,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "margarita bourkova",
-            "alias": "",
-            "position": "173",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3666,7 +3141,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 270,
+            "number": 272,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{3}, {T}: Put a +1/+1 counter on up to one target Potion you control. If you don't control one, create a Potion token with a +1/+1 counter on it instead. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
@@ -3677,9 +3152,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Jennifer Chamberlain",
-            "alias": "",
-            "position": "174",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3687,7 +3159,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 278,
+            "number": 280,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3698,9 +3170,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "175",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3708,7 +3177,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 282,
+            "number": 284,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3719,9 +3188,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "176",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3729,7 +3195,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 275,
+            "number": 277,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3740,9 +3206,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "177",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3750,7 +3213,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 277,
+            "number": 279,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3761,9 +3224,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "178",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3771,7 +3231,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 272,
+            "number": 274,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3782,9 +3242,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "179",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3792,7 +3249,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 279,
+            "number": 281,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3803,9 +3260,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "180",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3813,7 +3267,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 280,
+            "number": 282,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3824,9 +3278,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "181",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3834,7 +3285,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 276,
+            "number": 278,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3845,9 +3296,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "182",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3855,7 +3303,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 281,
+            "number": 283,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -3866,9 +3314,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "183",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3887,9 +3332,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "HGJart",
-            "alias": "",
-            "position": "184",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3908,9 +3350,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Taras Susak",
-            "alias": "",
-            "position": "185",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3918,7 +3357,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 283,
+            "number": 285,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -3929,9 +3368,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "186",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3939,7 +3375,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 285,
+            "number": 287,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -3950,9 +3386,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "187",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3960,7 +3393,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 287,
+            "number": 289,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3971,9 +3404,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "188",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -3981,7 +3411,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 289,
+            "number": 292,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3992,9 +3422,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "189",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4002,7 +3429,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 291,
+            "number": 293,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -4013,9 +3440,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "190",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4034,9 +3458,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "asyayordanova",
-            "alias": "",
-            "position": "191",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4044,7 +3465,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 273,
+            "number": 275,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{T}, Sacrifice this land: Add one mana of any color.",
@@ -4055,9 +3476,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "192",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4076,9 +3494,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "F3LC4T",
-            "alias": "",
-            "position": "193",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4097,9 +3512,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "194",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4118,9 +3530,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "danielzrom",
-            "alias": "",
-            "position": "195",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4139,9 +3548,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "196",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4160,9 +3566,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Nelly Amosova",
-            "alias": "",
-            "position": "197",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4181,9 +3584,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "MyEnchantments.tumblr",
-            "alias": "",
-            "position": "198",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4202,9 +3602,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "James Skinner",
-            "alias": "",
-            "position": "199",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4223,9 +3620,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "200",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4244,9 +3638,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "michael broussard",
-            "alias": "",
-            "position": "201",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4265,9 +3656,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "nastasia shestak",
-            "alias": "",
-            "position": "202",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4286,9 +3674,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "BGK-Bengiskhan",
-            "alias": "",
-            "position": "203",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4307,9 +3692,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "nino vecia",
-            "alias": "",
-            "position": "204",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4328,9 +3710,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "205",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4349,9 +3728,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Daniela Ivanova",
-            "alias": "",
-            "position": "206",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4370,9 +3746,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "207",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4391,9 +3764,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "David Franco",
-            "alias": "",
-            "position": "208",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4412,9 +3782,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Adam Duff",
-            "alias": "",
-            "position": "209",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4433,9 +3800,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Fesbra",
-            "alias": "",
-            "position": "210",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4454,9 +3818,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
-            "alias": "",
-            "position": "211",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4475,9 +3836,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Stephen Stark",
-            "alias": "",
-            "position": "212",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4496,9 +3854,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Stu Harrington",
-            "alias": "",
-            "position": "213",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4517,9 +3872,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Peter Polach",
-            "alias": "",
-            "position": "214",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4538,9 +3890,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Alice Rainn",
-            "alias": "",
-            "position": "215",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4559,9 +3908,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Jordan Kerbow",
-            "alias": "",
-            "position": "216",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4580,9 +3926,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "217",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4601,9 +3944,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Vildor Trilov",
-            "alias": "",
-            "position": "218",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4622,9 +3962,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "romain kurdi",
-            "alias": "",
-            "position": "219",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4643,9 +3980,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "monztre",
-            "alias": "",
-            "position": "220",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4664,9 +3998,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "roman tishenin",
-            "alias": "",
-            "position": "221",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4685,9 +4016,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "septimius ferdian",
-            "alias": "",
-            "position": "222",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4706,9 +4034,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "223",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4727,9 +4052,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "anna shulgina",
-            "alias": "",
-            "position": "224",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4748,9 +4070,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "diego roman",
-            "alias": "",
-            "position": "225",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4769,9 +4088,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Adrian Virlan",
-            "alias": "",
-            "position": "226",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4790,9 +4106,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Zoe Badini",
-            "alias": "",
-            "position": "227",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4811,9 +4124,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Rapphael Pinna",
-            "alias": "",
-            "position": "228",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4821,7 +4131,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Cleric",
-            "number": 229,
+            "number": 230,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "Vigilance\nNaydel can't be blocked as long as a creature was put into exile from the battlefield this turn.\nIf a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
@@ -4832,9 +4142,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "helene lenoble",
-            "alias": "",
-            "position": "229",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4853,9 +4160,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "denys tsiperko",
-            "alias": "",
-            "position": "230",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4863,7 +4167,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2014 Human Druid",
-            "number": 252,
+            "number": 253,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
             "rules_text": "Haste\nWhenever another creature you control with power 4 or greater enters, you may discard a card. If you do, that creature fights target creature you don't control.",
@@ -4874,9 +4178,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "231",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4884,7 +4185,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Satyr Scout",
-            "number": 247,
+            "number": 248,
             "color_identity": "UG",
             "cost": "{1}{G}{U}{U}",
             "rules_text": "Flash\nSpells you cast during an opponent's turn can't be countered.\nWhen this creature enters, counter target spell.",
@@ -4895,9 +4196,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Carolina Eade",
-            "alias": "",
-            "position": "232",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4905,7 +4203,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Faerie Wizard",
-            "number": 231,
+            "number": 232,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Flying\nWhenever Nettle attacks, you may cast an instant or sorcery spell from your hand with mana value X or less without paying its mana cost, where X is Nettle's power.\n[i]Emanate[/i] \u2014 Whenever a nonland permanent you control enters and wasn't cast, Nettle gets +2/+0 until end of turn.",
@@ -4916,9 +4214,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "233",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4926,7 +4221,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Creature \u2014 Faerie Soldier",
-            "number": 244,
+            "number": 245,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "Flying, haste\nWhenever you cast another Faerie spell, create a token that's a copy of this creature.",
@@ -4937,9 +4232,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "alias": "",
-            "position": "234",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4947,7 +4239,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Shade",
-            "number": 234,
+            "number": 235,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "{W}{B}, {T}, Exile a creature card from your graveyard: Create a token that's a copy of the exiled creature, except it's a Shade in addition to its other types. You lose life equal to it's mana value. Activate only as a sorcery.\nSacrifice three Shades: Exile target creature.",
@@ -4958,9 +4250,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "235",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -4968,7 +4257,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Creature \u2014 Elemental Wizard",
-            "number": 235,
+            "number": 236,
             "color_identity": "BG",
             "cost": "{1}{B}{B}{G}{G}",
             "rules_text": "Other creatures you control have rotting.\nRotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]",
@@ -4979,9 +4268,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Adam Duff",
-            "alias": "",
-            "position": "236",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5000,9 +4286,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "237",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5010,7 +4293,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Creature \u2014 Plant Angel",
-            "number": 242,
+            "number": 243,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
             "rules_text": "Flying, trample\nWhenever this creature deals combat damage to a player, distribute that many +1/+1 counters among any number of other target creatures you control.",
@@ -5021,9 +4304,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "238",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5042,9 +4322,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "edgarsh422",
-            "alias": "",
-            "position": "239",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5063,9 +4340,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "maxim kozlov",
-            "alias": "",
-            "position": "240",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5073,7 +4347,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Instant",
-            "number": 249,
+            "number": 250,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Choose one or both \u2014\n\u2022 Target player discards a card, then draws two cards.\n\u2022 Destroy target creature or artifact.",
@@ -5084,9 +4358,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Peter Polach",
-            "alias": "",
-            "position": "241",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5094,7 +4365,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2014 Giant",
-            "number": 250,
+            "number": 251,
             "color_identity": "RG",
             "cost": "{3}{R}{R}{G}{G}",
             "rules_text": "Trample\nWhen this creature enters, destroy all artifacts and enchantments.\nWhenever an artifact or enchantment enters, destroy it.",
@@ -5105,9 +4376,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "zhang bo",
-            "alias": "",
-            "position": "242",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5126,9 +4394,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "kevin sidharta",
-            "alias": "",
-            "position": "243",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5147,9 +4412,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "244",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5168,9 +4430,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Sarah Miller",
-            "alias": "",
-            "position": "245",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5178,7 +4437,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 233,
+            "number": 234,
             "color_identity": "UR",
             "cost": "{X}{U}{R}{R}",
             "rules_text": "Look at the top X cards in your library, and put any number of them into your hand and the rest into your graveyard. Purge the Archives deals damage to each creature target player controls equal to the number of cards put into your graveyard this way.",
@@ -5189,9 +4448,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Dan Cohen",
-            "alias": "",
-            "position": "246",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5199,7 +4455,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 253,
+            "number": 254,
             "color_identity": "BG",
             "cost": "{B}{B}{G}{G}",
             "rules_text": "At the beginning of each player's end step, that player puts a decayed counter on a creature they control without decayed.\nWhenever a creature with decayed dies, untap up to one target land you control. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
@@ -5210,9 +4466,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "dmitry desyatov",
-            "alias": "",
-            "position": "247",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5220,7 +4473,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact \u2014 Potion",
-            "number": 266,
+            "number": 268,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "This artifact enters with a +1/+1 counter on it.\n{2}, {T}, Sacrifice this artifact: Return target creature card from a graveyard to the battlefield under your control and put this artifact's counters on it. Activate only as a sorcery.",
@@ -5231,9 +4484,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "andrea butera",
-            "alias": "",
-            "position": "248",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5241,7 +4491,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Scarecrow",
-            "number": 267,
+            "number": 269,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "When this creature enters, you may sacrifice a nonland permanent. If you do, search your library for a basic land card, put it onto the battlefield, then shuffle.\nWhen this creature dies, you may sacrifice a land. If you do, draw two cards.",
@@ -5252,9 +4502,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Adam Danger Cook",
-            "alias": "",
-            "position": "249",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5262,7 +4509,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Legendary Land",
-            "number": 271,
+            "number": 273,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{2}, {T}: Choose a color. Add one mana of that color for each kind of counter among permanents you control.",
@@ -5273,9 +4520,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "250",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5283,7 +4527,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Land",
-            "number": 274,
+            "number": 276,
             "color_identity": "C",
             "cost": "",
             "rules_text": "You may have this land enter tapped. If you do, put a +1/+1 counter on target creature you control.\n{T}: Add {C}.\n{3}, {T}, Remove a counter from a creature you control: Draw a card.",
@@ -5294,9 +4538,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Kael",
-            "alias": "",
-            "position": "251",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5315,9 +4556,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "252",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5336,9 +4574,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "253",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5357,9 +4592,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "254",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5378,9 +4610,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "mariah tekulve",
-            "alias": "",
-            "position": "255",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5399,9 +4628,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "256",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5420,9 +4646,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "flavio greco",
-            "alias": "",
-            "position": "257",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5441,9 +4664,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "flavio greco",
-            "alias": "",
-            "position": "258",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5462,9 +4682,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "andrea piparo",
-            "alias": "",
-            "position": "259",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5483,9 +4700,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "260",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5504,9 +4718,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Flame Croowz",
-            "alias": "",
-            "position": "261",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5514,7 +4725,7 @@
             "color": "",
             "rarity": "mythic",
             "type": "Legendary Artifact",
-            "number": 264,
+            "number": 266,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Whenever The Midnight Solution enters or you sacrifice a Potion, put a dose counter on The Midnight Solution.\nCreatures you control with dose counters on them have all the activated and triggered abilities of all other creatures with dose counters on them.\n{2}, {T}, Remove a dose counter from The Midnight Solution: Put a dose counter on target creature. Activate only as a sorcery.",
@@ -5525,9 +4736,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "262",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5535,7 +4743,7 @@
             "color": "WU",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Plant Angel",
-            "number": 240,
+            "number": 241,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
             "rules_text": "Flying, vigilance\nWhen this creature enters, exile each other creature you control, then return them to the battlefield under their owner's control.\nWhenever a creature enters under your control and wasn't cast, draw a card.",
@@ -5546,9 +4754,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "263",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5567,9 +4772,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Lauren Walsh",
-            "alias": "",
-            "position": "264",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5588,9 +4790,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Raluca Marinescu",
-            "alias": "",
-            "position": "265",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5598,7 +4797,7 @@
             "color": "UG",
             "rarity": "mythic",
             "type": "Creature \u2014 Fungus Druid",
-            "number": 232,
+            "number": 233,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Whenever you cast a spell during an opponent's turn, you may put a basic land card from your hand onto the battlefield tapped.\n{T}: Untap another target permanent.",
@@ -5609,9 +4808,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "brendan lancaster",
-            "alias": "",
-            "position": "266",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5619,7 +4815,7 @@
             "color": "UR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Wizard",
-            "number": 254,
+            "number": 255,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "Prowess\nWhenever Winry enters or deals damage to a player, put a +1/+1 counter on it.\nWhenever you cast an instant or sorcery spell, you may remove a counter from Winry. When you do, cast a copy of that spell. You may choose new targets for the copy.",
@@ -5630,9 +4826,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "267",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5651,9 +4844,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "268",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5661,7 +4851,7 @@
             "color": "BG",
             "rarity": "mythic",
             "type": "Creature \u2014 Zombie Noble",
-            "number": 227,
+            "number": 228,
             "color_identity": "BG",
             "cost": "{4}{B}{G}",
             "rules_text": "Menace, trample\nDuring combat on your turn, creatures you control with decayed can't be sacrificed.\n{T}, Exile two creature cards from your graveyard: Create a 3/3 black and green Zombie Soldier creature token with decayed and trample.",
@@ -5672,9 +4862,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "arturna khodkin",
-            "alias": "",
-            "position": "269",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5693,9 +4880,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Davood Moghaddami",
-            "alias": "",
-            "position": "270",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5703,7 +4887,7 @@
             "color": "WR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Faerie Rogue",
-            "number": 245,
+            "number": 246,
             "color_identity": "WR",
             "cost": "{R}{R}{W}",
             "rules_text": "Flying, first strike\nWhenever Thistle attacks, up to one other target attacking creature gets +2/+0 until end of turn. If it's a Faerie, exile the top card of your library. You may play that card this turn.",
@@ -5714,9 +4898,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Taras Susak",
-            "alias": "",
-            "position": "271",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5735,9 +4916,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Tatyana Kupriyanova",
-            "alias": "",
-            "position": "272",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5756,9 +4934,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Joshua Cairos",
-            "alias": "",
-            "position": "273",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5777,9 +4952,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "ivana abbate",
-            "alias": "",
-            "position": "274",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5798,9 +4970,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "diana franco",
-            "alias": "",
-            "position": "275",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5819,9 +4988,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "teaghan gokey",
-            "alias": "",
-            "position": "276",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5840,9 +5006,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Adrian Bi\u0142oz\u00f3r",
-            "alias": "",
-            "position": "277",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5861,9 +5024,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "septimius ferdian",
-            "alias": "",
-            "position": "278",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5882,9 +5042,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "claudio pozas",
-            "alias": "",
-            "position": "279",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5903,9 +5060,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "joya filomena",
-            "alias": "",
-            "position": "280",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5924,9 +5078,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "wesley gardner",
-            "alias": "",
-            "position": "281",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5945,9 +5096,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "nathaniel himawan",
-            "alias": "",
-            "position": "282",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5955,7 +5103,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
-            "number": 257,
+            "number": 259,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "When this Equipment enters, you may sacrifice a creature. If you do, attach this Equipment to target creature you control.\nEquipped creature has deathtouch and hexproof.\nEquip {4}",
@@ -5966,9 +5114,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "anato finnstark",
-            "alias": "",
-            "position": "283",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5976,7 +5121,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 284,
+            "number": 286,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -5987,9 +5132,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "284",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -5997,7 +5139,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 286,
+            "number": 288,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -6008,9 +5150,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "285",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6018,7 +5157,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 288,
+            "number": 290,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -6029,9 +5168,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "286",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6039,7 +5175,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 290,
+            "number": 291,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -6050,9 +5186,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "287",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6060,7 +5193,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 292,
+            "number": 294,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -6071,9 +5204,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "288",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6081,66 +5211,72 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 256,
+            "number": 257,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Equipped creature gets +1/+1 and has vigilance.\nEquip {2}\nWhen equipped creature dies, return it to the battlefield and attach Comforting Candle do it. Then transform Comforting Candle.",
             "flavor_text": "[i]What conforts you now...[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "transform double faced",
+            "shape": "normal",
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "289",
-            "card_name2": "Consuming Flame",
-            "color2": "",
-            "type2": "Artifact \u2014 Equipment",
-            "cost2": "",
-            "rules_text2": "Equipped creature gets +2/+0 and has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\nWhenever equipped creature leaves the battlefield, transform Consuming Flame",
-            "flavor_text2": "[i]...may consume you later.[/i]",
-            "pt2": "",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "Midjourney",
-            "alias2": "",
-            "rules_text3": "",
-            "rotated": false,
-            "notes": "\n"
+            "notes": ""
+        },
+        {
+            "card_name": "Consuming Flame",
+            "color": "",
+            "rarity": "uncommon",
+            "type": "Artifact \u2014 Equipment",
+            "number": 258,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Equipped creature gets +2/+0 and has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\nWhenever equipped creature leaves the battlefield, transform Consuming Flame",
+            "flavor_text": "[i]...may consume you later.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HHRR",
+            "loyalty": "",
+            "artist": "Midjourney",
+            "notes": ""
         },
         {
             "card_name": "Maeve, Teahouse Keeper",
             "color": "UB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Nymph Citizen",
-            "number": 226,
+            "number": 227,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "When Maeve enters, create a Potion token with a +1/+1 counter on it.\n{T}: Put a deathtouch, flying, or lifelink counter on target Potion you control.\nSacrifice a Potion with three or more counters on it: Put its counters on Maeve, then transform Maeve, Teahouse Keeper.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "transform double faced",
+            "shape": "normal",
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "291",
-            "card_name2": "Maeve, Midnight Alchemist",
-            "color2": "UB",
-            "type2": "Legendary Creature \u2014 Nightmare Alchemist",
-            "cost2": "",
-            "rules_text2": "When this creature transforms into Maeve, Midnight Alchemist, create a Potion token with your choice of an indestructible or a hexproof counter on it.\n{T}, Pay 2 life, Sacrifice a Potion: Put that Potion's counters on target creature, then put that Potion's counters on up to one other target creature. Activate only as a sorcery.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "3/3",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "Midjourney",
-            "alias2": "",
-            "rules_text3": "",
-            "rotated": false,
-            "notes": "\n"
+            "notes": ""
+        },
+        {
+            "card_name": "Maeve, Midnight Alchemist",
+            "color": "UB",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Nightmare Alchemist",
+            "number": 226,
+            "color_identity": "UB",
+            "cost": "",
+            "rules_text": "When this creature transforms into Maeve, Midnight Alchemist, create a Potion token with your choice of an indestructible or a hexproof counter on it.\n{T}, Pay 2 life, Sacrifice a Potion: Put that Potion's counters on target creature, then put that Potion's counters on up to one other target creature. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HHRR",
+            "loyalty": "",
+            "artist": "Midjourney",
+            "notes": ""
         },
         {
             "card_name": "Shade",
@@ -6158,9 +5294,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "dariusz kieliszek",
-            "alias": "",
-            "position": "293",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6179,9 +5312,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "294",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6200,9 +5330,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "295",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6221,9 +5348,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Anna glabicka",
-            "alias": "",
-            "position": "296",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6242,9 +5366,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Douglas Deri",
-            "alias": "",
-            "position": "297",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6263,9 +5384,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Taras Susak",
-            "alias": "",
-            "position": "298",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6284,9 +5402,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "joelhustak",
-            "alias": "",
-            "position": "299",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6305,9 +5420,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "300",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6326,9 +5438,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "301",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6347,9 +5456,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "andrew kuzinskiy",
-            "alias": "",
-            "position": "302",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6368,9 +5474,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Mathieu Martinet",
-            "alias": "",
-            "position": "303",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6389,9 +5492,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "304",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6410,9 +5510,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "305",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6431,9 +5528,6 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "Midjourney",
-            "alias": "",
-            "position": "306",
-            "rotated": false,
             "notes": ""
         },
         {
@@ -6452,10 +5546,8 @@
             "set": "HHRR",
             "loyalty": "",
             "artist": "James Bousema",
-            "alias": "",
-            "position": "307",
-            "rotated": false,
             "notes": ""
         }
-    ]
+    ],
+    "version": 24
 }
