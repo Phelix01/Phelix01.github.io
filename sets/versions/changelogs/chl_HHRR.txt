@@ -1,4 +1,3630 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+
+
+Dryad Apothecary
+
+Lowland Farmers
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Traveling Swashbuckler
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Petalshade Spy
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Sadistic Caress
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+
+Cropfire Elemental
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+
+Blazing Clarity
+
+Sunfruit Harvester
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Avenger of the Grove
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Wildroot Aegis
+
+Drop of Foxglove
+
+Bountiful Yield
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Vial of Crone's Grip
+
+Hemlock Strawjack
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Grieving Waif
+
+Devout Shadekin
+
+Eccentric Infuser
+
+Faerie Farmhand
+
+Briarbrush Scout
+
+Sunseed Scion
+
+Wheatcrest Paladin
+
+Forced Fieldwork
+
+Sanctuary Purge
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Needletooth Coven
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+
+Yvell, Thermal Revisionist
+
+Bramble-Bog Reclaimer
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+
+Warthorn Stinger
+
+Myrtlewort Trickster
+
+Graceful Blade Dancer
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Mistrunner Jackolope
+
+Tattercloak Presence
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+
+Tincture Trade
+
+Dialectician Mentor
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Delirious Insight
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+
+Hollow Rider
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+
+Graveplasm
+
+Vile Deed
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+
+Arabos, Spire Archmage
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+
+Exenterate
+
+Blazette, Blazing Blunder
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Bramble, Wings of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Flaring Ego
+
+Wild Retribution
+
+Dark Whimsy
+
+Orchard Ranger Captain
+
+Vinestone Basker
+
+Crow's Scythe
+
+Comforting Candle
+
+Maeve, Teahouse Keeper
+
+Shade
+
+Peasant
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+Prioritize
+
+Horror
+
+
+VERSION 22 CHANGELOG
+====================
+
+
+
+Dryad Apothecary
+
+Lowland Farmers
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Traveling Swashbuckler
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Petalshade Spy
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Sadistic Caress
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+
+Cropfire Elemental
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+
+Blazing Clarity
+
+Sunfruit Harvester
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Avenger of the Grove
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Wildroot Aegis
+
+Drop of Foxglove
+
+Bountiful Yield
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Vial of Crone's Grip
+
+Hemlock Strawjack
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Grieving Waif
+
+Devout Shadekin
+
+Eccentric Infuser
+
+Faerie Farmhand
+
+Briarbrush Scout
+
+Sunseed Scion
+
+Wheatcrest Paladin
+
+Forced Fieldwork
+
+Sanctuary Purge
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Needletooth Coven
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+
+Yvell, Thermal Revisionist
+
+Bramble-Bog Reclaimer
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+
+Warthorn Stinger
+
+Myrtlewort Trickster
+
+Graceful Blade Dancer
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Mistrunner Jackolope
+
+Tattercloak Presence
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+
+Tincture Trade
+
+Dialectician Mentor
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Delirious Insight
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+
+Hollow Rider
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+
+Graveplasm
+
+Vile Deed
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+
+Arabos, Spire Archmage
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+
+Exenterate
+
+Blazette, Blazing Blunder
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Bramble, Wings of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Flaring Ego
+
+Wild Retribution
+
+Dark Whimsy
+
+Orchard Ranger Captain
+
+Vinestone Basker
+
+Crow's Scythe
+
+Comforting Candle
+
+Maeve, Teahouse Keeper
+
+Shade
+
+Peasant
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+Prioritize
+
+Horror
+
+
+VERSION 21 CHANGELOG
+====================
+
+
+
+Dryad Apothecary
+
+Lowland Farmers
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Traveling Swashbuckler
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Petalshade Spy
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Sadistic Caress
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+
+Cropfire Elemental
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+
+Blazing Clarity
+
+Sunfruit Harvester
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Avenger of the Grove
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Wildroot Aegis
+
+Drop of Foxglove
+
+Bountiful Yield
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Vial of Crone's Grip
+
+Hemlock Strawjack
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Grieving Waif
+
+Devout Shadekin
+
+Eccentric Infuser
+
+Faerie Farmhand
+
+Briarbrush Scout
+
+Sunseed Scion
+
+Wheatcrest Paladin
+
+Forced Fieldwork
+
+Sanctuary Purge
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Needletooth Coven
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+
+Yvell, Thermal Revisionist
+
+Bramble-Bog Reclaimer
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+
+Warthorn Stinger
+
+Myrtlewort Trickster
+
+Graceful Blade Dancer
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Mistrunner Jackolope
+
+Tattercloak Presence
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+
+Tincture Trade
+
+Dialectician Mentor
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Delirious Insight
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+
+Hollow Rider
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+
+Graveplasm
+
+Vile Deed
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+
+Arabos, Spire Archmage
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+
+Exenterate
+
+Blazette, Blazing Blunder
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Bramble, Wings of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Flaring Ego
+
+Wild Retribution
+
+Dark Whimsy
+
+Orchard Ranger Captain
+
+Vinestone Basker
+
+Crow's Scythe
+
+Comforting Candle
+
+Maeve, Teahouse Keeper
+
+Shade
+
+Peasant
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+Prioritize
+
+Horror
+
+
+VERSION 20 CHANGELOG
+====================
+
+
+
+Dryad Apothecary
+
+Lowland Farmers
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Traveling Swashbuckler
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Petalshade Spy
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Sadistic Caress
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+
+Cropfire Elemental
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+
+Blazing Clarity
+
+Sunfruit Harvester
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Avenger of the Grove
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Wildroot Aegis
+
+Drop of Foxglove
+
+Bountiful Yield
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Vial of Crone's Grip
+
+Hemlock Strawjack
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Grieving Waif
+
+Devout Shadekin
+
+Eccentric Infuser
+
+Faerie Farmhand
+
+Briarbrush Scout
+
+Sunseed Scion
+
+Wheatcrest Paladin
+
+Forced Fieldwork
+
+Sanctuary Purge
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Needletooth Coven
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+
+Yvell, Thermal Revisionist
+
+Bramble-Bog Reclaimer
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+
+Warthorn Stinger
+
+Myrtlewort Trickster
+
+Graceful Blade Dancer
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Mistrunner Jackolope
+
+Tattercloak Presence
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+
+Tincture Trade
+
+Dialectician Mentor
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Delirious Insight
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+
+Hollow Rider
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+
+Graveplasm
+
+Vile Deed
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+
+Arabos, Spire Archmage
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+
+Exenterate
+
+Blazette, Blazing Blunder
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Bramble, Wings of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Flaring Ego
+
+Wild Retribution
+
+Dark Whimsy
+
+Orchard Ranger Captain
+
+Vinestone Basker
+
+Crow's Scythe
+
+Comforting Candle
+
+Maeve, Teahouse Keeper
+
+Shade
+
+Peasant
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+Prioritize
+
+Horror
+
+
+VERSION 19 CHANGELOG
+====================
+
+
+
+Dryad Apothecary
+
+Lowland Farmers
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Traveling Swashbuckler
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Petalshade Spy
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Sadistic Caress
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+
+Cropfire Elemental
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+
+Blazing Clarity
+
+Sunfruit Harvester
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Avenger of the Grove
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Wildroot Aegis
+
+Drop of Foxglove
+
+Bountiful Yield
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Vial of Crone's Grip
+
+Hemlock Strawjack
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Grieving Waif
+
+Devout Shadekin
+
+Eccentric Infuser
+
+Faerie Farmhand
+
+Briarbrush Scout
+
+Sunseed Scion
+
+Wheatcrest Paladin
+
+Forced Fieldwork
+
+Sanctuary Purge
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Needletooth Coven
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+
+Yvell, Thermal Revisionist
+
+Bramble-Bog Reclaimer
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+
+Warthorn Stinger
+
+Myrtlewort Trickster
+
+Graceful Blade Dancer
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Mistrunner Jackolope
+
+Tattercloak Presence
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+
+Tincture Trade
+
+Dialectician Mentor
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Delirious Insight
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+
+Hollow Rider
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+
+Graveplasm
+
+Vile Deed
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+
+Arabos, Spire Archmage
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+
+Exenterate
+
+Blazette, Blazing Blunder
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Bramble, Wings of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Flaring Ego
+
+Wild Retribution
+
+Dark Whimsy
+
+Orchard Ranger Captain
+
+Vinestone Basker
+
+Crow's Scythe
+
+Comforting Candle
+
+Maeve, Teahouse Keeper
+
+Shade
+
+Peasant
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+Prioritize
+
+Horror
+
+
+VERSION 18 CHANGELOG
+====================
+
+Lowland Farmers added.
+Sadistic Caress added.
+Avenger of the Grove added.
+Wildroot Aegis added.
+Vial of Crone's Grip added.
+Grieving Waif added.
+Eccentric Infuser added.
+Graceful Blade Dancer added.
+Flaring Ego added.
+Prioritize added.
+Horror added.
+
+Lowland Farmhands removed.
+Sadistic Blessing removed.
+Sudden Solution removed.
+Eladrin Avenger removed.
+Root Ward removed.
+Crone's Grip Elixir removed.
+Noon-Cursed Waif removed.
+Starlight Infuser removed.
+Graceful Bladesinger removed.
+Prodigy Flare removed.
+
+Dryad Apothecary
+
+Protective Homesteader
+
+Fatepath Stray
+
+Rootguard Sentry
+
+Faceless Preacher
+
+Dawndew Provisioner
+
+Apex Roc
+
+Bramble Lancer
+
+Salve Healer
+
+Laboring Bisonbear
+
+Harvest's Grace
+
+Plow the Fields
+rules_text: Choose one —
+• Destroy target artifact or enchantment.
+• Plow the Fields deals 4 damage to target attacking or defending creature. => Choose one —
+• Destroy target artifact or enchantment.
+• Plow the Fields deals 4 damage to target attacking or blocking creature.
+
+Strike Through the Grass
+
+Foreordain
+
+Uplifting Alchemy
+
+Runefeather Owl
+
+Fogfen Lurker
+
+Traveling Swashbuckler
+
+Seedgale Sphinx
+
+Brainjuice Tincture
+
+Alchemical Array
+
+Gilded Stasis
+
+Leshy Bone Collector
+
+Petalshade Spy
+
+Stalking Sadist
+
+Catacomb Shade
+
+Faithless Reaper
+
+Skinner of the Nightwood
+
+Dreadmarsh Sporehulk
+
+Sift Through Bones
+
+Vitality Extraction
+
+Graverot
+
+Loyal Pixiepaw
+
+Brazen Pilferer
+
+Canopy Skirmisher
+
+Burgundy Spire Initiate
+
+Brambleblood Channeler
+
+Cropfire Elemental
+
+Flash of Resolve
+
+Bottled Inferno
+
+Firebelly Brew
+
+Grisly Keepsake
+
+Blazing Clarity
+
+Sunfruit Harvester
+
+Arcroot Dewling
+
+Quickdraw Lookout
+
+Riverside Herbalist
+
+Eager Thaumaturge
+
+Nettle's Determination
+
+Bewildering Haze
+
+Lost in the Breeze
+type: Instant => Sorcery
+cost: {1}{U}{U} => {2}{U}
+rules_text: Counter up to one target spell.
+Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+Target creature's owner puts it on their choice of the top or bottom of their library.
+
+Diseased Griffin
+
+Gaul's Fading Promise
+
+Touch of Nightshade
+
+Scholar's Apprentice
+
+Devious Pyroweevil
+
+Incite Chaos
+
+Dance of Embers
+
+Grovetender Druid
+
+Skittering Barktail
+
+Orchard Ranger
+
+Lumbering Crop-Guard
+
+Luminous Hart
+
+Gentle Loamweaver
+
+Valley Mender Giant
+
+Sylvan Purity
+
+Drop of Foxglove
+
+Bountiful Yield
+
+Taste Test
+
+Drifting Scarecrow
+
+Harvesting Tools
+
+Hemlock Strawjack
+rules_text: Defender, reach, deathtouch
+{2}: This creature gains deathtouch until end of turn. => Defender, reach
+{2}: This creature gains deathtouch until end of turn.
+
+Abandoned Hamlet
+
+Cursed Tome
+
+Farmshade
+
+Pixie Tactician
+
+Harvest Monks
+
+Devout Shadekin
+
+Faerie Farmhand
+
+Briarbrush Scout
+
+Sunseed Scion
+
+Wheatcrest Paladin
+
+Forced Fieldwork
+
+Sanctuary Purge
+
+Liturgy of Abundance
+
+Umbral Veil
+
+Sanitarium Matron
+
+Runoff Monstrosity
+
+Corinna, Catalyst Brewer
+
+Blazing Root Brute
+
+Searing Growth
+
+Grel, Court-Caller Minstrel
+
+Needletooth Coven
+
+Amber-Leaf Mystic
+
+Holly, Faithful Apiarist
+
+Creeping Fatemother
+
+Inevitable Enforcer
+
+Stormflux Theorist
+
+Yvell, Thermal Revisionist
+
+Bramble-Bog Reclaimer
+
+Tombyard Celebrant
+
+Swarmcaller Captain
+rules_text: Flying
+Whenever you cast a Faerie spell, create a 1/1 red and white Faerie Soldier creature token with flying. => Flying
+Whenever this creature enters or you cast another Faerie spell, create a 1/1 red and white Faerie Soldier creature token with flying.
+
+Warthorn Stinger
+rules_text: Flying, first strike
+At the beginning of your end step, if this creature attacked this turn, it deals 1 damage to target opponent for each Faerie that entered this turn. => Flying
+At the beginning of your end step, if this creature attacked this turn, it deals 1 damage to target opponent for each Faerie that entered this turn.
+
+Myrtlewort Trickster
+
+Shifting Pendant
+
+Moonlit Spire Thief
+
+Incantation Cataloger
+
+Masterful Infusionist
+
+Shadow Shrieker
+
+Stutter-Mage Duo
+
+Vespera, Formula Shaper
+
+Inquisitive Examiner
+
+Mistrunner Jackolope
+
+Tattercloak Presence
+
+Engulf
+
+Calcinate
+
+Twisted Machinations
+
+Thirst for Answers
+
+Compulsory Reading
+
+Tincture Trade
+
+Dialectician Mentor
+
+Insatiable Umbra
+
+Dusk-Rose Acolyte
+
+Resurgent Residue
+
+Forbidden Ingredients
+
+Zealous Fateweaver
+
+Plaguefield Shambler
+
+Carcass Claimer
+
+Putrid Kelpie
+
+Sanity Robber
+
+Night Queen's Champion
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Cruel Transgression
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Rotting Might
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Pale-Path Seer
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Starlight Cradle
+
+Bottled for Later
+
+Protective Echo
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Harbinger of Fates
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Chemist
+
+Search for Shadows
+
+Delirious Insight
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+
+Naydel, Guide of Mists
+
+Hollow Rider
+rules_text: Haste
+When this creature enters, return up to one target creature card from a graveyard to the battlefield under your control. It gains haste until end of turn. Exile it at the beginning of the next end step.
+[i]Emanate[/i] — This creature has double strike as long as a nonland permanent you control entered this turn and wasn't cast. => At the beginning of combat on your turn, you may exile a creature card from your graveyard. When you do, create a 2/1 black Horror creature card with menace and haste.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters and wasn't cast, this creature gains double strike until end of turn.
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+
+Quinn, Funerary Hostess
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+
+Graveplasm
+
+Vile Deed
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+rules_text: Flying, first strike
+Permanents your opponent's control lose and can't gain ward, hexproof, or indestructible.
+Whenever a creature you control becomes blocked, Clover deals 1 damage to the blocking creature's controller. => Flying, trample
+Permanents your opponent's control lose and can't gain ward, hexproof, or indestructible.
+Whenever a creature you control becomes blocked, Clover deals 1 damage to the blocking creature's controller.
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+
+Arabos, Spire Archmage
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+rules_text: Flying, deathtouch
+Nyxpetal gets +1/+1 for each other creature you control with a deathtouch.
+Whenever a creature an opponent controls dies, put a deathtouch counter on another target creature you control. => Flying, deathtouch
+Nyxpetal gets +1/+1 for each other creature you control with deathtouch.
+Whenever a creature an opponent controls dies, put a deathtouch counter on another target creature you control.
+
+Exenterate
+
+Blazette, Blazing Blunder
+rules_text: Flying, haste
+Whenever Blazette attacks, exile the top card of your library. You may play that card until the end of your next turn.
+Whenever you play a card from exile, Blazette deals 2 damage to each opponent. => Flying, haste
+Whenever Blazette attacks, exile the top card of your library. You may play that card until the end of your next turn.
+Whenever you cast a spell or play a land card from exile, Blazette deals 2 damage to each opponent.
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Bramble, Wings of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Wild Retribution
+
+Dark Whimsy
+
+Orchard Ranger Captain
+
+Vinestone Basker
+
+Crow's Scythe
+
+Comforting Candle
+
+Maeve, Teahouse Keeper
+
+Shade
+
+Peasant
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i] => Vigilance
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Delirious Insight added.
