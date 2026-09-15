@@ -7,7 +7,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/214_Guildtide Maestro.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/214_Guildtide Maestro.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Clown Knight",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/239_Stagebreaker Jack.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/239_Stagebreaker Jack.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/209_Gleaming Fire Dancer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/209_Gleaming Fire Dancer.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/219_Lunarlight Druid.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/219_Lunarlight Druid.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/24_Parade Guide.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/24_Parade Guide.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/31_Stage-Trained Familiar.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/31_Stage-Trained Familiar.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Spirit Elemental",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/5_Confetti Elemental.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/5_Confetti Elemental.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/10_Festival Banner-Bearer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/10_Festival Banner-Bearer.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Dwarf Performer",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/7_Dwarven Flash Mob.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/7_Dwarven Flash Mob.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Angel Soldier",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/32_Stoic Seraphim.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/32_Stoic Seraphim.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/36_Vigilant Riposte.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/36_Vigilant Riposte.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Instant",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/4_Choreographed Strike.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/4_Choreographed Strike.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/29_Shattering Crescendo.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/29_Shattering Crescendo.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/25_Party Foul.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/25_Party Foul.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/6_Contagious Laughter.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/6_Contagious Laughter.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/30_Silk Seamstress.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/30_Silk Seamstress.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Fox Illusion",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/58_Maskscroll Familiar.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/58_Maskscroll Familiar.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Creature — Faerie Wizard",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/54_Gildscroll Playwright.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/54_Gildscroll Playwright.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/2_Ceremonious Knight.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/2_Ceremonious Knight.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/3_Choreographed Sentry.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/3_Choreographed Sentry.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Spirit Bard",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/52_Ethereal Flutist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/52_Ethereal Flutist.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Dryad Druid",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/61_Mirrorleaf Shaper.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/61_Mirrorleaf Shaper.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/44_Compelled Composer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/44_Compelled Composer.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/64_Moonveil Scout.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/64_Moonveil Scout.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/41_Canal Lampray.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/41_Canal Lampray.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Bird Advisor",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/38_Aegiswing Arbiter.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/38_Aegiswing Arbiter.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/46_Curtain of Mist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/46_Curtain of Mist.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/69_Scripted Retraction.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/69_Scripted Retraction.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/48_Doomed to Party.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/48_Doomed to Party.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Sorcery",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/71_Stage Double.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/71_Stage Double.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Sorcery",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/66_Ode to Brilliance.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/66_Ode to Brilliance.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/68_Phantom's Silhouette.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/68_Phantom's Silhouette.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Insect Drone",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/84_Cryptmask Swarmer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/84_Cryptmask Swarmer.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/86_Curtain Wailer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/86_Curtain Wailer.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Goblin Mercenary",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/80_Confetti Collector.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/80_Confetti Collector.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Creature — Tiefling Clown",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/97_Jubilant Harlequin.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/97_Jubilant Harlequin.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/90_Duskcaller Undertaker.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/90_Duskcaller Undertaker.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/98_Last Act Heckler.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/98_Last Act Heckler.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Gorgon Shaman",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/95_Gravemarch Petrifex.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/95_Gravemarch Petrifex.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Insect Cleric",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/94_Funeral Duskcaller.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/94_Funeral Duskcaller.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/88_Dramatic Interlude.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/88_Dramatic Interlude.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/108_Twist Ending.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/108_Twist Ending.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/78_Cackling Comeback.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/78_Cackling Comeback.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/104_Punchline Curse.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/104_Punchline Curse.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/76_Balcony Thief's Approach.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/76_Balcony Thief's Approach.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Imp",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/115_Charpyre Scamp.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/115_Charpyre Scamp.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/113_Brimwreath Greeter.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/113_Brimwreath Greeter.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/112_Banner-Whirl Acrobat.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/112_Banner-Whirl Acrobat.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature — Goblin Rogue",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/126_Firegag Jester.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/126_Firegag Jester.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Devil Performer",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/118_Daredevil Harlequin.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/118_Daredevil Harlequin.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Dwarf Bard",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/133_Lanternblaze Chanter.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/133_Lanternblaze Chanter.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Creature — Ogre Mercenary Bard",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/140_Riothall Busker.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/140_Riothall Busker.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Instant",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/122_Fatal Banter.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/122_Fatal Banter.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/129_Glory's Final Bout.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/129_Glory's Final Bout.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/144_Stike the Stage.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/144_Stike the Stage.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/125_Festival's Flamewhirl.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/125_Festival's Flamewhirl.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/131_Hellish Harmony.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/131_Hellish Harmony.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Elemental Spirit",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/171_Moss Sprite.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/171_Moss Sprite.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Dryad Performer",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/164_Lunar Dancer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/164_Lunar Dancer.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/154_Brimwreath Trailblazer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/154_Brimwreath Trailblazer.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/160_Garden Lasher.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/160_Garden Lasher.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Artifact Creature — Plant Toy",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/159_Eulogist's Puppet.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/159_Eulogist's Puppet.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/152_Bloom-Strider.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/152_Bloom-Strider.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Gorgon Bard",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/206_Funeral Harpist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/206_Funeral Harpist.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Creature — Fungus Druid",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/175_Pallbearer Myconid.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/175_Pallbearer Myconid.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Creature — Snake Assassin",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/165_Masked Scale-Stalker.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/165_Masked Scale-Stalker.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Mole",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/170_Moss Burrower.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/170_Moss Burrower.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/184_Trailblazer's Resolve.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/184_Trailblazer's Resolve.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/174_Mourning Twilight.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/174_Mourning Twilight.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Sorcery",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/150_Beneath the Canopy.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/150_Beneath the Canopy.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/169_Moon's Sterling Gaze.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/169_Moon's Sterling Gaze.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/272_Skulking Mask.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/272_Skulking Mask.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/220_Lunarveil Aegis.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/220_Lunarveil Aegis.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/267_Grand Opening Scissors.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/267_Grand Opening Scissors.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Artifact",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/262_Chorusdrum.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/262_Chorusdrum.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Artifact Creature — Scarecrow Toy",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/264_Drystraw Puppet.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/264_Drystraw Puppet.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Artifact — Treasure",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/268_Locked Treasure Box.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/268_Locked Treasure Box.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/249_Velour Virtuosa.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/249_Velour Virtuosa.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Enchantment",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/223_Opulent Performance.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/223_Opulent Performance.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/260_Proud Auteur.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/260_Proud Auteur.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Creature — Clown Rogue",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/190_Barrel Jester.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/190_Barrel Jester.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/186_Abandoned Stage Prop.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/186_Abandoned Stage Prop.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Imp Spirit",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/256_Flameskit Imp.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/256_Flameskit Imp.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/205_Formation Rider.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/205_Formation Rider.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Instant",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/189_Banners Raised.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/189_Banners Raised.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/259_Processional Champion.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/259_Processional Champion.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Creature — Insect Soldier",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/193_Catacomb Deepguard.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/193_Catacomb Deepguard.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Sorcery",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/231_Requiem's Toll.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/231_Requiem's Toll.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Creature — Insect Drone",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/257_Gravestone Feeder.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/257_Gravestone Feeder.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Creature — Elf Ranger",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/245_Twilight Ranger.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/245_Twilight Ranger.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Artifact",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/263_Delayed Firework.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/263_Delayed Firework.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Elf Rogue",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/258_Moonsprig Phantom.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/258_Moonsprig Phantom.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/278_Carnival Courtyard.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/278_Carnival Courtyard.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Land",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/287_Gravehall Dais.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/287_Gravehall Dais.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/298_Parade Courtyard.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/298_Parade Courtyard.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/304_Ritual Courtyard.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/304_Ritual Courtyard.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/286_Funeral Courtyard.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/286_Funeral Courtyard.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/312_Theater Courtyard.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/312_Theater Courtyard.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Creature — Skeleton Noble",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/82_Cryptcourt Duke.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/82_Cryptcourt Duke.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Creature — Dwarf Soldier",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/147_Warline Percussionist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/147_Warline Percussionist.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Creature — Insect Assassin",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/157_Cryptmask Stalker.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/157_Cryptmask Stalker.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Creature — Elemental Performer",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/210_Gliding Frostweaver.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/210_Gliding Frostweaver.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Creature — Elemental Advisor",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/207_Genasi Jewel Conductor.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/207_Genasi Jewel Conductor.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Enchantment",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/253_Wavetide Dance.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/253_Wavetide Dance.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/230_Razerwire Walker.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/230_Razerwire Walker.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Creature — Clown Rogue",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/191_Carnival Detonator.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/191_Carnival Detonator.png"
 			}
 		},
 		{
@@ -1070,11 +1070,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BTH-files/img/199_Elegance Masque_back.png"
+					"en": "https://phelix01.github.io/sets/BTH-files/img/199_Elegance Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/199_Elegance Masque_front.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/199_Elegance Masque_front.png"
 			}
 		},
 		{
@@ -1087,11 +1087,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BTH-files/img/202_Entropy Masque_back.png"
+					"en": "https://phelix01.github.io/sets/BTH-files/img/202_Entropy Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/202_Entropy Masque_front.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/202_Entropy Masque_front.png"
 			}
 		},
 		{
@@ -1101,7 +1101,7 @@
 			"type": "Instant",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/246_Twist of the Knife.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/246_Twist of the Knife.png"
 			}
 		},
 		{
@@ -1111,7 +1111,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/192_Carrion Vessel.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/192_Carrion Vessel.png"
 			}
 		},
 		{
@@ -1121,7 +1121,7 @@
 			"type": "Creature — Insect Drone",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/196_Death-Suitor Drone.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/196_Death-Suitor Drone.png"
 			}
 		},
 		{
@@ -1131,7 +1131,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/227_Procession's Veil.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/227_Procession's Veil.png"
 			}
 		},
 		{
@@ -1144,11 +1144,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BTH-files/img/221_Nirvana Masque_back.png"
+					"en": "https://phelix01.github.io/sets/BTH-files/img/221_Nirvana Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/221_Nirvana Masque_front.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/221_Nirvana Masque_front.png"
 			}
 		},
 		{
@@ -1158,7 +1158,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/194_Ceremonious Veterans.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/194_Ceremonious Veterans.png"
 			}
 		},
 		{
@@ -1168,7 +1168,7 @@
 			"type": "Creature — Human Soldier Performer",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/232_Rhythm-Keeper.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/232_Rhythm-Keeper.png"
 			}
 		},
 		{
@@ -1181,11 +1181,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BTH-files/img/225_Parade Masque_back.png"
+					"en": "https://phelix01.github.io/sets/BTH-files/img/225_Parade Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/225_Parade Masque_front.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/225_Parade Masque_front.png"
 			}
 		},
 		{
@@ -1195,7 +1195,7 @@
 			"type": "Artifact",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/224_Parade Baton.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/224_Parade Baton.png"
 			}
 		},
 		{
@@ -1205,7 +1205,7 @@
 			"type": "Creature — Elf Knight",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/211_Glint Armored Vigilant.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/211_Glint Armored Vigilant.png"
 			}
 		},
 		{
@@ -1215,7 +1215,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/234_Silverbirch Walker.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/234_Silverbirch Walker.png"
 			}
 		},
 		{
@@ -1228,11 +1228,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/BTH-files/img/228_Radiant Masque_back.png"
+					"en": "https://phelix01.github.io/sets/BTH-files/img/228_Radiant Masque_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/228_Radiant Masque_front.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/228_Radiant Masque_front.png"
 			}
 		},
 		{
@@ -1242,7 +1242,7 @@
 			"type": "Sorcery",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/187_Adorned in Silverlight.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/187_Adorned in Silverlight.png"
 			}
 		},
 		{
@@ -1252,7 +1252,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/34_Theatrical Mentor.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/34_Theatrical Mentor.png"
 			}
 		},
 		{
@@ -1262,7 +1262,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/9_Exhibition Duelist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/9_Exhibition Duelist.png"
 			}
 		},
 		{
@@ -1272,7 +1272,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/22_Opera's Royal Guard.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/22_Opera's Royal Guard.png"
 			}
 		},
 		{
@@ -1282,7 +1282,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/11_Festival Courier.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/11_Festival Courier.png"
 			}
 		},
 		{
@@ -1292,7 +1292,7 @@
 			"type": "Creature — Spirit Advisor",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/26_Poisebound Tutor.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/26_Poisebound Tutor.png"
 			}
 		},
 		{
@@ -1302,7 +1302,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/23_Parade Alleycat.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/23_Parade Alleycat.png"
 			}
 		},
 		{
@@ -1312,7 +1312,7 @@
 			"type": "Creature — Angel Warrior Bard",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/37_War Harpist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/37_War Harpist.png"
 			}
 		},
 		{
@@ -1322,7 +1322,7 @@
 			"type": "Creature — Bird Detective",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/15_Inconspicuous Inspector.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/15_Inconspicuous Inspector.png"
 			}
 		},
 		{
@@ -1332,7 +1332,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/20_Novice Stage Manager.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/20_Novice Stage Manager.png"
 			}
 		},
 		{
@@ -1342,7 +1342,7 @@
 			"type": "Instant",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/16_Inseparable Romance.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/16_Inseparable Romance.png"
 			}
 		},
 		{
@@ -1352,7 +1352,7 @@
 			"type": "Instant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/35_Transpuppify.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/35_Transpuppify.png"
 			}
 		},
 		{
@@ -1362,7 +1362,7 @@
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/27_Poised Retribution.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/27_Poised Retribution.png"
 			}
 		},
 		{
@@ -1372,7 +1372,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/14_Gentleman's Ghost.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/14_Gentleman's Ghost.png"
 			}
 		},
 		{
@@ -1382,7 +1382,7 @@
 			"type": "Enchantment",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/19_March of the Halo.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/19_March of the Halo.png"
 			}
 		},
 		{
@@ -1392,7 +1392,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/33_Stolen Visage.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/33_Stolen Visage.png"
 			}
 		},
 		{
@@ -1402,7 +1402,7 @@
 			"type": "Creature — Jellyfish",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/42_Canal Stinger.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/42_Canal Stinger.png"
 			}
 		},
 		{
@@ -1412,7 +1412,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/59_Masqued Echomage.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/59_Masqued Echomage.png"
 			}
 		},
 		{
@@ -1422,7 +1422,7 @@
 			"type": "Creature — Elf Rogue",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/63_Moonblade Aspirant.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/63_Moonblade Aspirant.png"
 			}
 		},
 		{
@@ -1432,7 +1432,7 @@
 			"type": "Legendary Creature — Bird Advisor",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/40_Aurel, Skycourt Orator.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/40_Aurel, Skycourt Orator.png"
 			}
 		},
 		{
@@ -1442,7 +1442,7 @@
 			"type": "Creature — Bird Rogue",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/45_Covert Analyst.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/45_Covert Analyst.png"
 			}
 		},
 		{
@@ -1452,7 +1452,7 @@
 			"type": "Creature — Faerie Wizard",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/57_Lunalight Faerie.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/57_Lunalight Faerie.png"
 			}
 		},
 		{
@@ -1462,7 +1462,7 @@
 			"type": "Creature — Tiefling Cleric",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/49_Elegant-Eye Priestess.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/49_Elegant-Eye Priestess.png"
 			}
 		},
 		{
@@ -1472,7 +1472,7 @@
 			"type": "Creature — Cat Elemental",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/67_Painted Marblefang.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/67_Painted Marblefang.png"
 			}
 		},
 		{
@@ -1482,7 +1482,7 @@
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/53_Flow Form.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/53_Flow Form.png"
 			}
 		},
 		{
@@ -1492,7 +1492,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/62_Misty Step.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/62_Misty Step.png"
 			}
 		},
 		{
@@ -1502,7 +1502,7 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/74_Unforeseen Current.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/74_Unforeseen Current.png"
 			}
 		},
 		{
@@ -1512,7 +1512,7 @@
 			"type": "Sorcery",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/72_Standing Ovation.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/72_Standing Ovation.png"
 			}
 		},
 		{
@@ -1522,7 +1522,7 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/56_Graceful Exhibition.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/56_Graceful Exhibition.png"
 			}
 		},
 		{
@@ -1532,7 +1532,7 @@
 			"type": "Enchantment",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/65_Motley Masquerade.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/65_Motley Masquerade.png"
 			}
 		},
 		{
@@ -1542,7 +1542,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/70_Shifting Facade.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/70_Shifting Facade.png"
 			}
 		},
 		{
@@ -1552,7 +1552,7 @@
 			"type": "Creature — Goblin Rogue",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/102_Pervasive Nimblist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/102_Pervasive Nimblist.png"
 			}
 		},
 		{
@@ -1562,7 +1562,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/100_Mourning Raven.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/100_Mourning Raven.png"
 			}
 		},
 		{
@@ -1572,7 +1572,7 @@
 			"type": "Legendary Creature — Clown Devil",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/107_Thrills, Punchline Predator.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/107_Thrills, Punchline Predator.png"
 			}
 		},
 		{
@@ -1582,7 +1582,7 @@
 			"type": "Creature — Human Assassin",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/109_Vengeful Widow.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/109_Vengeful Widow.png"
 			}
 		},
 		{
@@ -1592,7 +1592,7 @@
 			"type": "Creature — Zombie Bard",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/96_Graveside Minstrel.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/96_Graveside Minstrel.png"
 			}
 		},
 		{
@@ -1602,7 +1602,7 @@
 			"type": "Creature — Ogre Mercenary",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/103_Prize Pit Bouncer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/103_Prize Pit Bouncer.png"
 			}
 		},
 		{
@@ -1612,7 +1612,7 @@
 			"type": "Creature — Insect Rogue",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/83_Cryptmask Graverobber.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/83_Cryptmask Graverobber.png"
 			}
 		},
 		{
@@ -1622,7 +1622,7 @@
 			"type": "Creature — Clown Rogue",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/105_Sadistic Showstopper.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/105_Sadistic Showstopper.png"
 			}
 		},
 		{
@@ -1632,7 +1632,7 @@
 			"type": "Creature — Nightmare",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/106_Stageburrow Lurker.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/106_Stageburrow Lurker.png"
 			}
 		},
 		{
@@ -1642,7 +1642,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/85_Curtain Call Catastrophe.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/85_Curtain Call Catastrophe.png"
 			}
 		},
 		{
@@ -1652,7 +1652,7 @@
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/89_Dress the Stage.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/89_Dress the Stage.png"
 			}
 		},
 		{
@@ -1662,7 +1662,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/110_VIP Entrance.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/110_VIP Entrance.png"
 			}
 		},
 		{
@@ -1672,7 +1672,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/101_Peek Performance.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/101_Peek Performance.png"
 			}
 		},
 		{
@@ -1682,7 +1682,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/111_Welcome to the Show.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/111_Welcome to the Show.png"
 			}
 		},
 		{
@@ -1692,7 +1692,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/93_Final Audition.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/93_Final Audition.png"
 			}
 		},
 		{
@@ -1702,7 +1702,7 @@
 			"type": "Creature — Devil Rogue",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/117_Crackfire Devil.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/117_Crackfire Devil.png"
 			}
 		},
 		{
@@ -1712,7 +1712,7 @@
 			"type": "Creature — Satyr Performer",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/137_Party Virtuoso.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/137_Party Virtuoso.png"
 			}
 		},
 		{
@@ -1722,7 +1722,7 @@
 			"type": "Creature — Tiefling Bard",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/130_Hellhymn Troubadour.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/130_Hellhymn Troubadour.png"
 			}
 		},
 		{
@@ -1732,7 +1732,7 @@
 			"type": "Creature — Goblin Rogue",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/120_Emberjuggle Trickster.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/120_Emberjuggle Trickster.png"
 			}
 		},
 		{
@@ -1742,7 +1742,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/119_Emberhoof Colossus.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/119_Emberhoof Colossus.png"
 			}
 		},
 		{
@@ -1752,7 +1752,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/138_Private Instigator.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/138_Private Instigator.png"
 			}
 		},
 		{
@@ -1762,7 +1762,7 @@
 			"type": "Creature — Tiefling Wizard",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/135_Maniacal Thaumaturge.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/135_Maniacal Thaumaturge.png"
 			}
 		},
 		{
@@ -1772,7 +1772,7 @@
 			"type": "Creature — Dragon Performer",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/123_Festival Drake.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/123_Festival Drake.png"
 			}
 		},
 		{
@@ -1782,7 +1782,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/141_Spellbinding Soprano.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/141_Spellbinding Soprano.png"
 			}
 		},
 		{
@@ -1792,7 +1792,7 @@
 			"type": "Instant",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/148_Wicked Whirl.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/148_Wicked Whirl.png"
 			}
 		},
 		{
@@ -1802,7 +1802,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/139_Revelry in Twilight.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/139_Revelry in Twilight.png"
 			}
 		},
 		{
@@ -1812,7 +1812,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/136_Party Favors.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/136_Party Favors.png"
 			}
 		},
 		{
@@ -1822,7 +1822,7 @@
 			"type": "Sorcery",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/132_Jealous Soliloquy.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/132_Jealous Soliloquy.png"
 			}
 		},
 		{
@@ -1832,7 +1832,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/142_Spotlight of Madness.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/142_Spotlight of Madness.png"
 			}
 		},
 		{
@@ -1842,7 +1842,7 @@
 			"type": "Sorcery",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/145_Ventriloquist's Vice.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/145_Ventriloquist's Vice.png"
 			}
 		},
 		{
@@ -1852,7 +1852,7 @@
 			"type": "Legendary Creature — Elf Druid",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/183_Sundryl, Lunarlight Seer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/183_Sundryl, Lunarlight Seer.png"
 			}
 		},
 		{
@@ -1862,7 +1862,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/162_Grove Infiltrator.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/162_Grove Infiltrator.png"
 			}
 		},
 		{
@@ -1872,7 +1872,7 @@
 			"type": "Creature — Beaver",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/151_Birchglow Beaver.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/151_Birchglow Beaver.png"
 			}
 		},
 		{
@@ -1882,7 +1882,7 @@
 			"type": "Creature — Gorgon",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/161_Gravemire Sibyl.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/161_Gravemire Sibyl.png"
 			}
 		},
 		{
@@ -1892,7 +1892,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/176_Reclusive Naturalist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/176_Reclusive Naturalist.png"
 			}
 		},
 		{
@@ -1902,7 +1902,7 @@
 			"type": "Creature — Elemental Performer",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/156_Carnival Vinecrawler.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/156_Carnival Vinecrawler.png"
 			}
 		},
 		{
@@ -1912,7 +1912,7 @@
 			"type": "Creature — Elf Ranger",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/182_Silverlight Ranger.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/182_Silverlight Ranger.png"
 			}
 		},
 		{
@@ -1922,7 +1922,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/180_Segmented Skitterer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/180_Segmented Skitterer.png"
 			}
 		},
 		{
@@ -1932,7 +1932,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/172_Mossgrave Extractor.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/172_Mossgrave Extractor.png"
 			}
 		},
 		{
@@ -1942,7 +1942,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/168_Moonlight's Fury.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/168_Moonlight's Fury.png"
 			}
 		},
 		{
@@ -1952,7 +1952,7 @@
 			"type": "Instant",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/181_Showstopping Strength.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/181_Showstopping Strength.png"
 			}
 		},
 		{
@@ -1962,7 +1962,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/173_Mourner's Journey.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/173_Mourner's Journey.png"
 			}
 		},
 		{
@@ -1972,7 +1972,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/149_Alluring Aroma.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/149_Alluring Aroma.png"
 			}
 		},
 		{
@@ -1982,7 +1982,7 @@
 			"type": "Enchantment",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/163_The Land Remembers.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/163_The Land Remembers.png"
 			}
 		},
 		{
@@ -1992,7 +1992,7 @@
 			"type": "Artifact",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/274_Stage Banner.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/274_Stage Banner.png"
 			}
 		},
 		{
@@ -2002,7 +2002,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/266_Festival Float.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/266_Festival Float.png"
 			}
 		},
 		{
@@ -2012,7 +2012,7 @@
 			"type": "Artifact",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/270_Phantom's Roost.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/270_Phantom's Roost.png"
 			}
 		},
 		{
@@ -2022,7 +2022,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/265_Festival Band.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/265_Festival Band.png"
 			}
 		},
 		{
@@ -2032,7 +2032,7 @@
 			"type": "Creature — Zombie Knight",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/81_Crypt-Risen Cavalier.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/81_Crypt-Risen Cavalier.png"
 			}
 		},
 		{
@@ -2042,7 +2042,7 @@
 			"type": "Land",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/305_Scaffolded Piazza.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/305_Scaffolded Piazza.png"
 			}
 		},
 		{
@@ -2052,7 +2052,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/277_Birchmoon Plaza.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/277_Birchmoon Plaza.png"
 			}
 		},
 		{
@@ -2062,7 +2062,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/306_Skypeak Plaza.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/306_Skypeak Plaza.png"
 			}
 		},
 		{
@@ -2072,7 +2072,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/280_Duskmire Plaza.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/280_Duskmire Plaza.png"
 			}
 		},
 		{
@@ -2082,7 +2082,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/276_Azuretide Plaza.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/276_Azuretide Plaza.png"
 			}
 		},
 		{
@@ -2092,7 +2092,7 @@
 			"type": "Land — Courtyard",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/279_Dawncourt Plaza.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/279_Dawncourt Plaza.png"
 			}
 		},
 		{
@@ -2102,7 +2102,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/128_Furnace Dancer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/128_Furnace Dancer.png"
 			}
 		},
 		{
@@ -2112,7 +2112,7 @@
 			"type": "Creature — Insect Drone",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/155_Brooding Eggminder.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/155_Brooding Eggminder.png"
 			}
 		},
 		{
@@ -2122,7 +2122,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/12_Finale Swan.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/12_Finale Swan.png"
 			}
 		},
 		{
@@ -2132,7 +2132,7 @@
 			"type": "Legendary Creature — Angel Performer",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/1_Aveline, Celestial Pirouette.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/1_Aveline, Celestial Pirouette.png"
 			}
 		},
 		{
@@ -2142,7 +2142,7 @@
 			"type": "Legendary Creature — Dwarf Bard",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/28_Renthilda, Lead Lutenist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/28_Renthilda, Lead Lutenist.png"
 			}
 		},
 		{
@@ -2152,7 +2152,7 @@
 			"type": "Creature — Elf Cleric",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/18_Ivory Adjudicator.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/18_Ivory Adjudicator.png"
 			}
 		},
 		{
@@ -2162,7 +2162,7 @@
 			"type": "Sorcery",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/21_Only One Shall Wake.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/21_Only One Shall Wake.png"
 			}
 		},
 		{
@@ -2172,7 +2172,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/17_Intermission.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/17_Intermission.png"
 			}
 		},
 		{
@@ -2182,7 +2182,7 @@
 			"type": "Legendary Creature — Bird Advisor",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/50_Elistair, Esteemed Director.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/50_Elistair, Esteemed Director.png"
 			}
 		},
 		{
@@ -2192,7 +2192,7 @@
 			"type": "Artifact Creature — Angel Construct",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/60_Mirrorglass Seraph.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/60_Mirrorglass Seraph.png"
 			}
 		},
 		{
@@ -2202,7 +2202,7 @@
 			"type": "Legendary Creature — Faerie Wizard",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/47_Cyril, the Living Chorus.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/47_Cyril, the Living Chorus.png"
 			}
 		},
 		{
@@ -2212,7 +2212,7 @@
 			"type": "Sorcery",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/55_Graceful Ejection.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/55_Graceful Ejection.png"
 			}
 		},
 		{
@@ -2222,7 +2222,7 @@
 			"type": "Instant",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/73_Unflattering Command.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/73_Unflattering Command.png"
 			}
 		},
 		{
@@ -2232,7 +2232,7 @@
 			"type": "Enchantment",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/51_Ephemoral Exchange.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/51_Ephemoral Exchange.png"
 			}
 		},
 		{
@@ -2242,7 +2242,7 @@
 			"type": "Legendary Creature — Horror Bard",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/92_Evaron, Besotted Phantom.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/92_Evaron, Besotted Phantom.png"
 			}
 		},
 		{
@@ -2252,7 +2252,7 @@
 			"type": "Legendary Creature — Human Bard",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/79_Celessa, Phantom's Muse.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/79_Celessa, Phantom's Muse.png"
 			}
 		},
 		{
@@ -2262,7 +2262,7 @@
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/87_Curtainfall.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/87_Curtainfall.png"
 			}
 		},
 		{
@@ -2272,7 +2272,7 @@
 			"type": "Instant",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/75_Artistic Liberties.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/75_Artistic Liberties.png"
 			}
 		},
 		{
@@ -2282,7 +2282,7 @@
 			"type": "Enchantment",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/99_Laughtrack.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/99_Laughtrack.png"
 			}
 		},
 		{
@@ -2292,7 +2292,7 @@
 			"type": "Creature — Demon Performer",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/146_Voltspasm Arsonist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/146_Voltspasm Arsonist.png"
 			}
 		},
 		{
@@ -2302,7 +2302,7 @@
 			"type": "Legendary Creature — Clown Advisor",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/114_Caine, Cynical Showman.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/114_Caine, Cynical Showman.png"
 			}
 		},
 		{
@@ -2312,7 +2312,7 @@
 			"type": "Sorcery",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/143_Step Right Up.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/143_Step Right Up.png"
 			}
 		},
 		{
@@ -2322,7 +2322,7 @@
 			"type": "Sorcery",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/116_Coffers to Coffins.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/116_Coffers to Coffins.png"
 			}
 		},
 		{
@@ -2332,7 +2332,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/134_Lymara, Parade's Herald.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/134_Lymara, Parade's Herald.png"
 			}
 		},
 		{
@@ -2342,7 +2342,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/124_Festival Fever.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/124_Festival Fever.png"
 			}
 		},
 		{
@@ -2352,7 +2352,7 @@
 			"type": "Creature — Dryad Ranger Druid",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/153_Boughblade Warden.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/153_Boughblade Warden.png"
 			}
 		},
 		{
@@ -2362,7 +2362,7 @@
 			"type": "Legendary Creature — Gorgon Druid",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/185_Vexidra, Mourning Venom.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/185_Vexidra, Mourning Venom.png"
 			}
 		},
 		{
@@ -2372,7 +2372,7 @@
 			"type": "Legendary Creature — Elf Warrior",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/179_Sanria, Eternal Moon Maiden.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/179_Sanria, Eternal Moon Maiden.png"
 			}
 		},
 		{
@@ -2382,7 +2382,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/166_Masqueborn Hydra.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/166_Masqueborn Hydra.png"
 			}
 		},
 		{
@@ -2392,7 +2392,7 @@
 			"type": "Sorcery",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/167_Memoirs of a Rose.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/167_Memoirs of a Rose.png"
 			}
 		},
 		{
@@ -2402,7 +2402,7 @@
 			"type": "Enchantment",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/177_Resurgent Awakening.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/177_Resurgent Awakening.png"
 			}
 		},
 		{
@@ -2412,7 +2412,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/251_Virelle, Tethered Swan.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/251_Virelle, Tethered Swan.png"
 			}
 		},
 		{
@@ -2422,7 +2422,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/247_Valoré, Starborn Duelist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/247_Valoré, Starborn Duelist.png"
 			}
 		},
 		{
@@ -2432,7 +2432,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/198_Dignified Swordmaiden.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/198_Dignified Swordmaiden.png"
 			}
 		},
 		{
@@ -2442,7 +2442,7 @@
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/242_Thea, Distressed Actress.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/242_Thea, Distressed Actress.png"
 			}
 		},
 		{
@@ -2452,7 +2452,7 @@
 			"type": "Instant",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/217_Jouelle's Resolve.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/217_Jouelle's Resolve.png"
 			}
 		},
 		{
@@ -2462,7 +2462,7 @@
 			"type": "Artifact",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/201_Encore Engine.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/201_Encore Engine.png"
 			}
 		},
 		{
@@ -2472,7 +2472,7 @@
 			"type": "Creature — Dwarf Performer",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/204_Firework Ballon Brigade.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/204_Firework Ballon Brigade.png"
 			}
 		},
 		{
@@ -2482,7 +2482,7 @@
 			"type": "Instant",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/208_Gilded March.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/208_Gilded March.png"
 			}
 		},
 		{
@@ -2492,7 +2492,7 @@
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/197_Dia, Plummeting Pathfinder.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/197_Dia, Plummeting Pathfinder.png"
 			}
 		},
 		{
@@ -2502,7 +2502,7 @@
 			"type": "Enchantment",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/229_Radiant Parade.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/229_Radiant Parade.png"
 			}
 		},
 		{
@@ -2512,7 +2512,7 @@
 			"type": "Legendary Creature — Goblin Performer",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/212_Grekyl, Big Top Bombardier.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/212_Grekyl, Big Top Bombardier.png"
 			}
 		},
 		{
@@ -2522,7 +2522,7 @@
 			"type": "Creature — Tiefling Performer",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/188_Avarice Acrobats.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/188_Avarice Acrobats.png"
 			}
 		},
 		{
@@ -2532,7 +2532,7 @@
 			"type": "Legendary Creature — Skeleton Advisor",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/248_Varnok, Grin of the Gallows.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/248_Varnok, Grin of the Gallows.png"
 			}
 		},
 		{
@@ -2542,7 +2542,7 @@
 			"type": "Sorcery",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/236_Snipsnap's Coronation.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/236_Snipsnap's Coronation.png"
 			}
 		},
 		{
@@ -2552,7 +2552,7 @@
 			"type": "Artifact — Treasure",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/200_Embermirth Token.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/200_Embermirth Token.png"
 			}
 		},
 		{
@@ -2562,7 +2562,7 @@
 			"type": "Legendary Creature — Gorgon Druid",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/222_Nysk, Silent Deathreaver.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/222_Nysk, Silent Deathreaver.png"
 			}
 		},
 		{
@@ -2572,7 +2572,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/233_Sepulcher Oracle.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/233_Sepulcher Oracle.png"
 			}
 		},
 		{
@@ -2582,7 +2582,7 @@
 			"type": "Legendary Creature — Elf Druid",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/250_Vexis the Patient.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/250_Vexis the Patient.png"
 			}
 		},
 		{
@@ -2592,7 +2592,7 @@
 			"type": "Enchantment",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/213_Grieve in Silence.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/213_Grieve in Silence.png"
 			}
 		},
 		{
@@ -2602,7 +2602,7 @@
 			"type": "Sorcery",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/241_Tears of the Grave.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/241_Tears of the Grave.png"
 			}
 		},
 		{
@@ -2612,7 +2612,7 @@
 			"type": "Legendary Creature — Elf Wizard",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/240_Sylvia, Moonthread Weaver.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/240_Sylvia, Moonthread Weaver.png"
 			}
 		},
 		{
@@ -2622,7 +2622,7 @@
 			"type": "Legendary Creature — Elf Druid",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/255_Yiryn, Sterling Protector.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/255_Yiryn, Sterling Protector.png"
 			}
 		},
 		{
@@ -2632,7 +2632,7 @@
 			"type": "Creature — Elemental Illusion",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/226_Petal Phantasm.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/226_Petal Phantasm.png"
 			}
 		},
 		{
@@ -2642,7 +2642,7 @@
 			"type": "Sorcery",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/254_Whispering Wisteria.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/254_Whispering Wisteria.png"
 			}
 		},
 		{
@@ -2652,7 +2652,7 @@
 			"type": "Instant",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/252_Wardrobe Change.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/252_Wardrobe Change.png"
 			}
 		},
 		{
@@ -2662,7 +2662,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/269_Phantom Lenses.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/269_Phantom Lenses.png"
 			}
 		},
 		{
@@ -2672,7 +2672,7 @@
 			"type": "Artifact",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/275_Stage Crook.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/275_Stage Crook.png"
 			}
 		},
 		{
@@ -2682,7 +2682,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/261_Bannerbound Golem.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/261_Bannerbound Golem.png"
 			}
 		},
 		{
@@ -2692,7 +2692,7 @@
 			"type": "Artifact — Treasure",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/271_Sideshow Box.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/271_Sideshow Box.png"
 			}
 		},
 		{
@@ -2702,7 +2702,7 @@
 			"type": "Artifact Creature — Toy",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/273_Splinterhost Puppet.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/273_Splinterhost Puppet.png"
 			}
 		},
 		{
@@ -2712,7 +2712,7 @@
 			"type": "Legendary Creature — Clown Noble",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/235_Snipsnap, Bleeding Heart Queen.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/235_Snipsnap, Bleeding Heart Queen.png"
 			}
 		},
 		{
@@ -2722,7 +2722,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/237_Snipsnap's Snickering Stiletto.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/237_Snipsnap's Snickering Stiletto.png"
 			}
 		},
 		{
@@ -2732,7 +2732,7 @@
 			"type": "Legendary Creature — Angel Warrior",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/216_Jouelle, Pucelle de Voile.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/216_Jouelle, Pucelle de Voile.png"
 			}
 		},
 		{
@@ -2742,7 +2742,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/203_Étoilame, Maiden's Edge.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/203_Étoilame, Maiden's Edge.png"
 			}
 		},
 		{
@@ -2752,7 +2752,7 @@
 			"type": "Legendary Creature — Elf Druid",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/218_Kaela, the Lunar Voice.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/218_Kaela, the Lunar Voice.png"
 			}
 		},
 		{
@@ -2762,7 +2762,7 @@
 			"type": "Legendary Creature — Dwarf Soldier",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/244_Torvin, Grand Marshal.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/244_Torvin, Grand Marshal.png"
 			}
 		},
 		{
@@ -2772,7 +2772,7 @@
 			"type": "Legendary Planeswalker — Jalessa",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/215_Jalessa, the Waiting Silence.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/215_Jalessa, the Waiting Silence.png"
 			}
 		},
 		{
@@ -2782,7 +2782,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/238_Staff of Patient Silence.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/238_Staff of Patient Silence.png"
 			}
 		},
 		{
@@ -2792,7 +2792,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/195_Crescent-Root Axe.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/195_Crescent-Root Axe.png"
 			}
 		},
 		{
@@ -2802,7 +2802,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/243_Thousand Cheer's Glory.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/243_Thousand Cheer's Glory.png"
 			}
 		},
 		{
@@ -2812,7 +2812,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/301_Plains.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/301_Plains.png"
 			}
 		},
 		{
@@ -2822,7 +2822,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/300_Plains.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/300_Plains.png"
 			}
 		},
 		{
@@ -2832,7 +2832,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/299_Plains.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/299_Plains.png"
 			}
 		},
 		{
@@ -2842,7 +2842,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/288_Island.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/288_Island.png"
 			}
 		},
 		{
@@ -2852,7 +2852,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/289_Island.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/289_Island.png"
 			}
 		},
 		{
@@ -2862,7 +2862,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/290_Island.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/290_Island.png"
 			}
 		},
 		{
@@ -2872,7 +2872,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/307_Swamp.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/307_Swamp.png"
 			}
 		},
 		{
@@ -2882,7 +2882,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/309_Swamp.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/309_Swamp.png"
 			}
 		},
 		{
@@ -2892,7 +2892,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/308_Swamp.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/308_Swamp.png"
 			}
 		},
 		{
@@ -2902,7 +2902,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/296_Mountain.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/296_Mountain.png"
 			}
 		},
 		{
@@ -2912,7 +2912,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/294_Mountain.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/294_Mountain.png"
 			}
 		},
 		{
@@ -2922,7 +2922,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/297_Mountain.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/297_Mountain.png"
 			}
 		},
 		{
@@ -2932,7 +2932,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/284_Forest.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/284_Forest.png"
 			}
 		},
 		{
@@ -2942,7 +2942,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/283_Forest.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/283_Forest.png"
 			}
 		},
 		{
@@ -2952,7 +2952,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/282_Forest.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/282_Forest.png"
 			}
 		},
 		{
@@ -2962,7 +2962,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/302_Plains.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/302_Plains.png"
 			}
 		},
 		{
@@ -2972,7 +2972,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/303_Plains.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/303_Plains.png"
 			}
 		},
 		{
@@ -2982,7 +2982,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/291_Island.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/291_Island.png"
 			}
 		},
 		{
@@ -2992,7 +2992,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/292_Island.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/292_Island.png"
 			}
 		},
 		{
@@ -3002,7 +3002,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/310_Swamp.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/310_Swamp.png"
 			}
 		},
 		{
@@ -3012,7 +3012,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/311_Swamp.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/311_Swamp.png"
 			}
 		},
 		{
@@ -3022,7 +3022,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/293_Mountain.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/293_Mountain.png"
 			}
 		},
 		{
@@ -3032,7 +3032,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/295_Mountain.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/295_Mountain.png"
 			}
 		},
 		{
@@ -3042,7 +3042,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/281_Forest.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/281_Forest.png"
 			}
 		},
 		{
@@ -3052,7 +3052,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/285_Forest.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/285_Forest.png"
 			}
 		},
 		{
@@ -3062,7 +3062,7 @@
 			"type": "Legendary Creature — Clown Horror",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/77_Bonky-Fists, the Freakshow.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/77_Bonky-Fists, the Freakshow.png"
 			}
 		},
 		{
@@ -3072,7 +3072,7 @@
 			"type": "Legendary Creature — Dryad Druid",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/178_Rykiki, Unrooted Eyes.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/178_Rykiki, Unrooted Eyes.png"
 			}
 		},
 		{
@@ -3082,7 +3082,7 @@
 			"type": "Legendary Creature — Siren Bard",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/39_Aria, Waketide Soloist.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/39_Aria, Waketide Soloist.png"
 			}
 		},
 		{
@@ -3092,7 +3092,7 @@
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/13_Fyrn, Prima Ballerina.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/13_Fyrn, Prima Ballerina.png"
 			}
 		},
 		{
@@ -3102,7 +3102,7 @@
 			"type": "Enchantment",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/8_Entry Fee.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/8_Entry Fee.png"
 			}
 		},
 		{
@@ -3112,7 +3112,7 @@
 			"type": "Enchantment",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/91_Enter the Puppet Show.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/91_Enter the Puppet Show.png"
 			}
 		},
 		{
@@ -3122,7 +3122,7 @@
 			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/43_Clear the Room.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/43_Clear the Room.png"
 			}
 		},
 		{
@@ -3132,7 +3132,7 @@
 			"type": "Instant",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/121_Explosive Ovation.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/121_Explosive Ovation.png"
 			}
 		},
 		{
@@ -3142,7 +3142,7 @@
 			"type": "Creature — Plant Elemental",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/158_Dusk Rose Shambler.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/158_Dusk Rose Shambler.png"
 			}
 		},
 		{
@@ -3152,7 +3152,7 @@
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/BTH-files/img/127_Flaya, Hexotic Dancer.png"
+				"en": "https://phelix01.github.io/sets/BTH-files/img/127_Flaya, Hexotic Dancer.png"
 			}
 		}
 	]
@@ -3350,7 +3350,104 @@
 	4 Dawncourt Plaza
 	4 Furnace Dancer
 	4 Brooding Eggminder
-[common(7)]
+[common(6)]
+	8 Parade Guide
+	8 Stage-Trained Familiar
+	8 Confetti Elemental
+	8 Festival Banner-Bearer
+	8 Dwarven Flash Mob
+	8 Stoic Seraphim
+	8 Vigilant Riposte
+	8 Choreographed Strike
+	8 Shattering Crescendo
+	8 Party Foul
+	8 Contagious Laughter
+	8 Silk Seamstress
+	8 Maskscroll Familiar
+	8 Gildscroll Playwright
+	8 Ceremonious Knight
+	8 Choreographed Sentry
+	8 Ethereal Flutist
+	8 Mirrorleaf Shaper
+	8 Compelled Composer
+	8 Moonveil Scout
+	8 Canal Lampray
+	8 Aegiswing Arbiter
+	8 Curtain of Mist
+	8 Scripted Retraction
+	8 Doomed to Party
+	8 Stage Double
+	8 Ode to Brilliance
+	8 Phantom's Silhouette
+	8 Cryptmask Swarmer
+	8 Curtain Wailer
+	8 Confetti Collector
+	8 Jubilant Harlequin
+	8 Duskcaller Undertaker
+	8 Last Act Heckler
+	8 Gravemarch Petrifex
+	8 Funeral Duskcaller
+	8 Dramatic Interlude
+	8 Twist Ending
+	8 Cackling Comeback
+	8 Punchline Curse
+	8 Balcony Thief's Approach
+	8 Charpyre Scamp
+	8 Brimwreath Greeter
+	8 Banner-Whirl Acrobat
+	8 Firegag Jester
+	8 Daredevil Harlequin
+	8 Lanternblaze Chanter
+	8 Riothall Busker
+	8 Fatal Banter
+	8 Glory's Final Bout
+	8 Stike the Stage
+	8 Festival's Flamewhirl
+	8 Hellish Harmony
+	8 Moss Sprite
+	8 Lunar Dancer
+	8 Brimwreath Trailblazer
+	8 Garden Lasher
+	8 Eulogist's Puppet
+	8 Bloom-Strider
+	8 Pallbearer Myconid
+	8 Masked Scale-Stalker
+	8 Moss Burrower
+	8 Trailblazer's Resolve
+	8 Mourning Twilight
+	8 Beneath the Canopy
+	8 Moon's Sterling Gaze
+	8 Skulking Mask
+	8 Lunarveil Aegis
+	8 Grand Opening Scissors
+	8 Chorusdrum
+	8 Drystraw Puppet
+	8 Locked Treasure Box
+	8 Velour Virtuosa
+	8 Opulent Performance
+	8 Proud Auteur
+	8 Barrel Jester
+	8 Abandoned Stage Prop
+	8 Flameskit Imp
+	8 Formation Rider
+	8 Banners Raised
+	8 Processional Champion
+	8 Catacomb Deepguard
+	8 Requiem's Toll
+	8 Gravestone Feeder
+	8 Twilight Ranger
+	8 Moonsprig Phantom
+	8 Carnival Courtyard
+	8 Gravehall Dais
+	8 Parade Courtyard
+	8 Ritual Courtyard
+	8 Funeral Courtyard
+	8 Theater Courtyard
+	8 Cryptcourt Duke
+	8 Warline Percussionist
+	8 Cryptmask Stalker
+	8 Crackfire Devil
+[common | masterpiece(1)]
 	8 Parade Guide
 	8 Stage-Trained Familiar
 	8 Confetti Elemental

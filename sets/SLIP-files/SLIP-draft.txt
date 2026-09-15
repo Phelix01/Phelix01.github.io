@@ -7,7 +7,7 @@
 			"type": "Creature — Snake Pirate Wizard",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/248_Stormcloud Conjurer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/248_Stormcloud Conjurer.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/192_Ancestral Priestess.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/192_Ancestral Priestess.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Cat Warrior Monk",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/194_Asingha Disciple.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/194_Asingha Disciple.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Bird Soldier",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/27_Rustflight Owlguard.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/27_Rustflight Owlguard.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/14_Honored Spiritbinder.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/14_Honored Spiritbinder.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/9_Flame-Walk Protector.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/9_Flame-Walk Protector.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Plant Spirit",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/19_Lotus Spirit.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/19_Lotus Spirit.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature — Skeleton Soldier",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/23_Osteokai Graveguard.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/23_Osteokai Graveguard.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/17_Krabi-Warrior.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/17_Krabi-Warrior.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Elephant Monk",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/20_Loxodon Rust Priest.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/20_Loxodon Rust Priest.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Instant",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/1_Ancestral Duty.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/1_Ancestral Duty.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/36_Windfist Technique.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/36_Windfist Technique.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Instant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/3_Banishing Mist.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/3_Banishing Mist.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Sorcery",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/32_Tranquil Bloom.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/32_Tranquil Bloom.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Jellyfish Druid",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/59_Pelangi Reef Seer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/59_Pelangi Reef Seer.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Merfolk Druid",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/39_Bloomtide Channeler.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/39_Bloomtide Channeler.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/74_Washed Up On Shore.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/74_Washed Up On Shore.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Instant",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/73_Veil of the Reef.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/73_Veil of the Reef.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/44_Current Shift.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/44_Current Shift.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/55_Monsoon's Denial.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/55_Monsoon's Denial.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Elemental Golem",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/42_Coral Colossus.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/42_Coral Colossus.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/64_Slipstream Knowledge.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/64_Slipstream Knowledge.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/71_Undertow Bindings.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/71_Undertow Bindings.png"
 			}
 		},
 		{
@@ -240,11 +240,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/60_Prophecy of the Reef_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/60_Prophecy of the Reef_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/60_Prophecy of the Reef_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/60_Prophecy of the Reef_front.png"
 			}
 		},
 		{
@@ -254,7 +254,7 @@
 			"type": "Creature — Spirit Fish",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/65_Spirit of the Shallows.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/65_Spirit of the Shallows.png"
 			}
 		},
 		{
@@ -264,7 +264,7 @@
 			"type": "Creature — Merfolk Pirate Scout",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/40_Bloomtide Scout.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/40_Bloomtide Scout.png"
 			}
 		},
 		{
@@ -274,7 +274,7 @@
 			"type": "Creature — Turtle",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/72_Undertow Turtle.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/72_Undertow Turtle.png"
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 			"type": "Creature — Snake Pirate Wizard",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/62_Riptide Naga.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/62_Riptide Naga.png"
 			}
 		},
 		{
@@ -297,11 +297,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/25_Prophecy of the Temple_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/25_Prophecy of the Temple_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/25_Prophecy of the Temple_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/25_Prophecy of the Temple_front.png"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 			"type": "Creature — Merfolk Druid",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/209_Incense Guru.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/209_Incense Guru.png"
 			}
 		},
 		{
@@ -321,7 +321,7 @@
 			"type": "Creature — Fungus Shaman",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/105_Rotgrove Forager.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/105_Rotgrove Forager.png"
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/78_Ancestral Bone Song.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/78_Ancestral Bone Song.png"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 			"type": "Creature — Zombie Beast",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/75_Ack-ack Beast.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/75_Ack-ack Beast.png"
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 			"type": "Creature — Skeleton Mercenary",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/100_Pactblade Invader.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/100_Pactblade Invader.png"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/77_Ancestoral Grasp.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/77_Ancestoral Grasp.png"
 			}
 		},
 		{
@@ -371,7 +371,7 @@
 			"type": "Creature — Demon Spirit",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/76_Ancestor Devourer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/76_Ancestor Devourer.png"
 			}
 		},
 		{
@@ -381,7 +381,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/98_Muck Crawler.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/98_Muck Crawler.png"
 			}
 		},
 		{
@@ -391,7 +391,7 @@
 			"type": "Instant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/99_Offering to Mokoro.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/99_Offering to Mokoro.png"
 			}
 		},
 		{
@@ -401,7 +401,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/90_Final Banishment.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/90_Final Banishment.png"
 			}
 		},
 		{
@@ -411,7 +411,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/104_Rot Jungle's Bloom.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/104_Rot Jungle's Bloom.png"
 			}
 		},
 		{
@@ -421,7 +421,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/110_Temple Lantern Keeper.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/110_Temple Lantern Keeper.png"
 			}
 		},
 		{
@@ -431,7 +431,7 @@
 			"type": "Creature — Vampire Warlock",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/102_Quy-Bound Medium.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/102_Quy-Bound Medium.png"
 			}
 		},
 		{
@@ -441,7 +441,7 @@
 			"type": "Creature — Rabbit Cleric",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/83_Cradlebone Speaker.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/83_Cradlebone Speaker.png"
 			}
 		},
 		{
@@ -454,11 +454,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/101_Prophecy of the Afterlife_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/101_Prophecy of the Afterlife_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/101_Prophecy of the Afterlife_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/101_Prophecy of the Afterlife_front.png"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 			"type": "Creature — Goblin Pirate",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/144_Stormwake Corsair.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/144_Stormwake Corsair.png"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/116_Eager Sangmai Initiate.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/116_Eager Sangmai Initiate.png"
 			}
 		},
 		{
@@ -488,7 +488,7 @@
 			"type": "Creature — Lizard Artificer",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/130_Magma Blazebuilder.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/130_Magma Blazebuilder.png"
 			}
 		},
 		{
@@ -498,7 +498,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/127_Kahetra Spark Blade.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/127_Kahetra Spark Blade.png"
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 			"type": "Creature — Elemental Spirit",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/131_Mok Lok's Provoker.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/131_Mok Lok's Provoker.png"
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/112_Blazefist Practitioner.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/112_Blazefist Practitioner.png"
 			}
 		},
 		{
@@ -528,7 +528,7 @@
 			"type": "Creature — Salamander",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/121_Flaretongue Salamander.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/121_Flaretongue Salamander.png"
 			}
 		},
 		{
@@ -538,7 +538,7 @@
 			"type": "Creature — Ogre Barbarian",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/123_Fury of Rakat Thann.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/123_Fury of Rakat Thann.png"
 			}
 		},
 		{
@@ -548,7 +548,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/139_Snapback Stance.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/139_Snapback Stance.png"
 			}
 		},
 		{
@@ -558,7 +558,7 @@
 			"type": "Instant",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/118_Emberwake Diversion.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/118_Emberwake Diversion.png"
 			}
 		},
 		{
@@ -568,7 +568,7 @@
 			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/134_Reckless Training.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/134_Reckless Training.png"
 			}
 		},
 		{
@@ -578,7 +578,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/115_Diving Plunder.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/115_Diving Plunder.png"
 			}
 		},
 		{
@@ -588,7 +588,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/120_Eruption Aura.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/120_Eruption Aura.png"
 			}
 		},
 		{
@@ -601,11 +601,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/132_Prophecy of the Storm_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/132_Prophecy of the Storm_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/132_Prophecy of the Storm_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/132_Prophecy of the Storm_front.png"
 			}
 		},
 		{
@@ -615,7 +615,7 @@
 			"type": "Creature — Jellyfish Druid",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/174_Reef Forest Pelangi.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/174_Reef Forest Pelangi.png"
 			}
 		},
 		{
@@ -625,7 +625,7 @@
 			"type": "Creature — Merfolk Shaman",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/160_Floramaris Mystic.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/160_Floramaris Mystic.png"
 			}
 		},
 		{
@@ -635,7 +635,7 @@
 			"type": "Creature — Fungus Shaman",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/158_Dreadsoil Satiator.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/158_Dreadsoil Satiator.png"
 			}
 		},
 		{
@@ -645,7 +645,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/155_Coral Reefguard.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/155_Coral Reefguard.png"
 			}
 		},
 		{
@@ -655,7 +655,7 @@
 			"type": "Creature — Plant Boar",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/149_Bloomboar.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/149_Bloomboar.png"
 			}
 		},
 		{
@@ -665,7 +665,7 @@
 			"type": "Creature — Turtle Druid",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/176_Reefback Protector.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/176_Reefback Protector.png"
 			}
 		},
 		{
@@ -675,7 +675,7 @@
 			"type": "Creature — Plant Spider",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/154_Compost Walker.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/154_Compost Walker.png"
 			}
 		},
 		{
@@ -685,7 +685,7 @@
 			"type": "Creature — Troll Zombie",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/164_Looming Rot-Troll.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/164_Looming Rot-Troll.png"
 			}
 		},
 		{
@@ -695,7 +695,7 @@
 			"type": "Sorcery",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/178_Rotcycle.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/178_Rotcycle.png"
 			}
 		},
 		{
@@ -705,7 +705,7 @@
 			"type": "Instant",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/167_Mokoro's Pulse.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/167_Mokoro's Pulse.png"
 			}
 		},
 		{
@@ -715,7 +715,7 @@
 			"type": "Instant",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/173_Purifying Vines.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/173_Purifying Vines.png"
 			}
 		},
 		{
@@ -725,7 +725,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/152_Burial Ground's Bloom.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/152_Burial Ground's Bloom.png"
 			}
 		},
 		{
@@ -738,11 +738,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/172_Prophecy of the Rot_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/172_Prophecy of the Rot_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/172_Prophecy of the Rot_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/172_Prophecy of the Rot_front.png"
 			}
 		},
 		{
@@ -752,7 +752,7 @@
 			"type": "Creature — Rabbit Monk",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/210_Jade Reliquarist.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/210_Jade Reliquarist.png"
 			}
 		},
 		{
@@ -762,7 +762,7 @@
 			"type": "Instant",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/259_Spoken Beyond Silence.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/259_Spoken Beyond Silence.png"
 			}
 		},
 		{
@@ -772,7 +772,7 @@
 			"type": "Creature — Zombie Cleric",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/191_Ancestral Necromancer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/191_Ancestral Necromancer.png"
 			}
 		},
 		{
@@ -782,7 +782,7 @@
 			"type": "Creature — Elemental Warrior",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/211_Ka-Sai Warrior.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/211_Ka-Sai Warrior.png"
 			}
 		},
 		{
@@ -792,7 +792,7 @@
 			"type": "Instant",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/202_Diving Phoenix Technique.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/202_Diving Phoenix Technique.png"
 			}
 		},
 		{
@@ -802,7 +802,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/258_Sangmai Trialist.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/258_Sangmai Trialist.png"
 			}
 		},
 		{
@@ -812,7 +812,7 @@
 			"type": "Creature — Merfolk Druid",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/253_Tideblessed Diver.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/253_Tideblessed Diver.png"
 			}
 		},
 		{
@@ -822,7 +822,7 @@
 			"type": "Creature — Plant Elemental",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/200_Coralstream Mentor.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/200_Coralstream Mentor.png"
 			}
 		},
 		{
@@ -832,7 +832,7 @@
 			"type": "Enchantment",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/257_Harmony's Shell.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/257_Harmony's Shell.png"
 			}
 		},
 		{
@@ -842,7 +842,7 @@
 			"type": "Creature — Lizard Pirate",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/203_Emberwake Tidetail.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/203_Emberwake Tidetail.png"
 			}
 		},
 		{
@@ -852,7 +852,7 @@
 			"type": "Creature — Snake Wizard",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/221_Naga Stormbringer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/221_Naga Stormbringer.png"
 			}
 		},
 		{
@@ -862,7 +862,7 @@
 			"type": "Instant",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/260_Twist the Surge.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/260_Twist the Surge.png"
 			}
 		},
 		{
@@ -872,7 +872,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/205_Fungal Pactkeeper.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/205_Fungal Pactkeeper.png"
 			}
 		},
 		{
@@ -882,7 +882,7 @@
 			"type": "Instant",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/256_Gravecycle Offering.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/256_Gravecycle Offering.png"
 			}
 		},
 		{
@@ -892,7 +892,7 @@
 			"type": "Creature — Giant Shaman",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/244_Shaman of the Big Men.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/244_Shaman of the Big Men.png"
 			}
 		},
 		{
@@ -902,7 +902,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/218_Mokoro Rot-Shaman.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/218_Mokoro Rot-Shaman.png"
 			}
 		},
 		{
@@ -912,7 +912,7 @@
 			"type": "Artifact",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/268_Iron Lotus Root.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/268_Iron Lotus Root.png"
 			}
 		},
 		{
@@ -922,7 +922,7 @@
 			"type": "Artifact",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/275_Stormcall Gong.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/275_Stormcall Gong.png"
 			}
 		},
 		{
@@ -932,7 +932,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/263_Ceremonial Bone Talon.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/263_Ceremonial Bone Talon.png"
 			}
 		},
 		{
@@ -942,7 +942,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/272_Rustthorn Gauntlet.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/272_Rustthorn Gauntlet.png"
 			}
 		},
 		{
@@ -952,7 +952,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/270_Overgrown Rust Guardian.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/270_Overgrown Rust Guardian.png"
 			}
 		},
 		{
@@ -962,7 +962,7 @@
 			"type": "Land — Temple",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/287_Temple of Sangmai.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/287_Temple of Sangmai.png"
 			}
 		},
 		{
@@ -972,7 +972,7 @@
 			"type": "Land — Temple",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/284_Temple of Kahetra.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/284_Temple of Kahetra.png"
 			}
 		},
 		{
@@ -982,7 +982,7 @@
 			"type": "Land — Temple",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/286_Temple of Mokoro.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/286_Temple of Mokoro.png"
 			}
 		},
 		{
@@ -992,7 +992,7 @@
 			"type": "Land — Temple",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/283_Temple of Jantira.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/283_Temple of Jantira.png"
 			}
 		},
 		{
@@ -1002,7 +1002,7 @@
 			"type": "Land — Temple",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/285_Temple of Khuin.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/285_Temple of Khuin.png"
 			}
 		},
 		{
@@ -1012,7 +1012,7 @@
 			"type": "Land — Temple",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/276_Abandoned Catacomb.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/276_Abandoned Catacomb.png"
 			}
 		},
 		{
@@ -1022,7 +1022,7 @@
 			"type": "Creature — Skeleton Spirit",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/247_Soul-Marrow Binder.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/247_Soul-Marrow Binder.png"
 			}
 		},
 		{
@@ -1032,7 +1032,7 @@
 			"type": "Instant",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/243_Sermon of Shadows.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/243_Sermon of Shadows.png"
 			}
 		},
 		{
@@ -1042,7 +1042,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/208_Hanh, Ancestor's Voice.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/208_Hanh, Ancestor's Voice.png"
 			}
 		},
 		{
@@ -1052,7 +1052,7 @@
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/241_Sanda, Discipline's Eyes.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/241_Sanda, Discipline's Eyes.png"
 			}
 		},
 		{
@@ -1062,7 +1062,7 @@
 			"type": "Instant",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/239_Return in Glory.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/239_Return in Glory.png"
 			}
 		},
 		{
@@ -1072,7 +1072,7 @@
 			"type": "Creature — Dragon Horse",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/206_Ghilen Hope Charger.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/206_Ghilen Hope Charger.png"
 			}
 		},
 		{
@@ -1082,7 +1082,7 @@
 			"type": "Creature — Jellyfish Shaman",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/230_Pelangi Wavereader.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/230_Pelangi Wavereader.png"
 			}
 		},
 		{
@@ -1092,7 +1092,7 @@
 			"type": "Enchantment",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/197_Bloomtide's Call.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/197_Bloomtide's Call.png"
 			}
 		},
 		{
@@ -1102,7 +1102,7 @@
 			"type": "Legendary Creature — Merfolk Druid",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/186_Aati, Reef's Wisdom.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/186_Aati, Reef's Wisdom.png"
 			}
 		},
 		{
@@ -1112,7 +1112,7 @@
 			"type": "Sorcery",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/220_Mokoro's Will.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/220_Mokoro's Will.png"
 			}
 		},
 		{
@@ -1122,7 +1122,7 @@
 			"type": "Creature — Spider Demon",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/246_Skulkwalker Brood.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/246_Skulkwalker Brood.png"
 			}
 		},
 		{
@@ -1132,7 +1132,7 @@
 			"type": "Legendary Creature — Zombie Shaman",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/212_Kawali, Death's Hunger.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/212_Kawali, Death's Hunger.png"
 			}
 		},
 		{
@@ -1142,7 +1142,7 @@
 			"type": "Instant",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/242_Scorchwake Feint.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/242_Scorchwake Feint.png"
 			}
 		},
 		{
@@ -1152,7 +1152,7 @@
 			"type": "Legendary Creature — Goblin Wizard",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/213_Kembang, Tempest's Rage.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/213_Kembang, Tempest's Rage.png"
 			}
 		},
 		{
@@ -1162,7 +1162,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/199_Cindrak Coralfiend.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/199_Cindrak Coralfiend.png"
 			}
 		},
 		{
@@ -1172,7 +1172,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/30_Sunveil Instructor.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/30_Sunveil Instructor.png"
 			}
 		},
 		{
@@ -1182,7 +1182,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/6_Devoted Edgekeeper.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/6_Devoted Edgekeeper.png"
 			}
 		},
 		{
@@ -1192,7 +1192,7 @@
 			"type": "Creature — Bird Cleric",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/37_Windstep Soulcaller.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/37_Windstep Soulcaller.png"
 			}
 		},
 		{
@@ -1202,7 +1202,7 @@
 			"type": "Instant",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/12_Ghostly Abuction.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/12_Ghostly Abuction.png"
 			}
 		},
 		{
@@ -1212,7 +1212,7 @@
 			"type": "Instant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/10_Flying Steel Strike.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/10_Flying Steel Strike.png"
 			}
 		},
 		{
@@ -1222,7 +1222,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/4_Chatura Honorclaw.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/4_Chatura Honorclaw.png"
 			}
 		},
 		{
@@ -1232,7 +1232,7 @@
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/21_Loxodon Temple Guard.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/21_Loxodon Temple Guard.png"
 			}
 		},
 		{
@@ -1242,7 +1242,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/11_Geist Channeler.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/11_Geist Channeler.png"
 			}
 		},
 		{
@@ -1252,7 +1252,7 @@
 			"type": "Creature — Human Spirit",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/34_Vessel of Commanding Grace.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/34_Vessel of Commanding Grace.png"
 			}
 		},
 		{
@@ -1262,7 +1262,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/18_Lotus Ascetic.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/18_Lotus Ascetic.png"
 			}
 		},
 		{
@@ -1272,7 +1272,7 @@
 			"type": "Enchantment",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/15_Iron Body Training.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/15_Iron Body Training.png"
 			}
 		},
 		{
@@ -1282,7 +1282,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/2_Backalley Training.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/2_Backalley Training.png"
 			}
 		},
 		{
@@ -1292,7 +1292,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/33_Unsuspecting Thievery.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/33_Unsuspecting Thievery.png"
 			}
 		},
 		{
@@ -1302,7 +1302,7 @@
 			"type": "Creature — Zombie Cleric",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/8_Familial Adjudicator.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/8_Familial Adjudicator.png"
 			}
 		},
 		{
@@ -1312,7 +1312,7 @@
 			"type": "Creature — Elemental Warrior",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/16_Ironwind Ka-Sai.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/16_Ironwind Ka-Sai.png"
 			}
 		},
 		{
@@ -1322,7 +1322,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/49_Flying Reef Fish.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/49_Flying Reef Fish.png"
 			}
 		},
 		{
@@ -1332,7 +1332,7 @@
 			"type": "Creature — Elemental Wizard",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/68_Tidal-Roh.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/68_Tidal-Roh.png"
 			}
 		},
 		{
@@ -1342,7 +1342,7 @@
 			"type": "Enchantment",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/61_Reefsong.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/61_Reefsong.png"
 			}
 		},
 		{
@@ -1352,7 +1352,7 @@
 			"type": "Creature — Snake Rogue",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/56_Naga Infiltrator.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/56_Naga Infiltrator.png"
 			}
 		},
 		{
@@ -1362,7 +1362,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/48_Echoed Reflection.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/48_Echoed Reflection.png"
 			}
 		},
 		{
@@ -1372,7 +1372,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/53_Lost at Sea.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/53_Lost at Sea.png"
 			}
 		},
 		{
@@ -1382,7 +1382,7 @@
 			"type": "Sorcery",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/46_Deep Myst Recollection.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/46_Deep Myst Recollection.png"
 			}
 		},
 		{
@@ -1392,7 +1392,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/66_Stormwake Veil.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/66_Stormwake Veil.png"
 			}
 		},
 		{
@@ -1402,7 +1402,7 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/54_Meditation State.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/54_Meditation State.png"
 			}
 		},
 		{
@@ -1412,7 +1412,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/47_Deepdive Submariner.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/47_Deepdive Submariner.png"
 			}
 		},
 		{
@@ -1422,7 +1422,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/52_Kahetra Serpent Rider.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/52_Kahetra Serpent Rider.png"
 			}
 		},
 		{
@@ -1432,7 +1432,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/41_Break Serenity.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/41_Break Serenity.png"
 			}
 		},
 		{
@@ -1442,7 +1442,7 @@
 			"type": "Creature — Merfolk Druid",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/67_Templetide Resonator.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/67_Templetide Resonator.png"
 			}
 		},
 		{
@@ -1452,7 +1452,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/58_Nimbus Racer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/58_Nimbus Racer.png"
 			}
 		},
 		{
@@ -1462,7 +1462,7 @@
 			"type": "Creature — Merfolk Pirate Scout",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/43_Coral Diver Scout.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/43_Coral Diver Scout.png"
 			}
 		},
 		{
@@ -1472,7 +1472,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/95_Memoryseed Gardener.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/95_Memoryseed Gardener.png"
 			}
 		},
 		{
@@ -1482,7 +1482,7 @@
 			"type": "Creature — Skeleton",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/87_Debtbone Envoy.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/87_Debtbone Envoy.png"
 			}
 		},
 		{
@@ -1492,7 +1492,7 @@
 			"type": "Creature — Plant Horror",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/84_Creeping Grudge.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/84_Creeping Grudge.png"
 			}
 		},
 		{
@@ -1502,7 +1502,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/92_Inheritance Warden.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/92_Inheritance Warden.png"
 			}
 		},
 		{
@@ -1512,7 +1512,7 @@
 			"type": "Creature — Bat Horror",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/86_Deathsprout Bogbat.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/86_Deathsprout Bogbat.png"
 			}
 		},
 		{
@@ -1522,7 +1522,7 @@
 			"type": "Creature — Giant Berserker",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/82_Burial-Mound Mauler.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/82_Burial-Mound Mauler.png"
 			}
 		},
 		{
@@ -1532,7 +1532,7 @@
 			"type": "Enchantment",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/96_Mokoro Abides.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/96_Mokoro Abides.png"
 			}
 		},
 		{
@@ -1542,7 +1542,7 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/88_Desperate Communion.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/88_Desperate Communion.png"
 			}
 		},
 		{
@@ -1552,7 +1552,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/106_Searing Psychosis.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/106_Searing Psychosis.png"
 			}
 		},
 		{
@@ -1562,7 +1562,7 @@
 			"type": "Instant",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/107_Second Burial.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/107_Second Burial.png"
 			}
 		},
 		{
@@ -1572,7 +1572,7 @@
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/79_Ancestral Tutor.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/79_Ancestral Tutor.png"
 			}
 		},
 		{
@@ -1582,7 +1582,7 @@
 			"type": "Sorcery",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/109_Soul-for-Soul.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/109_Soul-for-Soul.png"
 			}
 		},
 		{
@@ -1592,7 +1592,7 @@
 			"type": "Creature — Skeleton Demon",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/94_Lastborn Enforcer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/94_Lastborn Enforcer.png"
 			}
 		},
 		{
@@ -1602,7 +1602,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/81_Breathless Sister.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/81_Breathless Sister.png"
 			}
 		},
 		{
@@ -1612,7 +1612,7 @@
 			"type": "Creature — Zombie Assassin",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/97_Mokoro Headhunter.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/97_Mokoro Headhunter.png"
 			}
 		},
 		{
@@ -1622,7 +1622,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/148_Tempest Eel.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/148_Tempest Eel.png"
 			}
 		},
 		{
@@ -1632,7 +1632,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/135_Sangmai Emberclaw.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/135_Sangmai Emberclaw.png"
 			}
 		},
 		{
@@ -1642,7 +1642,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/141_Stormchase Arcanist.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/141_Stormchase Arcanist.png"
 			}
 		},
 		{
@@ -1652,7 +1652,7 @@
 			"type": "Creature — Elf Pirate",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/126_Kahetra Lookout.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/126_Kahetra Lookout.png"
 			}
 		},
 		{
@@ -1662,7 +1662,7 @@
 			"type": "Creature — Elemental Monk",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/122_Forged Ka-Sai.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/122_Forged Ka-Sai.png"
 			}
 		},
 		{
@@ -1672,7 +1672,7 @@
 			"type": "Creature — Lizard Wizard",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/136_Scaled Volcanomancer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/136_Scaled Volcanomancer.png"
 			}
 		},
 		{
@@ -1682,7 +1682,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/147_Swiftform Striker.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/147_Swiftform Striker.png"
 			}
 		},
 		{
@@ -1692,7 +1692,7 @@
 			"type": "Creature — Elemental Kraken",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/142_Stormsurge Kraken.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/142_Stormsurge Kraken.png"
 			}
 		},
 		{
@@ -1702,7 +1702,7 @@
 			"type": "Instant",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/137_Scorch Strike.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/137_Scorch Strike.png"
 			}
 		},
 		{
@@ -1712,7 +1712,7 @@
 			"type": "Instant",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/146_Sun-Bleached Hunger.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/146_Sun-Bleached Hunger.png"
 			}
 		},
 		{
@@ -1722,7 +1722,7 @@
 			"type": "Instant",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/113_Breath Between Blows.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/113_Breath Between Blows.png"
 			}
 		},
 		{
@@ -1732,7 +1732,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/114_Burning Discipline.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/114_Burning Discipline.png"
 			}
 		},
 		{
@@ -1742,7 +1742,7 @@
 			"type": "Sorcery",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/133_Raging Cyclone.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/133_Raging Cyclone.png"
 			}
 		},
 		{
@@ -1752,7 +1752,7 @@
 			"type": "Enchantment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/128_Ley-Storm Calling.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/128_Ley-Storm Calling.png"
 			}
 		},
 		{
@@ -1762,7 +1762,7 @@
 			"type": "Enchantment",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/119_Empowered Mantra.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/119_Empowered Mantra.png"
 			}
 		},
 		{
@@ -1772,7 +1772,7 @@
 			"type": "Creature — Plant Scout",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/169_Mossvein Harrier.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/169_Mossvein Harrier.png"
 			}
 		},
 		{
@@ -1782,7 +1782,7 @@
 			"type": "Creature — Plant Spirit",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/177_Rootwake Shepherd.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/177_Rootwake Shepherd.png"
 			}
 		},
 		{
@@ -1792,7 +1792,7 @@
 			"type": "Creature — Merfolk Archer",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/182_Tidegrove Archer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/182_Tidegrove Archer.png"
 			}
 		},
 		{
@@ -1802,7 +1802,7 @@
 			"type": "Creature — Merfolk Druid",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/151_Brackentide Pathfinder.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/151_Brackentide Pathfinder.png"
 			}
 		},
 		{
@@ -1812,7 +1812,7 @@
 			"type": "Creature — Merfolk Shaman",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/179_Seagrace Channeler.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/179_Seagrace Channeler.png"
 			}
 		},
 		{
@@ -1822,7 +1822,7 @@
 			"type": "Creature — Cat Lizard",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/181_Spined Jungle Prowler.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/181_Spined Jungle Prowler.png"
 			}
 		},
 		{
@@ -1832,7 +1832,7 @@
 			"type": "Creature — Crocodile Plant",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/166_Mire-Bloom Terror.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/166_Mire-Bloom Terror.png"
 			}
 		},
 		{
@@ -1842,7 +1842,7 @@
 			"type": "Creature — Snake Dragon",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/153_Coiling Enlightener.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/153_Coiling Enlightener.png"
 			}
 		},
 		{
@@ -1852,7 +1852,7 @@
 			"type": "Creature — Jellyfish Shaman",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/170_Pelangi Bondmate.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/170_Pelangi Bondmate.png"
 			}
 		},
 		{
@@ -1862,7 +1862,7 @@
 			"type": "Instant",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/157_Deathmist Sweep.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/157_Deathmist Sweep.png"
 			}
 		},
 		{
@@ -1872,7 +1872,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/168_Mokoro's Wrath.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/168_Mokoro's Wrath.png"
 			}
 		},
 		{
@@ -1882,7 +1882,7 @@
 			"type": "Sorcery",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/175_Reef Sigil.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/175_Reef Sigil.png"
 			}
 		},
 		{
@@ -1892,7 +1892,7 @@
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/162_Jantira's Revenge.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/162_Jantira's Revenge.png"
 			}
 		},
 		{
@@ -1902,7 +1902,7 @@
 			"type": "Sorcery",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/163_Loamline Memories.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/163_Loamline Memories.png"
 			}
 		},
 		{
@@ -1912,7 +1912,7 @@
 			"type": "Enchantment",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/180_Shell Ward.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/180_Shell Ward.png"
 			}
 		},
 		{
@@ -1922,7 +1922,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/271_Pulse-Grown Grips.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/271_Pulse-Grown Grips.png"
 			}
 		},
 		{
@@ -1932,7 +1932,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/274_Stormbolt Sampan.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/274_Stormbolt Sampan.png"
 			}
 		},
 		{
@@ -1942,7 +1942,7 @@
 			"type": "Artifact",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/262_Brainstone Idol.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/262_Brainstone Idol.png"
 			}
 		},
 		{
@@ -1952,7 +1952,7 @@
 			"type": "Artifact — Food",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/269_Meditant's Lotus Pho.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/269_Meditant's Lotus Pho.png"
 			}
 		},
 		{
@@ -1962,7 +1962,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/261_Ancestral Wrappings.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/261_Ancestral Wrappings.png"
 			}
 		},
 		{
@@ -1975,11 +1975,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/226_Omen of Rot_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/226_Omen of Rot_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/226_Omen of Rot_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/226_Omen of Rot_front.png"
 			}
 		},
 		{
@@ -1989,7 +1989,7 @@
 			"type": "Land — Temple",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/282_Lotus Temple.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/282_Lotus Temple.png"
 			}
 		},
 		{
@@ -2002,11 +2002,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/224_Omen of Ascension_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/224_Omen of Ascension_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/224_Omen of Ascension_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/224_Omen of Ascension_front.png"
 			}
 		},
 		{
@@ -2019,11 +2019,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/227_Omen of Storms_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/227_Omen of Storms_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/227_Omen of Storms_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/227_Omen of Storms_front.png"
 			}
 		},
 		{
@@ -2036,11 +2036,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/225_Omen of Passing_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/225_Omen of Passing_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/225_Omen of Passing_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/225_Omen of Passing_front.png"
 			}
 		},
 		{
@@ -2053,11 +2053,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/228_Omen of Tides_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/228_Omen of Tides_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/228_Omen of Tides_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/228_Omen of Tides_front.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/31_Temple Lotus-Keeper.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/31_Temple Lotus-Keeper.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Land — Temple",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/280_Hidden Wat.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/280_Hidden Wat.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Land — Temple",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/279_Hidden Pagoda.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/279_Hidden Pagoda.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Land — Temple",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/281_Hidden Ziggurat.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/281_Hidden Ziggurat.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Land — Temple",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/277_Hidden Dojo.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/277_Hidden Dojo.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Land — Temple",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/278_Hidden Monastery.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/278_Hidden Monastery.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/28_Samart, Hardened Master.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/28_Samart, Hardened Master.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Creature — Elephant Angel",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/13_Highland Thewada.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/13_Highland Thewada.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/35_Wandering in Exile.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/35_Wandering in Exile.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Sorcery",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/5_Chosen Hero's Approach.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/5_Chosen Hero's Approach.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Legendary Creature — Human Spirit",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/22_Luris, Familial Soulcaller.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/22_Luris, Familial Soulcaller.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Sorcery",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/69_Tidefall Tempest.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/69_Tidefall Tempest.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/50_High Tide Hijinks.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/50_High Tide Hijinks.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/70_Undercurrent Snapjaw.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/70_Undercurrent Snapjaw.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/63_Serendipitous Refraction.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/63_Serendipitous Refraction.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Legendary Creature — Merfolk Wizard",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/57_Naya, Mindshifter.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/57_Naya, Mindshifter.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/51_Hujan, Galewind Raider.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/51_Hujan, Galewind Raider.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Sorcery",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/89_Family's Demand.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/89_Family's Demand.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Legendary Creature — Giant Zombie",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/111_Yaka-Ati, The Huskbloom.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/111_Yaka-Ati, The Huskbloom.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Creature — Demon Advisor",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/108_Sorrow-Silk Courtesan.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/108_Sorrow-Silk Courtesan.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Legendary Creature — Demon Spirit",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/80_Auntie Yien, Spirit Matron.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/80_Auntie Yien, Spirit Matron.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Creature — Human Noble Assassin",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/93_Ka-Trinh Orchidblade.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/93_Ka-Trinh Orchidblade.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Instant",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/91_From Frond to Flesh.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/91_From Frond to Flesh.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/7_Emberhall Aspirant.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/7_Emberhall Aspirant.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/26_Purifier of Lost Souls.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/26_Purifier of Lost Souls.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Creature — Plant Warrior",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/156_Corpsebloom Skirmisher.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/156_Corpsebloom Skirmisher.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/125_Jett, Erupting Fist.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/125_Jett, Erupting Fist.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Legendary Creature — Snake Wizard",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/140_Ssaeki, Ragebolt Ionizer.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/140_Ssaeki, Ragebolt Ionizer.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/138_Skybrand of Wat Khói.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/138_Skybrand of Wat Khói.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/145_Streetblade Artisan.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/145_Streetblade Artisan.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Intant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/129_Lotus-Fang Slash.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/129_Lotus-Fang Slash.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Sorcery",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/143_Stormtide Resurgence.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/143_Stormtide Resurgence.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Legendary Creature — Zombie Shaman",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/171_Popoli, Eternally Devoted.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/171_Popoli, Eternally Devoted.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Enchantment",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/184_Voice of the Reefmother.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/184_Voice of the Reefmother.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Sorcery",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/150_Blooming of Mirelilies.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/150_Blooming of Mirelilies.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Creature — Wurm Spirit",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/161_Jadewurm Guardian.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/161_Jadewurm Guardian.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Creature — Insect Plant",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/183_Undergrowth Larvae.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/183_Undergrowth Larvae.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Legendary Creature — Jellyfish Noble",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/185_Ynvi, Sea Tangle Princess.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/185_Ynvi, Sea Tangle Princess.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Creature — Cat Spirit",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/229_Paleclaw Escort.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/229_Paleclaw Escort.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Legendary Creature — Skeleton Noble",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/254_Uncle Cadeo, Banished Soul.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/254_Uncle Cadeo, Banished Soul.png"
 			}
 		},
 		{
@@ -2470,11 +2470,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/233_Prophecy of Khuin_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/233_Prophecy of Khuin_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/233_Prophecy of Khuin_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/233_Prophecy of Khuin_front.png"
 			}
 		},
 		{
@@ -2484,7 +2484,7 @@
 			"type": "Instant",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/189_Ancestral Admonishment.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/189_Ancestral Admonishment.png"
 			}
 		},
 		{
@@ -2494,7 +2494,7 @@
 			"type": "Legendary Creature — Human Bard",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/198_Ca Dao Linh, Lineage Poet.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/198_Ca Dao Linh, Lineage Poet.png"
 			}
 		},
 		{
@@ -2504,7 +2504,7 @@
 			"type": "Instant",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/204_Flameparry.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/204_Flameparry.png"
 			}
 		},
 		{
@@ -2514,7 +2514,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/249_Taunting Pridefist.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/249_Taunting Pridefist.png"
 			}
 		},
 		{
@@ -2524,7 +2524,7 @@
 			"type": "Legendary Creature — Elephant Monk",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/217_Master Yhai, Tempered Will.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/217_Master Yhai, Tempered Will.png"
 			}
 		},
 		{
@@ -2534,7 +2534,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/214_Lanai, the Butterfly Blade.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/214_Lanai, the Butterfly Blade.png"
 			}
 		},
 		{
@@ -2547,11 +2547,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/235_Prophecy of Sangmai_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/235_Prophecy of Sangmai_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/235_Prophecy of Sangmai_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/235_Prophecy of Sangmai_front.png"
 			}
 		},
 		{
@@ -2561,7 +2561,7 @@
 			"type": "Legendary Creature — Elf Pirate",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/236_Ravya Stormlash.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/236_Ravya Stormlash.png"
 			}
 		},
 		{
@@ -2571,7 +2571,7 @@
 			"type": "Legendary Creature — Goblin Pirate Advisor",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/207_Grizz, Cloud Forecaster.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/207_Grizz, Cloud Forecaster.png"
 			}
 		},
 		{
@@ -2581,7 +2581,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/240_Rough Sea Navigator.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/240_Rough Sea Navigator.png"
 			}
 		},
 		{
@@ -2591,7 +2591,7 @@
 			"type": "Sorcery",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/250_Tempest Burst.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/250_Tempest Burst.png"
 			}
 		},
 		{
@@ -2604,11 +2604,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/232_Prophecy of Kahetra_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/232_Prophecy of Kahetra_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/232_Prophecy of Kahetra_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/232_Prophecy of Kahetra_front.png"
 			}
 		},
 		{
@@ -2618,7 +2618,7 @@
 			"type": "Legendary Creature — Merfolk Druid",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/216_Lumelith, The Reefwave.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/216_Lumelith, The Reefwave.png"
 			}
 		},
 		{
@@ -2628,7 +2628,7 @@
 			"type": "Legendary Creature — Jellyfish Scout",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/193_Aomalak, Secret Seeker.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/193_Aomalak, Secret Seeker.png"
 			}
 		},
 		{
@@ -2638,7 +2638,7 @@
 			"type": "Creature — Jellyfish",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/251_Tendril-Tide Matriarch.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/251_Tendril-Tide Matriarch.png"
 			}
 		},
 		{
@@ -2648,7 +2648,7 @@
 			"type": "Instant",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/237_Reef-Form.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/237_Reef-Form.png"
 			}
 		},
 		{
@@ -2661,11 +2661,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/231_Prophecy of Jantira_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/231_Prophecy of Jantira_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/231_Prophecy of Jantira_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/231_Prophecy of Jantira_front.png"
 			}
 		},
 		{
@@ -2675,7 +2675,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/187_Adaliya, Fleshseed Gardener.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/187_Adaliya, Fleshseed Gardener.png"
 			}
 		},
 		{
@@ -2685,7 +2685,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/215_Late-Bloomer Wretch.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/215_Late-Bloomer Wretch.png"
 			}
 		},
 		{
@@ -2695,7 +2695,7 @@
 			"type": "Sorcery",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/219_Mokoro's Call.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/219_Mokoro's Call.png"
 			}
 		},
 		{
@@ -2705,7 +2705,7 @@
 			"type": "Legendary Creature — Plant Horror",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/223_Nis'Sath, Vibrant Grave.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/223_Nis'Sath, Vibrant Grave.png"
 			}
 		},
 		{
@@ -2718,11 +2718,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Phelix01.github.io/sets/SLIP-files/img/234_Prophecy of Mokoro_back.png"
+					"en": "https://phelix01.github.io/sets/SLIP-files/img/234_Prophecy of Mokoro_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/234_Prophecy of Mokoro_front.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/234_Prophecy of Mokoro_front.png"
 			}
 		},
 		{
@@ -2732,7 +2732,7 @@
 			"type": "Artifact",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/273_Salt Charm.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/273_Salt Charm.png"
 			}
 		},
 		{
@@ -2742,7 +2742,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/265_Dragonfly Blades.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/265_Dragonfly Blades.png"
 			}
 		},
 		{
@@ -2752,7 +2752,7 @@
 			"type": "Artifact",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/267_Gilded Lily.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/267_Gilded Lily.png"
 			}
 		},
 		{
@@ -2762,7 +2762,7 @@
 			"type": "Artifact Creature — Demon Golem",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/264_Chiselled Wrath-Idol.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/264_Chiselled Wrath-Idol.png"
 			}
 		},
 		{
@@ -2772,7 +2772,7 @@
 			"type": "Artifact",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/266_Familial Burial Urn.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/266_Familial Burial Urn.png"
 			}
 		},
 		{
@@ -2782,7 +2782,7 @@
 			"type": "Legendary Creature — Snake Pirate Wizard",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/188_Ahvani, The Stormsiren.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/188_Ahvani, The Stormsiren.png"
 			}
 		},
 		{
@@ -2792,7 +2792,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/245_Sister of the Gale.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/245_Sister of the Gale.png"
 			}
 		},
 		{
@@ -2802,7 +2802,7 @@
 			"type": "Legendary Creature — Spirit Noble",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/255_Vay Nhi, Veiled Matriarch.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/255_Vay Nhi, Veiled Matriarch.png"
 			}
 		},
 		{
@@ -2812,7 +2812,7 @@
 			"type": "Instant",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/190_Ancestral Decree.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/190_Ancestral Decree.png"
 			}
 		},
 		{
@@ -2822,7 +2822,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/201_Dhanik, Sangmai Grandmaster.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/201_Dhanik, Sangmai Grandmaster.png"
 			}
 		},
 		{
@@ -2832,7 +2832,7 @@
 			"type": "Sorcery",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/252_Thousand Form Stance.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/252_Thousand Form Stance.png"
 			}
 		},
 		{
@@ -2842,7 +2842,7 @@
 			"type": "Legendary Creature — Plant Avatar",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/195_Avatar of Mokoro.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/195_Avatar of Mokoro.png"
 			}
 		},
 		{
@@ -2852,7 +2852,7 @@
 			"type": "Instant",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/222_Necrofluorescence.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/222_Necrofluorescence.png"
 			}
 		},
 		{
@@ -2862,7 +2862,7 @@
 			"type": "Legendary Creature — Merfolk Noble",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/238_Reefmother Asangi.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/238_Reefmother Asangi.png"
 			}
 		},
 		{
@@ -2872,7 +2872,7 @@
 			"type": "Instant",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/196_Beneath the Tide.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/196_Beneath the Tide.png"
 			}
 		},
 		{
@@ -2882,7 +2882,7 @@
 			"type": "Creature — Spirit Warrior Monk",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/29_Spirit of Eternal Discipline.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/29_Spirit of Eternal Discipline.png"
 			}
 		},
 		{
@@ -2892,7 +2892,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/24_Petal-Dance Exemplar.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/24_Petal-Dance Exemplar.png"
 			}
 		},
 		{
@@ -2902,7 +2902,7 @@
 			"type": "Creature — Merfolk Druid",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/45_Current-Call Druid.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/45_Current-Call Druid.png"
 			}
 		},
 		{
@@ -2912,7 +2912,7 @@
 			"type": "Sorcery",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/38_Arms of the Gale.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/38_Arms of the Gale.png"
 			}
 		},
 		{
@@ -2922,7 +2922,7 @@
 			"type": "Creature — Horror Assassin",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/103_Rice Field Banshee.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/103_Rice Field Banshee.png"
 			}
 		},
 		{
@@ -2932,7 +2932,7 @@
 			"type": "Enchantment",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/85_Deathloam Garden.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/85_Deathloam Garden.png"
 			}
 		},
 		{
@@ -2942,7 +2942,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/117_Elusive Street-Thief.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/117_Elusive Street-Thief.png"
 			}
 		},
 		{
@@ -2952,7 +2952,7 @@
 			"type": "Creature — Dragon Horse",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/124_Ghilen Blazewind.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/124_Ghilen Blazewind.png"
 			}
 		},
 		{
@@ -2962,7 +2962,7 @@
 			"type": "Creature — Zombie Druid",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/159_Fateflower Mystic.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/159_Fateflower Mystic.png"
 			}
 		},
 		{
@@ -2972,7 +2972,7 @@
 			"type": "Creature — Jellyfish Plant Hydra",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/165_Luminelth Hydra.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/165_Luminelth Hydra.png"
 			}
 		},
 		{
@@ -2982,7 +2982,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/288_Plains.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/288_Plains.png"
 			}
 		},
 		{
@@ -2992,7 +2992,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/291_Island.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/291_Island.png"
 			}
 		},
 		{
@@ -3002,7 +3002,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/294_Swamp.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/294_Swamp.png"
 			}
 		},
 		{
@@ -3012,7 +3012,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/297_Mountain.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/297_Mountain.png"
 			}
 		},
 		{
@@ -3022,7 +3022,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/289_Plains.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/289_Plains.png"
 			}
 		},
 		{
@@ -3032,7 +3032,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/290_Plains.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/290_Plains.png"
 			}
 		},
 		{
@@ -3042,7 +3042,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/292_Island.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/292_Island.png"
 			}
 		},
 		{
@@ -3052,7 +3052,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/293_Island.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/293_Island.png"
 			}
 		},
 		{
@@ -3062,7 +3062,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/295_Swamp.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/295_Swamp.png"
 			}
 		},
 		{
@@ -3072,7 +3072,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/296_Swamp.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/296_Swamp.png"
 			}
 		},
 		{
@@ -3082,7 +3082,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/298_Mountain.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/298_Mountain.png"
 			}
 		},
 		{
@@ -3092,7 +3092,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/299_Mountain.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/299_Mountain.png"
 			}
 		},
 		{
@@ -3102,7 +3102,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/300_Forest.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/300_Forest.png"
 			}
 		},
 		{
@@ -3112,7 +3112,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/301_Forest.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/301_Forest.png"
 			}
 		},
 		{
@@ -3122,7 +3122,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://Phelix01.github.io/sets/SLIP-files/img/302_Forest.png"
+				"en": "https://phelix01.github.io/sets/SLIP-files/img/302_Forest.png"
 			}
 		}
 	]
@@ -3320,7 +3320,104 @@
 	4 Hidden Ziggurat
 	4 Hidden Dojo
 	4 Hidden Monastery
-[common(7)]
+[common(6)]
+	8 Rustflight Owlguard
+	8 Honored Spiritbinder
+	8 Flame-Walk Protector
+	8 Lotus Spirit
+	8 Osteokai Graveguard
+	8 Krabi-Warrior
+	8 Loxodon Rust Priest
+	8 Ancestral Duty
+	8 Windfist Technique
+	8 Banishing Mist
+	8 Pelangi Reef Seer
+	8 Bloomtide Channeler
+	8 Washed Up On Shore
+	8 Veil of the Reef
+	8 Current Shift
+	8 Monsoon's Denial
+	8 Coral Colossus
+	8 Slipstream Knowledge
+	8 Undertow Bindings
+	8 Prophecy of the Reef
+	8 Spirit of the Shallows
+	8 Bloomtide Scout
+	8 Undertow Turtle
+	8 Riptide Naga
+	8 Prophecy of the Temple
+	8 Rotgrove Forager
+	8 Ancestral Bone Song
+	8 Ack-ack Beast
+	8 Pactblade Invader
+	8 Ancestoral Grasp
+	8 Ancestor Devourer
+	8 Muck Crawler
+	8 Offering to Mokoro
+	8 Final Banishment
+	8 Rot Jungle's Bloom
+	8 Temple Lantern Keeper
+	8 Quy-Bound Medium
+	8 Cradlebone Speaker
+	8 Prophecy of the Afterlife
+	8 Stormwake Corsair
+	8 Eager Sangmai Initiate
+	8 Magma Blazebuilder
+	8 Kahetra Spark Blade
+	8 Mok Lok's Provoker
+	8 Blazefist Practitioner
+	8 Flaretongue Salamander
+	8 Fury of Rakat Thann
+	8 Snapback Stance
+	8 Emberwake Diversion
+	8 Reckless Training
+	8 Diving Plunder
+	8 Eruption Aura
+	8 Prophecy of the Storm
+	8 Reef Forest Pelangi
+	8 Floramaris Mystic
+	8 Dreadsoil Satiator
+	8 Coral Reefguard
+	8 Bloomboar
+	8 Reefback Protector
+	8 Compost Walker
+	8 Looming Rot-Troll
+	8 Rotcycle
+	8 Mokoro's Pulse
+	8 Purifying Vines
+	8 Burial Ground's Bloom
+	8 Prophecy of the Rot
+	8 Jade Reliquarist
+	8 Spoken Beyond Silence
+	8 Ancestral Necromancer
+	8 Ka-Sai Warrior
+	8 Diving Phoenix Technique
+	8 Sangmai Trialist
+	8 Tideblessed Diver
+	8 Coralstream Mentor
+	8 Harmony's Shell
+	8 Emberwake Tidetail
+	8 Naga Stormbringer
+	8 Twist the Surge
+	8 Fungal Pactkeeper
+	8 Gravecycle Offering
+	8 Mokoro Rot-Shaman
+	8 Iron Lotus Root
+	8 Stormcall Gong
+	8 Ceremonial Bone Talon
+	8 Rustthorn Gauntlet
+	8 Overgrown Rust Guardian
+	8 Temple of Sangmai
+	8 Temple of Kahetra
+	8 Temple of Mokoro
+	8 Temple of Jantira
+	8 Temple of Khuin
+	8 Abandoned Catacomb
+	8 Backalley Training
+	8 Emberhall Aspirant
+	8 Purifier of Lost Souls
+	8 Corpsebloom Skirmisher
+[common | masterpiece(1)]
 	8 Rustflight Owlguard
 	8 Honored Spiritbinder
 	8 Flame-Walk Protector

@@ -1,0 +1,4347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CTRA</name>
+			<longname>Cryoterra</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-14</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Frostburn Explorer</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Haste
+Pay {V}, {T}, Sacrifice this creature: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/217_Frostburn Explorer.png" num="217">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hellfire Ravager</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Haste, menace
+This creature gets +1/+0 for each {V} you have. (Heat Counters)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/220_Hellfire Ravager.png" num="220">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Furnace Rebel</name>
+			<text>Menace
+Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, create a 1/1 red Rebel creature token with menace.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/219_Furnace Rebel.png" num="219">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solution Regulator</name>
+			<text>Vigilance
+Whenever a card leaves your graveyard, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/225_Solution Regulator.png" num="225">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smogwraith</name>
+			<text>Flying, lifelink
+Whenever you gain 1 or more life, each opponent loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/223_Smogwraith.png" num="223">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostbitten Mirebeast</name>
+			<text>Trample
+When this creature enters, it mill three cards. You may return one among them from your graveyard to your hand.
+Defrost 3 — {S}{B}{B} ({S}{B}{B}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/105_Frostbitten Mirebeast.png" num="105">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrapcasting Adept</name>
+			<text>When this creature enters, return up to one target artifact from your graveyard to your hand.
+{2}, {T}: This creature deals 2 damage to target player.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/222_Scrapcasting Adept.png" num="222">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snowdrift Angel</name>
+			<text>Flying
+Whenever you cast another snow spell, put a +1/+1 counter on up to one target creature.
+{1}{S}, {T}: Tap target untapped creature.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/224_Snowdrift Angel.png" num="224">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Angel Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostveil Agent</name>
+			<text>Flash
+Flying
+When this creature enters, choose one.
+• This creature gains deathtouch until end of turn.
+• Draw a card.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/218_Frostveil Agent.png" num="218">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karnir Coldwatch</name>
+			<text>Vigilance, reach
+Other Karnir you control have vigilance.
+Snowfall — Whenever another snow permanent enters under your control, Karnir you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/221_Karnir Coldwatch.png" num="221">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noble Attendant</name>
+			<text>When this creature enters, create a tapped Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/30_Noble Attendant.png" num="30">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Priestess in Rags</name>
+			<text>{T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/33_Priestess in Rags.png" num="33">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defiant Recruit</name>
+			<text>Revolt — When this creature enters, if a permanent you controlled left the battlefield this turn, create a 1/1 red Rebel creature token.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/16_Defiant Recruit.png" num="16">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coldspire Patrol</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/11_Coldspire Patrol.png" num="11">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal-Bound Thrall</name>
+			<text>Defender
+Revolt — At the beginning of combat on your turn, if a permanent you control left the battlefield this turn, this creature can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/15_Crystal-Bound Thrall.png" num="15">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karnir Frostspeaker</name>
+			<text>When this creature enters, draw a card.
+Snowfall — Whenever a snow permanent enters under your control, up to one target creature gets +0/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/27_Karnir Frostspeaker.png" num="27">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crag-Scout Falcon</name>
+			<text>Flying
+Whenever this creature attacks, choose up to one other target snow creature. It gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/13_Crag-Scout Falcon.png" num="13">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quota Enforcer</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+{W}, Pay {V}, {T}: Tap another target creature.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/34_Quota Enforcer.png" num="34">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saborpelt Dissenter</name>
+			<text>This creature has first strike as long as you control another Rebel.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/38_Saborpelt Dissenter.png" num="38">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostgrave Spirit</name>
+			<text>Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/21_Frostgrave Spirit.png" num="21">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Longhouse Alpha</name>
+			<text>Vigilance
+At the beginning of combat on your turn, another target Karnir you control gets +1/+1 and gains vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/28_Longhouse Alpha.png" num="28">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contraband Inspector</name>
+			<text>Flash
+When this creature enters, you may destroy target artifact or enchantment. When you do, that permanent&apos;s controller creates a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/12_Contraband Inspector.png" num="12">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ice Encrusted Mammoth</name>
+			<text>Snowfall — Whenever this or another snow permanent enters under your control, you gain 2 life.
+Cycling {2S} ({2S}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/26_Ice Encrusted Mammoth.png" num="26">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Calculated Defiance</name>
+			<text>Scry 1.
+Target creature gets +1/+1 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/8_Calculated Defiance.png" num="8">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glacial Grasp</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block and loses all abilities.
+When enchanted creature leaves the battlefield, draw a card.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/24_Glacial Grasp.png" num="24">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lost in Tundra</name>
+			<text>Snowfall — If a snow permanent entered under your control this turn, you may tap target untapped creature.
+Exile target creature if it&apos;s tapped.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/29_Lost in Tundra.png" num="29">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stand Together</name>
+			<text>Deal X damage to target attacking or defending creature, where X is the number of creatures you control.
+You gain 2 life.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/41_Stand Together.png" num="41">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rouse the Uprising</name>
+			<text>Choose one —
+• Create two 1/1 white Human Rebel creature tokens.
+• Create a 2/2 white snow Karnir creature token with vigilance.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/37_Rouse the Uprising.png" num="37">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Break the Shackles</name>
+			<text>Destroy up to one target artifact or enchantment.
+You gain 2 life. If you control a Rebel, you gain 4 life instead.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/7_Break the Shackles.png" num="7">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cryoprison Lantern</name>
+			<text>When this artifact enters, exile target nonland permanent until this artifact leaves the battlefield.
+{T}: Add {W}.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/14_Cryoprison Lantern.png" num="14">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iceway Lookout</name>
+			<text>Flash
+When this creature enters, up to one target creature gets -2/-0 until end of turn. Then, scry 1.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/61_Iceway Lookout.png" num="61">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snowball Elemental</name>
+			<text>Flying
+{S}, Sacrifice this creature: Tap target creature and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/79_Snowball Elemental.png" num="79">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mnemonic Cryomancer</name>
+			<text>{T}: Add {U}. Spend this mana only to activate a card&apos;s Defrost ability from your graveyard or cast instant or sorcery spells.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/65_Mnemonic Cryomancer.png" num="65">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryoglass Broker</name>
+			<text>When this creature enters, create a tapped Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)
+Whenever you sacrifice an artifact, you may pay {S}. If you do, untap target nonland permanent you control.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/49_Cryoglass Broker.png" num="49">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ordinate Frostguard</name>
+			<text>Vigilance
+{1}{U}, {T}, Sacrifice this creature: Return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/68_Ordinate Frostguard.png" num="68">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smolder-Bone Nomad</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Vigilance
+When this creature dies, you may pay {V}. If you do, scry 2, then draw a card.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/78_Smolder-Bone Nomad.png" num="78">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Climbing Cliff Troll</name>
+			<text>When this creature enters, return up to one target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/46_Climbing Cliff Troll.png" num="46">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oversized Glacierfin</name>
+			<text>This creature costs {1} less if you control an artifact.
+When this creature dies, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/70_Oversized Glacierfin.png" num="70">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fjordbreaker Walrus</name>
+			<text>This spell costs {1} less to cast for each snow permanent you control.
+When this creature enters, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/55_Fjordbreaker Walrus.png" num="55">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Walrus</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryoglass Vault-Guardian</name>
+			<text>Vigilance
+Snow landcycling {2S} ({2}, Discard this card: Search your library for a Snow Land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/52_Cryoglass Vault-Guardian.png" num="52">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shard of Insight</name>
+			<text>Scry 1, then draw a card.
+Create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/76_Shard of Insight.png" num="76">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spellthaw</name>
+			<text>Counter target spell unless its controller pays {3}. If that spell is a Snow spell, counter it unless its controller pays {S}{S} instead.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/81_Spellthaw.png" num="81">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glacial Ward</name>
+			<text>Target creature you control gets +0/+3 and gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/58_Glacial Ward.png" num="58">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ordinator&apos;s Greed</name>
+			<text>Create a Crystal token, then draw two cards. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/69_Ordinator&apos;s Greed.png" num="69">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Condemn to the Cold</name>
+			<text>Return target creature to its owner&apos;s hand. If you control two or more snow permanents, you may return that creature to the top of its owner&apos;s library instead.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/47_Condemn to the Cold.png" num="47">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Permafreeze</name>
+			<text>Tap target creature and put three stun counters on it. Then if {S} was spent to cast this spell, tap up to one additional target creature.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/71_Permafreeze.png" num="71">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blizzard Patrol Angel</name>
+			<text>Flying
+Snow creature spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/44_Blizzard Patrol Angel.png" num="44">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Angel Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crushing Cave-In</name>
+			<text>Flash
+Enchant creature
+When this aura enters, create a Crystal token. Then, tap enchanted creature. It doesn&apos;t untap during its owner&apos;s untap step. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/48_Crushing Cave-In.png" num="48">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shiverpick</name>
+			<text>When this artifact enters, return up to one target artifact or enchantment to its owner&apos;s hand.
+Equipped creature gets +2/+1.
+Equip {2S}</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/77_Shiverpick.png" num="77">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Black-Ice Ghoul</name>
+			<text>{S}: This creature gains deathtouch until end of turn.
+When this creature dies, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/89_Black-Ice Ghoul.png" num="89">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scavenging Outcast</name>
+			<text>When this creature enters, mill a card, draw a card, then you lose 2 life.
+Defrost 2 — {S} ({S}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/122_Scavenging Outcast.png" num="122">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forge-Belt Thrasher</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+This creature gets +1/+1 and has menace as long as you have one or more {V}(A heat counter.).</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/102_Forge-Belt Thrasher.png" num="102">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shardwing Operative</name>
+			<text>Flash
+Flying
+When this creature enters, you may sacrifice another creature. When you do, this creature gains deathtouch until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/124_Shardwing Operative.png" num="124">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Service Tunnel Ghast</name>
+			<text>Lifelink
+When this creature enters, target player discards a card.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/123_Service Tunnel Ghast.png" num="123">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryoglass Inspector</name>
+			<text>When this creature enters, choose one —
+• Create two Crystal tokens. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)
+• Destroy target creature that was dealt damage this turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/95_Cryoglass Inspector.png" num="95">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostwight</name>
+			<text>Flying
+{S}{B}: This creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/106_Frostwight.png" num="106">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heatguard Ogre</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Menace
+This creature gets +2/+0 as long as you have three or more {V}. (Heat counters.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/115_Heatguard Ogre.png" num="115">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Cremationist</name>
+			<text>{2}, Sacrifice this or another creature: Target opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/111_Grim Cremationist.png" num="111">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extermination Patrol</name>
+			<text>When this creature dies, choose one —
+• Each opponent loses 1 life and you gain 1 life.
+• Target creature gets -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/101_Extermination Patrol.png" num="101">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carrion Skreech</name>
+			<text>Flying
+This creature gets +1/+0 as long as it&apos;s attacking.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/90_Carrion Skreech.png" num="90">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Consultation</name>
+			<text>As an additional cost to cast this spell, you may sacrifice a creature. If you do, it costs {2} less to cast.
+Scry 1, then draw two cards.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/98_Dark Consultation.png" num="98">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bitter Selection</name>
+			<text>Destroy target non-snow creature.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/88_Bitter Selection.png" num="88">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Accident Report</name>
+			<text>Target creature gets -2/-2 until end of turn. Then, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/87_Accident Report.png" num="87">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Noise in the Pipes</name>
+			<text>Target creature you control gains menace and lifelink until end of turn.
+Add {V}.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/119_Noise in the Pipes.png" num="119">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frigid Touch</name>
+			<text>Target creature gets +1/+1 and gains deathtouch until end of turn. If a snow creature is targeted this way, it gets an additional +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/103_Frigid Touch.png" num="103">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>From Beneath the Ice</name>
+			<text>Mill two cards, then return up to one target creature card with mana value 4 or less from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/104_From Beneath the Ice.png" num="104">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Curse of Glass</name>
+			<text>Enchant Creature
+Enchanted creature gets -2/-2.
+When enchanted creature dies, its controller loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/97_Curse of Glass.png" num="97">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plucked Thoughts</name>
+			<text>Target player reveals their hand. You may choose a nonland, noncreature card from it. That player discards that card. If a player didn&apos;t discard a card this way, draw a card.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/120_Plucked Thoughts.png" num="120">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Roaming Flame Spirit</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Haste
+This creature gets +1/+0 as long as you have one or more {V}.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/160_Roaming Flame Spirit.png" num="160">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryo-Slagrunner</name>
+			<text>Menace
+Revolt — At the beginning of your end step, if a permanent you control left the battlefield this turn, this creature deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/137_Cryo-Slagrunner.png" num="137">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Downhill Raider</name>
+			<text>When this creature enters, choose one —
+• Discard a card. Then, draw a card.
+• Create a tapped treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/139_Downhill Raider.png" num="139">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodfrost Evoker</name>
+			<text>When this creature enters, create a 3/3 red snow Elemental creature.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/133_Bloodfrost Evoker.png" num="133">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rampaging Snow-Hog</name>
+			<text>Menace
+Whenever this creature attacks, it gets +1/+0 until end of turn for each other attacking creature.
+Defrost 2 — {S}{R} ({S}{R}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/155_Rampaging Snow-Hog.png" num="155">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Billowing Demagogue</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Pay {V}, {T}: This creature deals 1 damage to each opponent.
+Whenever you cast a noncreature spell, untap this creature.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/131_Billowing Demagogue.png" num="131">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rusted Glass Miner</name>
+			<text>{R}: This creature gains first strike until end of turn. Activate only as a sorcery.
+When this creature dies, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/163_Rusted Glass Miner.png" num="163">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kindlecoil Serpent</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Pay {V}{V}: Target creature gets +1/+1 and gains haste until end of turn. Activate only as a sorcery and only once each turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/149_Kindlecoil Serpent.png" num="149">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gutterspike Brute</name>
+			<text>Revolt — At the beginning of combat on your turn, up to one target creature can&apos;t block this turn if a permanent you control left the battlefield this turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/142_Gutterspike Brute.png" num="142">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vengeful Frost Giant</name>
+			<text>Trample
+Mountaincycling {2S} ({2S}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/172_Vengeful Frost Giant.png" num="172">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ordinate Bruiser</name>
+			<text>When this creature enters, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)
+Sacrifice an artifact: This creature gets +1/+0 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/152_Ordinate Bruiser.png" num="152">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cremated Furnace Spirit</name>
+			<text>Haste
+{1}{R}, Sacrifice this creature: Destroy target artifact.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/136_Cremated Furnace Spirit.png" num="136">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorch Protocol</name>
+			<text>Scorch Protocol deals 2 damage to any target. If a snow creature was targeted this way, Scorch Protocol deals 3 damage to it instead.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/164_Scorch Protocol.png" num="164">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Piercing Bloodrush</name>
+			<text>Target creature gets +3/+0 and gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/154_Piercing Bloodrush.png" num="154">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enforcing Fist</name>
+			<text>Up to one target creature gets +2/+0 and gains first strike until end of turn.
+Create a Crystal Token (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/141_Enforcing Fist.png" num="141">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Payback Strike</name>
+			<text>Payback Strike deals 3 damage to any target. If you control a Rebel, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/153_Payback Strike.png" num="153">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ignition of Truth</name>
+			<text>Kicker—Pay {V} (You may pay {V} in addition to any other costs as you cast this spell.)
+Discard a card, then draw two cards. If this spell was kicked, the next artifact spell you cast this turn costs {2} less to cast.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/147_Ignition of Truth.png" num="147">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rimeburst</name>
+			<text>Rimeburst deals damage to target creature, where X is 3 plus the number of {S} spent to cast this spell.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/159_Rimeburst.png" num="159">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Empowering Warmth</name>
+			<text>Enchant creature
+Enchanted creature has stoke. (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Enchanted creature gets +X/+0, where X is equal to the number of your {V}.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/140_Empowering Warmth.png" num="140">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ice-Trekking Cleats</name>
+			<text>When this artifact enters, destroy up to one target artifact.
+Equipped creature has haste and reach.
+Equip {2S}</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/146_Ice-Trekking Cleats.png" num="146">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Determined Seed-Watcher</name>
+			<text>{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/182_Determined Seed-Watcher.png" num="182">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snowblossom Hare</name>
+			<text>Snowfall — Whenever a snow permanent enters under your control, you gain 1 life.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/209_Snowblossom Hare.png" num="209">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glacierwood Lumberjack</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Pay {V}{V}: Put a +1/+1 counter on this creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/193_Glacierwood Lumberjack.png" num="193">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outskirts Botanist</name>
+			<text>When this creature enters, search your library for up to one basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/202_Outskirts Botanist.png" num="202">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icetongue Frog</name>
+			<text>Reach
+When this creature enters, if it entered from anywhere other than your hand, it enters with two additional +1/+1 counters on it.
+Defrost 3 — {1}{S}{G} ({1}{S}{G}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/197_Icetongue Frog.png" num="197">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glacierwood Spirit</name>
+			<text>When this creature enters, target creature you control gets +1/+1 until end of turn. Then create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/194_Glacierwood Spirit.png" num="194">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fearsome Tribe Guard</name>
+			<text>Trample
+Snowfall — Whenever another snow permanent enters under your control, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/185_Fearsome Tribe Guard.png" num="185">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icebank Ambusher</name>
+			<text>When this creature enters, create a 0/1 green Rabbit token with &quot;When this creature dies, you gain 2 life.&quot;</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/196_Icebank Ambusher.png" num="196">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Tundra Shaman</name>
+			<text>Vigilance
+When this creature enters, you gain 3 life.
+Defrost 3 — {2}{S}{G} ({2}{S}{G}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/214_Wandering Tundra Shaman.png" num="214">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Giant Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creeping Ice-Vines</name>
+			<text>Defender, reach
+{2S}{G}, {T}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/178_Creeping Ice-Vines.png" num="178">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Plant Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryotroll</name>
+			<text>Reach
+When this creature enters, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)
+Forestcycling {2S} ({2S}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/180_Cryotroll.png" num="180">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Elemental Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Druid of the Silent Wild</name>
+			<text>When this creature enters, you may sacrifice a land. If you do, return up to one other target land or creature card with mana value 2 or less from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/184_Druid of the Silent Wild.png" num="184">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Laborious Strength</name>
+			<text>Put a +1/+1 counter on target creature you control. It gets +1/+1 and gains vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/199_Laborious Strength.png" num="199">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Collapsing Infrastructure</name>
+			<text>Destroy target artifact, enchantment, or creature with flying. Scry 1.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/176_Collapsing Infrastructure.png" num="176">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hailstrike</name>
+			<text>Put up to one +1/+1 counter on target creature if one or more {S} was spent to cast this spell. Then, that creature deals damage equal to its power to another target creature.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/195_Hailstrike.png" num="195">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scavenger&apos;s Drop</name>
+			<text>Mill two cards. Then you may return a creature card put into your graveyard this way to your hand.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/205_Scavenger&apos;s Drop.png" num="205">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloom through the Ice</name>
+			<text>Search your library for up to one basic land card, put it onto the battlefield tapped, then shuffle.
+You gain 2 life.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/174_Bloom through the Ice.png" num="174">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Companion&apos;s Warmth</name>
+			<text>Kicker—Pay {V} (You may pay {V} in addition to any other costs as you cast this spell.)
+Untap up to two target creatures you control. If this spell was kicked, put a +1/+1 counter on each creature untapped this way.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/177_Companion&apos;s Warmth.png" num="177">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frigid Endurance</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, untap enchanted creature.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/186_Frigid Endurance.png" num="186">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Makeshift Campfire</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Pay {V}{V}, {T}: Untap target permanent you control.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/233_Makeshift Campfire.png" num="233">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ordinator&apos;s Wand</name>
+			<text>When this artifact enters, search your library for up to one basic land card and reveal it, put it into your hand, then shuffle.
+Equipped creature gets has vigilance.
+Equip {1}
+Equip snow creature {0}</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/234_Ordinator&apos;s Wand.png" num="234">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cryoglass Specimen</name>
+			<text>{1}, {T}: Add one mana of any color.
+{2S}, {T}, Sacrifice this artifact: Create a tapped Crystal token, then draw a card. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/227_Cryoglass Specimen.png" num="227">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Incinerator Golem</name>
+			<text>When this creature enters, draw a card.
+{2}, {T}: Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/231_Incinerator Golem.png" num="231">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cleansing Torch</name>
+			<text>{2}, {T}: Add {V} or Scry 2.
+{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. If that permanent is a snow permanent, exile it instead.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/226_Cleansing Torch.png" num="226">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glacier&apos;s Peak</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/240_Glacier&apos;s Peak.png" num="240">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ghostflower Cougar</name>
+			<text>When this creature enters, untap up to one target land and up to one target creature.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/191_Ghostflower Cougar.png" num="191">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ordinate Field Marshal</name>
+			<text>{2}, {T}: Tap target creature or artifact.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/31_Ordinate Field Marshal.png" num="31">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fearless Dissenter</name>
+			<text>Vigilance
+This creature&apos;s power is equal to the number of Rebels you control.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/18_Fearless Dissenter.png" num="18">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fumesoul Stalker</name>
+			<text>Lifelink
+Whenever you gain life, put a +1/+1 counter on this creature. It gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/23_Fumesoul Stalker.png" num="23">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostfoot Night Patrol</name>
+			<text>This creature has double strike as long as you control another Karnir.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/20_Frostfoot Night Patrol.png" num="20">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Auroral Moth</name>
+			<text>Flying
+{S}, Sacrifice this creature: Exile another target creature you control. Return it to the battlefield at the beginning of the next end step. If that creature is a snow creature, it enters with a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/2_Auroral Moth.png" num="2">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Factorysalve Healer</name>
+			<text>Lifelink
+{T}, Pay 4 life: Target creature gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/17_Factorysalve Healer.png" num="17">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reinforcement Rebel</name>
+			<text>Other Rebels you control get +1/+1.
+Revolt — Whenever this creature attacks, scry 1. Then if a permanent you control left the battlefield this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/35_Reinforcement Rebel.png" num="35">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blizzardfang Howler</name>
+			<text>Snowfall — Whenever a snow permanent enters under your control, other creatures you control get +1/+1 until end of turn.
+{2S}: Exile a card from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/5_Blizzardfang Howler.png" num="5">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Dog Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hailforged Justiciar</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this creature enters, exile up to one target creature an opponent controls until this creature leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/25_Hailforged Justiciar.png" num="25">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fjord Hermit</name>
+			<text>When this creature enters, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)
+{S}, {T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/19_Fjord Hermit.png" num="19">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Through the Smoke</name>
+			<text>Put a +1/+1 counter on target creature you control. It phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/42_Through the Smoke.png" num="42">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Bigger They Fall</name>
+			<text>Destroy target artifact or creature with power 4 or greater. If a permanent is destroyed this way, gain life equal to that permanent&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/4_The Bigger They Fall.png" num="4">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frostwake Uprising</name>
+			<text>Choose one —
+• Creatures you control get +2/+2 and gain vigilance until end of turn.
+• Create three 2/2 white Human Rebel creature tokens.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/22_Frostwake Uprising.png" num="22">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ceremonial Cryoblade</name>
+			<text>When this Equipment enters, create a 2/2 white and green Karnir creature token and attach this Equipment to it.
+Snowfall — Whenever a snow permanent enters under your control, put a +1/+1 counter on equipped creature.
+Equip {2S}{S}</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/9_Ceremonial Cryoblade.png" num="9">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chilling Informant</name>
+			<text>Flash
+When this creature enters, tap up to one target creature and remove it from combat.
+{2}{U}, {T}: Put a stun counter on target tapped creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/45_Chilling Informant.png" num="45">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wastrel of the Deepfrost</name>
+			<text>Flying
+Whenever this creature attacks, if a card left your graveyard this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/86_Wastrel of the Deepfrost.png" num="86">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steelfeather Salvager</name>
+			<text>Flying
+At the beginning of your upkeep, if you control another nontoken artifact, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)
+{T}, Sacrifice an artifact: Untap another target artifact you control.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/82_Steelfeather Salvager.png" num="82">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryospawn Experiment 77</name>
+			<text>Whenever this creature becomes tapped, you may exile a card from your graveyard. If you do, put a +1/+1 counter on this creature.
+Defrost 2 — {1}{S}{U} ({1}{S}{U}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/54_Cryospawn Experiment 77.png" num="54">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Mutant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snowcaster Adept</name>
+			<text>Snow spells you cast cost {1} less to cast.
+Snowfall — Whenever this or another snow permanent enters under your control, target creature gets -2/-0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/80_Snowcaster Adept.png" num="80">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostguard Fabricator</name>
+			<text>Whenever an artifact you control enters, create a 2/2 colorless snow Golem artifact creature. This ability only triggers once each turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/56_Frostguard Fabricator.png" num="56">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hailmind Terror</name>
+			<text>Affinity for snow creatures (This spell costs {1} less to cast for each snow creature you control.)
+Flash (You may cast this spell any time you could cast an instant.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/60_Hailmind Terror.png" num="60">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Jellyfish Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>5UUU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ordinate Broker Baron</name>
+			<text>When this creature enters, create a Crystal token and scry 2. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)
+{1}{U}, {T}, Sacrifice a token: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/67_Ordinate Broker Baron.png" num="67">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Read the Runes</name>
+			<text>Return up to one target nonland permanent to its owner&apos;s hand. Then if a card left your graveyard this turn, scry 1 and draw a card.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/73_Read the Runes.png" num="73">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pressure Overload</name>
+			<text>Choose one —
+• Counter target noncreature spell.
+• Return target creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/72_Pressure Overload.png" num="72">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nullfrost</name>
+			<text>Counter target artifact, enchantment, or snow spell.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/66_Nullfrost.png" num="66">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seared Memory</name>
+			<text>Look at the top and bottom card in your library. Put one into your hand and the other on the top or bottom of your library.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/75_Seared Memory.png" num="75">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thawed Insight</name>
+			<text>Draw four cards, then discard two cards unless {S}{S} was spent to cast this spell.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/84_Thawed Insight.png" num="84">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sudden Chill</name>
+			<text>Flash
+Enchant creature you don&apos;t control.
+When this aura enters, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/83_Sudden Chill.png" num="83">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cryoglass Extractor</name>
+			<text>Whenever an artifact you control enters, scry 1. If this is the second time this ability triggered this turn, draw a card instead.
+{1}, Discard a card, {T}: Create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/50_Cryoglass Extractor.png" num="50">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mournflight Wisp</name>
+			<text>Flying
+This creature enters tapped.
+This creature can&apos;t block.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/117_Mournflight Wisp.png" num="117">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Squallwight</name>
+			<text>Menace
+{S}: Return this creature from your graveyard to your hand. Activate only if a card left your graveyard this turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/127_Squallwight.png" num="127">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dusklight Arsonist</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+At the beginning of combat during your turn, you may pay {V}. If you do, target creature you control gains deathtouch until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/100_Dusklight Arsonist.png" num="100">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veinreader Informant</name>
+			<text>Flash
+Flying
+Whenever this creature enters or you cast a spell during an opponent&apos;s turn, you may pay 2 life. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/129_Veinreader Informant.png" num="129">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mourning Gentleman</name>
+			<text>Lifelink
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life. If that creature had lifelink, each opponent loses 2 life and you gain 2 life instead.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/118_Mourning Gentleman.png" num="118">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rimebone Fiend</name>
+			<text>When this creature enters, up to one target creature gets -2/-2 until end of turn.
+Defrost 3 — {2}{S}{B} ({2}{S}{B}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/121_Rimebone Fiend.png" num="121">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Skeleton Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cruel Overseer</name>
+			<text>Menace
+When this creature enters, target opponent discards two cards. If they can&apos;t, they lose 2 life instead.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/93_Cruel Overseer.png" num="93">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Solider</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Killer&apos;s Conspiricy</name>
+			<text>As an additional cost to cast this spell, discard a card or pay 3 life.
+Choose one —
+• Create a 1/1 black Assassin creature token with deathtouch.
+• Destroy target enchantment.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/116_Killer&apos;s Conspiricy.png" num="116">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glaciertusk Hauler</name>
+			<text>Whenever this creature deals combat damage to a player, create a 2/2 black Soldier creature token.
+{S}: This creature gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/110_Glaciertusk Hauler.png" num="110">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal-Quill Auditor</name>
+			<text>When this creature enters, create a Crystal token. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)
+Whenever you sacrifice an artifact or creature, you may pay {2S} and 1 life. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/96_Crystal-Quill Auditor.png" num="96">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crushing Attrition</name>
+			<text>Creatures your opponents control get -2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/94_Crushing Attrition.png" num="94">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Furnace&apos;s Fleshfuel</name>
+			<text>As an additional cost to cast this spell, pay {V} or pay {2}.
+Destroy target creature.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/109_Furnace&apos;s Fleshfuel.png" num="109">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frozen Retrieval</name>
+			<text>Return up to two target creature cards from your graveyard to your hand.
+Defrost 3 — {S}{S}{B}{B} ({S}{S}{B}{B}: Exile this from your graveyard with three ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. Defrost as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/107_Frozen Retrieval.png" num="107">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gutterflux Mutation</name>
+			<text>Target creature gets +X/-X until end of turn. If you control that creature, it gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/112_Gutterflux Mutation.png" num="112">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heatvein Tracker</name>
+			<text>When this creature enters, add {V}.
+{T}: Add {C}.
+Pay {V}, {T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/144_Heatvein Tracker.png" num="144">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Canary Phoenix</name>
+			<text>Flying
+This creature can&apos;t block.
+When this creature dies, it deals 1 damage to any target.
+Whenever you sacrifice an artifact, you may pay {R}{R}. If you do, return this creature from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/134_Canary Phoenix.png" num="134">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smelt-Melt Ragers</name>
+			<text>Haste
+Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Whenever this or another creature you control enters, you may pay up to two {V}. If you do, create a 1/1 red Human Mercenary token with haste for each {V} spent this way. Sacrifice them at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/167_Smelt-Melt Ragers.png" num="167">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thermafrost Mauler</name>
+			<text>Trample
+Whenever another artifact you control leaves the battlefield, put a +1/+1 counter on this creature. Do this only once each turn.
+{S}: This creature gets +1/-1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/170_Thermafrost Mauler.png" num="170">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact Creature — Beast Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rebelbane Captain</name>
+			<text>This creature has first strike as long as you control an artifact.
+{T}, Sacrifice an artifact: Exile the top card of your library. You may play it this turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/157_Rebelbane Captain.png" num="157">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incendiary Revolutionary</name>
+			<text>Whenever a Rebel you control dies, this creature deals 1 damage to each opponent.
+Revolt — As long as a permanent you control left the battlefield this turn, other Rebels you control get +1/+0 and have menace.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/148_Incendiary Revolutionary.png" num="148">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chainlash Devil</name>
+			<text>First strike
+Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+At the beginning of your end step, if this creature entered this turn, you may pay any number of {V}. If you do, this creature deals 1 damage to target creature for each {V} paid this way.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/135_Chainlash Devil.png" num="135">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Mechanist</name>
+			<text>At the beginning of combat during your turn, you may sacrifice an artifact. If you do, create a 2/2 colorless Construct artifact creature token that&apos;s tapped and attacking. Sacrifice that token at the end of combat.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/158_Reckless Mechanist.png" num="158">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Razorboot Glider</name>
+			<text>Haste
+When this creature enters, other Rebels you control gain haste until end of turn.
+{S}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/156_Razorboot Glider.png" num="156">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrapfire Surge</name>
+			<text>Scrapfire Surge deals X damage to up to one target creature.
+Return up to one target artifact with mana value X or less from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/165_Scrapfire Surge.png" num="165">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meltdown Mastery</name>
+			<text>Destroy target artifact. If that artifact was a snow artifact, up to one target creature you control gets +X/+0 until end of turn, where X is 1 plus that artifact&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/151_Meltdown Mastery.png" num="151">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rub It In</name>
+			<text>Revolt — Rub It In deals 5 damage to target creature. If a permanent you control left the battlefield this turn, Rub It In deals 2 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/162_Rub It In.png" num="162">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anarchist&apos;s Fury</name>
+			<text>Target creature gains double strike and menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/130_Anarchist&apos;s Fury.png" num="130">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Billowing Flames</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+When this enchantment enters, creatures you control gain haste until end of turn.
+{R}{R}{R}, Sacrifice this enchantment, Pay any number of {V}: Add {R} for each {V} spent this way.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/132_Billowing Flames.png" num="132">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dredgemole</name>
+			<text>When this creature enters, mill three cards. You may put a land card from among the cards milled this way onto the battlefield tapped.
+Defrost 2 — {S}{G} ({S}{G}: Exile this from your graveyard with two ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/183_Dredgemole.png" num="183">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Mole Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostmaul War Captain</name>
+			<text>Karnir you control with one or more +1/+1 counters have trample.
+Snowfall — Whenever another snow permanent you control enters, put a +1/+1 counter on up to one other Karnir you control.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/189_Frostmaul War Captain.png" num="189">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rustpyre Oracle</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+When this creature enters, destroy up to one target artifact or enchantment. Then, add {V} equal to that permanent&apos;s mana value.
+Whenever this creature attacks, you may pay {V}. If you do, untap up to one target land.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/204_Rustpyre Oracle.png" num="204">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pinecrag Surveyor</name>
+			<text>Vigilance
+At the beginning of your end step, if a card left your graveyard this turn, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/203_Pinecrag Surveyor.png" num="203">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deepfreeze Oracle</name>
+			<text>Other Karnir you control get +0/+1.
+Snowfall — Whenever another snow permanent you control enters, scry 1. If this is the second time this ability triggered this turn, draw a card instead.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/181_Deepfreeze Oracle.png" num="181">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Elder</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Viscera Archivist</name>
+			<text>When this creature enters, create a crystal token, then return up to one target creature card from your graveyard to your hand. (It&apos;s a snow artifact with &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.&quot;)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/213_Viscera Archivist.png" num="213">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caldera Wurm</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Trample
+Pay {V}{V}{V}: Creatures you control get +1/+1 and gain vigilance and haste until end of turn. Activate only as a sorcery and only once each turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/CTRA-files/img/175_Caldera Wurm.png" num="175">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shivermaw Scuttler</name>
+			<text>When this creature enters, create two 2/2 green snow Crab creature tokens.
+Defrost 4 — {2}{S}{G} ({2}{S}{G}: Exile this from your graveyard with four ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/206_Shivermaw Scuttler.png" num="206">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit of the Verdigris</name>
+			<text>Creature spells you cast cost {1} less to cast.
+{G}: Target creature gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/210_Spirit of the Verdigris.png" num="210">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Siphon Warmth</name>
+			<text>Choose one —
+• Target creature you control gains indestructible until end of turn.
+• Target creature gets +3/+3 until end of turn.
+You gain 3 life and add {V}{V}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/207_Siphon Warmth.png" num="207">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skypiercer&apos;s Rebuke</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. If the creature you don&apos;t control has flying, destroy it instead.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/208_Skypiercer&apos;s Rebuke.png" num="208">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glacial Excavation</name>
+			<text>Sacrifice a land. Then, search your library for up to two basic land cards or one snow land card and put them onto the battlefield tapped, then shuffle.
+Defrost 4 — {1}{S}{G} ({1}{S}{G}: Exile this from your graveyard with four ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. Defrost as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/192_Glacial Excavation.png" num="192">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>War Party&apos;s Call</name>
+			<text>When this enchantment enters, return up to two target permanent cards from your graveyard to your hand.
+{2}{G}, Exile this permanent: Creatures you control get +2/+2 and gain trample until end of turn. Karnir you control get an additional +1/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/215_War Party&apos;s Call.png" num="215">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anointed Resolve</name>
+			<text>Untap all creatures you control and put a +1/+1 counter on them. They gain reach until end of turn.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/173_Anointed Resolve.png" num="173">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ice Climbing Gear</name>
+			<text>Snowfall — Whenever a snow permanent enters under your control, equipped creature gets +2/+2 until end of turn.
+Equip {2S}</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/230_Ice Climbing Gear.png" num="230">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stained Cryoglass Lens</name>
+			<text>{T}: Add one mana of any color.
+{6}{S}, {T}, Sacrifice this artifact: Draw a card for each name among other nontoken snow permanents you control.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/236_Stained Cryoglass Lens.png" num="236">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Smokestack Coalossus</name>
+			<text>This spell costs {1} less to cast for each {V} you pay as you cast this spell.
+Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Indestructible</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/235_Smokestack Coalossus.png" num="235">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glassflesh Idol</name>
+			<text>As long as a card left your graveyard this turn, if you own five or more cards in exile, you may cast this spell from your graveyard. Do this only as a sorcery.
+{3}, {T}, Sacrifice this creature: Add {C} or draw a card.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/229_Glassflesh Idol.png" num="229">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Heritage Blade</name>
+			<text>Equipped creature has first strike and gets +1/+1 for each card it shares a creature type with among creature cards in your graveyard.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/232_Lost Heritage Blade.png" num="232">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frozen Maintenance Tunnel</name>
+			<text>When this land enters, sacrifice it unless you return another land you control to its owner&apos;s hand.
+{T}: Add one mana of any color.
+Cycling {2S} ({2S}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/228_Frozen Maintenance Tunnel.png" num="228">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Crystalwood Verge</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/239_Crystalwood Verge.png" num="239">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Permafrost Crossing</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {W} or {U}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/243_Permafrost Crossing.png" num="243">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Slagwaste Tundra</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/244_Slagwaste Tundra.png" num="244">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Heatvein Chasm</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {B} or {R}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/241_Heatvein Chasm.png" num="241">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bloomspire Pines</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/238_Bloomspire Pines.png" num="238">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Aurora Fen</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/237_Aurora Fen.png" num="237">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thermoflow Conduit</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/247_Thermoflow Conduit.png" num="247">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Smogchoked Snowscape</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {R} or {W}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/245_Smogchoked Snowscape.png" num="245">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spearglass Barrens</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {W} or {B}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/246_Spearglass Barrens.png" num="246">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Icemire Thicket</name>
+			<text>This land enters tapped unless you control a nonland snow permanent.
+{T}: Add {B} or {G}.</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/242_Icemire Thicket.png" num="242">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sinéad, Battleguard Nurse</name>
+			<text>First strike
+Revolt — At the beginning of your end step, if a permanent you control left the battlefield this turn, put a +1/+1 counter on each Rebel you control that attacked this turn.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/39_Sinéad, Battleguard Nurse.png" num="39">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tyga, Hand of the Hailstorm</name>
+			<text>Permanents you control are snow permanents in addition to their other types.
+{1}{S}, Sacrifice five snow permanents: Exile target nonland permanent.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/43_Tyga, Hand of the Hailstorm.png" num="43">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Snow Creature — Karnir Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brassbound Suppressor</name>
+			<text>Creatures your opponents control lose and can&apos;t have or gain first strike, vigilance, or lifelink.
+At the beginning of combat on your turn, up to one target creature you control gains first strike, vigilance, and lifelink until end of turn.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/6_Brassbound Suppressor.png" num="6">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chimneyborn Eidolon</name>
+			<text>Flying, lifelink
+At the beginning of your end step, if an opponent lost life and you gained life this turn, put a +1/+1 counter on each other creature you control with lifelink.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/10_Chimneyborn Eidolon.png" num="10">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spirit Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Annex Angel</name>
+			<text>Flash
+Flying, vigilance
+When this creature enters, exile another target nonland permanent until this creature leaves the battlefield. When you do, put X +1/+1 counters on this creature, where X is the exiled permanent&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/1_Annex Angel.png" num="1">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rimeshroud Apparition</name>
+			<text>Snowfall — Whenever this or another snow permanent enters under your control, choose one that hasn&apos;t been chosen.
+• Creature you control gains hexproof and indestructible until end of turn.
+• Tap target creature you don&apos;t control and put a stun counter on it.
+• You gain 1 life for each snow creature you control.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/36_Rimeshroud Apparition.png" num="36">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Squallsong</name>
+			<text>Escalate {S} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Tap target creature or artifact and put two stun counters on it.
+• Exile target tapped creature or artifact.
+• Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/40_Squallsong.png" num="40">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ordinate&apos;s End</name>
+			<text>As you cast this spell, choose a creature type.
+Destroy all creatures and artifacts, except those of the chosen type.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/32_Ordinate&apos;s End.png" num="32">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Avalanche Runner</name>
+			<text>When this artifact enters, you may attach it to target snow creature you control.
+Equipped creature has flying, first strike, and gets +1/+1 for each nonland snow permanent you control.
+Equip {2S}{W}{W}</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/3_Avalanche Runner.png" num="3">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kessra Scrapwright</name>
+			<text>When Kessra Scrapwright enters, create a 0/0 colorless artifact Spider Construct creature with, &quot;This creature gets +1/+1 for each artifact card in your graveyard.&quot;
+{4}{U}, {T}, Sacrifice an artifact: Create a token copy of target token artifact you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/63_Kessra Scrapwright.png" num="63">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Juris, Propaganda Savant</name>
+			<text>You may cast other creature spells from your hand as though they have flash.
+At the beginning of each opponent&apos;s upkeep, that player may have you draw a card. If they don&apos;t, that player skips their next combat step.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/62_Juris, Propaganda Savant.png" num="62">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glaciator Fiend</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+If a snow spell being cast or a snow permanent entering the battlefield would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/59_Glaciator Fiend.png" num="59">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Abomination</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mage of Thawed Memories</name>
+			<text>When this creature enters, return up to one target instant or sorcery card from your graveyard to your hand.
+At the beginning of your end step, if a card left your graveyard this turn, draw a card.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/64_Mage of Thawed Memories.png" num="64">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostlock</name>
+			<text>Kicker {S}{U} (You may pay an additional {S}{U} as you cast this spell.)
+Counter target spell. If this spell was kicked, the countered spell&apos;s controller can&apos;t cast spells of its card type until the end of their next turn.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/57_Frostlock.png" num="57">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unexpected Detour</name>
+			<text>Return target permanent you control to your hand, then draw cards equal to that permanent&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/85_Unexpected Detour.png" num="85">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cryosculpt</name>
+			<text>Create a token that&apos;s a copy of target creature or artifact you control, except it&apos;s a snow permanent in addition to its other types.
+Defrost 4 — {1}{S}{U} ({1}{S}{U}: Exile this from your graveyard with four ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. Defrost as a sorcery.)</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/53_Cryosculpt.png" num="53">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rimezone</name>
+			<text>Whenever you cast your first instant or sorcery spell each turn, you may pay {2}. If you do, exile it as it resolves with X ice counters on it, where X is equal to its mana value. Whenever you cast a spell, remove an ice counter from it. When the last is removed, you may cast a copy of it without paying its mana value.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/74_Rimezone.png" num="74">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cryoglass Foresight Orb</name>
+			<text>At the beginning of your end step, if a creature you control dealt combat damage to a player this turn, put a charge counter on this artifact.
+When you sacrifice this artifact, draw a card for each charge counter on it.
+{1}, {T}, Sacrifice this artifact: Add one mana of any color and scry 1.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/51_Cryoglass Foresight Orb.png" num="51">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact — Crystal</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fumidia, the Smog Witch</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+When Coalbraid enters, each other creature gets -1/-1 for each {V} you have until end of turn.
+Whenever Coalbraid attacks, you may pay {V}. If you do, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/108_Fumidia, the Smog Witch.png" num="108">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shiverclaw the Abominable</name>
+			<text>When Shiverclaw enters, remove all counters from cards you own in exile.
+Shiverclaw has deathtouch and trample as long as it&apos;s a copy.
+Defrost 4 — {S}{B}{B} ({S}{B}{B}: Exile this from your graveyard with four ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/125_Shiverclaw the Abominable.png" num="125">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Snow Creature — Yeti Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thornbite Stalker</name>
+			<text>Flash
+Flying, lifelink
+Whenever you cast a spell during an opponent&apos;s turn or a creature you control enters during an opponent&apos;s turn, that player loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/128_Thornbite Stalker.png" num="128">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sinewspawn</name>
+			<text>Menace
+Whenever one or more cards leave your graveyard, create a 1/1 black Mutant creature with menace.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/126_Sinewspawn.png" num="126">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Abomination</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chain Devoted Priest</name>
+			<text>At the beginning of your upkeep, exile up to one target creature card from a graveyard.
+Whenever a creature dies, you may cast a copy of a creature card exiled by Chain Devoted Priest with mana value less than or equal to the number of cards you own in exile. Do this only once each turn and only as a sorcery.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/91_Chain Devoted Priest.png" num="91">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heatdeath Erasure</name>
+			<text>You may pay {V}{V}{V} rather than pay Heatdeath Erasure&apos;s mana cost.
+Exile target creature or enchantment.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/114_Heatdeath Erasure.png" num="114">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreadthaw</name>
+			<text>When this enchantment enters, exile target creature card from your graveyard with X ice counters on it, where X is its mana value. Whenever you cast a spell, remove an ice counter. When the last is removed, cast a copy of that creature card.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/99_Dreadthaw.png" num="99">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Combat Triage</name>
+			<text>Target creature you don&apos;t control gets -X/-X until end of turn, where X is the amount of life that creature&apos;s controller lost this turn. Then, that player loses X life and you gain X life.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/92_Combat Triage.png" num="92">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heat Extraction</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Draw X cards, where X is the sacrificed creature&apos;s mana value. Then, add X {V} and you lose X life.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/113_Heat Extraction.png" num="113">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Liora, Rebellion Igniter</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Rebels you control get +1/+0 for each {V} you have.
+Whenever a creature you control deals combat damage to a player, add {V}.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/150_Liora, Rebellion Igniter.png" num="150">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Scrapmaw Engine</name>
+			<text>Whenever The Scrapmaw Engine deals combat damage to a player, create that many tapped 1/1 colorless Construct artifact creature tokens.
+Whenever you sacrifice an artifact, The Scrapmaw Engine deals 1 damage to target opponent.
+{2}, Sacrifice an artifact: Put a +1/+1 counter on The Scrapmaw Engine.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/166_The Scrapmaw Engine.png" num="166">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rooftop Rebel</name>
+			<text>Haste
+Whenever this or another Rebel you control enters, as long as it isn&apos;t a token, create a token that&apos;s a copy of it. It gains haste until end of turn. Sacrifice each token created this way at the beginning your end step.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/161_Rooftop Rebel.png" num="161">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hellcart Horror</name>
+			<text>Menace
+Other artifact creatures you control get +2/+0 and have menace.
+{R}, Sacrifice an artifact: This creature deals 1 damage to target creature. If that creature is a snow creature, this creature deals 2 damage to it instead. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/145_Hellcart Horror.png" num="145">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smokestack Pyromancer</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Other creatures you control have haste.
+Pay {V}: Add {R}. Only spend this mana to cast instant, sorcery, or artifact spells.
+Pay {V}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/168_Smokestack Pyromancer.png" num="168">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Double-Up</name>
+			<text>Choose one —
+• Create a token that&apos;s a copy of target creature or artifact you control. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+• Copy another target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/138_Double-Up.png" num="138">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heatrush</name>
+			<text>Add {V}{V}, then double the number of {V} you have.
+Heatrush deals 1 damage to target creature for each {V} you have.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/143_Heatrush.png" num="143">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suffocating Fumes</name>
+			<text>Escalate {R} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Suffocating Fumes deals 4 damage to each creature.
+• Suffocating Fumes deals 4 damage to each opponent.
+• Target player discards all the cards in their hand, then draws that many cards.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/169_Suffocating Fumes.png" num="169">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Uprising Legacy</name>
+			<text>Revolt — At the beginning of your end step, if a permanent you control left the battlefield this turn, create a 1/1 red Rebel creature token. If the permanent that left the battlefield was a nontoken Rebel, create two of those tokens instead.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/171_Uprising Legacy.png" num="171">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Morvane, Rotsown Druid</name>
+			<text>Trample
+Whenever this creature deals combat damage to a player, mill that many cards. You may choose a creature or land card from among them and put it into your hand.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on Morvane.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/200_Morvane, Rotsown Druid.png" num="200">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orris, Scarred Trailblazer</name>
+			<text>Stoke (As long as you control a permanent with Stoke, you get {V} each time a creature you control deals combat damage to a player.)
+Vigilance
+Landfall — Whenever a land enters under your control, add {V}.
+Pay {V}{V}: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/201_Orris, Scarred Trailblazer.png" num="201">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karnir War Recruiter</name>
+			<text>Other Karnir you control get +1/+1.
+Snowfall — Whenever another nontoken snow permanent enters under your control, create a 2/2 green and white Karnir creature token. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/198_Karnir War Recruiter.png" num="198">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Karnir Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thawborn Hydra</name>
+			<text>Trample
+This creature enters with three +1/+1 counters on it. If this creature entered from exile using its defrost ability, it enters with ten +1/+1 counters on it instead.
+Defrost 8 — {2}{S}{G} ({2}{S}{G}: Exile this from your graveyard with eight ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/211_Thawborn Hydra.png" num="211">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostbite Snail</name>
+			<text>Deathtouch
+Whenever this creature attacks, put a stun counter on it. Then, create a tapped 1/1 green Ooze snow creature token.
+Whenever another snow creature you control dies, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/187_Frostbite Snail.png" num="187">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Snail</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostkindling Druid</name>
+			<text>When this creature enters, add {V}.
+{T}: Add {G}.
+{T}, Pay {V}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/188_Frostkindling Druid.png" num="188">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tundralight Renewal</name>
+			<text>When this enchantment enters, return up to two target land or creature cards from your graveyard to your hand.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/212_Tundralight Renewal.png" num="212">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frozen Might</name>
+			<text>Target creature gets +1/+1 for each land you control. If you control six or more snow permanents, that creature gets +2/+2 for each land you control instead.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/190_Frozen Might.png" num="190">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cryoterra&apos;s Claim</name>
+			<text>Destroy up to one target artifact and up to one target enchantment. Then, you gain life equal their total mana value.</text>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/CTRA-files/img/179_Cryoterra&apos;s Claim.png" num="179">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>
+Abominable Behemoth</name>
+			<text>When this creature enters, if it entered from anywhere other than your hand, return up to one target creature card with mana value 3 or less from your graveyard to your battlefield tapped.
+Defrost 4 — {S}{B}{G} ({S}{B}{G}: Exile this from your graveyard with four ice counters. Whenever you cast a spell, remove one. When the last is removed, you may cast a copy of it without paying its mana cost. The copy becomes a token. Defrost as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/CTRA-files/img/216_
+Abominable Behemoth.png" num="216">CTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Yeti Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
