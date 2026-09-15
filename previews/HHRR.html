@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/HHRR-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/HHRR-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>HHRR visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -39,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -126,12 +133,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -173,406 +181,431 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/HHRR-files/logo.png" />
-	<img class="preload-hidden" src="/sets/BTH-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CTRA-files/icon.png" />
-		<img class="preload-hidden" src="/sets/HHRR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SLIP-files/icon.png" />
-		<img class="preload-hidden" id="bg" src="/sets/HHRR-files/bg.png" />
-
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/HHRR-files/logo.png" />
+	<img class="preload-hidden" src="../sets/BTH-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CTRA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/HHRR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SLIP-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="HHRR"><img src="/sets/HHRR-files/icon.png">Hearth-Hollow: Root & Remedy</a>
+		<a class="set-bar" href="../previews/HHRR"><img src="../sets/HHRR-files/icon.png">Hearth-Hollow: Root & Remedy</a>
 	
-		<a class="set-bar inactive" href="BTH"><img src="/sets/BTH-files/icon.png">Brimwreath: The Eternal Celebration</a>
+		<a class="set-bar inactive" href="../previews/BTH"><img src="../sets/BTH-files/icon.png">Brimwreath: The Eternal Celebration</a>
 	
-		<a class="set-bar inactive" href="CTRA"><img src="/sets/CTRA-files/icon.png">Cryoterra</a>
+		<a class="set-bar inactive" href="../previews/CTRA"><img src="../sets/CTRA-files/icon.png">Cryoterra</a>
 	
-		<a class="set-bar inactive" href="SLIP"><img src="/sets/SLIP-files/icon.png">Saekjara: Land of the Iron Petals</a>
+		<a class="set-bar inactive" href="../previews/SLIP"><img src="../sets/SLIP-files/icon.png">Saekjara: Land of the Iron Petals</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/HHRR-files/logo.png">
+		<img class="logo" src="../sets/HHRR-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\HHRR-files\img\17_Gerome, the Farmfather.png" id="17_Gerome, the Farmfather" data-flag="@X" onclick="openSidebar('17_Gerome, the Farmfather',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\45_Arabos, Spire Archmage.png" id="45_Arabos, Spire Archmage" data-flag="@X" onclick="openSidebar('45_Arabos, Spire Archmage',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\94_Exenterate.png" id="94_Exenterate" data-flag="@X" onclick="openSidebar('94_Exenterate',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\125_Blazette, Blazing Blunder.png" id="125_Blazette, Blazing Blunder" data-flag="@X" onclick="openSidebar('125_Blazette, Blazing Blunder',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\167_Ascetic Botanist.png" id="167_Ascetic Botanist" data-flag="@X" onclick="openSidebar('167_Ascetic Botanist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\25_Ophelia, High Cartographer.png" id="25_Ophelia, High Cartographer" data-flag="@X" onclick="openSidebar('25_Ophelia, High Cartographer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\75_Swift Shadowhawk.png" id="75_Swift Shadowhawk" data-flag="@X" onclick="openSidebar('75_Swift Shadowhawk',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\107_Nyxpetal, Numbing Needle.png" id="107_Nyxpetal, Numbing Needle" data-flag="@X" onclick="openSidebar('107_Nyxpetal, Numbing Needle',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\155_Maplescale Tyrant.png" id="155_Maplescale Tyrant" data-flag="@X" onclick="openSidebar('155_Maplescale Tyrant',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\183_Hydrevan, Ranger General.png" id="183_Hydrevan, Ranger General" data-flag="@X" onclick="openSidebar('183_Hydrevan, Ranger General',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\1_Alessa, Warden Paragon.png" id="1_Alessa, Warden Paragon" data-flag="@X" onclick="openSidebar('1_Alessa, Warden Paragon',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\42_Aethergate Cleric.png" id="42_Aethergate Cleric" data-flag="@X" onclick="openSidebar('42_Aethergate Cleric',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\85_Cursed Plowman.png" id="85_Cursed Plowman" data-flag="@X" onclick="openSidebar('85_Cursed Plowman',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\124_Bitter Betrayal.png" id="124_Bitter Betrayal" data-flag="@X" onclick="openSidebar('124_Bitter Betrayal',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\165_Alyra, Orchard's Heart.png" id="165_Alyra, Orchards Heart" data-flag="@X" onclick="openSidebar('165_Alyra, Orchards Heart',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\2_Bottled for Later.png" id="2_Bottled for Later" data-flag="@X" onclick="openSidebar('2_Bottled for Later',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\51_Coralia Trickweaver.png" id="51_Coralia Trickweaver" data-flag="@X" onclick="openSidebar('51_Coralia Trickweaver',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\87_Dark Whimsy.png" id="87_Dark Whimsy" data-flag="@X" onclick="openSidebar('87_Dark Whimsy',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\126_Blazette's Cuddlebeast.png" id="126_Blazettes Cuddlebeast" data-flag="@X" onclick="openSidebar('126_Blazettes Cuddlebeast',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\171_Choking Roots.png" id="171_Choking Roots" data-flag="@X" onclick="openSidebar('171_Choking Roots',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\4_Bramblewing Ambusher.png" id="4_Bramblewing Ambusher" data-flag="@X" onclick="openSidebar('4_Bramblewing Ambusher',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\52_Dennig, Stoic Demonstrator.png" id="52_Dennig, Stoic Demonstrator" data-flag="@X" onclick="openSidebar('52_Dennig, Stoic Demonstrator',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\89_Delirious Insight.png" id="89_Delirious Insight" data-flag="@X" onclick="openSidebar('89_Delirious Insight',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\136_Celeste, Evocation Archivist.png" id="136_Celeste, Evocation Archivist" data-flag="@X" onclick="openSidebar('136_Celeste, Evocation Archivist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\179_Harmonic Sanctuary.png" id="179_Harmonic Sanctuary" data-flag="@X" onclick="openSidebar('179_Harmonic Sanctuary',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\7_Devoted Dinner-Caller.png" id="7_Devoted Dinner-Caller" data-flag="@X" onclick="openSidebar('7_Devoted Dinner-Caller',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\54_Distillation Savant.png" id="54_Distillation Savant" data-flag="@X" onclick="openSidebar('54_Distillation Savant',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\98_Granny Hagfoot.png" id="98_Granny Hagfoot" data-flag="@X" onclick="openSidebar('98_Granny Hagfoot',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\144_Fidget, Pixie Crownling.png" id="144_Fidget, Pixie Crownling" data-flag="@X" onclick="openSidebar('144_Fidget, Pixie Crownling',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\180_Harvest Sprite.png" id="180_Harvest Sprite" data-flag="@X" onclick="openSidebar('180_Harvest Sprite',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\12_Fallow the Farmland.png" id="12_Fallow the Farmland" data-flag="@X" onclick="openSidebar('12_Fallow the Farmland',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\67_Plumevale Matriarch.png" id="67_Plumevale Matriarch" data-flag="@X" onclick="openSidebar('67_Plumevale Matriarch',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\101_Harbinger of Fates.png" id="101_Harbinger of Fates" data-flag="@X" onclick="openSidebar('101_Harbinger of Fates',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\152_Lowlands Blacksmith.png" id="152_Lowlands Blacksmith" data-flag="@X" onclick="openSidebar('152_Lowlands Blacksmith',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\189_Orchard Ranger Captain.png" id="189_Orchard Ranger Captain" data-flag="@X" onclick="openSidebar('189_Orchard Ranger Captain',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\21_Idina, Abundant Caretaker.png" id="21_Idina, Abundant Caretaker" data-flag="@X" onclick="openSidebar('21_Idina, Abundant Caretaker',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\70_Refract.png" id="70_Refract" data-flag="@X" onclick="openSidebar('70_Refract',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\103_Lantana, Cruel Conspirator.png" id="103_Lantana, Cruel Conspirator" data-flag="@X" onclick="openSidebar('103_Lantana, Cruel Conspirator',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\154_Manic Inoculator.png" id="154_Manic Inoculator" data-flag="@X" onclick="openSidebar('154_Manic Inoculator',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\199_Thrumm, Savage Soverign.png" id="199_Thrumm, Savage Soverign" data-flag="@X" onclick="openSidebar('199_Thrumm, Savage Soverign',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\26_Pale-Path Seer.png" id="26_Pale-Path Seer" data-flag="@X" onclick="openSidebar('26_Pale-Path Seer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\77_Tempo Flux.png" id="77_Tempo Flux" data-flag="@X" onclick="openSidebar('77_Tempo Flux',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\106_Noxious Sewer Chemist.png" id="106_Noxious Sewer Chemist" data-flag="@X" onclick="openSidebar('106_Noxious Sewer Chemist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\158_Punish Recklessness.png" id="158_Punish Recklessness" data-flag="@X" onclick="openSidebar('158_Punish Recklessness',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\202_Venom Synthesis.png" id="202_Venom Synthesis" data-flag="@X" onclick="openSidebar('202_Venom Synthesis',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\29_Protective Echo.png" id="29_Protective Echo" data-flag="@X" onclick="openSidebar('29_Protective Echo',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\82_Vaporous Elevation.png" id="82_Vaporous Elevation" data-flag="@X" onclick="openSidebar('82_Vaporous Elevation',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\115_Search for Shadows.png" id="115_Search for Shadows" data-flag="@X" onclick="openSidebar('115_Search for Shadows',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\159_Ruination Blast.png" id="159_Ruination Blast" data-flag="@X" onclick="openSidebar('159_Ruination Blast',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\203_Vinestone Basker.png" id="203_Vinestone Basker" data-flag="@X" onclick="openSidebar('203_Vinestone Basker',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\5_Briarbrush Scout.png" id="5_Briarbrush Scout" data-flag="@X" onclick="openSidebar('5_Briarbrush Scout',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\49_Calcinate.png" id="49_Calcinate" data-flag="@X" onclick="openSidebar('49_Calcinate',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\83_Carcass Claimer.png" id="83_Carcass Claimer" data-flag="@X" onclick="openSidebar('83_Carcass Claimer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\128_Bloodletter Pixie.png" id="128_Bloodletter Pixie" data-flag="@X" onclick="openSidebar('128_Bloodletter Pixie',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\166_Alyra's Dignitary.png" id="166_Alyras Dignitary" data-flag="@X" onclick="openSidebar('166_Alyras Dignitary',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\8_Devout Shadekin.png" id="8_Devout Shadekin" data-flag="@X" onclick="openSidebar('8_Devout Shadekin',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\50_Compulsory Reading.png" id="50_Compulsory Reading" data-flag="@X" onclick="openSidebar('50_Compulsory Reading',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\86_Dark Court Whispers.png" id="86_Dark Court Whispers" data-flag="@X" onclick="openSidebar('86_Dark Court Whispers',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\129_Bloodlust Blade.png" id="129_Bloodlust Blade" data-flag="@X" onclick="openSidebar('129_Bloodlust Blade',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\169_Bloomsurge.png" id="169_Bloomsurge" data-flag="@X" onclick="openSidebar('169_Bloomsurge',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\9_Eccentric Infuser.png" id="9_Eccentric Infuser" data-flag="@X" onclick="openSidebar('9_Eccentric Infuser',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\53_Dialectician Mentor.png" id="53_Dialectician Mentor" data-flag="@X" onclick="openSidebar('53_Dialectician Mentor',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\88_Defiled Return.png" id="88_Defiled Return" data-flag="@X" onclick="openSidebar('88_Defiled Return',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\134_Burgundy Tome Hoarder.png" id="134_Burgundy Tome Hoarder" data-flag="@X" onclick="openSidebar('134_Burgundy Tome Hoarder',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\172_Discovery of Ghostbloom.png" id="172_Discovery of Ghostbloom" data-flag="@X" onclick="openSidebar('172_Discovery of Ghostbloom',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\11_Faerie Farmhand.png" id="11_Faerie Farmhand" data-flag="@X" onclick="openSidebar('11_Faerie Farmhand',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\56_Engulf.png" id="56_Engulf" data-flag="@X" onclick="openSidebar('56_Engulf',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\90_Destiny's Thirst.png" id="90_Destinys Thirst" data-flag="@X" onclick="openSidebar('90_Destinys Thirst',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\137_Controlled Burn.png" id="137_Controlled Burn" data-flag="@X" onclick="openSidebar('137_Controlled Burn',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\175_Eithana, Treepaw Scout.png" id="175_Eithana, Treepaw Scout" data-flag="@X" onclick="openSidebar('175_Eithana, Treepaw Scout',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\13_Farmshade.png" id="13_Farmshade" data-flag="@X" onclick="openSidebar('13_Farmshade',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\58_Fogstep.png" id="58_Fogstep" data-flag="@X" onclick="openSidebar('58_Fogstep',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\93_Dusk-Rose Acolyte.png" id="93_Dusk-Rose Acolyte" data-flag="@X" onclick="openSidebar('93_Dusk-Rose Acolyte',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\139_Cruel Transgression.png" id="139_Cruel Transgression" data-flag="@X" onclick="openSidebar('139_Cruel Transgression',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\176_Fae-Blessed Offshoot.png" id="176_Fae-Blessed Offshoot" data-flag="@X" onclick="openSidebar('176_Fae-Blessed Offshoot',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\15_Forced Fieldwork.png" id="15_Forced Fieldwork" data-flag="@X" onclick="openSidebar('15_Forced Fieldwork',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\60_Incantation Cataloger.png" id="60_Incantation Cataloger" data-flag="@X" onclick="openSidebar('60_Incantation Cataloger',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\96_Forbidden Ingredients.png" id="96_Forbidden Ingredients" data-flag="@X" onclick="openSidebar('96_Forbidden Ingredients',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\141_Deadfall Corpse-Eater.png" id="141_Deadfall Corpse-Eater" data-flag="@X" onclick="openSidebar('141_Deadfall Corpse-Eater',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\181_Harvest Warden.png" id="181_Harvest Warden" data-flag="@X" onclick="openSidebar('181_Harvest Warden',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\18_Grieving Waif.png" id="18_Grieving Waif" data-flag="@X" onclick="openSidebar('18_Grieving Waif',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\61_Inquisitive Examiner.png" id="61_Inquisitive Examiner" data-flag="@X" onclick="openSidebar('61_Inquisitive Examiner',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\100_Grip of the Unseen.png" id="100_Grip of the Unseen" data-flag="@X" onclick="openSidebar('100_Grip of the Unseen',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\143_Dualflame Channeler.png" id="143_Dualflame Channeler" data-flag="@X" onclick="openSidebar('143_Dualflame Channeler',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\182_Hermetic Vessel-Keeper.png" id="182_Hermetic Vessel-Keeper" data-flag="@X" onclick="openSidebar('182_Hermetic Vessel-Keeper',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\19_Harvest Monks.png" id="19_Harvest Monks" data-flag="@X" onclick="openSidebar('19_Harvest Monks',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\63_Masterful Infusionist.png" id="63_Masterful Infusionist" data-flag="@X" onclick="openSidebar('63_Masterful Infusionist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\102_Insatiable Umbra.png" id="102_Insatiable Umbra" data-flag="@X" onclick="openSidebar('102_Insatiable Umbra',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\146_Flaring Ego.png" id="146_Flaring Ego" data-flag="@X" onclick="openSidebar('146_Flaring Ego',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\186_Manifest Ferocity.png" id="186_Manifest Ferocity" data-flag="@X" onclick="openSidebar('186_Manifest Ferocity',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\23_Liturgy of Abundance.png" id="23_Liturgy of Abundance" data-flag="@X" onclick="openSidebar('23_Liturgy of Abundance',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\64_Mistrunner Jackolope.png" id="64_Mistrunner Jackolope" data-flag="@X" onclick="openSidebar('64_Mistrunner Jackolope',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\105_Night Queen's Champion.png" id="105_Night Queens Champion" data-flag="@X" onclick="openSidebar('105_Night Queens Champion',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\148_Frenzied Discovery.png" id="148_Frenzied Discovery" data-flag="@X" onclick="openSidebar('148_Frenzied Discovery',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\187_Mulching Sovereign.png" id="187_Mulching Sovereign" data-flag="@X" onclick="openSidebar('187_Mulching Sovereign',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\27_Pixie Tactician.png" id="27_Pixie Tactician" data-flag="@X" onclick="openSidebar('27_Pixie Tactician',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\65_Moonlit Spire Thief.png" id="65_Moonlit Spire Thief" data-flag="@X" onclick="openSidebar('65_Moonlit Spire Thief',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\108_Overspill.png" id="108_Overspill" data-flag="@X" onclick="openSidebar('108_Overspill',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\149_Glimmersap Cultivator.png" id="149_Glimmersap Cultivator" data-flag="@X" onclick="openSidebar('149_Glimmersap Cultivator',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\190_Outpost Marksman.png" id="190_Outpost Marksman" data-flag="@X" onclick="openSidebar('190_Outpost Marksman',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\33_Sanctuary Purge.png" id="33_Sanctuary Purge" data-flag="@X" onclick="openSidebar('33_Sanctuary Purge',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\73_Shadow Shrieker.png" id="73_Shadow Shrieker" data-flag="@X" onclick="openSidebar('73_Shadow Shrieker',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\110_Plaguefield Shambler.png" id="110_Plaguefield Shambler" data-flag="@X" onclick="openSidebar('110_Plaguefield Shambler',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\156_Mirrorborn Alpha.png" id="156_Mirrorborn Alpha" data-flag="@X" onclick="openSidebar('156_Mirrorborn Alpha',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\191_Rotrunner Brute.png" id="191_Rotrunner Brute" data-flag="@X" onclick="openSidebar('191_Rotrunner Brute',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\35_Spiritual Remedy.png" id="35_Spiritual Remedy" data-flag="@X" onclick="openSidebar('35_Spiritual Remedy',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\74_Stutter-Mage Duo.png" id="74_Stutter-Mage Duo" data-flag="@X" onclick="openSidebar('74_Stutter-Mage Duo',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\111_Putrid Kelpie.png" id="111_Putrid Kelpie" data-flag="@X" onclick="openSidebar('111_Putrid Kelpie',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\157_Paddock Snatcher.png" id="157_Paddock Snatcher" data-flag="@X" onclick="openSidebar('157_Paddock Snatcher',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\192_Rotting Might.png" id="192_Rotting Might" data-flag="@X" onclick="openSidebar('192_Rotting Might',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\36_Starlight Cradle.png" id="36_Starlight Cradle" data-flag="@X" onclick="openSidebar('36_Starlight Cradle',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\76_Tattercloak Presence.png" id="76_Tattercloak Presence" data-flag="@X" onclick="openSidebar('76_Tattercloak Presence',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\112_Resurgent Residue.png" id="112_Resurgent Residue" data-flag="@X" onclick="openSidebar('112_Resurgent Residue',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\161_Shatter Flask.png" id="161_Shatter Flask" data-flag="@X" onclick="openSidebar('161_Shatter Flask',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\193_Rustgill River-Mixers.png" id="193_Rustgill River-Mixers" data-flag="@X" onclick="openSidebar('193_Rustgill River-Mixers',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\38_Sunseed Scion.png" id="38_Sunseed Scion" data-flag="@X" onclick="openSidebar('38_Sunseed Scion',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\78_Thirst for Answers.png" id="78_Thirst for Answers" data-flag="@X" onclick="openSidebar('78_Thirst for Answers',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\114_Sanity Robber.png" id="114_Sanity Robber" data-flag="@X" onclick="openSidebar('114_Sanity Robber',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\162_Terminal Discharge.png" id="162_Terminal Discharge" data-flag="@X" onclick="openSidebar('162_Terminal Discharge',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\198_Territory Encroachment.png" id="198_Territory Encroachment" data-flag="@X" onclick="openSidebar('198_Territory Encroachment',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\39_Umbral Veil.png" id="39_Umbral Veil" data-flag="@X" onclick="openSidebar('39_Umbral Veil',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\79_Tincture Trade.png" id="79_Tincture Trade" data-flag="@X" onclick="openSidebar('79_Tincture Trade',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\122_Void Gaze.png" id="122_Void Gaze" data-flag="@X" onclick="openSidebar('122_Void Gaze',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\163_Vale Multiye.png" id="163_Vale Multiye" data-flag="@X" onclick="openSidebar('163_Vale Multiye',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\200_Treeline Watcher.png" id="200_Treeline Watcher" data-flag="@X" onclick="openSidebar('200_Treeline Watcher',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\41_Wheatcrest Paladin.png" id="41_Wheatcrest Paladin" data-flag="@X" onclick="openSidebar('41_Wheatcrest Paladin',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\81_Twisted Machinations.png" id="81_Twisted Machinations" data-flag="@X" onclick="openSidebar('81_Twisted Machinations',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\123_Zealous Fateweaver.png" id="123_Zealous Fateweaver" data-flag="@X" onclick="openSidebar('123_Zealous Fateweaver',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\164_Vitriol Transmuter.png" id="164_Vitriol Transmuter" data-flag="@X" onclick="openSidebar('164_Vitriol Transmuter',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\204_Wild Retribution.png" id="204_Wild Retribution" data-flag="@X" onclick="openSidebar('204_Wild Retribution',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\3_Bramble Lancer.png" id="3_Bramble Lancer" data-flag="@X" onclick="openSidebar('3_Bramble Lancer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\43_Alchemical Array.png" id="43_Alchemical Array" data-flag="@X" onclick="openSidebar('43_Alchemical Array',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\84_Catacomb Shade.png" id="84_Catacomb Shade" data-flag="@X" onclick="openSidebar('84_Catacomb Shade',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\127_Blazing Clarity.png" id="127_Blazing Clarity" data-flag="@X" onclick="openSidebar('127_Blazing Clarity',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\168_Avenger of the Grove.png" id="168_Avenger of the Grove" data-flag="@X" onclick="openSidebar('168_Avenger of the Grove',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\6_Dawndew Provisioner.png" id="6_Dawndew Provisioner" data-flag="@X" onclick="openSidebar('6_Dawndew Provisioner',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\44_Apex Roc.png" id="44_Apex Roc" data-flag="@X" onclick="openSidebar('44_Apex Roc',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\91_Diseased Griffin.png" id="91_Diseased Griffin" data-flag="@X" onclick="openSidebar('91_Diseased Griffin',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\130_Bottled Inferno.png" id="130_Bottled Inferno" data-flag="@X" onclick="openSidebar('130_Bottled Inferno',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\170_Bountiful Yield.png" id="170_Bountiful Yield" data-flag="@X" onclick="openSidebar('170_Bountiful Yield',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\10_Faceless Preacher.png" id="10_Faceless Preacher" data-flag="@X" onclick="openSidebar('10_Faceless Preacher',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\46_Arcroot Dewling.png" id="46_Arcroot Dewling" data-flag="@X" onclick="openSidebar('46_Arcroot Dewling',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\92_Dreadmarsh Sporehulk.png" id="92_Dreadmarsh Sporehulk" data-flag="@X" onclick="openSidebar('92_Dreadmarsh Sporehulk',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\131_Brambleblood Channeler.png" id="131_Brambleblood Channeler" data-flag="@X" onclick="openSidebar('131_Brambleblood Channeler',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\173_Drop of Foxglove.png" id="173_Drop of Foxglove" data-flag="@X" onclick="openSidebar('173_Drop of Foxglove',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\14_Fatepath Stray.png" id="14_Fatepath Stray" data-flag="@X" onclick="openSidebar('14_Fatepath Stray',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\47_Bewildering Haze.png" id="47_Bewildering Haze" data-flag="@X" onclick="openSidebar('47_Bewildering Haze',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\95_Faithless Reaper.png" id="95_Faithless Reaper" data-flag="@X" onclick="openSidebar('95_Faithless Reaper',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\132_Brazen Pilferer.png" id="132_Brazen Pilferer" data-flag="@X" onclick="openSidebar('132_Brazen Pilferer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\174_Dryad Apothecary.png" id="174_Dryad Apothecary" data-flag="@X" onclick="openSidebar('174_Dryad Apothecary',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\16_Foreordain.png" id="16_Foreordain" data-flag="@X" onclick="openSidebar('16_Foreordain',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\48_Brainjuice Tincture.png" id="48_Brainjuice Tincture" data-flag="@X" onclick="openSidebar('48_Brainjuice Tincture',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\97_Gaul's Fading Promise.png" id="97_Gauls Fading Promise" data-flag="@X" onclick="openSidebar('97_Gauls Fading Promise',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\133_Burgundy Spire Initiate.png" id="133_Burgundy Spire Initiate" data-flag="@X" onclick="openSidebar('133_Burgundy Spire Initiate',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\177_Gentle Loamweaver.png" id="177_Gentle Loamweaver" data-flag="@X" onclick="openSidebar('177_Gentle Loamweaver',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\20_Harvest's Grace.png" id="20_Harvests Grace" data-flag="@X" onclick="openSidebar('20_Harvests Grace',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\55_Eager Thaumaturge.png" id="55_Eager Thaumaturge" data-flag="@X" onclick="openSidebar('55_Eager Thaumaturge',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\99_Graverot.png" id="99_Graverot" data-flag="@X" onclick="openSidebar('99_Graverot',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\135_Canopy Skirmisher.png" id="135_Canopy Skirmisher" data-flag="@X" onclick="openSidebar('135_Canopy Skirmisher',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\178_Grovetender Druid.png" id="178_Grovetender Druid" data-flag="@X" onclick="openSidebar('178_Grovetender Druid',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\22_Laboring Bisonbear.png" id="22_Laboring Bisonbear" data-flag="@X" onclick="openSidebar('22_Laboring Bisonbear',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\57_Fogfen Lurker.png" id="57_Fogfen Lurker" data-flag="@X" onclick="openSidebar('57_Fogfen Lurker',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\104_Leshy Bone Collector.png" id="104_Leshy Bone Collector" data-flag="@X" onclick="openSidebar('104_Leshy Bone Collector',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\138_Cropfire Elemental.png" id="138_Cropfire Elemental" data-flag="@X" onclick="openSidebar('138_Cropfire Elemental',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\184_Lumbering Crop-Guard.png" id="184_Lumbering Crop-Guard" data-flag="@X" onclick="openSidebar('184_Lumbering Crop-Guard',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\24_Lowland Farmers.png" id="24_Lowland Farmers" data-flag="@X" onclick="openSidebar('24_Lowland Farmers',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\59_Gilded Stasis.png" id="59_Gilded Stasis" data-flag="@X" onclick="openSidebar('59_Gilded Stasis',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\109_Petalshade Spy.png" id="109_Petalshade Spy" data-flag="@X" onclick="openSidebar('109_Petalshade Spy',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\140_Dance of Embers.png" id="140_Dance of Embers" data-flag="@X" onclick="openSidebar('140_Dance of Embers',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\185_Luminous Hart.png" id="185_Luminous Hart" data-flag="@X" onclick="openSidebar('185_Luminous Hart',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\28_Plow the Fields.png" id="28_Plow the Fields" data-flag="@X" onclick="openSidebar('28_Plow the Fields',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\62_Lost in the Breeze.png" id="62_Lost in the Breeze" data-flag="@X" onclick="openSidebar('62_Lost in the Breeze',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\113_Sadistic Caress.png" id="113_Sadistic Caress" data-flag="@X" onclick="openSidebar('113_Sadistic Caress',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\142_Devious Pyroweevil.png" id="142_Devious Pyroweevil" data-flag="@X" onclick="openSidebar('142_Devious Pyroweevil',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\188_Orchard Ranger.png" id="188_Orchard Ranger" data-flag="@X" onclick="openSidebar('188_Orchard Ranger',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\30_Protective Homesteader.png" id="30_Protective Homesteader" data-flag="@X" onclick="openSidebar('30_Protective Homesteader',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\66_Nettle's Determination.png" id="66_Nettles Determination" data-flag="@X" onclick="openSidebar('66_Nettles Determination',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\116_Sift Through Bones.png" id="116_Sift Through Bones" data-flag="@X" onclick="openSidebar('116_Sift Through Bones',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\145_Firebelly Brew.png" id="145_Firebelly Brew" data-flag="@X" onclick="openSidebar('145_Firebelly Brew',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\194_Skittering Barktail.png" id="194_Skittering Barktail" data-flag="@X" onclick="openSidebar('194_Skittering Barktail',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\31_Rootguard Sentry.png" id="31_Rootguard Sentry" data-flag="@X" onclick="openSidebar('31_Rootguard Sentry',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\68_Prioritize.png" id="68_Prioritize" data-flag="@X" onclick="openSidebar('68_Prioritize',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\117_Sister of the Fens.png" id="117_Sister of the Fens" data-flag="@X" onclick="openSidebar('117_Sister of the Fens',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\147_Flash of Resolve.png" id="147_Flash of Resolve" data-flag="@X" onclick="openSidebar('147_Flash of Resolve',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\195_Sunfruit Harvester.png" id="195_Sunfruit Harvester" data-flag="@X" onclick="openSidebar('195_Sunfruit Harvester',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\32_Salve Healer.png" id="32_Salve Healer" data-flag="@X" onclick="openSidebar('32_Salve Healer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\69_Quickdraw Lookout.png" id="69_Quickdraw Lookout" data-flag="@X" onclick="openSidebar('69_Quickdraw Lookout',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\118_Skinner of the Nightwood.png" id="118_Skinner of the Nightwood" data-flag="@X" onclick="openSidebar('118_Skinner of the Nightwood',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\150_Grisly Keepsake.png" id="150_Grisly Keepsake" data-flag="@X" onclick="openSidebar('150_Grisly Keepsake',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\196_Sylvan Purity.png" id="196_Sylvan Purity" data-flag="@X" onclick="openSidebar('196_Sylvan Purity',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\34_Seedgale Sphinx.png" id="34_Seedgale Sphinx" data-flag="@X" onclick="openSidebar('34_Seedgale Sphinx',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\71_Riverside Herbalist.png" id="71_Riverside Herbalist" data-flag="@X" onclick="openSidebar('71_Riverside Herbalist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\119_Stalking Sadist.png" id="119_Stalking Sadist" data-flag="@X" onclick="openSidebar('119_Stalking Sadist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\151_Incite Chaos.png" id="151_Incite Chaos" data-flag="@X" onclick="openSidebar('151_Incite Chaos',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\197_Taste Test.png" id="197_Taste Test" data-flag="@X" onclick="openSidebar('197_Taste Test',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\37_Strike Through the Grass.png" id="37_Strike Through the Grass" data-flag="@X" onclick="openSidebar('37_Strike Through the Grass',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\72_Runefeather Owl.png" id="72_Runefeather Owl" data-flag="@X" onclick="openSidebar('72_Runefeather Owl',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\120_Touch of Nightshade.png" id="120_Touch of Nightshade" data-flag="@X" onclick="openSidebar('120_Touch of Nightshade',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\153_Loyal Pixiepaw.png" id="153_Loyal Pixiepaw" data-flag="@X" onclick="openSidebar('153_Loyal Pixiepaw',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\201_Valley Mender Giant.png" id="201_Valley Mender Giant" data-flag="@X" onclick="openSidebar('201_Valley Mender Giant',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\40_Uplifting Alchemy.png" id="40_Uplifting Alchemy" data-flag="@X" onclick="openSidebar('40_Uplifting Alchemy',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\80_Traveling Swashbuckler.png" id="80_Traveling Swashbuckler" data-flag="@X" onclick="openSidebar('80_Traveling Swashbuckler',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\121_Vitality Extraction.png" id="121_Vitality Extraction" data-flag="@X" onclick="openSidebar('121_Vitality Extraction',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\160_Scholar's Apprentice.png" id="160_Scholars Apprentice" data-flag="@X" onclick="openSidebar('160_Scholars Apprentice',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\205_Wildroot Aegis.png" id="205_Wildroot Aegis" data-flag="@X" onclick="openSidebar('205_Wildroot Aegis',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\251.png" id="HHRR_251" data-flag="@X" onclick="openSidebar('HHRR_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\253.png" id="HHRR_253" data-flag="@X" onclick="openSidebar('HHRR_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\256.png" id="HHRR_256" data-flag="@X" onclick="openSidebar('HHRR_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\257.png" id="HHRR_257" data-flag="@X" onclick="openSidebar('HHRR_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\260.png" id="HHRR_260" data-flag="@X" onclick="openSidebar('HHRR_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\252.png" id="HHRR_252" data-flag="@X" onclick="openSidebar('HHRR_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\254.png" id="HHRR_254" data-flag="@X" onclick="openSidebar('HHRR_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\255.png" id="HHRR_255" data-flag="@X" onclick="openSidebar('HHRR_255',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\258.png" id="HHRR_258" data-flag="@X" onclick="openSidebar('HHRR_258',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\259.png" id="HHRR_259" data-flag="@X" onclick="openSidebar('HHRR_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\194.png" id="HHRR_194" data-flag="@X" onclick="openSidebar('HHRR_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\203.png" id="HHRR_203" data-flag="@X" onclick="openSidebar('HHRR_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\210.png" id="HHRR_210" data-flag="@X" onclick="openSidebar('HHRR_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\220.png" id="HHRR_220" data-flag="@X" onclick="openSidebar('HHRR_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\222.png" id="HHRR_222" data-flag="@X" onclick="openSidebar('HHRR_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\193.png" id="HHRR_193" data-flag="@X" onclick="openSidebar('HHRR_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\199.png" id="HHRR_199" data-flag="@X" onclick="openSidebar('HHRR_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\279.png" id="HHRR_279" data-flag="@X" onclick="openSidebar('HHRR_279',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\216.png" id="HHRR_216" data-flag="@X" onclick="openSidebar('HHRR_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\225.png" id="HHRR_225" data-flag="@X" onclick="openSidebar('HHRR_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\185.png" id="HHRR_185" data-flag="@X" onclick="openSidebar('HHRR_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\202.png" id="HHRR_202" data-flag="@X" onclick="openSidebar('HHRR_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\213.png" id="HHRR_213" data-flag="@X" onclick="openSidebar('HHRR_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\215.png" id="HHRR_215" data-flag="@X" onclick="openSidebar('HHRR_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\226.png" id="HHRR_226" data-flag="@X" onclick="openSidebar('HHRR_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\195.png" id="HHRR_195" data-flag="@X" onclick="openSidebar('HHRR_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\200.png" id="HHRR_200" data-flag="@X" onclick="openSidebar('HHRR_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\208.png" id="HHRR_208" data-flag="@X" onclick="openSidebar('HHRR_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\214.png" id="HHRR_214" data-flag="@X" onclick="openSidebar('HHRR_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\223.png" id="HHRR_223" data-flag="@X" onclick="openSidebar('HHRR_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\196.png" id="HHRR_196" data-flag="@X" onclick="openSidebar('HHRR_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\201.png" id="HHRR_201" data-flag="@X" onclick="openSidebar('HHRR_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\207.png" id="HHRR_207" data-flag="@X" onclick="openSidebar('HHRR_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\217.png" id="HHRR_217" data-flag="@X" onclick="openSidebar('HHRR_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\280.png" id="HHRR_280" data-flag="@X" onclick="openSidebar('HHRR_280',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\184.png" id="HHRR_184" data-flag="@X" onclick="openSidebar('HHRR_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\205.png" id="HHRR_205" data-flag="@X" onclick="openSidebar('HHRR_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\209.png" id="HHRR_209" data-flag="@X" onclick="openSidebar('HHRR_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\218.png" id="HHRR_218" data-flag="@X" onclick="openSidebar('HHRR_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\224.png" id="HHRR_224" data-flag="@X" onclick="openSidebar('HHRR_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\197.png" id="HHRR_197" data-flag="@X" onclick="openSidebar('HHRR_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\204.png" id="HHRR_204" data-flag="@X" onclick="openSidebar('HHRR_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\211.png" id="HHRR_211" data-flag="@X" onclick="openSidebar('HHRR_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\219.png" id="HHRR_219" data-flag="@X" onclick="openSidebar('HHRR_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\227.png" id="HHRR_227" data-flag="@X" onclick="openSidebar('HHRR_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\198.png" id="HHRR_198" data-flag="@X" onclick="openSidebar('HHRR_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\206.png" id="HHRR_206" data-flag="@X" onclick="openSidebar('HHRR_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\212.png" id="HHRR_212" data-flag="@X" onclick="openSidebar('HHRR_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\221.png" id="HHRR_221" data-flag="@X" onclick="openSidebar('HHRR_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\281.png" id="HHRR_281" data-flag="@X" onclick="openSidebar('HHRR_281',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\86.png" id="HHRR_86" data-flag="@X" onclick="openSidebar('HHRR_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\123.png" id="HHRR_123" data-flag="@X" onclick="openSidebar('HHRR_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\135.png" id="HHRR_135" data-flag="@X" onclick="openSidebar('HHRR_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\144.png" id="HHRR_144" data-flag="@X" onclick="openSidebar('HHRR_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\157.png" id="HHRR_157" data-flag="@X" onclick="openSidebar('HHRR_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\83.png" id="HHRR_83" data-flag="@X" onclick="openSidebar('HHRR_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\126.png" id="HHRR_126" data-flag="@X" onclick="openSidebar('HHRR_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\141.png" id="HHRR_141" data-flag="@X" onclick="openSidebar('HHRR_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\155.png" id="HHRR_155" data-flag="@X" onclick="openSidebar('HHRR_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\166.png" id="HHRR_166" data-flag="@X" onclick="openSidebar('HHRR_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\84.png" id="HHRR_84" data-flag="@X" onclick="openSidebar('HHRR_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\128.png" id="HHRR_128" data-flag="@X" onclick="openSidebar('HHRR_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\142.png" id="HHRR_142" data-flag="@X" onclick="openSidebar('HHRR_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\149.png" id="HHRR_149" data-flag="@X" onclick="openSidebar('HHRR_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\168.png" id="HHRR_168" data-flag="@X" onclick="openSidebar('HHRR_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\85.png" id="HHRR_85" data-flag="@X" onclick="openSidebar('HHRR_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\122.png" id="HHRR_122" data-flag="@X" onclick="openSidebar('HHRR_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\140.png" id="HHRR_140" data-flag="@X" onclick="openSidebar('HHRR_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\152.png" id="HHRR_152" data-flag="@X" onclick="openSidebar('HHRR_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\164.png" id="HHRR_164" data-flag="@X" onclick="openSidebar('HHRR_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\79.png" id="HHRR_79" data-flag="@X" onclick="openSidebar('HHRR_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\273.png" id="HHRR_273" data-flag="@X" onclick="openSidebar('HHRR_273',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\130.png" id="HHRR_130" data-flag="@X" onclick="openSidebar('HHRR_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\150.png" id="HHRR_150" data-flag="@X" onclick="openSidebar('HHRR_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\156.png" id="HHRR_156" data-flag="@X" onclick="openSidebar('HHRR_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\89.png" id="HHRR_89" data-flag="@X" onclick="openSidebar('HHRR_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\114.png" id="HHRR_114" data-flag="@X" onclick="openSidebar('HHRR_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\132.png" id="HHRR_132" data-flag="@X" onclick="openSidebar('HHRR_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\276.png" id="HHRR_276" data-flag="@X" onclick="openSidebar('HHRR_276',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\162.png" id="HHRR_162" data-flag="@X" onclick="openSidebar('HHRR_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\82.png" id="HHRR_82" data-flag="@X" onclick="openSidebar('HHRR_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\119.png" id="HHRR_119" data-flag="@X" onclick="openSidebar('HHRR_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\139.png" id="HHRR_139" data-flag="@X" onclick="openSidebar('HHRR_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\148.png" id="HHRR_148" data-flag="@X" onclick="openSidebar('HHRR_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\158.png" id="HHRR_158" data-flag="@X" onclick="openSidebar('HHRR_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\81.png" id="HHRR_81" data-flag="@X" onclick="openSidebar('HHRR_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\115.png" id="HHRR_115" data-flag="@X" onclick="openSidebar('HHRR_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\129.png" id="HHRR_129" data-flag="@X" onclick="openSidebar('HHRR_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\277.png" id="HHRR_277" data-flag="@X" onclick="openSidebar('HHRR_277',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\170.png" id="HHRR_170" data-flag="@X" onclick="openSidebar('HHRR_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\91.png" id="HHRR_91" data-flag="@X" onclick="openSidebar('HHRR_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\120.png" id="HHRR_120" data-flag="@X" onclick="openSidebar('HHRR_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\138.png" id="HHRR_138" data-flag="@X" onclick="openSidebar('HHRR_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\153.png" id="HHRR_153" data-flag="@X" onclick="openSidebar('HHRR_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\165.png" id="HHRR_165" data-flag="@X" onclick="openSidebar('HHRR_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\80.png" id="HHRR_80" data-flag="@X" onclick="openSidebar('HHRR_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\113.png" id="HHRR_113" data-flag="@X" onclick="openSidebar('HHRR_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\143.png" id="HHRR_143" data-flag="@X" onclick="openSidebar('HHRR_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\146.png" id="HHRR_146" data-flag="@X" onclick="openSidebar('HHRR_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\160.png" id="HHRR_160" data-flag="@X" onclick="openSidebar('HHRR_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\90.png" id="HHRR_90" data-flag="@X" onclick="openSidebar('HHRR_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\116.png" id="HHRR_116" data-flag="@X" onclick="openSidebar('HHRR_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\134.png" id="HHRR_134" data-flag="@X" onclick="openSidebar('HHRR_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\275.png" id="HHRR_275" data-flag="@X" onclick="openSidebar('HHRR_275',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\161.png" id="HHRR_161" data-flag="@X" onclick="openSidebar('HHRR_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\272.png" id="HHRR_272" data-flag="@X" onclick="openSidebar('HHRR_272',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\117.png" id="HHRR_117" data-flag="@X" onclick="openSidebar('HHRR_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\136.png" id="HHRR_136" data-flag="@X" onclick="openSidebar('HHRR_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\191.png" id="HHRR_191" data-flag="@X" onclick="openSidebar('HHRR_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\167.png" id="HHRR_167" data-flag="@X" onclick="openSidebar('HHRR_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\307.png" id="HHRR_307" data-flag="@X" onclick="openSidebar('HHRR_307',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\121.png" id="HHRR_121" data-flag="@X" onclick="openSidebar('HHRR_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\131.png" id="HHRR_131" data-flag="@X" onclick="openSidebar('HHRR_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\151.png" id="HHRR_151" data-flag="@X" onclick="openSidebar('HHRR_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\163.png" id="HHRR_163" data-flag="@X" onclick="openSidebar('HHRR_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\87.png" id="HHRR_87" data-flag="@X" onclick="openSidebar('HHRR_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\125.png" id="HHRR_125" data-flag="@X" onclick="openSidebar('HHRR_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\137.png" id="HHRR_137" data-flag="@X" onclick="openSidebar('HHRR_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\154.png" id="HHRR_154" data-flag="@X" onclick="openSidebar('HHRR_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\169.png" id="HHRR_169" data-flag="@X" onclick="openSidebar('HHRR_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\92.png" id="HHRR_92" data-flag="@X" onclick="openSidebar('HHRR_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\127.png" id="HHRR_127" data-flag="@X" onclick="openSidebar('HHRR_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\274.png" id="HHRR_274" data-flag="@X" onclick="openSidebar('HHRR_274',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\147.png" id="HHRR_147" data-flag="@X" onclick="openSidebar('HHRR_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\159.png" id="HHRR_159" data-flag="@X" onclick="openSidebar('HHRR_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\88.png" id="HHRR_88" data-flag="@X" onclick="openSidebar('HHRR_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\124.png" id="HHRR_124" data-flag="@X" onclick="openSidebar('HHRR_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\133.png" id="HHRR_133" data-flag="@X" onclick="openSidebar('HHRR_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\145.png" id="HHRR_145" data-flag="@X" onclick="openSidebar('HHRR_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\278.png" id="HHRR_278" data-flag="@X" onclick="openSidebar('HHRR_278',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\8.png" id="HHRR_8" data-flag="@X" onclick="openSidebar('HHRR_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\21.png" id="HHRR_21" data-flag="@X" onclick="openSidebar('HHRR_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\55.png" id="HHRR_55" data-flag="@X" onclick="openSidebar('HHRR_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\44.png" id="HHRR_44" data-flag="@X" onclick="openSidebar('HHRR_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\66.png" id="HHRR_66" data-flag="@X" onclick="openSidebar('HHRR_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\6.png" id="HHRR_6" data-flag="@X" onclick="openSidebar('HHRR_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\7.png" id="HHRR_7" data-flag="@X" onclick="openSidebar('HHRR_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\25.png" id="HHRR_25" data-flag="@X" onclick="openSidebar('HHRR_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\41.png" id="HHRR_41" data-flag="@X" onclick="openSidebar('HHRR_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\71.png" id="HHRR_71" data-flag="@X" onclick="openSidebar('HHRR_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\5.png" id="HHRR_5" data-flag="@X" onclick="openSidebar('HHRR_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\46.png" id="HHRR_46" data-flag="@X" onclick="openSidebar('HHRR_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\26.png" id="HHRR_26" data-flag="@X" onclick="openSidebar('HHRR_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\38.png" id="HHRR_38" data-flag="@X" onclick="openSidebar('HHRR_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\70.png" id="HHRR_70" data-flag="@X" onclick="openSidebar('HHRR_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\3.png" id="HHRR_3" data-flag="@X" onclick="openSidebar('HHRR_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\51.png" id="HHRR_51" data-flag="@X" onclick="openSidebar('HHRR_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\33.png" id="HHRR_33" data-flag="@X" onclick="openSidebar('HHRR_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\35.png" id="HHRR_35" data-flag="@X" onclick="openSidebar('HHRR_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\0.png" id="HHRR_0" data-flag="@X" onclick="openSidebar('HHRR_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\14.png" id="HHRR_14" data-flag="@X" onclick="openSidebar('HHRR_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\20.png" id="HHRR_20" data-flag="@X" onclick="openSidebar('HHRR_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\53.png" id="HHRR_53" data-flag="@X" onclick="openSidebar('HHRR_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\37.png" id="HHRR_37" data-flag="@X" onclick="openSidebar('HHRR_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\65.png" id="HHRR_65" data-flag="@X" onclick="openSidebar('HHRR_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\11.png" id="HHRR_11" data-flag="@X" onclick="openSidebar('HHRR_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\49.png" id="HHRR_49" data-flag="@X" onclick="openSidebar('HHRR_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\29.png" id="HHRR_29" data-flag="@X" onclick="openSidebar('HHRR_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\36.png" id="HHRR_36" data-flag="@X" onclick="openSidebar('HHRR_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\60.png" id="HHRR_60" data-flag="@X" onclick="openSidebar('HHRR_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\10.png" id="HHRR_10" data-flag="@X" onclick="openSidebar('HHRR_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\17.png" id="HHRR_17" data-flag="@X" onclick="openSidebar('HHRR_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\27.png" id="HHRR_27" data-flag="@X" onclick="openSidebar('HHRR_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\39.png" id="HHRR_39" data-flag="@X" onclick="openSidebar('HHRR_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\63.png" id="HHRR_63" data-flag="@X" onclick="openSidebar('HHRR_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\1.png" id="HHRR_1" data-flag="@X" onclick="openSidebar('HHRR_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\22.png" id="HHRR_22" data-flag="@X" onclick="openSidebar('HHRR_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\54.png" id="HHRR_54" data-flag="@X" onclick="openSidebar('HHRR_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\59.png" id="HHRR_59" data-flag="@X" onclick="openSidebar('HHRR_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\64.png" id="HHRR_64" data-flag="@X" onclick="openSidebar('HHRR_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\12.png" id="HHRR_12" data-flag="@X" onclick="openSidebar('HHRR_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\52.png" id="HHRR_52" data-flag="@X" onclick="openSidebar('HHRR_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\32.png" id="HHRR_32" data-flag="@X" onclick="openSidebar('HHRR_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\57.png" id="HHRR_57" data-flag="@X" onclick="openSidebar('HHRR_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\62.png" id="HHRR_62" data-flag="@X" onclick="openSidebar('HHRR_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\2.png" id="HHRR_2" data-flag="@X" onclick="openSidebar('HHRR_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\50.png" id="HHRR_50" data-flag="@X" onclick="openSidebar('HHRR_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\23.png" id="HHRR_23" data-flag="@X" onclick="openSidebar('HHRR_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\42.png" id="HHRR_42" data-flag="@X" onclick="openSidebar('HHRR_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\61.png" id="HHRR_61" data-flag="@X" onclick="openSidebar('HHRR_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\4.png" id="HHRR_4" data-flag="@X" onclick="openSidebar('HHRR_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\305.png" id="HHRR_305" data-flag="@X" onclick="openSidebar('HHRR_305',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\24.png" id="HHRR_24" data-flag="@X" onclick="openSidebar('HHRR_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\40.png" id="HHRR_40" data-flag="@X" onclick="openSidebar('HHRR_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\45.png" id="HHRR_45" data-flag="@X" onclick="openSidebar('HHRR_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\9.png" id="HHRR_9" data-flag="@X" onclick="openSidebar('HHRR_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\47.png" id="HHRR_47" data-flag="@X" onclick="openSidebar('HHRR_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\30.png" id="HHRR_30" data-flag="@X" onclick="openSidebar('HHRR_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\56.png" id="HHRR_56" data-flag="@X" onclick="openSidebar('HHRR_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\68.png" id="HHRR_68" data-flag="@X" onclick="openSidebar('HHRR_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\19.png" id="HHRR_19" data-flag="@X" onclick="openSidebar('HHRR_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\48.png" id="HHRR_48" data-flag="@X" onclick="openSidebar('HHRR_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\271.png" id="HHRR_271" data-flag="@X" onclick="openSidebar('HHRR_271',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\43.png" id="HHRR_43" data-flag="@X" onclick="openSidebar('HHRR_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\72.png" id="HHRR_72" data-flag="@X" onclick="openSidebar('HHRR_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\13.png" id="HHRR_13" data-flag="@X" onclick="openSidebar('HHRR_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\16.png" id="HHRR_16" data-flag="@X" onclick="openSidebar('HHRR_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\28.png" id="HHRR_28" data-flag="@X" onclick="openSidebar('HHRR_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\58.png" id="HHRR_58" data-flag="@X" onclick="openSidebar('HHRR_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\67.png" id="HHRR_67" data-flag="@X" onclick="openSidebar('HHRR_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\15.png" id="HHRR_15" data-flag="@X" onclick="openSidebar('HHRR_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\18.png" id="HHRR_18" data-flag="@X" onclick="openSidebar('HHRR_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\31.png" id="HHRR_31" data-flag="@X" onclick="openSidebar('HHRR_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\34.png" id="HHRR_34" data-flag="@X" onclick="openSidebar('HHRR_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\69.png" id="HHRR_69" data-flag="@X" onclick="openSidebar('HHRR_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\241_Solstice, Seedspeaker.png" id="241_Solstice, Seedspeaker" data-flag="@X" onclick="openSidebar('241_Solstice, Seedspeaker',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\226_Maeve, Midnight Alchemist.png" id="226_Maeve, Midnight Alchemist" data-flag="@X" onclick="openSidebar('226_Maeve, Midnight Alchemist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\208_Bramble, Wings of Malice.png" id="208_Bramble, Wings of Malice" data-flag="@X" onclick="openSidebar('208_Bramble, Wings of Malice',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\217_Gourd, the Overgrown.png" id="217_Gourd, the Overgrown" data-flag="@X" onclick="openSidebar('217_Gourd, the Overgrown',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\214_Divine Herdmaster.png" id="214_Divine Herdmaster" data-flag="@X" onclick="openSidebar('214_Divine Herdmaster',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\225_Knowledge Whisperer.png" id="225_Knowledge Whisperer" data-flag="@X" onclick="openSidebar('225_Knowledge Whisperer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\227_Maeve, Teahouse Keeper.png" id="227_Maeve, Teahouse Keeper" data-flag="@X" onclick="openSidebar('227_Maeve, Teahouse Keeper',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\221_Hollow Rider.png" id="221_Hollow Rider" data-flag="@X" onclick="openSidebar('221_Hollow Rider',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\251_Village Leveler.png" id="251_Village Leveler" data-flag="@X" onclick="openSidebar('251_Village Leveler',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\212_Cranky Ol' Tommon.png" id="212_Cranky Ol Tommon" data-flag="@X" onclick="openSidebar('212_Cranky Ol Tommon',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\230_Naydel, Guide of Mists.png" id="230_Naydel, Guide of Mists" data-flag="@X" onclick="openSidebar('230_Naydel, Guide of Mists',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\219_Graveplasm.png" id="219_Graveplasm" data-flag="@X" onclick="openSidebar('219_Graveplasm',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\250_Vile Deed.png" id="250_Vile Deed" data-flag="@X" onclick="openSidebar('250_Vile Deed',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\253_Wildrite Channeler.png" id="253_Wildrite Channeler" data-flag="@X" onclick="openSidebar('253_Wildrite Channeler',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\243_Sunseed Justiciar.png" id="243_Sunseed Justiciar" data-flag="@X" onclick="openSidebar('243_Sunseed Justiciar',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\238_Sanitarium Matron.png" id="238_Sanitarium Matron" data-flag="@X" onclick="openSidebar('238_Sanitarium Matron',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\249_Vespera, Formula Shaper.png" id="249_Vespera, Formula Shaper" data-flag="@X" onclick="openSidebar('249_Vespera, Formula Shaper',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\220_Grel, Court-Caller Minstrel.png" id="220_Grel, Court-Caller Minstrel" data-flag="@X" onclick="openSidebar('220_Grel, Court-Caller Minstrel',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\207_Blazing Root Brute.png" id="207_Blazing Root Brute" data-flag="@X" onclick="openSidebar('207_Blazing Root Brute',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\206_Amber-Leaf Mystic.png" id="206_Amber-Leaf Mystic" data-flag="@X" onclick="openSidebar('206_Amber-Leaf Mystic',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\240_Shifting Pendant.png" id="240_Shifting Pendant" data-flag="@X" onclick="openSidebar('240_Shifting Pendant',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\211_Corinna, Catalyst Brewer.png" id="211_Corinna, Catalyst Brewer" data-flag="@X" onclick="openSidebar('211_Corinna, Catalyst Brewer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\231_Needletooth Coven.png" id="231_Needletooth Coven" data-flag="@X" onclick="openSidebar('231_Needletooth Coven',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\239_Searing Growth.png" id="239_Searing Growth" data-flag="@X" onclick="openSidebar('239_Searing Growth',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\222_Holly, Faithful Apiarist.png" id="222_Holly, Faithful Apiarist" data-flag="@X" onclick="openSidebar('222_Holly, Faithful Apiarist',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\237_Runoff Monstrosity.png" id="237_Runoff Monstrosity" data-flag="@X" onclick="openSidebar('237_Runoff Monstrosity',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\216_Gaul, Shadow's Architect.png" id="216_Gaul, Shadows Architect" data-flag="@X" onclick="openSidebar('216_Gaul, Shadows Architect',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\255_Winry, Ascended Battlemage.png" id="255_Winry, Ascended Battlemage" data-flag="@X" onclick="openSidebar('255_Winry, Ascended Battlemage',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\228_Monarch of the Lost Cycle.png" id="228_Monarch of the Lost Cycle" data-flag="@X" onclick="openSidebar('228_Monarch of the Lost Cycle',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\246_Thistle, Sting of Whimsy.png" id="246_Thistle, Sting of Whimsy" data-flag="@X" onclick="openSidebar('246_Thistle, Sting of Whimsy',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\233_Oddity Forager.png" id="233_Oddity Forager" data-flag="@X" onclick="openSidebar('233_Oddity Forager',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\215_Envoy of Shadows.png" id="215_Envoy of Shadows" data-flag="@X" onclick="openSidebar('215_Envoy of Shadows',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\232_Nettle, Sparkwing Prodigy.png" id="232_Nettle, Sparkwing Prodigy" data-flag="@X" onclick="openSidebar('232_Nettle, Sparkwing Prodigy',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\236_Rotmonger.png" id="236_Rotmonger" data-flag="@X" onclick="openSidebar('236_Rotmonger',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\210_Clover, Shieldbreaker.png" id="210_Clover, Shieldbreaker" data-flag="@X" onclick="openSidebar('210_Clover, Shieldbreaker',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\223_Illicit Transcription.png" id="223_Illicit Transcription" data-flag="@X" onclick="openSidebar('223_Illicit Transcription',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\235_Quinn, Funerary Hostess.png" id="235_Quinn, Funerary Hostess" data-flag="@X" onclick="openSidebar('235_Quinn, Funerary Hostess',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\234_Purge the Archives.png" id="234_Purge the Archives" data-flag="@X" onclick="openSidebar('234_Purge the Archives',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\254_Winds of Decay.png" id="254_Winds of Decay" data-flag="@X" onclick="openSidebar('254_Winds of Decay',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\245_Swarmlings.png" id="245_Swarmlings" data-flag="@X" onclick="openSidebar('245_Swarmlings',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\248_Tresspassing Forager.png" id="248_Tresspassing Forager" data-flag="@X" onclick="openSidebar('248_Tresspassing Forager',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\213_Creeping Fatemother.png" id="213_Creeping Fatemother" data-flag="@X" onclick="openSidebar('213_Creeping Fatemother',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\242_Stormflux Theorist.png" id="242_Stormflux Theorist" data-flag="@X" onclick="openSidebar('242_Stormflux Theorist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\209_Bramble-Bog Reclaimer.png" id="209_Bramble-Bog Reclaimer" data-flag="@X" onclick="openSidebar('209_Bramble-Bog Reclaimer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\244_Swarmcaller Captain.png" id="244_Swarmcaller Captain" data-flag="@X" onclick="openSidebar('244_Swarmcaller Captain',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\218_Graceful Blade Dancer.png" id="218_Graceful Blade Dancer" data-flag="@X" onclick="openSidebar('218_Graceful Blade Dancer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\224_Inevitable Enforcer.png" id="224_Inevitable Enforcer" data-flag="@X" onclick="openSidebar('224_Inevitable Enforcer',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\256_Yvell, Thermal Revisionist.png" id="256_Yvell, Thermal Revisionist" data-flag="@X" onclick="openSidebar('256_Yvell, Thermal Revisionist',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\247_Tombyard Celebrant.png" id="247_Tombyard Celebrant" data-flag="@X" onclick="openSidebar('247_Tombyard Celebrant',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\252_Warthorn Stinger.png" id="252_Warthorn Stinger" data-flag="@X" onclick="openSidebar('252_Warthorn Stinger',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\229_Myrtlewort Trickster.png" id="229_Myrtlewort Trickster" data-flag="@X" onclick="openSidebar('229_Myrtlewort Trickster',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\262.png" id="HHRR_262" data-flag="@X" onclick="openSidebar('HHRR_262',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\HHRR-files\img\290_back.png" alt="sets\HHRR-files\img\290_front.png" id="HHRR_290" data-flag="@XD" onclick="openSidebar('HHRR_290',false)"><button class="flip-btn" onclick="imgFlip('HHRR_290')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\263.png" id="HHRR_263" data-flag="@X" onclick="openSidebar('HHRR_263',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\264.png" id="HHRR_264" data-flag="@X" onclick="openSidebar('HHRR_264',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\269.png" id="HHRR_269" data-flag="@X" onclick="openSidebar('HHRR_269',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\238.png" id="HHRR_238" data-flag="@X" onclick="openSidebar('HHRR_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\239.png" id="HHRR_239" data-flag="@X" onclick="openSidebar('HHRR_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\229.png" id="HHRR_229" data-flag="@X" onclick="openSidebar('HHRR_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\241.png" id="HHRR_241" data-flag="@X" onclick="openSidebar('HHRR_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\236.png" id="HHRR_236" data-flag="@X" onclick="openSidebar('HHRR_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\228.png" id="HHRR_228" data-flag="@X" onclick="openSidebar('HHRR_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\118.png" id="HHRR_118" data-flag="@X" onclick="openSidebar('HHRR_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\240.png" id="HHRR_240" data-flag="@X" onclick="openSidebar('HHRR_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\230.png" id="HHRR_230" data-flag="@X" onclick="openSidebar('HHRR_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\237.png" id="HHRR_237" data-flag="@X" onclick="openSidebar('HHRR_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\93.png" id="HHRR_93" data-flag="@X" onclick="openSidebar('HHRR_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\95.png" id="HHRR_95" data-flag="@X" onclick="openSidebar('HHRR_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\98.png" id="HHRR_98" data-flag="@X" onclick="openSidebar('HHRR_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\96.png" id="HHRR_96" data-flag="@X" onclick="openSidebar('HHRR_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\100.png" id="HHRR_100" data-flag="@X" onclick="openSidebar('HHRR_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\112.png" id="HHRR_112" data-flag="@X" onclick="openSidebar('HHRR_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\94.png" id="HHRR_94" data-flag="@X" onclick="openSidebar('HHRR_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\99.png" id="HHRR_99" data-flag="@X" onclick="openSidebar('HHRR_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\97.png" id="HHRR_97" data-flag="@X" onclick="openSidebar('HHRR_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\101.png" id="HHRR_101" data-flag="@X" onclick="openSidebar('HHRR_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\267.png" id="HHRR_267" data-flag="@X" onclick="openSidebar('HHRR_267',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\266.png" id="HHRR_266" data-flag="@X" onclick="openSidebar('HHRR_266',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\268.png" id="HHRR_268" data-flag="@X" onclick="openSidebar('HHRR_268',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\270.png" id="HHRR_270" data-flag="@X" onclick="openSidebar('HHRR_270',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\265.png" id="HHRR_265" data-flag="@X" onclick="openSidebar('HHRR_265',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\244.png" id="HHRR_244" data-flag="@X" onclick="openSidebar('HHRR_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\232.png" id="HHRR_232" data-flag="@X" onclick="openSidebar('HHRR_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\235.png" id="HHRR_235" data-flag="@X" onclick="openSidebar('HHRR_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\243.png" id="HHRR_243" data-flag="@X" onclick="openSidebar('HHRR_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\242.png" id="HHRR_242" data-flag="@X" onclick="openSidebar('HHRR_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\234.png" id="HHRR_234" data-flag="@X" onclick="openSidebar('HHRR_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\245.png" id="HHRR_245" data-flag="@X" onclick="openSidebar('HHRR_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\246.png" id="HHRR_246" data-flag="@X" onclick="openSidebar('HHRR_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\233.png" id="HHRR_233" data-flag="@X" onclick="openSidebar('HHRR_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\231.png" id="HHRR_231" data-flag="@X" onclick="openSidebar('HHRR_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\102.png" id="HHRR_102" data-flag="@X" onclick="openSidebar('HHRR_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\104.png" id="HHRR_104" data-flag="@X" onclick="openSidebar('HHRR_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\106.png" id="HHRR_106" data-flag="@X" onclick="openSidebar('HHRR_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\108.png" id="HHRR_108" data-flag="@X" onclick="openSidebar('HHRR_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\111.png" id="HHRR_111" data-flag="@X" onclick="openSidebar('HHRR_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\103.png" id="HHRR_103" data-flag="@X" onclick="openSidebar('HHRR_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\105.png" id="HHRR_105" data-flag="@X" onclick="openSidebar('HHRR_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\107.png" id="HHRR_107" data-flag="@X" onclick="openSidebar('HHRR_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\109.png" id="HHRR_109" data-flag="@X" onclick="openSidebar('HHRR_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\110.png" id="HHRR_110" data-flag="@X" onclick="openSidebar('HHRR_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\266_The Midnight Solution.png" id="266_The Midnight Solution" data-flag="@X" onclick="openSidebar('266_The Midnight Solution',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\259_Crow's Scythe.png" id="259_Crows Scythe" data-flag="@X" onclick="openSidebar('259_Crows Scythe',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\268_Resurrection Potion.png" id="268_Resurrection Potion" data-flag="@X" onclick="openSidebar('268_Resurrection Potion',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\269_Sinister Scarecrow.png" id="269_Sinister Scarecrow" data-flag="@X" onclick="openSidebar('269_Sinister Scarecrow',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\257_Comforting Candle.png" id="257_Comforting Candle" data-flag="@X" onclick="openSidebar('257_Comforting Candle',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\258_Consuming Flame.png" id="258_Consuming Flame" data-flag="@X" onclick="openSidebar('258_Consuming Flame',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\262_Grainfield Guardian.png" id="262_Grainfield Guardian" data-flag="@X" onclick="openSidebar('262_Grainfield Guardian',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\265_Herbal Safeguard.png" id="265_Herbal Safeguard" data-flag="@X" onclick="openSidebar('265_Herbal Safeguard',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\267_Pocket Potion.png" id="267_Pocket Potion" data-flag="@X" onclick="openSidebar('267_Pocket Potion',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\260_Cursed Tome.png" id="260_Cursed Tome" data-flag="@X" onclick="openSidebar('260_Cursed Tome',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\261_Drifting Scarecrow.png" id="261_Drifting Scarecrow" data-flag="@X" onclick="openSidebar('261_Drifting Scarecrow',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\263_Harvesting Tools.png" id="263_Harvesting Tools" data-flag="@X" onclick="openSidebar('263_Harvesting Tools',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\264_Hemlock Strawjack.png" id="264_Hemlock Strawjack" data-flag="@X" onclick="openSidebar('264_Hemlock Strawjack',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\270_Vial of Crone's Grip.png" id="270_Vial of Crones Grip" data-flag="@X" onclick="openSidebar('270_Vial of Crones Grip',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\280_Gustriver Streamway.png" id="280_Gustriver Streamway" data-flag="@X" onclick="openSidebar('280_Gustriver Streamway',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\281_Inkwater Boardwalk.png" id="281_Inkwater Boardwalk" data-flag="@X" onclick="openSidebar('281_Inkwater Boardwalk',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\275_Deadfall Marsh.png" id="275_Deadfall Marsh" data-flag="@X" onclick="openSidebar('275_Deadfall Marsh',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\279_Fungal Foothills.png" id="279_Fungal Foothills" data-flag="@X" onclick="openSidebar('279_Fungal Foothills',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\282_Treeline Meadows.png" id="282_Treeline Meadows" data-flag="@X" onclick="openSidebar('282_Treeline Meadows',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\277_Fated Crossroads.png" id="277_Fated Crossroads" data-flag="@X" onclick="openSidebar('277_Fated Crossroads',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\274_Crimson-Mist Falls.png" id="274_Crimson-Mist Falls" data-flag="@X" onclick="openSidebar('274_Crimson-Mist Falls',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\278_Fogfen Crossing.png" id="278_Fogfen Crossing" data-flag="@X" onclick="openSidebar('278_Fogfen Crossing',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\284_Wildflower Valley.png" id="284_Wildflower Valley" data-flag="@X" onclick="openSidebar('284_Wildflower Valley',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\283_Veilbrook Basin.png" id="283_Veilbrook Basin" data-flag="@X" onclick="openSidebar('283_Veilbrook Basin',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\273_Burgundy Spire.png" id="273_Burgundy Spire" data-flag="@X" onclick="openSidebar('273_Burgundy Spire',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\276_Faeverge Pass.png" id="276_Faeverge Pass" data-flag="@X" onclick="openSidebar('276_Faeverge Pass',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\272_Alchemist's Cottage.png" id="272_Alchemists Cottage" data-flag="@X" onclick="openSidebar('272_Alchemists Cottage',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\271_Abandoned Hamlet.png" id="271_Abandoned Hamlet" data-flag="@X" onclick="openSidebar('271_Abandoned Hamlet',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\285_Plains.png" id="285_Plains" data-flag="@X" onclick="openSidebar('285_Plains',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\287_Island.png" id="287_Island" data-flag="@X" onclick="openSidebar('287_Island',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\289_Swamp.png" id="289_Swamp" data-flag="@X" onclick="openSidebar('289_Swamp',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\292_Mountain.png" id="292_Mountain" data-flag="@X" onclick="openSidebar('292_Mountain',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\293_Forest.png" id="293_Forest" data-flag="@X" onclick="openSidebar('293_Forest',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\286_Plains.png" id="286_Plains" data-flag="@X" onclick="openSidebar('286_Plains',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\288_Island.png" id="288_Island" data-flag="@X" onclick="openSidebar('288_Island',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\290_Swamp.png" id="290_Swamp" data-flag="@X" onclick="openSidebar('290_Swamp',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\291_Mountain.png" id="291_Mountain" data-flag="@X" onclick="openSidebar('291_Mountain',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\294_Forest.png" id="294_Forest" data-flag="@X" onclick="openSidebar('294_Forest',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\261.png" id="HHRR_261" data-flag="@X" onclick="openSidebar('HHRR_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\282.png" id="HHRR_282" data-flag="@X" onclick="openSidebar('HHRR_282',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\247.png" id="HHRR_247" data-flag="@X" onclick="openSidebar('HHRR_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\248.png" id="HHRR_248" data-flag="@X" onclick="openSidebar('HHRR_248',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\HHRR-files\img\288_back.png" alt="sets\HHRR-files\img\288_front.png" id="HHRR_288" data-flag="@XD" onclick="openSidebar('HHRR_288',false)"><button class="flip-btn" onclick="imgFlip('HHRR_288')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\171.png" id="HHRR_171" data-flag="@X" onclick="openSidebar('HHRR_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\173.png" id="HHRR_173" data-flag="@X" onclick="openSidebar('HHRR_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\172.png" id="HHRR_172" data-flag="@X" onclick="openSidebar('HHRR_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\78.png" id="HHRR_78" data-flag="@X" onclick="openSidebar('HHRR_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\73.png" id="HHRR_73" data-flag="@X" onclick="openSidebar('HHRR_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\74.png" id="HHRR_74" data-flag="@X" onclick="openSidebar('HHRR_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\76.png" id="HHRR_76" data-flag="@X" onclick="openSidebar('HHRR_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\75.png" id="HHRR_75" data-flag="@X" onclick="openSidebar('HHRR_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HHRR_e" data-flag="@E" onclick="openSidebar('HHRR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HHRR_e" data-flag="@E" onclick="openSidebar('HHRR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\175.png" id="HHRR_175" data-flag="@X" onclick="openSidebar('HHRR_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\180.png" id="HHRR_180" data-flag="@X" onclick="openSidebar('HHRR_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\192.png" id="HHRR_192" data-flag="@X" onclick="openSidebar('HHRR_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\178.png" id="HHRR_178" data-flag="@X" onclick="openSidebar('HHRR_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\181.png" id="HHRR_181" data-flag="@X" onclick="openSidebar('HHRR_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\177.png" id="HHRR_177" data-flag="@X" onclick="openSidebar('HHRR_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\179.png" id="HHRR_179" data-flag="@X" onclick="openSidebar('HHRR_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\182.png" id="HHRR_182" data-flag="@X" onclick="openSidebar('HHRR_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\176.png" id="HHRR_176" data-flag="@X" onclick="openSidebar('HHRR_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\183.png" id="HHRR_183" data-flag="@X" onclick="openSidebar('HHRR_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\249.png" id="HHRR_249" data-flag="@X" onclick="openSidebar('HHRR_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\250.png" id="HHRR_250" data-flag="@X" onclick="openSidebar('HHRR_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\174.png" id="HHRR_174" data-flag="@X" onclick="openSidebar('HHRR_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\77.png" id="HHRR_77" data-flag="@X" onclick="openSidebar('HHRR_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HHRR_e" data-flag="@E" onclick="openSidebar('HHRR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\186.png" id="HHRR_186" data-flag="@X" onclick="openSidebar('HHRR_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\187.png" id="HHRR_187" data-flag="@X" onclick="openSidebar('HHRR_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\188.png" id="HHRR_188" data-flag="@X" onclick="openSidebar('HHRR_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\189.png" id="HHRR_189" data-flag="@X" onclick="openSidebar('HHRR_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\190.png" id="HHRR_190" data-flag="@X" onclick="openSidebar('HHRR_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\283.png" id="HHRR_283" data-flag="@X" onclick="openSidebar('HHRR_283',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\284.png" id="HHRR_284" data-flag="@X" onclick="openSidebar('HHRR_284',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\285.png" id="HHRR_285" data-flag="@X" onclick="openSidebar('HHRR_285',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\286.png" id="HHRR_286" data-flag="@X" onclick="openSidebar('HHRR_286',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\287.png" id="HHRR_287" data-flag="@X" onclick="openSidebar('HHRR_287',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\12t_Food.png" id="12t_Food" data-flag="@X" onclick="openSidebar('12t_Food',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\13t_Potion.png" id="13t_Potion" data-flag="@X" onclick="openSidebar('13t_Potion',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\14t_Treasure.png" id="14t_Treasure" data-flag="@X" onclick="openSidebar('14t_Treasure',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\1t_Peasant.png" id="1t_Peasant" data-flag="@X" onclick="openSidebar('1t_Peasant',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\2t_Horror.png" id="2t_Horror" data-flag="@X" onclick="openSidebar('2t_Horror',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\3t_Rat.png" id="3t_Rat" data-flag="@X" onclick="openSidebar('3t_Rat',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\4t_Faerie Assassin.png" id="4t_Faerie Assassin" data-flag="@X" onclick="openSidebar('4t_Faerie Assassin',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\5t_Amarsil.png" id="5t_Amarsil" data-flag="@X" onclick="openSidebar('5t_Amarsil',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\6t_Elf Ranger.png" id="6t_Elf Ranger" data-flag="@X" onclick="openSidebar('6t_Elf Ranger',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\7t_Elemental.png" id="7t_Elemental" data-flag="@X" onclick="openSidebar('7t_Elemental',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\8t_Faerie Soldier.png" id="8t_Faerie Soldier" data-flag="@X" onclick="openSidebar('8t_Faerie Soldier',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\9t_Insect.png" id="9t_Insect" data-flag="@X" onclick="openSidebar('9t_Insect',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\10t_Shade.png" id="10t_Shade" data-flag="@X" onclick="openSidebar('10t_Shade',false)"></div>
-				<div class="container"><img alt="/sets\HHRR-files\img\11t_Zombie Soldier.png" id="11t_Zombie Soldier" data-flag="@X" onclick="openSidebar('11t_Zombie Soldier',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\303.png" id="HHRR_303" data-flag="@X" onclick="openSidebar('HHRR_303',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\302.png" id="HHRR_302" data-flag="@X" onclick="openSidebar('HHRR_302',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\304.png" id="HHRR_304" data-flag="@X" onclick="openSidebar('HHRR_304',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\293.png" id="HHRR_293" data-flag="@X" onclick="openSidebar('HHRR_293',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\306.png" id="HHRR_306" data-flag="@X" onclick="openSidebar('HHRR_306',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\298.png" id="HHRR_298" data-flag="@X" onclick="openSidebar('HHRR_298',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\294.png" id="HHRR_294" data-flag="@X" onclick="openSidebar('HHRR_294',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\299.png" id="HHRR_299" data-flag="@X" onclick="openSidebar('HHRR_299',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\300.png" id="HHRR_300" data-flag="@X" onclick="openSidebar('HHRR_300',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\296.png" id="HHRR_296" data-flag="@X" onclick="openSidebar('HHRR_296',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\297.png" id="HHRR_297" data-flag="@X" onclick="openSidebar('HHRR_297',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\295.png" id="HHRR_295" data-flag="@X" onclick="openSidebar('HHRR_295',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\292.png" id="HHRR_292" data-flag="@X" onclick="openSidebar('HHRR_292',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HHRR-files\img\301.png" id="HHRR_301" data-flag="@X" onclick="openSidebar('HHRR_301',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HHRR_e" data-flag="@E" onclick="openSidebar('HHRR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HHRR_er" data-flag="@E" onclick="openSidebar('HHRR_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -585,19 +618,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -613,7 +738,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
+		
 		loadImages();
 	});
 
@@ -632,13 +757,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -664,27 +792,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -696,17 +848,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -739,6 +893,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -748,6 +903,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -764,16 +920,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -783,7 +939,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

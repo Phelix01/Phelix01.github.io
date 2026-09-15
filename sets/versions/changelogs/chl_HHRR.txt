@@ -1,4 +1,14 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+No changes.
+
+VERSION 26 CHANGELOG
+====================
+
+No changes.
+
+VERSION 25 CHANGELOG
 ====================
 
 Bone-Brier Sprite added.
