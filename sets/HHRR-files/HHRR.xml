@@ -4063,7 +4063,7 @@ Emanate — Whenever a nonland permanent you control enters and wasn&apos;t cast
 		<card>
 			<name>Swarmlings</name>
 			<text>Flying, haste
-Whenever you cast another Faerie spell, create a token that&apos;s a copy of this creature.</text>
+Whenever this creature attacks, create a 1/1 white and red Faerie creature token with flying. If you control five or more Faeries, create a token that&apos;s a copy of this creature instead. Tokens created this way enter tapped and attacking.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/232.png" num="244">HHRR</set>
 			<prop>
 				<layout>normal</layout>
