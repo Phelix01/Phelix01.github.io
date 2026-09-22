@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/7.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Zombie",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/17.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/22.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/46.png"
 			}
@@ -495,17 +495,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Azra Wizard",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/49.png"
 			}
 		},
 		{
-			"name": "Nettle's Determination",
+			"name": "Aether Shield",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/52.png"
 			}
@@ -561,7 +561,7 @@
 			}
 		},
 		{
-			"name": "Foothills Alpha-Caller",
+			"name": "Foothill Fury Rouser",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Azra Sorcerer",
@@ -985,7 +985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Faerie Assassin",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/98.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/109.png"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/112.png"
 			}
@@ -1135,7 +1135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Azra Wizard",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/113.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Alchemist",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/114.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Alchemist",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/118.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Rabbit Elemental",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/119.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/121.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/122.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/125.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/127.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Azra Wizard",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/198.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Zombie Alchemist",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/199.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/201.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/202.png"
 			}
@@ -2273,9 +2273,9 @@
 		{
 			"name": "Naydel, Guide of Mists",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/227.png"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Faerie Wizard",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/231.png"
 			}
@@ -2331,11 +2331,11 @@
 			}
 		},
 		{
-			"name": "Quinn, Funerary Hostess",
+			"name": "Mirth, Umbral Mistress",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Human Shade",
-			"collector_number": "233",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/233.png"
 			}
@@ -2373,7 +2373,7 @@
 		{
 			"name": "Knowledge Whisperer",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "224",
 			"image_uris": {
@@ -2445,7 +2445,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/244.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Azra Wizard",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/252.png"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Fungus Druid",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/264.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Creature — Zombie Noble",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/267.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/272.png"
 			}
@@ -3114,7 +3114,7 @@
 	2 Tresspassing Forager
 	2 Nettle, Sparkwing Prodigy
 	2 Swarmlings
-	2 Quinn, Funerary Hostess
+	2 Mirth, Umbral Mistress
 	2 Rotmonger
 	2 Cranky Ol' Tommon
 	2 Sunseed Justiciar
@@ -3323,13 +3323,13 @@
 	8 Quickdraw Lookout
 	8 Riverbed Herbalist
 	8 Eager Thaumaturge
-	8 Nettle's Determination
+	8 Aether Shield
 	8 Bewildering Haze
 	8 Lost in the Breeze
 	8 Diseased Griffin
 	8 Gaul's Fading Promise
 	8 Blossoming Nightshade
-	8 Foothills Alpha-Caller
+	8 Foothill Fury Rouser
 	8 Devious Pyroweevil
 	8 Incite Chaos
 	8 Dance of Embers
@@ -3405,13 +3405,13 @@
 	8 Quickdraw Lookout
 	8 Riverbed Herbalist
 	8 Eager Thaumaturge
-	8 Nettle's Determination
+	8 Aether Shield
 	8 Bewildering Haze
 	8 Lost in the Breeze
 	8 Diseased Griffin
 	8 Gaul's Fading Promise
 	8 Blossoming Nightshade
-	8 Foothills Alpha-Caller
+	8 Foothill Fury Rouser
 	8 Devious Pyroweevil
 	8 Incite Chaos
 	8 Dance of Embers
@@ -3487,13 +3487,13 @@
 	12 Quickdraw Lookout
 	12 Riverbed Herbalist
 	12 Eager Thaumaturge
-	12 Nettle's Determination
+	12 Aether Shield
 	12 Bewildering Haze
 	12 Lost in the Breeze
 	12 Diseased Griffin
 	12 Gaul's Fading Promise
 	12 Blossoming Nightshade
-	12 Foothills Alpha-Caller
+	12 Foothill Fury Rouser
 	12 Devious Pyroweevil
 	12 Incite Chaos
 	12 Dance of Embers
@@ -3665,7 +3665,7 @@
 	2 Tresspassing Forager
 	2 Nettle, Sparkwing Prodigy
 	2 Swarmlings
-	2 Quinn, Funerary Hostess
+	2 Mirth, Umbral Mistress
 	2 Rotmonger
 	2 Cranky Ol' Tommon
 	2 Sunseed Justiciar
@@ -3770,13 +3770,13 @@
 	6 Quickdraw Lookout
 	6 Riverbed Herbalist
 	6 Eager Thaumaturge
-	6 Nettle's Determination
+	6 Aether Shield
 	6 Bewildering Haze
 	6 Lost in the Breeze
 	6 Diseased Griffin
 	6 Gaul's Fading Promise
 	6 Blossoming Nightshade
-	6 Foothills Alpha-Caller
+	6 Foothill Fury Rouser
 	6 Devious Pyroweevil
 	6 Incite Chaos
 	6 Dance of Embers
@@ -3948,7 +3948,7 @@
 	7 Tresspassing Forager
 	7 Nettle, Sparkwing Prodigy
 	7 Swarmlings
-	7 Quinn, Funerary Hostess
+	7 Mirth, Umbral Mistress
 	7 Rotmonger
 	7 Cranky Ol' Tommon
 	7 Sunseed Justiciar

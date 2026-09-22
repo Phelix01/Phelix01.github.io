@@ -1,4 +1,48 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Aether Shield added.
+Foothill Fury Rouser added.
+Mirth, Umbral Mistress added.
+
+Nettle's Determination removed.
+Foothills Alpha-Caller removed.
+Quinn, Funerary Hostess removed.
+
+Flash of Resolve
+
+Naydel, Guide of Mists
+cost: {2}{W}{U} => {3}{W}{U}
+rules_text: Vigilance
+Naydel can't be blocked as long as a creature was put into exile from the battlefield this turn.
+If a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Vigilance
+Other creatures you control have vigilance.
+If a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Nettle, Sparkwing Prodigy
+rules_text: Flying
+Whenever Nettle attacks, you may cast an instant or sorcery spell from your hand with mana value X or less without paying its mana cost, where X is Nettle's power.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters and wasn't cast, Nettle gets +2/+0 until end of turn. => Flying
+At the beginning of combat on your turn, Nettle gets +X/+0 until end of turn, where X is the greatest mana value among noncreature spells you cast this turn.
+[i]Emanate[/i] — Noncreature spells you cast cost {1} less to cast as long as a nonland permanent you control entered this turn and wasn't cast.
+pt: 2/2 => 1/2
+
+Swarmlings
+pt: 2/1 => 1/1
+
+Knowledge Whisperer
+cost: {W}{U} => {2}{W}{U}
+rules_text: Ward {2}
+When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield. If the exiled permanent had counters on it, you may distribute any number of those counters among creatures and/or artifacts you control. => Ward {2}
+When this creature enters, exile target creature and target noncreature, nonland permanent until this creature leaves the battlefield.
+
+Winry, Ascended Battlemage
+
+Prioritize
+rules_text: Counter target spell unless its controller pays {2}. If you control an artifact, counter that spell unless its controller pays {4} instead. => [i]Emanate[/i] — If a nonland permanent entered under your control without being cast this turn, counter target spell unless its controller pays {4}. Otherwise, counter that spell unless its controller pays {2}.
+
+
+VERSION 29 CHANGELOG
 ====================
 
 

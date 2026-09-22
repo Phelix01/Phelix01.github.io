@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Arabos, Spire Archmage",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Aethergate Cleric",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Coralia Trickweaver",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Dennig, Stoic Demonstrator",
-        "number": 52,
+        "number": 53,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "Distillation Savant",
-        "number": 54,
+        "number": 55,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Calcinate",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -449,7 +449,7 @@
     },
     {
         "card_name": "Compulsory Reading",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -489,7 +489,7 @@
     },
     {
         "card_name": "Dialectician Mentor",
-        "number": 53,
+        "number": 54,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -529,7 +529,7 @@
     },
     {
         "card_name": "Engulf",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -569,7 +569,7 @@
     },
     {
         "card_name": "Fogstep",
-        "number": 58,
+        "number": 59,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -609,7 +609,7 @@
     },
     {
         "card_name": "Incantation Cataloger",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "Inquisitive Examiner",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -689,7 +689,7 @@
     },
     {
         "card_name": "Masterful Infusionist",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -729,7 +729,7 @@
     },
     {
         "card_name": "Mistrunner Jackolope",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -769,7 +769,7 @@
     },
     {
         "card_name": "Moonlit Spire Thief",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1048,12 +1048,12 @@
         "position": "8"
     },
     {
-        "card_name": "Alchemical Array",
-        "number": 43,
+        "card_name": "Aether Shield",
+        "number": 42,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "21"
+        "position": "50"
     },
     {
         "card_name": "Blossoming Nightshade",
@@ -1088,12 +1088,12 @@
         "position": "6"
     },
     {
-        "card_name": "Apex Roc",
+        "card_name": "Alchemical Array",
         "number": 44,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "7"
+        "position": "21"
     },
     {
         "card_name": "Bone-Brier Sprite",
@@ -1128,12 +1128,12 @@
         "position": "5"
     },
     {
-        "card_name": "Arcroot Dewling",
-        "number": 46,
+        "card_name": "Apex Roc",
+        "number": 45,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "46"
+        "position": "7"
     },
     {
         "card_name": "Catacomb Shade",
@@ -1168,12 +1168,12 @@
         "position": "3"
     },
     {
-        "card_name": "Bewildering Haze",
+        "card_name": "Arcroot Dewling",
         "number": 47,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "51"
+        "position": "46"
     },
     {
         "card_name": "Cruel Ecstasy",
@@ -1208,12 +1208,12 @@
         "position": "14"
     },
     {
-        "card_name": "Brainjuice Tincture",
+        "card_name": "Bewildering Haze",
         "number": 48,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "20"
+        "position": "51"
     },
     {
         "card_name": "Diseased Griffin",
@@ -1248,12 +1248,12 @@
         "position": "11"
     },
     {
-        "card_name": "Eager Thaumaturge",
-        "number": 55,
+        "card_name": "Brainjuice Tincture",
+        "number": 49,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "49"
+        "position": "20"
     },
     {
         "card_name": "Dreadmarsh Sporehulk",
@@ -1288,12 +1288,12 @@
         "position": "10"
     },
     {
-        "card_name": "Fogfen Lurker",
-        "number": 57,
+        "card_name": "Eager Thaumaturge",
+        "number": 56,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "17"
+        "position": "49"
     },
     {
         "card_name": "Faithless Reaper",
@@ -1328,12 +1328,12 @@
         "position": "1"
     },
     {
-        "card_name": "Gilded Stasis",
-        "number": 59,
+        "card_name": "Fogfen Lurker",
+        "number": 58,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "22"
+        "position": "17"
     },
     {
         "card_name": "Gaul's Fading Promise",
@@ -1368,12 +1368,12 @@
         "position": "12"
     },
     {
-        "card_name": "Lost in the Breeze",
-        "number": 62,
+        "card_name": "Gilded Stasis",
+        "number": 60,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "52"
+        "position": "22"
     },
     {
         "card_name": "Graverot",
@@ -1408,12 +1408,12 @@
         "position": "2"
     },
     {
-        "card_name": "Nettle's Determination",
-        "number": 66,
+        "card_name": "Lost in the Breeze",
+        "number": 63,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "50"
+        "position": "52"
     },
     {
         "card_name": "Leshy Bone Collector",
@@ -1504,7 +1504,7 @@
         "position": "30"
     },
     {
-        "card_name": "Foothills Alpha-Caller",
+        "card_name": "Foothill Fury Rouser",
         "number": 148,
         "shape": "normal",
         "set": "HHRR",
@@ -1734,7 +1734,7 @@
     },
     {
         "card_name": "Naydel, Guide of Mists",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Needletooth Coven",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1885,7 +1885,7 @@
     },
     {
         "card_name": "Monarch of the Lost Cycle",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1901,7 +1901,7 @@
     },
     {
         "card_name": "Oddity Forager",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1917,7 +1917,7 @@
     },
     {
         "card_name": "Nettle, Sparkwing Prodigy",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1948,8 +1948,8 @@
         "position": "241"
     },
     {
-        "card_name": "Quinn, Funerary Hostess",
-        "number": 233,
+        "card_name": "Mirth, Umbral Mistress",
+        "number": 226,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1957,7 +1957,7 @@
     },
     {
         "card_name": "Purge the Archives",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -2021,7 +2021,7 @@
     },
     {
         "card_name": "Myrtlewort Trickster",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
