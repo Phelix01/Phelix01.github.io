@@ -1,4 +1,431 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+Redcap Crypt Collector added.
+Brier Sprite added.
+Cliffside Fury Rouser added.
+Rotting Strength added.
+Hallowed Blessing added.
+Watcher of Endings added.
+Sentinel of the Inner Grove added.
+Spider added.
+Midnight Harbinger added.
+
+Leshy Bone Collector removed.
+Bone-Brier Sprite removed.
+Foothill Fury Rouser removed.
+Night Queen's Champion removed.
+Rotting Might removed.
+Protective Echo removed.
+Harbinger of Fates removed.
+Orchard Ranger Captain removed.
+Horror removed.
+
+Fatepath Stray
+rules_text: Sacrifice this creature: Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => Sacrifice this creature: Exile up to two target cards from a graveyard. Target player may scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+
+Bramble Lancer
+rules_text: Flying
+This creature has first strike as long as you control another attacking creature. => Flying
+Whenever this creature and at least one other creature attack, this creature gains first strike until end of turn.
+
+Harvest's Grace
+cost: {W} => {1}{W}
+rules_text: Exile target creature, then return it to the battlefield under its owner's control. If you harvested this turn, you gain 2 life. => Exile up to one target creature you control, then return it to the battlefield under its owner's control.
+Target player gains 2 life.
+
+Strike Through the Grass
+cost: {3}{W} => {W}
+rules_text: This spells costs {1} less to cast if you control an attacking creature.
+Destroy target creature with power 4 or greater. => As an additional cost to cast this spell, harvest. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i]
+Destroy target creature with power 4 or greater.
+
+Faithless Reaper
+
+Vitality Extraction
+rules_text: Up to one target creature gets -2/-2 until end of turn.
+Target player creates a Potion token with a +1/+1 and a lifelink counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => Up to one target creature gets -2/-2 until end of turn.
+Target player creates a Potion token with two +1/+1 counters on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+
+Canopy Skirmisher
+rules_text: This creature has first strike during your turn.
+This creature has flying as long as you control another attacking creature. => This creature has first strike during your turn.
+Whenever this creature and at least one other creature attack, this creature gains flying until end of turn.
+
+Grisly Keepsake
+rules_text: When this artifact enters, you may discard a card. If you do, draw two cards.
+{3}, Sacrifice this artifact: Target creature can't block this turn. => When this artifact enters, you may discard a card. If you do, draw two cards.
+{R}, Sacrifice this artifact: Target creature can't block this turn.
+
+Sunfruit Harvester
+rules_text: Reach
+When this creature dies, you may harvest. If you do, draw a card. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i] => When this creature dies, you may harvest. If you do, draw a card. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i]
+
+Riverbed Herbalist
+type: Creature — Nymph Alchemist => Creature — Human Alchemist
+
+Devious Pyroweevil
+rules_text: When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{T}, Remove a counter from a creature or Potion you control: Add {R}. => When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{T}, Remove a counter from an artifact you control: Add {R}.
+
+Devout Shadekin
+
+Blazing Root Brute
+rules_text: Haste
+This creature has trample as long as it has power 4 or greater.
+{1}: This creature gets +1/-1 until end of turn. Activate only as a sorcery. => This creature has trample and haste as long as it has power 4 or greater.
+{1}: This creature gets +1/-1 until end of turn. Activate only as a sorcery.
+
+Searing Growth
+rules_text: Target creature gets +3/+3 and gains trample and haste until end of turn. You may have it deal damage equal to its power to another target creature. => Target creature gets +3/+3 and gains trample until end of turn. You may have it deal damage equal to its power to target creature you don't control.
+
+Grip of the Unseen
+
+Destiny's Thirst
+
+Dark Court Whispers
+
+Defiled Return
+
+Overspill
+
+Bloodletter Pixie
+
+Vitriol Transmuter
+
+Glimmersap Cultivator
+
+Vale Multiye
+
+Dualflame Channeler
+
+Burgundy Tome Hoarder
+
+Crone's Hex
+
+Shatter Flask
+
+Controlled Burn
+
+Frenzied Discovery
+
+Terminal Discharge
+
+Bloodlust Blade
+
+Fae-Blessed Offshoot
+
+Alyra's Dignitary
+
+Hermetic Vessel-Keeper
+
+Treeline Watcher
+
+Outpost Marksman
+
+Rotrunner Brute
+
+Harvest Warden
+
+Rustgill River-Mixers
+
+Eithana, Treepaw Scout
+
+Mulching Sovereign
+
+Bloomsurge
+
+Discovery of Ghostbloom
+
+Territory Encroachment
+
+Manifest Ferocity
+
+Grainfield Guardian
+
+Pocket Potion
+
+Herbal Safeguard
+
+Alchemist's Cottage
+
+Gustriver Streamway
+
+Wildflower Valley
+
+Fated Crossroads
+
+Fungal Foothills
+
+Crimson-Mist Falls
+
+Inkwater Boardwalk
+
+Treeline Meadows
+
+Fogfen Crossing
+
+Veilbrook Basin
+
+Idina, Abundant Caretaker
+
+Bramblewing Ambusher
+
+Paddock Snatcher
+
+Deadfall Marsh
+
+Benevolent Almoner
+
+Alessa, Warden Paragon
+
+Devoted Dinner-Caller
+
+Fallow the Farmland
+
+Preserved Essence
+
+Coralia Trickweaver
+
+Distillation Savant
+
+Plumevale Matriarch
+cost: {2}{U} => {1}{U}{U}
+rules_text: Flash
+Flying
+When this creature enters, counter up to one target activated or triggered ability.
+Whenever this creature deals combat damage to a player, scry 2. => Flash
+Flying
+When this creature enters, counter up to one target activated or triggered ability.
+Whenever this creature deals combat damage to a player, draw a card.
+
+Dennig, Stoic Demonstrator
+
+Aethergate Cleric
+rules_text: When this creature enters, mill three cards.
+{U}, {T}: Choose target instant or sorcery spell from your graveyard. You may cast that card this turn. If that spell would be put into your graveyard, exile it instead. => When this creature enters, scry 2, then mill three cards.
+{U}, {T}: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead. Activate only as a sorcery.
+
+Tempo Flux
+
+Refract
+
+Vaporous Elevation
+
+Granny Hagfoot
+
+Lantana, Cruel Conspirator
+
+Cursed Plowman
+
+Noxious Sewer Brewer
+
+Search for Shadows
+
+Delirious Insight
+
+Fidget, Pixie Crownling
+
+Celeste, Evocation Archivist
+
+Blazette's Cuddlebeast
+
+Lowlands Blacksmith
+
+Manic Inoculator
+
+Punish Recklessness
+
+Bitter Betrayal
+
+Ruination Blast
+
+Alyra, Orchard's Heart
+
+Harvest Sprite
+
+Thrumm, Savage Soverign
+
+Choking Roots
+
+Harmonic Sanctuary
+
+Venom Synthesis
+type: Sorcery => Enchantment
+cost: {2}{G} => {1}{G}
+rules_text: When this enchantment enters, create a Potion token with a deathtouch and a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+Creatures and Potions you control have, “Remove a counter from this permanent: Add one mana of any color. Activate only as a sorcery.” => When this enchantment enters, create a Potion token with a deathtouch counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+Whenever you sacrifice a Potion, if it had counters on it, if it had counters on it, choose one of them. Create a 1/1 green Spider creature token and put a counter of the chosen kind on it.
+
+Naydel, Guide of Mists
+cost: {3}{W}{U} => {2}{W}{U}
+rules_text: Vigilance
+Other creatures you control have vigilance.
+If a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Vigilance
+If a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+pt: 2/3 => 2/4
+
+Hollow Rider
+rules_text: At the beginning of combat on your turn, you may exile a creature card from your graveyard. When you do, create a 2/1 black Horror creature card with menace and haste.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters and wasn't cast, this creature gains double strike until end of turn. => At the beginning of combat on your turn, you may exile a creature card from your graveyard. When you do, create a tapped Treasure token.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters and wasn't cast, this creature gains double strike until end of turn.
+
+Wildrite Channeler
+
+Tresspassing Forager
+
+Nettle, Sparkwing Prodigy
+
+Swarmlings
+rules_text: Flying, haste
+Whenever this creature attacks, create a 1/1 white and red Faerie creature token with flying. If you control five or more Faeries, create a token that's a copy of this creature instead. Tokens created this way enter tapped and attacking. => Flying, haste
+Whenever this creature attacks, create a 1/1 white and red Faerie Soldier creature token with flying. If you control five or more Faeries, create a token that's a copy of this creature instead. Tokens created this way enter tapped and attacking.
+
+Mirth, Umbral Mistress
+
+Rotmonger
+
+Cranky Ol' Tommon
+
+Sunseed Justiciar
+
+Knowledge Whisperer
+rules_text: Ward {2}
+When this creature enters, exile target creature and target noncreature, nonland permanent until this creature leaves the battlefield. => Ward {2}
+When this creature enters, exile up to one other target creature and up to one target noncreature, nonland permanent until this creature leaves the battlefield.
+
+Graveplasm
+
+Vile Deed
+
+Village Leveler
+
+Illicit Transcription
+
+Clover, Shieldbreaker
+
+Envoy of Shadows
+
+Purge the Archives
+
+Winds of Decay
+
+Resurrection Potion
+
+Sinister Scarecrow
+
+Burgundy Spire
+
+Faeverge Pass
+
+Gerome, the Farmfather
+
+Ophelia, High Cartographer
+
+Arabos, Spire Archmage
+
+Swift Shadowhawk
+
+Nyxpetal, Numbing Needle
+
+Exenterate
+
+Blazette, Blazing Blunder
+
+Maplescale Tyrant
+
+Hydrevan, Ranger General
+
+Ascetic Botanist
+
+The Midnight Solution
+
+Solstice, Seedspeaker
+
+Bramble, Wings of Malice
+
+Gourd, the Overgrown
+
+Oddity Forager
+
+Winry, Ascended Battlemage
+
+Gaul, Shadow's Architect
+
+Monarch of the Lost Cycle
+
+Divine Herdmaster
+
+Thistle, Sting of Whimsy
+
+Sister of the Fens
+
+Spiritual Remedy
+
+Fogstep
+
+Void Gaze
+
+Mirrorborn Alpha
+
+Deadfall Corpse-Eater
+
+Flared Ego
+
+Wild Retribution
+rules_text: Up to one target creature you control gets +X/+X and gains your choice of reach or trample until end of turn.
+Target player gains X life. => Target creature you control gets +X/+X and gains your choice of reach or trample until end of turn.
+
+Dark Whimsy
+
+Vinestone Basker
+rules_text: Trample
+Other creature spells you cast can't be countered.
+Whenever this creature attacks, untap another target creature or land. => Trample
+Other creature spells you cast can't be countered.
+Whenever this creature attacks, untap another target creature or land you control.
+
+Crow's Scythe
+
+Comforting Candle
+
+Shade
+
+Peasant
+
+Faerie Assassin
+
+Insect
+
+Elemental
+
+Faerie Soldier
+
+Rat
+
+Amarsil
+
+Elf Ranger
+
+Zombie Soldier
+
+Potion
+
+Food
+
+Treasure
+
+Prioritize
+
+Starlight Cradle
+
+Maeve Nightshade
+
+Forgotten Garden
+
+
+VERSION 30 CHANGELOG
 ====================
 
 Aether Shield added.
