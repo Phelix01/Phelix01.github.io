@@ -1,4 +1,109 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+Shimmering Lake Scuttler added.
+
+
+Skinner of the Nightwood
+rules_text: Menace
+[i]Emanate[/i] — This creature gets +2/+0 as long as a nonland permanent you control entered this turn and wasn't cast. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, this creature gets +2/+0 until end of turn. This ability triggers only once each turn.
+
+Quickdraw Lookout
+cost: {U} => {1}{U}
+pt: 1/2 => 2/2
+
+Diseased Griffin
+rules_text: Flying
+When this creature enters, if it doesn't have decayed, each opponent discards a card.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i] => Flying
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+
+Blazing Root Brute
+rules_text: This creature has trample and haste as long as it has power 4 or greater.
+{1}: This creature gets +1/-1 until end of turn. Activate only as a sorcery. => This creature has trample and haste as long as it has power 4 or greater.
+{RG}: This creature gets +1/-1 until end of turn. Activate only as a sorcery.
+pt: 3/4 => 3/3
+
+Grel, Court-Caller Minstrel
+rules_text: Haste
+[i]Emanate[/i] — Whenever Grel attacks, if a nonland permanent you control entered this turn and wasn't cast, other attacking creatures get +1/+0 and gain menace until end of turn. => Menace
+[i]Emanate[/i] — Whenever Grel attacks, if a nonland permanent you control entered this turn and wasn't cast, another target attacking creature gets +2/+0 until end of turn.
+pt: 3/3 => 4/3
+
+Needletooth Coven
+rules_text: Deathtouch
+Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 red Faerie Assassin creature token. it enters tapped and attacking. Sacrifice that token at end of combat. => At the beginning of combat on your turn, you may pay {2}. If you do, create 2/2 red Faerie Assassin creature token with haste. Sacrifice that token at end of combat.
+pt: 2/2 => 3/2
+
+Exhumer of the Fens
+rules_text: When this creature enters, you may return target creature card with mana value 3 or less from your graveyard to the battlefield with a decayed counter on it.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i] => When this creature enters, mill two cards, then return up to one target land or creature card from your graveyard to your hand.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+pt: 3/3 => 3/2
+
+Plaguefield Shambler
+rules_text: [i]Emanate[/i] — At the beginning of combat on your turn, if a nonland permanent you control entered this turn and wasn't cast, target creature you control gets +1/+1 and gains deathtouch until end of turn. => [i]Emanate[/i] — When this creature enters, if a nonland permanent you control entered this turn and wasn't cast, target creature you don't control gets -2/-2 until end of turn.
+
+Carcass Claimer
+rules_text: Flying, deathtouch
+Whenever a creature with one or more counters on it dies, each opponent loses 2 life and you gain 2 life. This ability only triggers once each turn. => Flying, deathtouch
+Whenever this or another creature with one or more counters on it dies, each opponent loses 1 life for each kind of counter on that creature.
+
+Putrid Kelpie
+rules_text: When this creature enters, put a decayed counter on up to one target creature.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i] => When this creature dies, if it didn't have decayed, put a decayed counter on up to one target creature.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+
+Rustgill River-Mixers
+rules_text: When this creature enters, create a Potion token with a deathtouch and a reach counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+When this creature dies, untap each tapped creature you control. => When this creature enters, create a Potion token with a deathtouch counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+When this creature dies, untap each tapped creature you control.
+
+Crimson-Mist Falls
+
+Granny Hagfoot
+rules_text: Deathtouch
+When Granny Hagfoot enters, target opponent sacrifices a nontoken creature of their choice. Return it to the battlefield under your control with a deathtouch and a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When Granny Hagfoot enters, target opponent sacrifices a nontoken creature of their choice. Return it to the battlefield under your control with a deathtouch and a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt: 5/4 => 5/5
+
+Alyra, Orchard's Heart
+rules_text: Ward {2}
+Whenever Alyra or another creature you control enters, you may harvest. If you do, draw a card. This ability triggers only once each turn. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i] => Ward {2}
+Whenever Alyra or another creature you control enters, you may harvest. If you do, untap each creature you control, then draw a card. This ability triggers only once each turn. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i]
+
+Venom Synthesis
+rules_text: When this enchantment enters, create a Potion token with a deathtouch counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+Whenever you sacrifice a Potion, if it had counters on it, if it had counters on it, choose one of them. Create a 1/1 green Spider creature token and put a counter of the chosen kind on it. => When this enchantment enters, create a Potion token with a deathtouch counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+Whenever you sacrifice a Potion, if it had counters on it, choose one of them. Create a 1/1 green Spider creature token and put a counter of the chosen kind on it.
+
+Exenterate
+cost: {X}{B}{B} => {X}{X}{B}{B}
+
+Spiritual Remedy
+rules_text: Return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Create a Potion token with a lifelink counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => Return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+
+Deadfall Corpse-Eater
+rules_text: When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever this creature attacks, you may exile target creature card from your graveyard. If you do, this creature gets +2/+0 until end of turn. => Whenever this creature attacks, you may exile target creature card from your graveyard. If you do, this creature gets +2/+2 until end of turn.
+
+Flared Ego
+rules_text: Target creature gains menace and haste until end of turn.
+Draw a card. => Target creature gets +2/+0 and gains haste until end of turn.
+Draw a card.
+
+Faerie Assassin
+rules_text:  => Haste
+
+Midnight Harbinger
+rules_text: Menace
+[i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, other creatures you control gain menace until end of turn. => Menace
+[i]Emanate[/i] — Whenever this creature attacks, if a nonland permanent you control enters this turn and wasn't cast, other creatures you control gain menace until end of turn.
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Salve Cultivator added.
