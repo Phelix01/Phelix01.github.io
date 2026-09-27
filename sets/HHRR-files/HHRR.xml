@@ -5,7 +5,7 @@
 			<name>HHRR</name>
 			<longname>Hearth-Hollow: Root &amp; Remedy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-26</releasedate>
+			<releasedate>2026-09-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2101,15 +2101,15 @@ When this creature enters, return target creature an opponent controls to its ow
 			<text>Flash
 Enchant creature
 When this Aura enters, tap enchanted creature.
-Enchanted creature doesn&apos;t untap during its controller&apos;s untap step and has &quot;This creature can&apos;t be the target of spells or abilities you control.&quot;</text>
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/119.png" num="56">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -2198,7 +2198,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Dialectician Mentor</name>
-			<text>Whenever you cast a spell during an opponent&apos;s turn, untap up to one target tapped creature you control.
+			<text>Whenever you cast a spell during an opponent&apos;s turn, untap up to one target creature or artifact you control.
 Whenever an opponent casts a spell during your turn, scry 2.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/125.png" num="53">HHRR</set>
 			<prop>
@@ -2322,7 +2322,7 @@ Whenever this or another nontoken, non-Shade creature dies, create a 1/1 white a
 		<card>
 			<name>Carcass Claimer</name>
 			<text>Flying, deathtouch
-Whenever this or another creature with one or more counters on it dies, each opponent loses 1 life for each kind of counter on that creature.</text>
+Whenever a creature with one or more kinds of counter on it dies, each opponent loses that much life.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/132.png" num="85">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2339,7 +2339,7 @@ Whenever this or another creature with one or more counters on it dies, each opp
 		</card>
 		<card>
 			<name>Putrid Kelpie</name>
-			<text>When this creature dies, if it didn&apos;t have decayed, put a decayed counter on up to one target creature.
+			<text>When this creature dies, if it had decayed, put a decayed counter on up to one target creature.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/133.png" num="112">HHRR</set>
 			<prop>
@@ -2410,8 +2410,8 @@ All Creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 		</card>
 		<card>
 			<name>Dark Court Whispers</name>
-			<text>When this enchantment enters, you may return target creature card from your graveyard to your hand.
-{1}{B}, Sacrifice this enchantment: Shuffle this card from your graveyard into your library. Draw a card.</text>
+			<text>When this enchantment enters, return up to one target creature card from your graveyard to your hand.
+{2}{B}, Sacrifice a creature: Return this enchantment to your hand.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/137.png" num="89">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2427,8 +2427,7 @@ All Creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 		</card>
 		<card>
 			<name>Defiled Return</name>
-			<text>As an additional cost to cast this spell, put a decayed counter on a creature you control. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
-Return target creature card from your graveyard to the battlefield.</text>
+			<text>Return target creature card from a graveyard to the battlefield with a decayed counter on it. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/138.png" num="91">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2497,7 +2496,7 @@ Whenever another creature you control enters, this creature deals 1 damage to ta
 		<card>
 			<name>Glimmersap Gatherer</name>
 			<text>This creature has flying during your turn.
-{1}{R}: Target Faerie gets +1/+0 and gains first strike until end of turn. Activate only as a sorcery and only once each turn.</text>
+{R}: Target Faerie gets +1/+1 and gains first strike until end of turn. Activate only as a sorcery and only once each turn.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/142.png" num="150">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2635,15 +2634,15 @@ Emanate — Draw two cards. if a nonland permanent you control entered this turn
 		</card>
 		<card>
 			<name>Terminal Discharge</name>
-			<text>Terminal Discharge deals 4 damage to target creature. If that creature would die this turn, exile it instead.</text>
+			<text>Terminal Discharge deals 4 damage to any target. If a permanent dealt damage by Terminal Discharge would die this turn, exile it instead.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/150.png" num="162">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -2741,7 +2740,7 @@ Whenever one or more counters are put on another creature you control, this crea
 			<name>Outpost Marksman</name>
 			<text>Flash
 Reach
-Whenever this or another nontoken creature you control enters during an opponent&apos;s turn, put a +1/+1 counter on that creature.</text>
+Whenever this or another creature you control enters during an opponent&apos;s turn, put a +1/+1 counter on that creature.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/156.png" num="189">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2883,7 +2882,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 		</card>
 		<card>
 			<name>Discovery of Ghostbloom</name>
-			<text>Look at the top five cards of your library. Put up to two land cards from among them onto the battlefield tapped, then put the rest into your graveyard or on the bottom of your library in any order.</text>
+			<text>Look at the top five cards of your library. Put up to two basic land cards from among them onto the battlefield tapped, then put the rest into your graveyard or on the bottom of your library in any order.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/164.png" num="172">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2916,9 +2915,8 @@ Whenever you attack with one or more creatures with power 4 or greater, draw a c
 		</card>
 		<card>
 			<name>Manifest Ferocity</name>
-			<text>Flash
+			<text>Flash (You may cast this spell any time you could cast an instant.)
 Enchant creature
-When this Aura enters, enchanted creature deals damage equal to its power to any target.
 Enchanted creature gets +3/+3.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/166.png" num="186">HHRR</set>
 			<prop>
@@ -2926,8 +2924,8 @@ Enchanted creature gets +3/+3.</text>
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3GG</manacost>
-				<cmc>5</cmc>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -4671,7 +4669,7 @@ Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &q
 		</card>
 		<card>
 			<name>Fogstep</name>
-			<text>Return target creature to its owner&apos;s hand. If that creature was attacking or you controlled it, draw a card.</text>
+			<text>Exile target creature, then return it to the battlefield under its owner&apos;s control. If you controlled that creature, draw a card.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/267.png" num="58">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4755,7 +4753,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Wild Retribution</name>
-			<text>Target creature you control gets +X/+X and gains your choice of reach or trample until end of turn.</text>
+			<text>Until end of turn, target creature you control gets +X/+X and gains your choice of reach or trample.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/272.png" num="204">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -5264,7 +5262,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Midnight Harbinger</name>
 			<text>Menace
-Emanate — Whenever this creature attacks, if a nonland permanent you control enters this turn and wasn&apos;t cast, other creatures you control gain menace until end of turn.</text>
+Emanate — Whenever this creature attacks, if a nonland permanent you control entered this turn and wasn&apos;t cast, other creatures you control gain menace until end of turn.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/302.png" num="106">HHRR</set>
 			<prop>
 				<layout>normal</layout>

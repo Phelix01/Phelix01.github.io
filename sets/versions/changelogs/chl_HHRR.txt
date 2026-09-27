@@ -1,4 +1,93 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+
+
+Dreadmarsh Sporehulk
+
+Grovetender Druid
+
+Streamside Awakener
+
+Engulf
+cost: {1}{U} => {2}{U}
+rules_text: Flash
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step and has “This creature can't be the target of spells or abilities you control.” => Flash
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+
+Dialectician Mentor
+rules_text: Whenever you cast a spell during an opponent's turn, untap up to one target tapped creature you control.
+Whenever an opponent casts a spell during your turn, scry 2. => Whenever you cast a spell during an opponent's turn, untap up to one target creature or artifact you control.
+Whenever an opponent casts a spell during your turn, scry 2.
+
+Plaguefield Shambler
+
+Carcass Claimer
+rules_text: Flying, deathtouch
+Whenever this or another creature with one or more counters on it dies, each opponent loses 1 life for each kind of counter on that creature. => Flying, deathtouch
+Whenever a creature with one or more kinds of counter on it dies, each opponent loses that much life.
+
+Putrid Kelpie
+rules_text: When this creature dies, if it didn't have decayed, put a decayed counter on up to one target creature.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i] => When this creature dies, if it had decayed, put a decayed counter on up to one target creature.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+
+Dark Court Whispers
+rules_text: When this enchantment enters, you may return target creature card from your graveyard to your hand.
+{1}{B}, Sacrifice this enchantment: Shuffle this card from your graveyard into your library. Draw a card. => When this enchantment enters, return up to one target creature card from your graveyard to your hand.
+{2}{B}, Sacrifice a creature: Return this enchantment to your hand.
+
+Defiled Return
+rules_text: As an additional cost to cast this spell, put a decayed counter on a creature you control. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Return target creature card from your graveyard to the battlefield. => Return target creature card from a graveyard to the battlefield with a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Glimmersap Gatherer
+rules_text: This creature has flying during your turn.
+{1}{R}: Target Faerie gets +1/+0 and gains first strike until end of turn. Activate only as a sorcery and only once each turn. => This creature has flying during your turn.
+{R}: Target Faerie gets +1/+1 and gains first strike until end of turn. Activate only as a sorcery and only once each turn.
+
+Terminal Discharge
+cost: {2}{R} => {4}{R}
+rules_text: Terminal Discharge deals 4 damage to target creature. If that creature would die this turn, exile it instead. => Terminal Discharge deals 4 damage to any target. If a permanent dealt damage by Terminal Discharge would die this turn, exile it instead.
+
+Outpost Marksman
+rules_text: Flash
+Reach
+Whenever this or another nontoken creature you control enters during an opponent's turn, put a +1/+1 counter on that creature. => Flash
+Reach
+Whenever this or another creature you control enters during an opponent's turn, put a +1/+1 counter on that creature.
+
+Discovery of Ghostbloom
+rules_text: Look at the top five cards of your library. Put up to two land cards from among them onto the battlefield tapped, then put the rest into your graveyard or on the bottom of your library in any order. => Look at the top five cards of your library. Put up to two basic land cards from among them onto the battlefield tapped, then put the rest into your graveyard or on the bottom of your library in any order.
+
+Manifest Ferocity
+cost: {3}{G}{G} => {3}{G}
+rules_text: Flash
+Enchant creature
+When this Aura enters, enchanted creature deals damage equal to its power to any target.
+Enchanted creature gets +3/+3. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant creature
+Enchanted creature gets +3/+3.
+
+Fogstep
+rules_text: Return target creature to its owner's hand. If that creature was attacking or you controlled it, draw a card. => Exile target creature, then return it to the battlefield under its owner's control. If you controlled that creature, draw a card.
+
+Deadfall Corpse-Eater
+
+Wild Retribution
+rules_text: Target creature you control gets +X/+X and gains your choice of reach or trample until end of turn. => Until end of turn, target creature you control gets +X/+X and gains your choice of reach or trample.
+
+Midnight Harbinger
+rules_text: Menace
+[i]Emanate[/i] — Whenever this creature attacks, if a nonland permanent you control enters this turn and wasn't cast, other creatures you control gain menace until end of turn. => Menace
+[i]Emanate[/i] — Whenever this creature attacks, if a nonland permanent you control entered this turn and wasn't cast, other creatures you control gain menace until end of turn.
+
+
+VERSION 33 CHANGELOG
 ====================
 
 Shimmering Lake Scuttler added.

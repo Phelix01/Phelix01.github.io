@@ -1193,7 +1193,7 @@
 		{
 			"name": "Engulf",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "56",
 			"image_uris": {
@@ -1503,7 +1503,7 @@
 		{
 			"name": "Terminal Discharge",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
@@ -1663,7 +1663,7 @@
 		{
 			"name": "Manifest Ferocity",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "186",
 			"image_uris": {
