@@ -244,16 +244,18 @@ for code in set_codes:
 					prev_card = previous_data['cards'][prev_card_names.index(card['card_name'])]
 					prev_card_names[prev_card_names.index(card['card_name'])] = ''
 
-					# ignore card number, since that often changes for reasons unrelated to the card itself
+					# ignore fields that often change for reasons unrelated to the card itself
 					card_copy = card.copy()
 					prev_card_copy = prev_card.copy()
 					card_copy.pop("number", None)
 					prev_card_copy.pop("number", None)
+					card_copy.pop("position", None)
+					prev_card_copy.pop("position", None)
 
 					if card_copy != prev_card_copy:
 						changed = True
 						changed_string += card['card_name'] + '\n'
-						for key in [ 'type', 'cost', 'rules_text', 'pt', 'special_text', 'loyalty' ]:
+						for key in [ 'type', 'cost', 'rules_text', 'flavor_text', 'pt', 'special_text', 'loyalty', "artist" ]:
 							if card[key] != prev_card[key]:
 								changed_string += key + ': ' + prev_card[key] + ' => ' + card[key] + '\n'
 						changed_string += '\n'
