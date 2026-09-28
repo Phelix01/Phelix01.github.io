@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Gerome, the Farmfather",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -41,7 +41,7 @@
     },
     {
         "card_name": "Ophelia, High Cartographer",
-        "number": 26,
+        "number": 27,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Hallowed Blessing",
-        "number": 19,
+        "number": 20,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Idina, Abundant Caretaker",
-        "number": 21,
+        "number": 22,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Preserved Essence",
-        "number": 29,
+        "number": 30,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -560,12 +560,12 @@
         "position": "160"
     },
     {
-        "card_name": "Forced Fieldwork",
+        "card_name": "Fieldsworn Exemplar",
         "number": 14,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "86"
+        "position": "84"
     },
     {
         "card_name": "Fogstep",
@@ -600,12 +600,12 @@
         "position": "152"
     },
     {
-        "card_name": "Grainshare Weavers",
-        "number": 17,
+        "card_name": "Forced Fieldwork",
+        "number": 15,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "78"
+        "position": "86"
     },
     {
         "card_name": "Incantation Cataloger",
@@ -640,12 +640,12 @@
         "position": "158"
     },
     {
-        "card_name": "Grieving Waif",
+        "card_name": "Grainshare Weavers",
         "number": 18,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "79"
+        "position": "78"
     },
     {
         "card_name": "Inquisitive Examiner",
@@ -680,12 +680,12 @@
         "position": "154"
     },
     {
-        "card_name": "Liturgy of Abundance",
-        "number": 23,
+        "card_name": "Grieving Waif",
+        "number": 19,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "88"
+        "position": "79"
     },
     {
         "card_name": "Masterful Infusionist",
@@ -720,12 +720,12 @@
         "position": "166"
     },
     {
-        "card_name": "Meadow-Braid Sanctifier",
-        "number": 25,
+        "card_name": "Liturgy of Abundance",
+        "number": 24,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "82"
+        "position": "88"
     },
     {
         "card_name": "Mistrunner Jackolope",
@@ -760,12 +760,12 @@
         "position": "161"
     },
     {
-        "card_name": "Pixie Tactician",
-        "number": 27,
+        "card_name": "Meadow-Braid Sanctifier",
+        "number": 26,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "77"
+        "position": "82"
     },
     {
         "card_name": "Moonlit Spire Thief",
@@ -800,12 +800,12 @@
         "position": "156"
     },
     {
-        "card_name": "Sanctuary Purge",
-        "number": 33,
+        "card_name": "Pixie Tactician",
+        "number": 28,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "87"
+        "position": "77"
     },
     {
         "card_name": "Shadow Shrieker",
@@ -840,12 +840,12 @@
         "position": "157"
     },
     {
-        "card_name": "Spiritual Remedy",
+        "card_name": "Sanctuary Purge",
         "number": 34,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "266"
+        "position": "87"
     },
     {
         "card_name": "Stutter-Mage Duo",
@@ -880,12 +880,12 @@
         "position": "163"
     },
     {
-        "card_name": "Starlight Cradle",
+        "card_name": "Spiritual Remedy",
         "number": 35,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "298"
+        "position": "266"
     },
     {
         "card_name": "Tattercloak Presence",
@@ -920,12 +920,12 @@
         "position": "159"
     },
     {
-        "card_name": "Sunseed Scion",
-        "number": 37,
+        "card_name": "Starlight Cradle",
+        "number": 36,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "84"
+        "position": "298"
     },
     {
         "card_name": "Thirst for Answers",
@@ -1201,7 +1201,7 @@
     },
     {
         "card_name": "Foreordain",
-        "number": 15,
+        "number": 16,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1241,7 +1241,7 @@
     },
     {
         "card_name": "Harvest's Grace",
-        "number": 20,
+        "number": 21,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1281,7 +1281,7 @@
     },
     {
         "card_name": "Laboring Bisonbear",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1321,7 +1321,7 @@
     },
     {
         "card_name": "Lowland Farmers",
-        "number": 24,
+        "number": 25,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1361,7 +1361,7 @@
     },
     {
         "card_name": "Plow the Fields",
-        "number": 28,
+        "number": 29,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1401,7 +1401,7 @@
     },
     {
         "card_name": "Protective Homesteader",
-        "number": 30,
+        "number": 31,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1441,7 +1441,7 @@
     },
     {
         "card_name": "Rootguard Sentry",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1481,7 +1481,7 @@
     },
     {
         "card_name": "Salve Cultivator",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1521,7 +1521,7 @@
     },
     {
         "card_name": "Strike Through the Grass",
-        "number": 36,
+        "number": 37,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1653,8 +1653,8 @@
     },
     "a->gold",
     {
-        "card_name": "Solstice, Seedspeaker",
-        "number": 239,
+        "card_name": "Solstice, The Seedspeaker",
+        "number": 240,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1694,7 +1694,7 @@
     },
     {
         "card_name": "Knowledge Whisperer",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1734,7 +1734,7 @@
     },
     {
         "card_name": "Naydel, Guide of Mists",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1742,14 +1742,14 @@
     },
     {
         "card_name": "Maeve Nightshade",
-        "number": 225,
+        "number": 226,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
         "position": "299"
     },
     {
-        "card_name": "Vile Deed",
+        "card_name": "Vile Deeds",
         "number": 248,
         "shape": "normal",
         "set": "HHRR",
@@ -1765,8 +1765,8 @@
         "position": "226"
     },
     {
-        "card_name": "Sunseed Justiciar",
-        "number": 242,
+        "card_name": "Justiciar of the Equinox",
+        "number": 224,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1774,7 +1774,7 @@
     },
     {
         "card_name": "Sanitarium Matron",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1814,7 +1814,7 @@
     },
     {
         "card_name": "Shifting Pendant",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1822,7 +1822,7 @@
     },
     {
         "card_name": "Runoff Monstrosity",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Needletooth Coven",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1838,7 +1838,7 @@
     },
     {
         "card_name": "Searing Growth",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1885,7 +1885,7 @@
     },
     {
         "card_name": "Monarch of the Lost Cycle",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1901,7 +1901,7 @@
     },
     {
         "card_name": "Oddity Forager",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1917,7 +1917,7 @@
     },
     {
         "card_name": "Nettle, Sparkwing Prodigy",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1925,7 +1925,7 @@
     },
     {
         "card_name": "Rotmonger",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1949,7 +1949,7 @@
     },
     {
         "card_name": "Mirth, Umbral Mistress",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1957,7 +1957,7 @@
     },
     {
         "card_name": "Purge the Archives",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1997,7 +1997,7 @@
     },
     {
         "card_name": "Stormflux Theorist",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -2021,7 +2021,7 @@
     },
     {
         "card_name": "Myrtlewort Trickster",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -2061,7 +2061,7 @@
     },
     {
         "card_name": "Streamside Awakener",
-        "number": 241,
+        "number": 242,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,

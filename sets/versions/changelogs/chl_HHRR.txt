@@ -1,4 +1,91 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+Fieldsworn Exemplar added.
+Justiciar of the Equinox added.
+Vile Deeds added.
+Solstice, The Seedspeaker added.
+
+Sunseed Scion removed.
+Sunseed Justiciar removed.
+Vile Deed removed.
+Solstice, Seedspeaker removed.
+
+Farmshade
+rules_text: {1}, Sacrifice this creature: Target creature gains indestructible until end of turn.
+When this creature dies, create a 1/1 white and black Shade creature token. => {1}, Sacrifice this creature: Another target creature you control gains indestructible until end of turn.
+When this creature dies, create a tapped 1/1 white and black Shade creature token.
+
+Creeping Fatemother
+rules_text: When this creature enters, create a 1/1 white and black Shade creature token.
+{1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life. => When this creature enters, create a 1/1 white and black Shade creature token.
+{1}, Sacrifice another creature: Each opponent loses 1 life and you gain 1 life.
+
+Incantation Cataloger
+rules_text: When this creature enters, draw a card, then discard a card.
+[i]Emanate[/i] — Instant and sorcery spells you cast cost {1} less to cast as long as a nonland permanent you control entered this turn and wasn't cast. => When this creature enters, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. If you do, put the rest on the bottom of your library in any order.
+
+Inquisitive Examiner
+rules_text: When this creature enters, create a Potion token with a prowess counter on it. [i](Potions are artifacts with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.” Whenever you cast a noncreature spell, creatures you control with prowess get +1/+1 until end of turn.)[/i]
+Whenever you sacrifice a Potion, draw a card. => When this creature enters, create a Potion token with a prowess and a vigilance counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+Whenever you sacrifice a Potion with two or more counters on it, draw a card.
+
+Tattercloak Presence
+pt: 5/4 => 4/4
+
+Calcinate
+cost: {1}{U}{U} => {2}{U}{U}
+rules_text: Counter target spell, then scry X, where X is that spell's mana value. => [i]Emanate[/i] — This spell costs {1}{U} less to cast if a nonland permanent you control entered this turn and wasn't cast.
+Counter target spell.
+Scry 2.
+flavor_text: [i]“Isolate the variables. Compress the volume. Witness the perfection of creation.”[/i] => [i]“Distill the essence, capture the moment, and let the rest dissolve into vapor.”[/i]
+
+Zealous Fateweaver
+rules_text: Memorialize {2}{B} [i](You may cast this for {2}{B} if you sacrificed a nonland permanent this turn.)[/i]
+Whenever this or another nontoken, non-Shade creature dies, create a 1/1 white and black Shade creature token. => Memorialize {2}{B} [i](You may cast this for {2}{B} if you sacrificed a nonland permanent this turn.)[/i]
+Whenever this or another nontoken creature dies, create a 1/1 white and black Shade creature token.
+
+Putrid Kelpie
+flavor_text: [i]The cycle of the mire is unbroken, ravenous, and completely indifferent to your survival.[/i] => [i][/i]
+
+Bloomsurge
+cost: {2}{G} => {1}{G}{G}
+rules_text: Untap target creature, then choose one —
+• Double that creature's power and toughness until end of turn.
+• That creature gains indestructible and hexproof until end of turn. => Choose one —
+• Double target creature's power and toughness until end of turn.
+• Target creature gains indestructible and hexproof until end of turn.
+
+Mirth, Umbral Mistress
+rules_text: Whenever another creature you control dies, you may pay 1 life. If you do, draw a card.
+Sacrifice a creature: Other Shades you control get +1/+1 until end of turn. Activate only as a sorcery. => Whenever another creature dies, you may pay 1 life. If you do, draw a card.
+Sacrifice a creature: Other Shades you control get +1/+1 until end of turn. Activate only as a sorcery.
+
+Resurrection Potion
+cost: {4} => {3}
+rules_text: This artifact enters with a +1/+1 counter on it.
+{2}, {T}, Sacrifice this artifact: Return target creature card from a graveyard to the battlefield under your control and put this artifact's counters on it. Activate only as a sorcery. => When this Potion enters, exile target creature card from a graveyard, then put a +1/+1 counter on this Potion.
+{2}, {T}, Sacrifice this artifact: Put the card exiled with this Potion onto the battlefield under your control with this Potion's counters on it. That creature's base power and toughness is 0/0. Activate only as a sorcery.
+
+Thistle, Sting of Whimsy
+rules_text: Flying, first strike
+Whenever Thistle attacks, up to one other target attacking creature gets +2/+0 until end of turn. If it's a Faerie, exile the top card of your library. You may play that card this turn. => Flying, first strike
+Whenever Thistle attacks, up to one other target attacking creature gets +2/+0 until end of turn. If that creature is a Faerie or Rogue, exile the top card of your library. You may play that card this turn.
+
+Fogstep
+rules_text: Exile target creature, then return it to the battlefield under its owner's control. If you controlled that creature, draw a card. => Exile target creature, then return it to the battlefield tapped under its owner's control at the beginning of the next end step. If you controlled that creature, draw a card.
+
+Crow's Scythe
+rules_text: When this Equipment enters, you may sacrifice a creature. If you do, attach this Equipment to target creature you control.
+Equipped creature has deathtouch and hexproof.
+Equip {4} => Flash
+When this Equipment enters, you may sacrifice a creature. When you do, attach this Equipment to target creature you control.
+Equipped creature has deathtouch and hexproof.
+Equip {4}
+flavor_text: [i]A tool that invites a murderous harvest.[/i] => [i][/i]
+
+
+VERSION 34 CHANGELOG
 ====================
 
 
