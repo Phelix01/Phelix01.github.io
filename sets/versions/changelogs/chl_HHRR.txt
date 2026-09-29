@@ -1,4 +1,127 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+Faebark Offshoot added.
+Reactive Remedy added.
+
+Fae-Blessed Offshoot removed.
+Discovery of Ghostbloom removed.
+
+Lost in the Breeze
+rules_text: Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+Target creature's owner puts it on their choice of the top or bottom of their library. => Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+Target creature's owner puts it on their choice of the top or bottom of their library.
+
+Eccentric Infuser
+rules_text: When this creature enters, create a Potion token with a lifelink counter on it.
+{W}, {T}: Put a +1/+1 counter on up to one target Potion you control. If you don't control one, create a Potion token with a +1/+1 counter on it instead. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => When this creature enters, create a Potion token with a lifelink counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{W}, {T}: Create a Potion token if you don't control a Potion. Then put a +1/+1 counter on target Potion you control.
+
+Corinna, Catalyst Genious
+rules_text: Whenever Corinna enters or attacks, create a Potion token if you don't control a Potion. Then put your choice of a +1/+1, flying, menace, or lifelink counter on a Potion you control that doesn't already have a counter of that kind on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => Whenever Corinna enters or attacks, create a Potion token if you don't control a Potion. When you do, put your choice of a +1/+1, flying, menace, or lifelink counter on target Potion you control that doesn't already have a counter of that kind on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+
+Masterful Infusionist
+rules_text: When this creature enters, create a Potion token with a flying counter on it.
+{U}, {T}: Put a +1/+1 counter on up to one target Potion you control. If you don't control one, create a Potion token with a +1/+1 counter on it instead. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => When this creature enters, create a Potion token with a flying counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{U}, {T}: Create a Potion token if you don't control a Potion. When you do, put a +1/+1 counter on target Potion you control.
+
+Engulf
+rules_text: Flash
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+
+Calcinate
+rules_text: [i]Emanate[/i] — This spell costs {1}{U} less to cast if a nonland permanent you control entered this turn and wasn't cast.
+Counter target spell.
+Scry 2. => [i]Emanate[/i] — This spell costs {1}{U} less to cast if a nonland permanent you control entered this turn and wasn't cast.
+Counter target spell.
+
+Compulsory Reading
+cost: {U}{U} => {X}{U}{U}
+flavor_text: [i]Burgundy Spire's curriculum is incredibly demanding, especially when some texts are far more aggressive about being read than others.[/i] => [i]Burgundy Spire's curriculum is incredibly demanding, especially when some texts are far more aggressive than others.[/i]
+
+Dusk-Rose Acolyte
+rules_text: When this creature enters, create a Potion token with a deathtouch counter on it.
+{B}, {T}: Put a +1/+1 counter on up to one target Potion you control. If you don't control one, create a Potion token with a +1/+1 counter on it instead. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => When this creature enters, create a Potion token with a deathtouch counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{B}, {T}: Create a Potion token if you don't control a Potion. When you do, put a +1/+1 counter on target Potion you control.
+
+Defiled Return
+rules_text: Return target creature card from a graveyard to the battlefield with a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Return target creature card from your graveyard to the battlefield with a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Vitriol Transmuter
+rules_text: When this creature enters, create a Potion token with a menace counter on it.
+{R}, {T}: Put a +1/+1 counter on up to one target Potion you control. If you don't control one, create a Potion token with a +1/+1 counter on it instead. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => When this creature enters, create a Potion token with a menace counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{R}, {T}: Create a Potion token if you don't control a Potion. When you do, put a +1/+1 counter on target Potion you control.
+
+Hermetic Vessel-Keeper
+rules_text: When this creature enters, create a Potion token with a trample counter on it.
+{G}, {T}: Put a +1/+1 counter on up to one target Potion you control. If you don't control one, create a Potion token with a +1/+1 counter on it instead. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => When this creature enters, create a Potion token with a trample counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{G}, {T}: Create a Potion token if you don't control a Potion. When you do, put a +1/+1 counter on target Potion you control.
+
+Bloomsurge
+type: Instant => Sorcery
+cost: {1}{G}{G} => {3}{G}
+rules_text: Choose one —
+• Double target creature's power and toughness until end of turn.
+• Target creature gains indestructible and hexproof until end of turn. => Look at the top five cards of your library. Put up to two basic land cards from among them onto the battlefield tapped, then put the rest into your graveyard or on the bottom of your library in any order.
+flavor_text: [i]A harvest's blessing doesn't just shield its children; it returns the insult with a reckoning force.[/i] => [i][/i]
+artist: sandara decy => Sandara Tang
+
+Rotting Strength
+cost: {G} => {1}{G}
+flavor_text: [i]A desperate body knows no limits. It will gladly shatter its own joints if it means tearing down an intruder.[/i] => [i]A desperate body knows no limits and gladly shatters its own joints tearing down an enemy.[/i]
+
+Territory Encroachment
+rules_text: When this enchantment enters, target creature must be blocked this turn if able.
+Whenever you attack with one or more creatures with power 4 or greater, draw a card. => When this enchantment enters, target creature you control must be blocked this turn if able. If that creature has power 4 or greater, draw a card.
+Whenever a creature you control with power 4 or greater enters, draw a card.
+flavor_text: [i]The travelers froze midstep as the mossy ridge before them uncoiled, revealing a pair of ancient, unblinking eyes fixed entirely on their weapons.[/i] => [i]The travelers froze mid-step as the mossy ridge before them uncoiled, revealing a pair of unblinking eyes fixed directly on them.[/i]
+
+Alchemist's Cottage
+rules_text: {T}: Add {C}.
+{3}, {T}: Put a +1/+1 counter on up to one target Potion you control. If you don't control one, create a Potion token with a +1/+1 counter on it instead. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => {T}: Add {C}.
+{3}, {T}: Create a Potion token if you don't control a Potion. When you do, put a +1/+1 counter on target Potion you control. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+
+Benevolent Almoner
+rules_text: Lifelink
+When this creature dies, create X 1/1 white and black Shade creature tokens, where X is the amount of life you gained this turn.
+Sacrifice this creature: Target creature you control gains hexproof until end of turn. => Lifelink
+Sacrifice this creature: Target creature you control gains hexproof until end of turn.
+When this creature dies, create X 1/1 white and black Shade creature tokens, where X is the amount of life you gained this turn.
+
+Alessa, Warden Paragon
+flavor_text: [i]“My father seeded our foundation in this soil, and I will stand to ensure we see it blossom.”[/i] => [i]“My father seeded our foundation to thrive in this soil, and I will stand to ensure we see it blossom.”[/i]
+
+Dennig, Stoic Demonstrator
+cost: {3}{U} => {2}{U}{U}
+
+Granny Hagfoot
+rules_text: When Granny Hagfoot enters, target opponent sacrifices a nontoken creature of their choice. Return it to the battlefield under your control with a deathtouch and a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When Granny Hagfoot enters, target opponent sacrifices a nontoken creature of their choice. Return it to the battlefield under your control with a deathtouch and a decayed counter on it.
+flavor_text: [i][/i] => [i]“Dance for Granny one last time.”[/i]
+
+Fogstep
+cost: {1}{U} => {2}{U}
+rules_text: Exile target creature, then return it to the battlefield tapped under its owner's control at the beginning of the next end step. If you controlled that creature, draw a card. => Exile target creature you control, then return it to the battlefield under its owner's control.
+Draw a card.
+
+Flared Ego
+flavor_text: [i]“The senior archivists told me this incantation would take two weeks of meditation to master. It took me three minutes.”[/i] => [i]“The senior scholars told me this incantation would take two months of rigorous study to master. It took me two minutes.”
+—Winry, First-Year Prodigy[/i]
+
+Dark Whimsy
+rules_text: Whenever a nontoken creature you control dies, you lose 1 life and create a Treasure token.
+[i]Emanate[/i] — Whenever a nontoken creature an opponent controls dies, if a nonland permanent you control entered this turn and wasn't cast, that creature's controller loses 2 life unless they discard a card. => Whenever a nontoken creature you control dies, you may pay 1 life. If you do, create a Treasure token.
+[i]Emanate[/i] — Whenever a nontoken creature an opponent controls dies, if a nonland permanent you control entered this turn and wasn't cast, that creature's controller loses 2 life unless they discard a card.
+
+Midnight Harbinger
+flavor_text: [i]“I command an army of echoes, and pay them exclusively in violence.”[/i] => [i]“I command a very bitter army, and pay them exclusively in violence.”[/i]
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Fieldsworn Exemplar added.

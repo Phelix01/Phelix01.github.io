@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Hydrevan, Ranger General",
-        "number": 183,
+        "number": 182,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Harmonic Sanctuary",
-        "number": 179,
+        "number": 178,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Harvest Sprite",
-        "number": 180,
+        "number": 179,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -512,12 +512,12 @@
         "position": "145"
     },
     {
-        "card_name": "Discovery of Ghostbloom",
-        "number": 172,
+        "card_name": "Eithana, Treepaw Scout",
+        "number": 174,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "164"
+        "position": "160"
     },
     {
         "card_name": "Farmshade",
@@ -552,12 +552,12 @@
         "position": "148"
     },
     {
-        "card_name": "Eithana, Treepaw Scout",
+        "card_name": "Faebark Offshoot",
         "number": 175,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "160"
+        "position": "152"
     },
     {
         "card_name": "Fieldsworn Exemplar",
@@ -568,12 +568,12 @@
         "position": "84"
     },
     {
-        "card_name": "Fogstep",
-        "number": 58,
+        "card_name": "Incantation Cataloger",
+        "number": 60,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "267"
+        "position": "111"
     },
     {
         "card_name": "Dusk-Rose Acolyte",
@@ -592,12 +592,12 @@
         "position": "146"
     },
     {
-        "card_name": "Fae-Blessed Offshoot",
-        "number": 176,
+        "card_name": "Harvest Warden",
+        "number": 180,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "152"
+        "position": "158"
     },
     {
         "card_name": "Forced Fieldwork",
@@ -608,12 +608,12 @@
         "position": "86"
     },
     {
-        "card_name": "Incantation Cataloger",
-        "number": 60,
+        "card_name": "Inquisitive Examiner",
+        "number": 61,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "111"
+        "position": "116"
     },
     {
         "card_name": "Forbidden Ingredients",
@@ -632,12 +632,12 @@
         "position": "270"
     },
     {
-        "card_name": "Harvest Warden",
+        "card_name": "Hermetic Vessel-Keeper",
         "number": 181,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "158"
+        "position": "154"
     },
     {
         "card_name": "Grainshare Weavers",
@@ -648,12 +648,12 @@
         "position": "78"
     },
     {
-        "card_name": "Inquisitive Examiner",
-        "number": 61,
+        "card_name": "Lost in the Breeze",
+        "number": 62,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "116"
+        "position": "50"
     },
     {
         "card_name": "Grip of the Unseen",
@@ -672,12 +672,12 @@
         "position": "144"
     },
     {
-        "card_name": "Hermetic Vessel-Keeper",
-        "number": 182,
+        "card_name": "Manifest Ferocity",
+        "number": 185,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "154"
+        "position": "166"
     },
     {
         "card_name": "Grieving Waif",
@@ -712,12 +712,12 @@
         "position": "271"
     },
     {
-        "card_name": "Manifest Ferocity",
+        "card_name": "Mulching Sovereign",
         "number": 186,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "166"
+        "position": "161"
     },
     {
         "card_name": "Liturgy of Abundance",
@@ -752,12 +752,12 @@
         "position": "149"
     },
     {
-        "card_name": "Mulching Sovereign",
-        "number": 187,
+        "card_name": "Outpost Marksman",
+        "number": 188,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "161"
+        "position": "156"
     },
     {
         "card_name": "Meadow-Braid Sanctifier",
@@ -792,12 +792,12 @@
         "position": "142"
     },
     {
-        "card_name": "Outpost Marksman",
-        "number": 189,
+        "card_name": "Reactive Remedy",
+        "number": 190,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "156"
+        "position": "164"
     },
     {
         "card_name": "Pixie Tactician",
@@ -1153,7 +1153,7 @@
     },
     {
         "card_name": "Drop of Foxglove",
-        "number": 173,
+        "number": 172,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1193,7 +1193,7 @@
     },
     {
         "card_name": "Dryad Apothecary",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1233,7 +1233,7 @@
     },
     {
         "card_name": "Gentle Loamtender",
-        "number": 177,
+        "number": 176,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1273,7 +1273,7 @@
     },
     {
         "card_name": "Grovetender Druid",
-        "number": 178,
+        "number": 177,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1313,7 +1313,7 @@
     },
     {
         "card_name": "Lumbering Crop-Guard",
-        "number": 184,
+        "number": 183,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1328,12 +1328,12 @@
         "position": "1"
     },
     {
-        "card_name": "Gilded Stasis",
-        "number": 59,
+        "card_name": "Fogstep",
+        "number": 58,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "20"
+        "position": "267"
     },
     {
         "card_name": "Gaul's Fading Promise",
@@ -1353,7 +1353,7 @@
     },
     {
         "card_name": "Luminous Hart",
-        "number": 185,
+        "number": 184,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1368,12 +1368,12 @@
         "position": "11"
     },
     {
-        "card_name": "Lost in the Breeze",
-        "number": 62,
+        "card_name": "Gilded Stasis",
+        "number": 59,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "50"
+        "position": "20"
     },
     {
         "card_name": "Graverot",
@@ -1393,7 +1393,7 @@
     },
     {
         "card_name": "Orchard Ranger",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1433,7 +1433,7 @@
     },
     {
         "card_name": "Ravenous Barktail",
-        "number": 190,
+        "number": 189,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,

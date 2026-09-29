@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dryad Alchemist",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/0.png"
 			}
@@ -502,7 +502,7 @@
 		},
 		{
 			"name": "Lost in the Breeze",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "62",
@@ -585,7 +585,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/58.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Zombie Squirrel",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Ranger",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/61.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elk",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Fungus Druid",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/63.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/68.png"
 			}
@@ -1233,7 +1233,7 @@
 		{
 			"name": "Compulsory Reading",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{U}",
+			"mana_cost": "{X}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
@@ -1521,11 +1521,11 @@
 			}
 		},
 		{
-			"name": "Fae-Blessed Offshoot",
+			"name": "Faebark Offshoot",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/152.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Spirit Alchemist",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/154.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Ranger",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/156.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Ranger",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/158.png"
 			}
@@ -1605,7 +1605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Elf Scout",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/160.png"
 			}
@@ -1615,7 +1615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/161.png"
 			}
@@ -1623,8 +1623,8 @@
 		{
 			"name": "Bloomsurge",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Instant",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/162.png"
@@ -1633,7 +1633,7 @@
 		{
 			"name": "Rotting Strength",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "192",
 			"image_uris": {
@@ -1641,11 +1641,11 @@
 			}
 		},
 		{
-			"name": "Discovery of Ghostbloom",
+			"name": "Reactive Remedy",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Sorcery",
-			"collector_number": "172",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/164.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/166.png"
 			}
@@ -1983,7 +1983,7 @@
 		{
 			"name": "Dennig, Stoic Demonstrator",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "52",
 			"image_uris": {
@@ -2195,7 +2195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elemental Faerie",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/219.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/222.png"
 			}
@@ -2535,7 +2535,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Elf Ranger",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/253.png"
 			}
@@ -2672,8 +2672,8 @@
 		},
 		{
 			"name": "Fogstep",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
@@ -3157,6 +3157,7 @@
 	1 Blazette, Blazing Blunder
 	1 Nyxpetal, Numbing Needle
 [uncommon(3)]
+	4 Lost in the Breeze
 	4 Farmshade
 	4 Pixie Tactician
 	4 Grainshare Weavers
@@ -3232,7 +3233,7 @@
 	4 Frenzied Discovery
 	4 Terminal Discharge
 	4 Bloodlust Blade
-	4 Fae-Blessed Offshoot
+	4 Faebark Offshoot
 	4 Alyra's Dignitary
 	4 Hermetic Vessel-Keeper
 	4 Treeline Watcher
@@ -3244,7 +3245,7 @@
 	4 Mulching Sovereign
 	4 Bloomsurge
 	4 Rotting Strength
-	4 Discovery of Ghostbloom
+	4 Reactive Remedy
 	4 Territory Encroachment
 	4 Manifest Ferocity
 	4 Grainfield Guardian
@@ -3263,7 +3264,6 @@
 	4 Paddock Snatcher
 	4 Deadfall Marsh
 	4 Spiritual Remedy
-	4 Fogstep
 	4 Void Gaze
 	4 Mirrorborn Alpha
 	4 Deadfall Corpse-Eater
@@ -3323,7 +3323,6 @@
 	8 Eager Thaumaturge
 	8 Aether Shield
 	8 Bewildering Haze
-	8 Lost in the Breeze
 	8 Diseased Griffin
 	8 Gaul's Fading Promise
 	8 Blossoming Nightshade
@@ -3350,6 +3349,7 @@
 	8 Hemlock Strawjack
 	8 Cursed Tome
 	8 Sister of the Fens
+	8 Fogstep
 	8 Prioritize
 	8 Forgotten Garden
 	8 Wildflower Wanderer
@@ -3405,7 +3405,6 @@
 	8 Eager Thaumaturge
 	8 Aether Shield
 	8 Bewildering Haze
-	8 Lost in the Breeze
 	8 Diseased Griffin
 	8 Gaul's Fading Promise
 	8 Blossoming Nightshade
@@ -3432,6 +3431,7 @@
 	8 Hemlock Strawjack
 	8 Cursed Tome
 	8 Sister of the Fens
+	8 Fogstep
 	8 Prioritize
 	8 Forgotten Garden
 	8 Wildflower Wanderer
@@ -3487,7 +3487,7 @@
 	12 Eager Thaumaturge
 	12 Aether Shield
 	12 Bewildering Haze
-	12 Lost in the Breeze
+	6 Lost in the Breeze
 	12 Diseased Griffin
 	12 Gaul's Fading Promise
 	12 Blossoming Nightshade
@@ -3589,7 +3589,7 @@
 	6 Frenzied Discovery
 	6 Terminal Discharge
 	6 Bloodlust Blade
-	6 Fae-Blessed Offshoot
+	6 Faebark Offshoot
 	6 Alyra's Dignitary
 	6 Hermetic Vessel-Keeper
 	6 Treeline Watcher
@@ -3601,7 +3601,7 @@
 	6 Mulching Sovereign
 	6 Bloomsurge
 	6 Rotting Strength
-	6 Discovery of Ghostbloom
+	6 Reactive Remedy
 	6 Territory Encroachment
 	6 Manifest Ferocity
 	6 Grainfield Guardian
@@ -3699,7 +3699,7 @@
 	1 Thistle, Sting of Whimsy
 	12 Sister of the Fens
 	6 Spiritual Remedy
-	6 Fogstep
+	12 Fogstep
 	6 Void Gaze
 	6 Mirrorborn Alpha
 	6 Deadfall Corpse-Eater
@@ -3770,7 +3770,7 @@
 	6 Eager Thaumaturge
 	6 Aether Shield
 	6 Bewildering Haze
-	6 Lost in the Breeze
+	15 Lost in the Breeze
 	6 Diseased Griffin
 	6 Gaul's Fading Promise
 	6 Blossoming Nightshade
@@ -3872,7 +3872,7 @@
 	15 Frenzied Discovery
 	15 Terminal Discharge
 	15 Bloodlust Blade
-	15 Fae-Blessed Offshoot
+	15 Faebark Offshoot
 	15 Alyra's Dignitary
 	15 Hermetic Vessel-Keeper
 	15 Treeline Watcher
@@ -3884,7 +3884,7 @@
 	15 Mulching Sovereign
 	15 Bloomsurge
 	15 Rotting Strength
-	15 Discovery of Ghostbloom
+	15 Reactive Remedy
 	15 Territory Encroachment
 	15 Manifest Ferocity
 	15 Grainfield Guardian
@@ -3982,7 +3982,7 @@
 	4 Thistle, Sting of Whimsy
 	6 Sister of the Fens
 	15 Spiritual Remedy
-	15 Fogstep
+	6 Fogstep
 	15 Void Gaze
 	15 Mirrorborn Alpha
 	15 Deadfall Corpse-Eater
