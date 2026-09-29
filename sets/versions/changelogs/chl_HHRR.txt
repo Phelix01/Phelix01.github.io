@@ -1,4 +1,70 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+
+
+Cropfire Elemental
+rules_text: Reach
+When this creature enters, it deals 2 damage to up to one target creature.
+Basic Landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+When this creature enters, it deals 2 damage to target creature you don't control.
+Basic Landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Cliffside Fury Rouser
+rules_text: Reach
+Creatures you control with power 4 or greater have haste. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+Creatures you control with power 4 or greater have haste.
+pt: 1/2 => 2/2
+
+Devious Pyroweevil
+rules_text: When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{T}, Remove a +1/+1 counter from a creature or artifact you control: Add {R}. => When this creature enters, create a Potion token with a +1/+1 counter on it. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+{T}: Add {R}.
+flavor_text: [i][/i] => [i]“A dash of brimstone, a pinch of spite, and a whole lot of ‘let's see what happens.'”[/i]
+pt: 1/4 => 3/1
+
+Formula Shaper
+rules_text: When this creature enters, exile creature cards graveyards, then create a Potion token. The token enters with a flying counter on it if a card exiled this way had flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => When this creature enters, exile creature cards from graveyards, then create a Potion token. The token enters with a flying counter on it if a card exiled this way had flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+
+Rustgill River-Mixers
+flavor_text: [i]Proof that nature is not always gentle.[/i] => [i][/i]
+
+Pocket Potion
+rules_text: Flash
+This artifact enters with your choice of a counter on it from among haste, menace, vigilance, flying, trample, lifelink, or reach.
+{2}, {T}, Sacrifice this artifact: Put its counters on target creature. => Flash
+This artifact enters with your choice of a counter on it from among flying, haste, lifelink, menace, trample, or vigilance.
+{2}, {T}, Sacrifice this artifact: Put its counters on target creature.
+flavor_text: [i]True brilliance of alchemy lies not in strength, but in brewing the elixir you need at the right moment.[/i] => [i]Never leave home without a backup plan.[/i]
+
+Herbal Safeguard
+rules_text: This artifact enters with a +1/+1 and a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.
+When this artifact is put into your graveyard from the battlefield, draw a card. => This artifact enters with a +1/+1 and a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.
+flavor_text: [i][/i] => [i]A bitter brew for a better tomorrow.[/i]
+
+Vile Deeds
+cost: {1}{B}{R} => {B}{R}{R}
+rules_text: Choose one or both —
+• Target player discards a card, then draws two cards.
+• Destroy target creature or artifact. => Choose one or both —
+• Discard up to two cards, then draw that many cards.
+• Destroy target creature or artifact.
+
+Purge the Archives
+rules_text: Look at the top X cards in your library, and put any number of them into your hand and the rest into your graveyard. Purge the Archives deals damage to each creature target player controls equal to the number of cards put into your graveyard this way. => Look at the top X cards in your library, put any number of them into your hand and the rest into your graveyard. Purge the Archives deals damage equal to the number of cards put into your graveyard this way to each creature target player controls.
+
+Winds of Decay
+rules_text: At the beginning of each player's end step, that player puts a decayed counter on a creature they control without decayed.
+Whenever a creature with decayed dies, untap up to one target land you control. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of each player's end step, that player puts a decayed counter on a creature they control without decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a creature with decayed dies, untap target land you control.
+
+Bramble, Wings of Malice
+flavor_text: [i][/i] => [i]“The Wilds rejected me, so I shall make them bleed.”[/i]
+
+
+VERSION 36 CHANGELOG
 ====================
 
 Faebark Offshoot added.

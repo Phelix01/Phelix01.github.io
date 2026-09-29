@@ -5,7 +5,7 @@
 			<name>HHRR</name>
 			<longname>Hearth-Hollow: Root &amp; Remedy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-28</releasedate>
+			<releasedate>2026-09-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -668,7 +668,7 @@ This creature has flying during your turn.</text>
 		<card>
 			<name>Cropfire Elemental</name>
 			<text>Reach
-When this creature enters, it deals 2 damage to up to one target creature.
+When this creature enters, it deals 2 damage to target creature you don&apos;t control.
 Basic Landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/37.png" num="139">HHRR</set>
 			<prop>
@@ -958,7 +958,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 		</card>
 		<card>
 			<name>Cliffside Fury Rouser</name>
-			<text>Reach
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
 Creatures you control with power 4 or greater have haste.</text>
 			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/54.png" num="136">HHRR</set>
 			<prop>
@@ -970,14 +970,14 @@ Creatures you control with power 4 or greater have haste.</text>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Devious Pyroweevil</name>
 			<text>When this creature enters, create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
-{T}, Remove a +1/+1 counter from a creature or artifact you control: Add {R}.</text>
+{T}: Add {R}.</text>
 			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/55.png" num="142">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -988,7 +988,7 @@ Creatures you control with power 4 or greater have haste.</text>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/4</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2026,7 +2026,7 @@ When this creature enters, exile up to one other target creature. Return it to t
 		</card>
 		<card>
 			<name>Formula Shaper</name>
-			<text>When this creature enters, exile creature cards graveyards, then create a Potion token. The token enters with a flying counter on it if a card exiled this way had flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<text>When this creature enters, exile creature cards from graveyards, then create a Potion token. The token enters with a flying counter on it if a card exiled this way had flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/115.png" num="215">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2950,7 +2950,7 @@ Enchanted creature gets +3/+3.</text>
 		<card>
 			<name>Pocket Potion</name>
 			<text>Flash
-This artifact enters with your choice of a counter on it from among haste, menace, vigilance, flying, trample, lifelink, or reach.
+This artifact enters with your choice of a counter on it from among flying, haste, lifelink, menace, trample, or vigilance.
 {2}, {T}, Sacrifice this artifact: Put its counters on target creature.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/168.png" num="265">HHRR</set>
 			<prop>
@@ -2966,8 +2966,7 @@ This artifact enters with your choice of a counter on it from among haste, menac
 		<card>
 			<name>Herbal Safeguard</name>
 			<text>This artifact enters with a +1/+1 and a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.
-When this artifact is put into your graveyard from the battlefield, draw a card.</text>
+{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/169.png" num="263">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4124,7 +4123,7 @@ When this creature enters, exile up to one other target creature and up to one t
 		<card>
 			<name>Vile Deeds</name>
 			<text>Choose one or both —
-• Target player discards a card, then draws two cards.
+• Discard up to two cards, then draw that many cards.
 • Destroy target creature or artifact.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/236.png" num="248">HHRR</set>
 			<prop>
@@ -4132,7 +4131,7 @@ When this creature enters, exile up to one other target creature and up to one t
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1BR</manacost>
+				<manacost>BRR</manacost>
 				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
@@ -4214,7 +4213,7 @@ When this creature enters, exile up to one target nonland permanent.
 		</card>
 		<card>
 			<name>Purge the Archives</name>
-			<text>Look at the top X cards in your library, and put any number of them into your hand and the rest into your graveyard. Purge the Archives deals damage to each creature target player controls equal to the number of cards put into your graveyard this way.</text>
+			<text>Look at the top X cards in your library, put any number of them into your hand and the rest into your graveyard. Purge the Archives deals damage equal to the number of cards put into your graveyard this way to each creature target player controls.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/241.png" num="234">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4230,8 +4229,8 @@ When this creature enters, exile up to one target nonland permanent.
 		</card>
 		<card>
 			<name>Winds of Decay</name>
-			<text>At the beginning of each player&apos;s end step, that player puts a decayed counter on a creature they control without decayed.
-Whenever a creature with decayed dies, untap up to one target land you control. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>At the beginning of each player&apos;s end step, that player puts a decayed counter on a creature they control without decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Whenever a creature with decayed dies, untap target land you control.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/242.png" num="252">HHRR</set>
 			<prop>
 				<layout>normal</layout>
