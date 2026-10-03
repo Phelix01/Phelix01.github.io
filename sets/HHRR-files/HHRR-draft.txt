@@ -434,7 +434,7 @@
 			"name": "Sunfruit Harvester",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Elf Druid",
+			"type": "Creature — Elf Citizen",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/43.png"
@@ -453,7 +453,7 @@
 		{
 			"name": "Quickdraw Lookout",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}",
 			"type": "Creature — Elf Scout",
 			"collector_number": "67",
 			"image_uris": {
@@ -2501,23 +2501,13 @@
 			}
 		},
 		{
-			"name": "Exenterate",
-			"rarity": "mythic",
-			"mana_cost": "{X}{X}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "97",
-			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/250.png"
-			}
-		},
-		{
 			"name": "Maplescale Tyrant",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/251.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/250.png"
 			}
 		},
 		{
@@ -2527,7 +2517,7 @@
 			"type": "Legendary Creature — Elf Ranger",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/252.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/251.png"
 			}
 		},
 		{
@@ -2537,7 +2527,7 @@
 			"type": "Creature — Human Alchemist",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/253.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/252.png"
 			}
 		},
 		{
@@ -2547,7 +2537,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/254.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/253.png"
 			}
 		},
 		{
@@ -2557,7 +2547,7 @@
 			"type": "Legendary Creature — Plant Angel",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/255.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/254.png"
 			}
 		},
 		{
@@ -2567,7 +2557,7 @@
 			"type": "Legendary Creature — Faerie Warlock",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/256.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/255.png"
 			}
 		},
 		{
@@ -2577,7 +2567,7 @@
 			"type": "Legendary Creature — Plant Horror",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/257.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/256.png"
 			}
 		},
 		{
@@ -2587,7 +2577,7 @@
 			"type": "Creature — Fungus Druid",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/258.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/257.png"
 			}
 		},
 		{
@@ -2597,7 +2587,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/259.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/258.png"
 			}
 		},
 		{
@@ -2607,7 +2597,7 @@
 			"type": "Legendary Creature — Human Shade",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/260.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/259.png"
 			}
 		},
 		{
@@ -2617,7 +2607,7 @@
 			"type": "Creature — Zombie Noble",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/261.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/260.png"
 			}
 		},
 		{
@@ -2627,7 +2617,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/262.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/261.png"
 			}
 		},
 		{
@@ -2637,7 +2627,7 @@
 			"type": "Legendary Creature — Faerie Rogue",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/263.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/262.png"
 			}
 		},
 		{
@@ -2647,7 +2637,7 @@
 			"type": "Creature — Hag Wizard",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/264.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/263.png"
 			}
 		},
 		{
@@ -2657,7 +2647,7 @@
 			"type": "Sorcery",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/265.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/264.png"
 			}
 		},
 		{
@@ -2667,7 +2657,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/266.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/265.png"
 			}
 		},
 		{
@@ -2677,7 +2667,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/267.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/266.png"
 			}
 		},
 		{
@@ -2687,7 +2677,7 @@
 			"type": "Creature — Faerie Beast",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/268.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/267.png"
 			}
 		},
 		{
@@ -2697,7 +2687,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/269.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/268.png"
 			}
 		},
 		{
@@ -2707,7 +2697,7 @@
 			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/270.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/269.png"
 			}
 		},
 		{
@@ -2717,7 +2707,7 @@
 			"type": "Instant",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/271.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/270.png"
 			}
 		},
 		{
@@ -2727,7 +2717,7 @@
 			"type": "Enchantment",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/272.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/271.png"
 			}
 		},
 		{
@@ -2737,7 +2727,7 @@
 			"type": "Creature — Elf Ranger",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/273.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/272.png"
 			}
 		},
 		{
@@ -2747,7 +2737,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/274.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/273.png"
 			}
 		},
 		{
@@ -2757,7 +2747,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/275.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/274.png"
 			}
 		},
 		{
@@ -2767,7 +2757,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/276.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/275.png"
 			}
 		},
 		{
@@ -2777,7 +2767,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/277.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/276.png"
 			}
 		},
 		{
@@ -2787,7 +2777,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/278.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/277.png"
 			}
 		},
 		{
@@ -2797,7 +2787,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/279.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/278.png"
 			}
 		},
 		{
@@ -2807,7 +2797,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/280.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/279.png"
 			}
 		},
 		{
@@ -2820,11 +2810,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://phelix01.github.io/sets/HHRR-files/img/281_back.png"
+					"en": "https://phelix01.github.io/sets/HHRR-files/img/280_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/281_front.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/280_front.png"
 			}
 		},
 		{
@@ -2834,7 +2824,7 @@
 			"type": "Token Creature — Shade",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/283.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/282.png"
 			}
 		},
 		{
@@ -2844,7 +2834,7 @@
 			"type": "Token Creature — Peasant",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/284.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/283.png"
 			}
 		},
 		{
@@ -2854,7 +2844,7 @@
 			"type": "Token Creature — Faerie Assassin",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/285.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/284.png"
 			}
 		},
 		{
@@ -2864,7 +2854,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/286.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/285.png"
 			}
 		},
 		{
@@ -2874,7 +2864,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/287.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/286.png"
 			}
 		},
 		{
@@ -2884,7 +2874,7 @@
 			"type": "Token Creature — Faerie Soldier",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/288.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/287.png"
 			}
 		},
 		{
@@ -2894,7 +2884,7 @@
 			"type": "Token Creature — Rat",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/289.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/288.png"
 			}
 		},
 		{
@@ -2904,7 +2894,7 @@
 			"type": "Legendary Token Creature — Wolf",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/290.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/289.png"
 			}
 		},
 		{
@@ -2914,7 +2904,7 @@
 			"type": "Token Creature — Elf Ranger",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/291.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/290.png"
 			}
 		},
 		{
@@ -2924,7 +2914,7 @@
 			"type": "Token Creature — Zombie Soldier",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/292.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/291.png"
 			}
 		},
 		{
@@ -2934,7 +2924,7 @@
 			"type": "Token Artifact — Potion",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/293.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/292.png"
 			}
 		},
 		{
@@ -2944,7 +2934,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/294.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/293.png"
 			}
 		},
 		{
@@ -2954,7 +2944,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/295.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/294.png"
 			}
 		},
 		{
@@ -2964,7 +2954,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/296.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/295.png"
 			}
 		},
 		{
@@ -2974,7 +2964,7 @@
 			"type": "Enchantment",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/297.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/296.png"
 			}
 		},
 		{
@@ -2984,7 +2974,7 @@
 			"type": "Legendary Creature — Nymph Alchemist",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/298.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/297.png"
 			}
 		},
 		{
@@ -2994,7 +2984,7 @@
 			"type": "Land",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/299.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/298.png"
 			}
 		},
 		{
@@ -3004,7 +2994,7 @@
 			"type": "Token Creature — Spider",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/300.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/299.png"
 			}
 		},
 		{
@@ -3014,7 +3004,7 @@
 			"type": "Creature — Nightmare",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/301.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/300.png"
 			}
 		},
 		{
@@ -3024,7 +3014,7 @@
 			"type": "Creature — Plant Elemental",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/302.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/301.png"
 			}
 		},
 		{
@@ -3034,7 +3024,7 @@
 			"type": "Legendary Creature — Faerie Rogue",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/303.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/302.png"
 			}
 		},
 		{
@@ -3044,17 +3034,17 @@
 			"type": "Legendary Creature — Faerie Assassin",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/304.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/303.png"
 			}
 		},
 		{
 			"name": "Shimmering Lake Scuttler",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Crab",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://phelix01.github.io/sets/HHRR-files/img/305.png"
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/304.png"
 			}
 		},
 		{
@@ -3063,6 +3053,16 @@
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Griffin",
 			"collector_number": "82",
+			"image_uris": {
+				"en": "https://phelix01.github.io/sets/HHRR-files/img/305.png"
+			}
+		},
+		{
+			"name": "Exenterate",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/306.png"
 			}
@@ -3135,7 +3135,6 @@
 	1 Ophelia, High Cartographer
 	1 Arabos, Spire Archmage
 	1 Swift Shadowhawk
-	1 Exenterate
 	1 Maplescale Tyrant
 	1 Hydrevan, Ranger General
 	1 Ascetic Botanist
@@ -3156,6 +3155,7 @@
 	2 Maeve Nightshade
 	1 Blazette, Blazing Blunder
 	1 Nyxpetal, Numbing Needle
+	1 Exenterate
 [uncommon(3)]
 	4 Lost in the Breeze
 	4 Farmshade
@@ -3682,7 +3682,6 @@
 	1 Ophelia, High Cartographer
 	1 Arabos, Spire Archmage
 	1 Swift Shadowhawk
-	1 Exenterate
 	1 Maplescale Tyrant
 	1 Hydrevan, Ranger General
 	1 Ascetic Botanist
@@ -3719,6 +3718,7 @@
 	1 Nyxpetal, Numbing Needle
 	12 Shimmering Lake Scuttler
 	6 Veilbrook Aetherwing
+	1 Exenterate
 [wildcard(1)]
 	6 Dryad Apothecary
 	6 Lowland Farmers
@@ -3965,7 +3965,6 @@
 	4 Ophelia, High Cartographer
 	4 Arabos, Spire Archmage
 	4 Swift Shadowhawk
-	4 Exenterate
 	4 Maplescale Tyrant
 	4 Hydrevan, Ranger General
 	4 Ascetic Botanist
@@ -4002,3 +4001,4 @@
 	4 Nyxpetal, Numbing Needle
 	6 Shimmering Lake Scuttler
 	15 Veilbrook Aetherwing
+	4 Exenterate

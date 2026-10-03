@@ -1,4 +1,66 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+Laboring Bisonbear
+rules_text: When this creature enters, you may harvest. If you do, other creatures you control get +1/+1 until end of turn. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i] => When this creature enters, you may harvest. If you do, create a 1/1 white Peasant creature token with vigilance. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i]
+
+Dreadmarsh Sporehulk
+pt: 3/3 => 4/2
+
+Sift Through Bones
+rules_text: As an additional cost to cast this spell, sacrifice a creature or exile three creature cards from your graveyard.
+Draw two cards. You lose 1 life. => As an additional cost to cast this spell, sacrifice a creature or exile three creature cards from your graveyard.
+Draw two cards.
+
+Sunfruit Harvester
+type: Creature — Elf Druid => Creature — Elf Citizen
+rules_text: When this creature dies, you may harvest. If you do, draw a card. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i] => {T}, Harvest: Add one mana of any color. [i](To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)[/i]
+
+Quickdraw Lookout
+cost: {1}{U} => {U}
+pt: 2/2 => 1/2
+
+Bewildering Haze
+rules_text: Choose one —
+• Target creature can't be blocked this turn.
+• Return target creature to its owner's hand. => Choose one —
+• Target creature gets +1/+0 until end of turn and can't be blocked this turn.
+• Return target nonland permanent to its owner's hand.
+
+Grovetender Druid
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature enters, untap target creature you control.
+{T}: Add {G}. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature enters, untap target creature you control.
+pt: 1/2 => 2/2
+
+Gentle Loamtender
+rules_text: When this creature enters, put a +1/+1 counter on another target creature you control.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i] => When this creature dies, put a +1/+1 counter on target creature you control.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+pt: 3/4 => 3/3
+
+Resurgent Residue
+rules_text: {B}, {T}: Remove a counter from this creature.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i] => {1}{B}, {T}: Remove a counter from this creature.
+Rotting [i](When this dies, if it didn't have decayed, return it to the battlefield with a decayed counter. While decayed, it can't block. Sacrifice it at end of combat when it attacks.)[/i]
+
+Shimmering Lake Scuttler
+cost: {U} => {1}{U}
+rules_text: This creature gets +1/+1 for each kind of counter on it.
+{1}{U}: If this creature doesn't have vigilance, put a vigilance counter on it. Activate only as a sorcery. => As long as this creature has a counter on it, it gets +2/+0.
+{1}{U}: If this creature doesn't have vigilance, put a vigilance counter on it. Activate only as a sorcery.
+flavor_text: [i]When they shed their old shell, it doesn't rot or bleach in the sun. It stays as vibrant as the day they grew it.[/i] => [i]Their shells stay as vibrant as the day they hatch.[/i]
+pt: 1/1 => 1/3
+
+Exenterate
+cost: {X}{X}{B}{B} => {1}{B}
+rules_text: For each card in target player's hand, they discard that card unless they pay X life. => Destroy target creature. That creature's controller may search their library for a card, put it into their hand, then shuffle.
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Veilbrook Aetherwing added.
