@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Goblin Alchemist",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Nymph Rogue",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/22.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Shade",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/25.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Fungus Elemental",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/27.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/30.png"
 			}
@@ -371,7 +371,7 @@
 			}
 		},
 		{
-			"name": "Cropfire Elemental",
+			"name": "Cropfire Incinerator",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Spirit Elemental",
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Griffin",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/52.png"
 			}
@@ -643,7 +643,7 @@
 		{
 			"name": "Avenger of the Grove",
 			"rarity": "common",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elf Knight",
 			"collector_number": "168",
 			"image_uris": {
@@ -1255,7 +1255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Shade",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/125.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Alchemist",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/126.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Ooze",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/127.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/128.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Peasant",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/130.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/132.png"
 			}
@@ -1345,17 +1345,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/134.png"
 			}
 		},
 		{
-			"name": "Destiny's Thirst",
+			"name": "Rules of Reckoning",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/135.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/138.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Hag Warlock",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/203.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Assassin",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/204.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Alchemist",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/206.png"
 			}
@@ -3002,7 +3002,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Nightmare",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/300.png"
 			}
@@ -3032,7 +3032,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Faerie Assassin",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/303.png"
 			}
@@ -3062,7 +3062,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/306.png"
 			}
@@ -3216,7 +3216,7 @@
 	4 Putrid Kelpie
 	4 Sanity Robber
 	4 Grip of the Unseen
-	4 Destiny's Thirst
+	4 Rules of Reckoning
 	4 Dark Court Whispers
 	4 Defiled Return
 	4 Overspill
@@ -3310,7 +3310,7 @@
 	8 Canopy Skirmisher
 	8 Burgundy Spire Initiate
 	8 Brambleblood Channeler
-	8 Cropfire Elemental
+	8 Cropfire Incinerator
 	8 Flash of Resolve
 	8 Firebite Infusion
 	8 Firebelly Brew
@@ -3392,7 +3392,7 @@
 	8 Canopy Skirmisher
 	8 Burgundy Spire Initiate
 	8 Brambleblood Channeler
-	8 Cropfire Elemental
+	8 Cropfire Incinerator
 	8 Flash of Resolve
 	8 Firebite Infusion
 	8 Firebelly Brew
@@ -3474,7 +3474,7 @@
 	12 Canopy Skirmisher
 	12 Burgundy Spire Initiate
 	12 Brambleblood Channeler
-	12 Cropfire Elemental
+	12 Cropfire Incinerator
 	12 Flash of Resolve
 	12 Firebite Infusion
 	12 Firebelly Brew
@@ -3572,7 +3572,7 @@
 	6 Putrid Kelpie
 	6 Sanity Robber
 	6 Grip of the Unseen
-	6 Destiny's Thirst
+	6 Rules of Reckoning
 	6 Dark Court Whispers
 	6 Defiled Return
 	6 Overspill
@@ -3757,7 +3757,7 @@
 	6 Canopy Skirmisher
 	6 Burgundy Spire Initiate
 	6 Brambleblood Channeler
-	6 Cropfire Elemental
+	6 Cropfire Incinerator
 	6 Flash of Resolve
 	6 Firebite Infusion
 	6 Firebelly Brew
@@ -3855,7 +3855,7 @@
 	15 Putrid Kelpie
 	15 Sanity Robber
 	15 Grip of the Unseen
-	15 Destiny's Thirst
+	15 Rules of Reckoning
 	15 Dark Court Whispers
 	15 Defiled Return
 	15 Overspill

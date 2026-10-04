@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Exenterate",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Nyxpetal, Numbing Needle",
-        "number": 108,
+        "number": 107,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Granny Hagfoot",
-        "number": 101,
+        "number": 100,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "Lantana, Cruel Conspirator",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "Noxious Sewer Brewer",
-        "number": 107,
+        "number": 106,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -536,12 +536,12 @@
         "position": "118"
     },
     {
-        "card_name": "Destiny's Thirst",
-        "number": 93,
+        "card_name": "Dusk-Rose Acolyte",
+        "number": 95,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "135"
+        "position": "126"
     },
     {
         "card_name": "Controlled Burn",
@@ -576,12 +576,12 @@
         "position": "111"
     },
     {
-        "card_name": "Dusk-Rose Acolyte",
-        "number": 96,
+        "card_name": "Forbidden Ingredients",
+        "number": 98,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "126"
+        "position": "128"
     },
     {
         "card_name": "Crone's Hex",
@@ -616,12 +616,12 @@
         "position": "116"
     },
     {
-        "card_name": "Forbidden Ingredients",
-        "number": 99,
+        "card_name": "Grip of the Unseen",
+        "number": 102,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "128"
+        "position": "134"
     },
     {
         "card_name": "Deadfall Corpse-Eater",
@@ -656,12 +656,12 @@
         "position": "50"
     },
     {
-        "card_name": "Grip of the Unseen",
+        "card_name": "Insatiable Umbra",
         "number": 103,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "134"
+        "position": "125"
     },
     {
         "card_name": "Dualflame Channeler",
@@ -696,12 +696,12 @@
         "position": "112"
     },
     {
-        "card_name": "Insatiable Umbra",
-        "number": 104,
+        "card_name": "Midnight Harbinger",
+        "number": 105,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "125"
+        "position": "300"
     },
     {
         "card_name": "Flared Ego",
@@ -736,12 +736,12 @@
         "position": "110"
     },
     {
-        "card_name": "Midnight Harbinger",
-        "number": 106,
+        "card_name": "Overspill",
+        "number": 108,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "300"
+        "position": "138"
     },
     {
         "card_name": "Frenzied Discovery",
@@ -776,12 +776,12 @@
         "position": "113"
     },
     {
-        "card_name": "Overspill",
-        "number": 109,
+        "card_name": "Plaguefield Shambler",
+        "number": 110,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "138"
+        "position": "130"
     },
     {
         "card_name": "Glimmersap Gatherer",
@@ -816,12 +816,12 @@
         "position": "114"
     },
     {
-        "card_name": "Plaguefield Shambler",
+        "card_name": "Putrid Kelpie",
         "number": 111,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "130"
+        "position": "132"
     },
     {
         "card_name": "Mirrorborn Alpha",
@@ -856,12 +856,12 @@
         "position": "117"
     },
     {
-        "card_name": "Putrid Kelpie",
-        "number": 112,
+        "card_name": "Resurgent Residue",
+        "number": 113,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "132"
+        "position": "127"
     },
     {
         "card_name": "Paddock Snatcher",
@@ -896,12 +896,12 @@
         "position": "121"
     },
     {
-        "card_name": "Resurgent Residue",
+        "card_name": "Rules of Reckoning",
         "number": 114,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "127"
+        "position": "135"
     },
     {
         "card_name": "Shatter Flask",
@@ -1217,7 +1217,7 @@
     },
     {
         "card_name": "Diseased Griffin",
-        "number": 94,
+        "number": 93,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1257,7 +1257,7 @@
     },
     {
         "card_name": "Dreadmarsh Sporehulk",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1297,14 +1297,14 @@
     },
     {
         "card_name": "Faithless Reaper",
-        "number": 98,
+        "number": 97,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
         "position": "25"
     },
     {
-        "card_name": "Cropfire Elemental",
+        "card_name": "Cropfire Incinerator",
         "number": 139,
         "shape": "normal",
         "set": "HHRR",
@@ -1337,7 +1337,7 @@
     },
     {
         "card_name": "Gaul's Fading Promise",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1377,7 +1377,7 @@
     },
     {
         "card_name": "Graverot",
-        "number": 102,
+        "number": 101,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1417,7 +1417,7 @@
     },
     {
         "card_name": "Petalshade Spy",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1457,7 +1457,7 @@
     },
     {
         "card_name": "Redcap Crypt Collector",
-        "number": 113,
+        "number": 112,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
