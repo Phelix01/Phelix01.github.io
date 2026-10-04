@@ -1,4 +1,39 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+
+
+Forbidden Ingredients
+cost: {2}{B}{B} => {1}{B}{B}
+
+Rules of Reckoning
+cost: {1}{B}{B} => {2}{B}
+
+Dark Court Whispers
+rules_text: When this enchantment enters, return up to one target creature card from your graveyard to your hand.
+{2}{B}, Sacrifice a creature: Return this enchantment to your hand. => When this enchantment enters, return target creature card from your graveyard to your hand.
+{2}{B}, Sacrifice a creature: Return this enchantment to your hand.
+
+Defiled Return
+cost: {3}{B} => {2}{B}{B}
+rules_text: Return target creature card from your graveyard to the battlefield. Then if that creature has mana value 4 or greater, put a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Return target creature card from a graveyard to the battlefield. Then if you don't own that creature, put a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+flavor_text: [i]The marrow in its broken legs boiled, fusing skin to bone as the toxins tore through wet fur.[/i] => [i]The marrow in its broken legs boiled, fusing skin to bone as the rot tore through wet fur.[/i]
+
+Bloodletter Pixie
+rules_text: Flying
+Whenever another creature you control enters, this creature deals 1 damage to target opponent. => Flying
+Whenever another creature you control enters, this creature deals 1 damage to each opponent.
+
+Bramble, Wings of Malice
+flavor_text: [i]“The Wilds rejected me, so I shall make them bleed.”[/i] => [i]“The wilds rejected me, so I shall make them bleed.”[/i]
+
+Deadfall Corpse-Eater
+cost: {1}{R}{R} => {2}{R}
+rules_text: Whenever this creature attacks, you may exile target creature card from your graveyard. If you do, this creature gets +2/+2 until end of turn. => Haste
+Whenever this creature attacks, you may exile target creature card from your graveyard. If you do, this creature gets +2/+2 until end of turn.
+
+
+VERSION 40 CHANGELOG
 ====================
 
 Cropfire Incinerator added.

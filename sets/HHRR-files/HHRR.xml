@@ -5,7 +5,7 @@
 			<name>HHRR</name>
 			<longname>Hearth-Hollow: Root &amp; Remedy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-03</releasedate>
+			<releasedate>2026-10-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2260,8 +2260,8 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2BB</manacost>
-				<cmc>4</cmc>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2384,7 +2384,7 @@ All creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1BB</manacost>
+				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2393,7 +2393,7 @@ All creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 		</card>
 		<card>
 			<name>Dark Court Whispers</name>
-			<text>When this enchantment enters, return up to one target creature card from your graveyard to your hand.
+			<text>When this enchantment enters, return target creature card from your graveyard to your hand.
 {2}{B}, Sacrifice a creature: Return this enchantment to your hand.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/136.png" num="89">HHRR</set>
 			<prop>
@@ -2410,14 +2410,14 @@ All creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 		</card>
 		<card>
 			<name>Defiled Return</name>
-			<text>Return target creature card from your graveyard to the battlefield. Then if that creature has mana value 4 or greater, put a decayed counter on it. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>Return target creature card from a graveyard to the battlefield. Then if you don&apos;t own that creature, put a decayed counter on it. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/137.png" num="91">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3B</manacost>
+				<manacost>2BB</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2443,7 +2443,7 @@ All creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 		<card>
 			<name>Bloodletter Pixie</name>
 			<text>Flying
-Whenever another creature you control enters, this creature deals 1 damage to target opponent.</text>
+Whenever another creature you control enters, this creature deals 1 damage to each opponent.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/139.png" num="128">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4685,14 +4685,15 @@ Scry 1, then draw a card and you lose 1 life.</text>
 		</card>
 		<card>
 			<name>Deadfall Corpse-Eater</name>
-			<text>Whenever this creature attacks, you may exile target creature card from your graveyard. If you do, this creature gets +2/+2 until end of turn.</text>
+			<text>Haste
+Whenever this creature attacks, you may exile target creature card from your graveyard. If you do, this creature gets +2/+2 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/268.png" num="141">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Zombie Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>1RR</manacost>
+				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
