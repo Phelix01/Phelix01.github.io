@@ -1,4 +1,13 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+
+
+Choking Roots
+rules_text: Target creature you control deals damage equal to its power to target creature you don't control. Add an amount of {G} equal to t he excess damage dealt this way. Until end of turn, you don't lose this mana as steps and phases end. => Target creature you control deals damage equal to its power to target creature you don't control. Add an amount of {G} equal to the excess damage dealt this way. Until end of turn, you don't lose this mana as steps and phases end.
+
+
+VERSION 44 CHANGELOG
 ====================
 
 Emanator Mage added.

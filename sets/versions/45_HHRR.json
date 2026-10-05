@@ -4635,7 +4635,7 @@
             "number": 171,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Target creature you control deals damage equal to its power to target creature you don't control. Add an amount of {G} equal to t he excess damage dealt this way. Until end of turn, you don't lose this mana as steps and phases end.",
+            "rules_text": "Target creature you control deals damage equal to its power to target creature you don't control. Add an amount of {G} equal to the excess damage dealt this way. Until end of turn, you don't lose this mana as steps and phases end.",
             "flavor_text": "[i]\u201cThese are the deepest roots in all the Hearth. They also happen to be the hungriest.\u201d\n\u2014Tansy Moonbark, Druid of the Fogfens[/i]",
             "pt": "",
             "special_text": "",
