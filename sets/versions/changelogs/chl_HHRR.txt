@@ -1,4 +1,55 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+
+
+Outpost Marksman
+rules_text: Flash
+Reach
+Whenever this or another creature you control enters during an opponent's turn, put a +1/+1 counter on that creature. => Flash
+Reach
+Whenever this creature or another creature you control enters during an opponent's turn, put a +1/+1 counter on that creature.
+
+Cursed Plowman
+rules_text: Menace
+This creature can't block.
+You may cast this card from your graveyard as long as you sacrificed a creature not named Cursed Plowman this turn. => Menace
+This creature can't block.
+[i]Emanate[/i] — {1}{B}: Return this card from your graveyard to the battlefield. Activate only if a nonland permanent you control entered this turn and wasn't cast.
+flavor_text: [i]Those that betray the harvest break an eternal contract with the dirt, ensuring their hands will never again lay down their tools.[/i] => [i]Those who steal from the soil are eventually sown into it.[/i]
+
+Celeste, Evocation Archivist
+rules_text: Whenever you cast an instant or sorcery spell from your hand, create a 1/1 blue and red Elemental creature token with prowess.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, exile the top card of your library. You may play that card for as long as it remains in exile. This ability triggers only once each turn. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Elemental creature token with prowess.
+{R}, Sacrifice a token: Exile the top card of your library. You may play it until end of turn.
+
+Lowlands Blacksmith
+rules_text: Whenever a creature with power 4 or greater you control enters, create a Treasure token.
+Whenever you sacrifice an artifact, target creature you control gets +1/+1 until end of turn. => Whenever this creature or another creature you control with power 4 or greater enters, create a Treasure token.
+Whenever you sacrifice an artifact, target creature you control gets +1/+1 until end of turn.
+flavor_text: [i]“Coin is only useful after you forge it into a blade that can pierce somethin' fierce.”[/i] => [i]“Coin is only useful after you forge it into a blade.”[/i]
+pt: 2/4 => 4/4
+
+Punish Recklessness
+rules_text: Whenever target creature deals damage to you this turn, Punish Recklessness deals that much damage to that creature's controller.
+Exile the top card of your library. You may play it until the end of your next turn. => The next time a source of your choice would deal damage to you this turn, Punish Recklessness deals that much damage to that source's controller.
+
+Harvest Sprite
+rules_text: When this creature enters, create a Food token.
+Whenever you gain life during your turn, put a +1/+1 counter on another target creature you control.
+{1}{G}, {T}: Create a Food token. => When this creature enters, create a Food token.
+Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on another target creature you control.
+{1}{G}, {T}: Create a Food token.
+flavor_text: [i]Local farmers always leave a small bowl of honey near the patch as thanks for a magnificent yield.[/i] => [i]It is agreed by locals that a happy sprite makes for a heavy cart.[/i]
+
+Dark Whimsy
+rules_text: Whenever a nontoken creature you control dies, you may pay 1 life. If you do, create a Treasure token.
+[i]Emanate[/i] — Whenever a nontoken creature an opponent controls dies, if a nonland permanent you control entered this turn and wasn't cast, that creature's controller loses 2 life unless they discard a card. => Whenever a nontoken creature you control dies, you may pay 1 life. If you do, create a Treasure token.
+Whenever a nontoken creature an opponent controls dies, its controller loses 2 life unless they discard a card.
+
+
+VERSION 41 CHANGELOG
 ====================
 
 

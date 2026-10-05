@@ -2724,7 +2724,7 @@ Sacrifice this creature: Return target basic land card from your graveyard to yo
 			<name>Outpost Marksman</name>
 			<text>Flash
 Reach
-Whenever this or another creature you control enters during an opponent&apos;s turn, put a +1/+1 counter on that creature.</text>
+Whenever this creature or another creature you control enters during an opponent&apos;s turn, put a +1/+1 counter on that creature.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/155.png" num="188">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3576,7 +3576,7 @@ Lantana can&apos;t be blocked as long as another creature died this turn.</text>
 			<name>Cursed Plowman</name>
 			<text>Menace
 This creature can&apos;t block.
-You may cast this card from your graveyard as long as you sacrificed a creature not named Cursed Plowman this turn.</text>
+Emanate — {1}{B}: Return this card from your graveyard to the battlefield. Activate only if a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/205.png" num="88">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3662,8 +3662,9 @@ Whenever Fidget attacks, she gets +X/+0 until end of turn, where X is the number
 		</card>
 		<card>
 			<name>Celeste, Evocation Archivist</name>
-			<text>Whenever you cast an instant or sorcery spell from your hand, create a 1/1 blue and red Elemental creature token with prowess.
-Emanate — Whenever a nonland permanent you control enters this turn and wasn&apos;t cast, exile the top card of your library. You may play that card for as long as it remains in exile. This ability triggers only once each turn.</text>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Elemental creature token with prowess.
+{R}, Sacrifice a token: Exile the top card of your library. You may play it until end of turn.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/210.png" num="135">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3698,7 +3699,7 @@ When this creature enters, it deals 5 damage to up to one target creature. Then 
 		</card>
 		<card>
 			<name>Lowlands Blacksmith</name>
-			<text>Whenever a creature with power 4 or greater you control enters, create a Treasure token.
+			<text>Whenever this creature or another creature you control with power 4 or greater enters, create a Treasure token.
 Whenever you sacrifice an artifact, target creature you control gets +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/212.png" num="153">HHRR</set>
 			<prop>
@@ -3710,7 +3711,7 @@ Whenever you sacrifice an artifact, target creature you control gets +1/+1 until
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3734,8 +3735,7 @@ Whenever you sacrifice a Potion, this creature deals damage equal to the number 
 		</card>
 		<card>
 			<name>Punish Recklessness</name>
-			<text>Whenever target creature deals damage to you this turn, Punish Recklessness deals that much damage to that creature&apos;s controller.
-Exile the top card of your library. You may play it until the end of your next turn.</text>
+			<text>The next time a source of your choice would deal damage to you this turn, Punish Recklessness deals that much damage to that source&apos;s controller.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/214.png" num="159">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3803,7 +3803,7 @@ Whenever Alyra or another creature you control enters, you may harvest. If you d
 		<card>
 			<name>Harvest Sprite</name>
 			<text>When this creature enters, create a Food token.
-Whenever you gain life during your turn, put a +1/+1 counter on another target creature you control.
+Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on another target creature you control.
 {1}{G}, {T}: Create a Food token.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/218.png" num="179">HHRR</set>
 			<prop>
@@ -4737,7 +4737,7 @@ Draw a card.</text>
 		<card>
 			<name>Dark Whimsy</name>
 			<text>Whenever a nontoken creature you control dies, you may pay 1 life. If you do, create a Treasure token.
-Emanate — Whenever a nontoken creature an opponent controls dies, if a nonland permanent you control entered this turn and wasn&apos;t cast, that creature&apos;s controller loses 2 life unless they discard a card.</text>
+Whenever a nontoken creature an opponent controls dies, its controller loses 2 life unless they discard a card.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/271.png" num="90">HHRR</set>
 			<prop>
 				<layout>normal</layout>
