@@ -1,4 +1,12 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+Ophelia, Fate's Cartographer added.
+
+Ophelia, High Cartographer removed.
+
+
+VERSION 42 CHANGELOG
 ====================
 
 

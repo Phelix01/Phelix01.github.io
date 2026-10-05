@@ -2471,9 +2471,9 @@
 			}
 		},
 		{
-			"name": "Ophelia, High Cartographer",
+			"name": "Ophelia, Fate's Cartographer",
 			"rarity": "mythic",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{5}{W}",
 			"type": "Legendary Creature — Human Shade Advisor",
 			"collector_number": "27",
 			"image_uris": {
@@ -3132,7 +3132,7 @@
 	2 Burgundy Spire
 	2 Faeverge Pass
 	1 Gerome, the Farmfather
-	1 Ophelia, High Cartographer
+	1 Ophelia, Fate's Cartographer
 	1 Arabos, Spire Archmage
 	1 Swift Shadowhawk
 	1 Maplescale Tyrant
@@ -3679,7 +3679,7 @@
 	2 Burgundy Spire
 	2 Faeverge Pass
 	1 Gerome, the Farmfather
-	1 Ophelia, High Cartographer
+	1 Ophelia, Fate's Cartographer
 	1 Arabos, Spire Archmage
 	1 Swift Shadowhawk
 	1 Maplescale Tyrant
@@ -3962,7 +3962,7 @@
 	7 Burgundy Spire
 	7 Faeverge Pass
 	4 Gerome, the Farmfather
-	4 Ophelia, High Cartographer
+	4 Ophelia, Fate's Cartographer
 	4 Arabos, Spire Archmage
 	4 Swift Shadowhawk
 	4 Maplescale Tyrant

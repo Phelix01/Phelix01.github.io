@@ -5,7 +5,7 @@
 			<name>HHRR</name>
 			<longname>Hearth-Hollow: Root &amp; Remedy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-04</releasedate>
+			<releasedate>2026-10-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4308,20 +4308,20 @@ Whenever you harvest, create a 1/1 white Peasant creature token with vigilance.<
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ophelia, High Cartographer</name>
-			<text>{WB}: Another target Shade you control gets +1/+1 and gains lifelink until end of turn.
-At the beginning of your end step, return up to one target Shade creature card with mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you&apos;ve gained this turn.</text>
+			<name>Ophelia, Fate&apos;s Cartographer</name>
+			<text>When this creature enters, return up to X target Shade creature cards from your graveyard to the battlefield, where X is the amount of life you gained this turn.
+{B}: Target Shade you control gets +1/+1 until end of turn.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/247.png" num="27">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Shade Advisor</type>
 				<maintype>Creature</maintype>
-				<manacost>4W</manacost>
-				<cmc>5</cmc>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>WB</coloridentity>
-				<pt>2/4</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
