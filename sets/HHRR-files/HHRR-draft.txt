@@ -202,8 +202,8 @@
 		},
 		{
 			"name": "Gilded Stasis",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "59",
 			"image_uris": {
@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Citizen",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/43.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Zombie Squirrel",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Ranger",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/60.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Giant Elemental",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/66.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/70.png"
 			}
@@ -1182,7 +1182,7 @@
 		},
 		{
 			"name": "Engulf",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "56",
@@ -1431,9 +1431,9 @@
 			}
 		},
 		{
-			"name": "Dualflame Channeler",
+			"name": "Emanator Mage",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Sorcerer",
 			"collector_number": "143",
 			"image_uris": {
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Druid",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/154.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Ranger",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/155.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Zombie Beast",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/156.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Fungus Alchemist",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/158.png"
 			}
@@ -1605,7 +1605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/160.png"
 			}
@@ -1625,7 +1625,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/162.png"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/163.png"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/164.png"
 			}
@@ -2143,7 +2143,7 @@
 		{
 			"name": "Punish Recklessness",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "159",
 			"image_uris": {
@@ -2195,7 +2195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
 			"type": "Legendary Creature — Fungus Barbarian",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/219.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/222.png"
 			}
@@ -2725,17 +2725,17 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elf Ranger",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/272.png"
 			}
 		},
 		{
-			"name": "Vinestone Basker",
+			"name": "Moss-Basker Alpha",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Lizard",
-			"collector_number": "203",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/273.png"
 			}
@@ -3150,13 +3150,14 @@
 	1 Thistle, Sting of Whimsy
 	2 Dark Whimsy
 	2 Sentinel of the Inner Grove
-	2 Vinestone Basker
+	2 Moss-Basker Alpha
 	2 Crow's Scythe
 	2 Maeve Nightshade
 	1 Blazette, Blazing Blunder
 	1 Nyxpetal, Numbing Needle
 	1 Exenterate
 [uncommon(3)]
+	4 Gilded Stasis
 	4 Lost in the Breeze
 	4 Farmshade
 	4 Pixie Tactician
@@ -3199,7 +3200,6 @@
 	4 Stutter-Mage Duo
 	4 Inquisitive Examiner
 	4 Tattercloak Presence
-	4 Engulf
 	4 Calcinate
 	4 Twisted Machinations
 	4 Thirst for Answers
@@ -3224,7 +3224,7 @@
 	4 Vitriol Transmuter
 	4 Glimmersap Gatherer
 	4 Vale Multiye
-	4 Dualflame Channeler
+	4 Emanator Mage
 	4 Burgundy Tome Hoarder
 	4 Crone's Hex
 	4 Shatter Flask
@@ -3293,7 +3293,6 @@
 	8 Seedgale Sphinx
 	8 Brainjuice Tincture
 	8 Alchemical Array
-	8 Gilded Stasis
 	8 Redcap Crypt Collector
 	8 Petalshade Spy
 	8 Briar Sprite
@@ -3348,6 +3347,7 @@
 	8 Vial of Crone's Grip
 	8 Hemlock Strawjack
 	8 Cursed Tome
+	8 Engulf
 	8 Sister of the Fens
 	8 Fogstep
 	8 Prioritize
@@ -3375,7 +3375,6 @@
 	8 Seedgale Sphinx
 	8 Brainjuice Tincture
 	8 Alchemical Array
-	8 Gilded Stasis
 	8 Redcap Crypt Collector
 	8 Petalshade Spy
 	8 Briar Sprite
@@ -3430,6 +3429,7 @@
 	8 Vial of Crone's Grip
 	8 Hemlock Strawjack
 	8 Cursed Tome
+	8 Engulf
 	8 Sister of the Fens
 	8 Fogstep
 	8 Prioritize
@@ -3457,7 +3457,7 @@
 	12 Seedgale Sphinx
 	12 Brainjuice Tincture
 	12 Alchemical Array
-	12 Gilded Stasis
+	6 Gilded Stasis
 	12 Redcap Crypt Collector
 	12 Petalshade Spy
 	12 Briar Sprite
@@ -3555,7 +3555,7 @@
 	1 Formula Shaper
 	6 Inquisitive Examiner
 	6 Tattercloak Presence
-	6 Engulf
+	12 Engulf
 	6 Calcinate
 	6 Twisted Machinations
 	6 Thirst for Answers
@@ -3580,7 +3580,7 @@
 	6 Vitriol Transmuter
 	6 Glimmersap Gatherer
 	6 Vale Multiye
-	6 Dualflame Channeler
+	6 Emanator Mage
 	6 Burgundy Tome Hoarder
 	6 Crone's Hex
 	6 Shatter Flask
@@ -3705,7 +3705,7 @@
 	6 Wild Retribution
 	2 Dark Whimsy
 	2 Sentinel of the Inner Grove
-	2 Vinestone Basker
+	2 Moss-Basker Alpha
 	2 Crow's Scythe
 	6 Comforting Candle
 	12 Prioritize
@@ -3740,7 +3740,7 @@
 	6 Seedgale Sphinx
 	6 Brainjuice Tincture
 	6 Alchemical Array
-	6 Gilded Stasis
+	15 Gilded Stasis
 	6 Redcap Crypt Collector
 	6 Petalshade Spy
 	6 Briar Sprite
@@ -3838,7 +3838,7 @@
 	4 Formula Shaper
 	15 Inquisitive Examiner
 	15 Tattercloak Presence
-	15 Engulf
+	6 Engulf
 	15 Calcinate
 	15 Twisted Machinations
 	15 Thirst for Answers
@@ -3863,7 +3863,7 @@
 	15 Vitriol Transmuter
 	15 Glimmersap Gatherer
 	15 Vale Multiye
-	15 Dualflame Channeler
+	15 Emanator Mage
 	15 Burgundy Tome Hoarder
 	15 Crone's Hex
 	15 Shatter Flask
@@ -3988,7 +3988,7 @@
 	15 Wild Retribution
 	7 Dark Whimsy
 	7 Sentinel of the Inner Grove
-	7 Vinestone Basker
+	7 Moss-Basker Alpha
 	7 Crow's Scythe
 	15 Comforting Candle
 	6 Prioritize

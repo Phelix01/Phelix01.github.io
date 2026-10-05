@@ -1,4 +1,89 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+Emanator Mage added.
+Moss-Basker Alpha added.
+
+Dualflame Channeler removed.
+Vinestone Basker removed.
+
+Gilded Stasis
+cost: {1}{U} => {2}{U}
+rules_text: Flash
+Enchant creature or Treasure
+Enchanted creature is a Treasure artifact with, “{T}, Sacrifice this artifact: Add one mana of any color.” => Enchant creature or Treasure
+Enchanted creature is a colorless Treasure artifact with, “{T}, Sacrifice this artifact: Add one mana of any color.”
+
+Brambleblood Channeler
+rules_text: When this creature enters, exile the top card of your library. You may play that card until the end of your next turn.
+This creature has flying during your turn. => When this creature enters, exile the top card of your library. You may play that cards until the end of your next turn.
+pt: 3/3 => 4/3
+
+Flash of Resolve
+rules_text: Target creature gains double strike until end of turn.
+[i]Emanate[/i] — That creature also gets +1/+1 until end of turn if a nonland permanent you control entered this turn and wasn't cast. => Target creature gains first strike until end of turn.
+[i]Emanate[/i] — That creature gains double strike until end of turn instead if a nonland permanent you control entered this turn and wasn't cast.
+flavor_text: [i]“Doubt is a slow death.”[/i] => [i]Doubt is a slow death.[/i]
+artist: mikhail palamarchuk => Simon Acty
+
+Grisly Keepsake
+rules_text: When this artifact enters, you may discard a card. If you do, draw two cards.
+{R}, Sacrifice this artifact: Target creature can't block this turn. => When this artifact enters, you may discard a card. If you do, draw two cards.
+{R}, {T}, Sacrifice this artifact: Target creature can't block this turn.
+
+Blazing Clarity
+rules_text: As an additional cost to cast this spell, discard two cards.
+Scry 2, then draw three cards. => Discard up to three cards, then draw that many cards. Blazing Clarity deals that much damage to target opponent.
+flavor_text: [i]“To clear a crowded path, you can either spend days with a rusted axe or spend a single second with a torch.”
+—Sizzletooth, Queen's Warlock[/i] => [i]“My mind races, and the world burns in tandem.”
+—Sizzletooth, Queen's Warlock[/i]
+
+Dance of Embers
+rules_text: Enchant creature
+When this aura enters, you may discard a card. If you do, draw a card.
+Whenever enchanted creature attacks, it deals 1 damage to each opponent. => Enchant creature
+When this Aura enters, enchanted creature gains menace until end of turn.
+Enchanted creature gets +1/+0 and has haste.
+
+Engulf
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step and its activated abilities can't be activated.
+
+Glimmersap Gatherer
+rules_text: This creature has flying during your turn.
+{R}: Target Faerie gets +1/+0 and gains first strike until end of turn. Activate only as a sorcery and only once each turn. => This creature has first strike during your turn.
+Other Faeries you control have menace.
+flavor_text: [i]Glimmerbirch sap tastes of pure starlight and rowdy ideas. One tiny taste ensures a pixie will not hunger for a week.[/i] => [i]Glimmersap provides the vital spark that keeps the swarm moving.[/i]
+pt: 3/3 => 4/3
+
+Terminal Discharge
+rules_text: Terminal Discharge deals 4 damage to any target. If a permanent dealt damage by Terminal Discharge would die this turn, exile it instead. => Choose one —
+• Terminal Discharge deals 6 damage to target creature. If that creature would die this turn, exile it instead.
+• Terminal Discharge deals 2 damage to each creature you don't control.
+flavor_text: [i]“Oh, that was your ‘best' shot? Cute—now, this is how you complete a circuit!”
+—Nettle, Sparkwing Prodigy[/i] => [i]“That was your ‘best' shot? Cute—my turn!”
+—Nettle, Sparkwing Prodigy[/i]
+
+Punish Recklessness
+cost: {1}{R} => {2}{R}
+rules_text: The next time a source of your choice would deal damage to you this turn, Punish Recklessness deals that much damage to that source's controller. => Choose one —
+• Change the target of target spell or ability with a single target.
+• Target creature deals damage to itself equal to its power.
+flavor_text: [i]Blind aggression is merely a gift wrapped in absolute overconfidence.[/i] => [i]Blind aggression is merely a gift wrapped in overconfidence.[/i]
+
+Choking Roots
+rules_text: Target creature you control deals damage equal to its power to target creature you don't control. Untap up to X lands you control, where X is the amount of excess damage dealt this way. => Target creature you control deals damage equal to its power to target creature you don't control. Add an amount of {G} equal to t he excess damage dealt this way. Until end of turn, you don't lose this mana as steps and phases end.
+
+Faerie Soldier
+artist: Taras Susak => Fall Fox
+
+
+VERSION 43 CHANGELOG
 ====================
 
 Ophelia, Fate's Cartographer added.
