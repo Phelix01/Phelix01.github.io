@@ -1,4 +1,19 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+Fidget's Thorn added.
+Thistle, Whimsy's Sting added.
+Kindle the Swarm added.
+
+Dance of Embers removed.
+Bloodlust Blade removed.
+Thistle, Sting of Whimsy removed.
+
+Loyal Pixiepaw
+type: Creature — Dog => Creature — Faerie Dog
+
+
+VERSION 45 CHANGELOG
 ====================
 
 

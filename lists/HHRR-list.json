@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "246"
+        "position": "245"
     },
     {
         "card_name": "Arabos, Spire Archmage",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "248"
+        "position": "247"
     },
     {
         "card_name": "Exenterate",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "306"
+        "position": "305"
     },
     {
         "card_name": "Blazette, Blazing Blunder",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "302"
+        "position": "301"
     },
     {
         "card_name": "Ascetic Botanist",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "252"
+        "position": "251"
     },
     {
         "card_name": "Ophelia, Fate's Cartographer",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "247"
+        "position": "246"
     },
     {
         "card_name": "Swift Shadowhawk",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "249"
+        "position": "248"
     },
     {
         "card_name": "Nyxpetal, Numbing Needle",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "303"
+        "position": "302"
     },
     {
         "card_name": "Maplescale Tyrant",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "250"
+        "position": "249"
     },
     {
         "card_name": "Hydrevan, Ranger General",
@@ -77,7 +77,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "251"
+        "position": "250"
     },
     {
         "card_name": "Alessa, Warden Paragon",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "189"
+        "position": "188"
     },
     {
         "card_name": "Aethergate Cleric",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "198"
+        "position": "197"
     },
     {
         "card_name": "Cursed Plowman",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "205"
+        "position": "204"
     },
     {
         "card_name": "Bitter Betrayal",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "215"
+        "position": "214"
     },
     {
         "card_name": "Alyra, Orchard's Heart",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "217"
+        "position": "216"
     },
     {
         "card_name": "Benevolent Almoner",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "188"
+        "position": "187"
     },
     {
         "card_name": "Coralia Trickweaver",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "194"
+        "position": "193"
     },
     {
         "card_name": "Dark Whimsy",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "271"
+        "position": "270"
     },
     {
         "card_name": "Blazette's Cuddlebeast",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "211"
+        "position": "210"
     },
     {
         "card_name": "Choking Roots",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "220"
+        "position": "219"
     },
     {
         "card_name": "Bramblewing Ambusher",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "180"
+        "position": "179"
     },
     {
         "card_name": "Dennig, Stoic Demonstrator",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "197"
+        "position": "196"
     },
     {
         "card_name": "Delirious Insight",
@@ -181,15 +181,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "208"
+        "position": "207"
     },
     {
         "card_name": "Celeste, Evocation Archivist",
-        "number": 135,
+        "number": 134,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "210"
+        "position": "209"
     },
     {
         "card_name": "Harmonic Sanctuary",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "221"
+        "position": "220"
     },
     {
         "card_name": "Devoted Dinner-Caller",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "190"
+        "position": "189"
     },
     {
         "card_name": "Distillation Savant",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "195"
+        "position": "194"
     },
     {
         "card_name": "Granny Hagfoot",
@@ -221,15 +221,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "203"
+        "position": "202"
     },
     {
         "card_name": "Fidget, Pixie Crownling",
-        "number": 144,
+        "number": 142,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "209"
+        "position": "208"
     },
     {
         "card_name": "Harvest Sprite",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "218"
+        "position": "217"
     },
     {
         "card_name": "Fallow the Farmland",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "191"
+        "position": "190"
     },
     {
         "card_name": "Plumevale Matriarch",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "196"
+        "position": "195"
     },
     {
         "card_name": "Lantana, Cruel Conspirator",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "204"
+        "position": "203"
     },
     {
         "card_name": "Lowlands Blacksmith",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "212"
+        "position": "211"
     },
     {
         "card_name": "Moss-Basker Alpha",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "273"
+        "position": "272"
     },
     {
         "card_name": "Hallowed Blessing",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "193"
+        "position": "192"
     },
     {
         "card_name": "Refract",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "200"
+        "position": "199"
     },
     {
         "card_name": "Noxious Sewer Brewer",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "206"
+        "position": "205"
     },
     {
         "card_name": "Manic Inoculator",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "213"
+        "position": "212"
     },
     {
         "card_name": "Sentinel of the Inner Grove",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "272"
+        "position": "271"
     },
     {
         "card_name": "Idina, Abundant Caretaker",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "179"
+        "position": "178"
     },
     {
         "card_name": "Tempo Flux",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "199"
+        "position": "198"
     },
     {
         "card_name": "Search for Shadows",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "207"
+        "position": "206"
     },
     {
         "card_name": "Punish Recklessness",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "214"
+        "position": "213"
     },
     {
         "card_name": "Thrumm, Savage Soverign",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "219"
+        "position": "218"
     },
     {
         "card_name": "Preserved Essence",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "192"
+        "position": "191"
     },
     {
         "card_name": "Vaporous Elevation",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "201"
+        "position": "200"
     },
     {
         "card_name": "Watcher of Endings",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "202"
+        "position": "201"
     },
     {
         "card_name": "Ruination Blast",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "216"
+        "position": "215"
     },
     {
         "card_name": "Venom Synthesis",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "222"
+        "position": "221"
     },
     {
         "card_name": "Briarbush Forecaster",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "83"
+        "position": "82"
     },
     {
         "card_name": "Calcinate",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "119"
+        "position": "118"
     },
     {
         "card_name": "Carcass Claimer",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "131"
+        "position": "130"
     },
     {
         "card_name": "Bloodletter Pixie",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "139"
+        "position": "138"
     },
     {
         "card_name": "Alyra's Dignitary",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "152"
+        "position": "151"
     },
     {
         "card_name": "Devout Shadekin",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "80"
+        "position": "79"
     },
     {
         "card_name": "Compulsory Reading",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "122"
+        "position": "121"
     },
     {
         "card_name": "Dark Court Whispers",
@@ -461,15 +461,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "136"
+        "position": "135"
     },
     {
-        "card_name": "Bloodlust Blade",
-        "number": 129,
+        "card_name": "Burgundy Tome Hoarder",
+        "number": 132,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "150"
+        "position": "143"
     },
     {
         "card_name": "Bloomsurge",
@@ -477,7 +477,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "161"
+        "position": "160"
     },
     {
         "card_name": "Eccentric Infuser",
@@ -485,7 +485,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "81"
+        "position": "80"
     },
     {
         "card_name": "Dialectician Mentor",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "124"
+        "position": "123"
     },
     {
         "card_name": "Defiled Return",
@@ -501,15 +501,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "137"
+        "position": "136"
     },
     {
-        "card_name": "Burgundy Tome Hoarder",
-        "number": 133,
+        "card_name": "Controlled Burn",
+        "number": 136,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "144"
+        "position": "146"
     },
     {
         "card_name": "Eithana, Treepaw Scout",
@@ -517,7 +517,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "159"
+        "position": "158"
     },
     {
         "card_name": "Farmshade",
@@ -525,7 +525,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "76"
+        "position": "75"
     },
     {
         "card_name": "Gilded Stasis",
@@ -541,15 +541,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "126"
+        "position": "125"
     },
     {
-        "card_name": "Controlled Burn",
+        "card_name": "Crone's Hex",
         "number": 137,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "147"
+        "position": "144"
     },
     {
         "card_name": "Faebark Offshoot",
@@ -557,7 +557,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "151"
+        "position": "150"
     },
     {
         "card_name": "Fieldsworn Exemplar",
@@ -565,7 +565,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "84"
+        "position": "83"
     },
     {
         "card_name": "Incantation Cataloger",
@@ -573,7 +573,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "111"
+        "position": "110"
     },
     {
         "card_name": "Forbidden Ingredients",
@@ -581,15 +581,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "128"
+        "position": "127"
     },
     {
-        "card_name": "Crone's Hex",
-        "number": 138,
+        "card_name": "Deadfall Corpse-Eater",
+        "number": 139,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "145"
+        "position": "267"
     },
     {
         "card_name": "Harvest Warden",
@@ -597,7 +597,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "157"
+        "position": "156"
     },
     {
         "card_name": "Forced Fieldwork",
@@ -605,7 +605,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "86"
+        "position": "85"
     },
     {
         "card_name": "Inquisitive Examiner",
@@ -613,7 +613,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "116"
+        "position": "115"
     },
     {
         "card_name": "Grip of the Unseen",
@@ -621,15 +621,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "134"
+        "position": "133"
     },
     {
-        "card_name": "Deadfall Corpse-Eater",
+        "card_name": "Emanator Mage",
         "number": 141,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "268"
+        "position": "142"
     },
     {
         "card_name": "Hermetic Vessel-Keeper",
@@ -637,7 +637,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "153"
+        "position": "152"
     },
     {
         "card_name": "Grainshare Weavers",
@@ -645,7 +645,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "78"
+        "position": "77"
     },
     {
         "card_name": "Lost in the Breeze",
@@ -661,15 +661,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "125"
+        "position": "124"
     },
     {
-        "card_name": "Emanator Mage",
+        "card_name": "Fidget's Thorn",
         "number": 143,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "143"
+        "position": "149"
     },
     {
         "card_name": "Manifest Ferocity",
@@ -677,7 +677,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "165"
+        "position": "164"
     },
     {
         "card_name": "Grieving Waif",
@@ -685,7 +685,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "79"
+        "position": "78"
     },
     {
         "card_name": "Masterful Infusionist",
@@ -693,7 +693,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "112"
+        "position": "111"
     },
     {
         "card_name": "Midnight Harbinger",
@@ -701,15 +701,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "300"
+        "position": "299"
     },
     {
         "card_name": "Flared Ego",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "269"
+        "position": "268"
     },
     {
         "card_name": "Mulching Sovereign",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "160"
+        "position": "159"
     },
     {
         "card_name": "Liturgy of Abundance",
@@ -725,7 +725,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "88"
+        "position": "87"
     },
     {
         "card_name": "Moonlit Spire Thief",
@@ -733,7 +733,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "110"
+        "position": "109"
     },
     {
         "card_name": "Overspill",
@@ -741,15 +741,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "138"
+        "position": "137"
     },
     {
         "card_name": "Frenzied Discovery",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "148"
+        "position": "147"
     },
     {
         "card_name": "Outpost Marksman",
@@ -757,7 +757,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "155"
+        "position": "154"
     },
     {
         "card_name": "Meadow-Braid Sanctifier",
@@ -765,7 +765,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "82"
+        "position": "81"
     },
     {
         "card_name": "Shadow Shrieker",
@@ -773,7 +773,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "113"
+        "position": "112"
     },
     {
         "card_name": "Plaguefield Shambler",
@@ -781,15 +781,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "130"
+        "position": "129"
     },
     {
         "card_name": "Glimmersap Gatherer",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "141"
+        "position": "140"
     },
     {
         "card_name": "Reactive Remedy",
@@ -797,7 +797,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "163"
+        "position": "162"
     },
     {
         "card_name": "Pixie Tactician",
@@ -805,7 +805,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "77"
+        "position": "76"
     },
     {
         "card_name": "Stutter-Mage Duo",
@@ -813,7 +813,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "114"
+        "position": "113"
     },
     {
         "card_name": "Putrid Kelpie",
@@ -821,7 +821,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "132"
+        "position": "131"
     },
     {
         "card_name": "Mirrorborn Alpha",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "267"
+        "position": "266"
     },
     {
         "card_name": "Rotrunner Brute",
@@ -837,7 +837,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "156"
+        "position": "155"
     },
     {
         "card_name": "Sanctuary Purge",
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "87"
+        "position": "86"
     },
     {
         "card_name": "Tattercloak Presence",
@@ -853,7 +853,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "117"
+        "position": "116"
     },
     {
         "card_name": "Resurgent Residue",
@@ -861,7 +861,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "127"
+        "position": "126"
     },
     {
         "card_name": "Paddock Snatcher",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "186"
+        "position": "185"
     },
     {
         "card_name": "Rotting Strength",
@@ -877,7 +877,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "162"
+        "position": "161"
     },
     {
         "card_name": "Spiritual Remedy",
@@ -885,7 +885,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "264"
+        "position": "263"
     },
     {
         "card_name": "Thirst for Answers",
@@ -893,7 +893,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "121"
+        "position": "120"
     },
     {
         "card_name": "Rules of Reckoning",
@@ -901,7 +901,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "135"
+        "position": "134"
     },
     {
         "card_name": "Shatter Flask",
@@ -909,7 +909,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "146"
+        "position": "145"
     },
     {
         "card_name": "Rustgill River-Mixers",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "158"
+        "position": "157"
     },
     {
         "card_name": "Starlight Cradle",
@@ -925,7 +925,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "296"
+        "position": "295"
     },
     {
         "card_name": "Tincture Trade",
@@ -933,7 +933,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "123"
+        "position": "122"
     },
     {
         "card_name": "Sanity Robber",
@@ -941,7 +941,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "133"
+        "position": "132"
     },
     {
         "card_name": "Terminal Discharge",
@@ -949,7 +949,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "149"
+        "position": "148"
     },
     {
         "card_name": "Territory Encroachment",
@@ -957,7 +957,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "164"
+        "position": "163"
     },
     {
         "card_name": "Umbral Veil",
@@ -965,7 +965,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "89"
+        "position": "88"
     },
     {
         "card_name": "Twisted Machinations",
@@ -973,7 +973,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "120"
+        "position": "119"
     },
     {
         "card_name": "Void Gaze",
@@ -981,7 +981,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "266"
+        "position": "265"
     },
     {
         "card_name": "Vale Multiye",
@@ -989,7 +989,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "142"
+        "position": "141"
     },
     {
         "card_name": "Treeline Watcher",
@@ -997,7 +997,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "154"
+        "position": "153"
     },
     {
         "card_name": "Wheatcrest Paladin",
@@ -1005,7 +1005,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "85"
+        "position": "84"
     },
     {
         "card_name": "Veilbrook Aetherwing",
@@ -1013,7 +1013,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "305"
+        "position": "304"
     },
     {
         "card_name": "Zealous Fateweaver",
@@ -1021,7 +1021,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "129"
+        "position": "128"
     },
     {
         "card_name": "Vitriol Transmuter",
@@ -1029,7 +1029,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "140"
+        "position": "139"
     },
     {
         "card_name": "Wild Retribution",
@@ -1037,7 +1037,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "270"
+        "position": "269"
     },
     {
         "card_name": "Bramble Lancer",
@@ -1077,7 +1077,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "64"
+        "position": "63"
     },
     {
         "card_name": "Dawndew Provisioner",
@@ -1105,7 +1105,7 @@
     },
     {
         "card_name": "Brambleblood Channeler",
-        "number": 130,
+        "number": 129,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1117,7 +1117,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "69"
+        "position": "68"
     },
     {
         "card_name": "Faceless Preacher",
@@ -1145,7 +1145,7 @@
     },
     {
         "card_name": "Brazen Pilferer",
-        "number": 131,
+        "number": 130,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1157,7 +1157,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "68"
+        "position": "67"
     },
     {
         "card_name": "Fatepath Stray",
@@ -1185,7 +1185,7 @@
     },
     {
         "card_name": "Burgundy Spire Initiate",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1225,7 +1225,7 @@
     },
     {
         "card_name": "Canopy Skirmisher",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1237,7 +1237,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "63"
+        "position": "62"
     },
     {
         "card_name": "Harvest's Grace",
@@ -1265,7 +1265,7 @@
     },
     {
         "card_name": "Cliffside Fury Rouser",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1277,7 +1277,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "58"
+        "position": "57"
     },
     {
         "card_name": "Laboring Bisonbear",
@@ -1293,7 +1293,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "118"
+        "position": "117"
     },
     {
         "card_name": "Faithless Reaper",
@@ -1305,7 +1305,7 @@
     },
     {
         "card_name": "Cropfire Incinerator",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1317,7 +1317,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "61"
+        "position": "60"
     },
     {
         "card_name": "Lowland Farmers",
@@ -1344,12 +1344,12 @@
         "position": "52"
     },
     {
-        "card_name": "Dance of Embers",
+        "card_name": "Devious Pyroweevil",
         "number": 140,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "57"
+        "position": "55"
     },
     {
         "card_name": "Luminous Hart",
@@ -1357,7 +1357,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "62"
+        "position": "61"
     },
     {
         "card_name": "Plow the Fields",
@@ -1373,7 +1373,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "265"
+        "position": "264"
     },
     {
         "card_name": "Graverot",
@@ -1384,12 +1384,12 @@
         "position": "30"
     },
     {
-        "card_name": "Devious Pyroweevil",
-        "number": 142,
+        "card_name": "Firebelly Brew",
+        "number": 144,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "55"
+        "position": "40"
     },
     {
         "card_name": "Orchard Ranger",
@@ -1397,7 +1397,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "60"
+        "position": "59"
     },
     {
         "card_name": "Protective Homesteader",
@@ -1413,7 +1413,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "295"
+        "position": "294"
     },
     {
         "card_name": "Petalshade Spy",
@@ -1424,12 +1424,12 @@
         "position": "22"
     },
     {
-        "card_name": "Firebelly Brew",
+        "card_name": "Firebite Infusion",
         "number": 145,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "40"
+        "position": "39"
     },
     {
         "card_name": "Ravenous Barktail",
@@ -1437,7 +1437,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "59"
+        "position": "58"
     },
     {
         "card_name": "Rootguard Sentry",
@@ -1464,12 +1464,12 @@
         "position": "21"
     },
     {
-        "card_name": "Firebite Infusion",
-        "number": 146,
+        "card_name": "Flash of Resolve",
+        "number": 147,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "39"
+        "position": "38"
     },
     {
         "card_name": "Sunfruit Harvester",
@@ -1504,12 +1504,12 @@
         "position": "28"
     },
     {
-        "card_name": "Flash of Resolve",
-        "number": 148,
+        "card_name": "Grisly Keepsake",
+        "number": 150,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "38"
+        "position": "41"
     },
     {
         "card_name": "Sylvan Purity",
@@ -1517,7 +1517,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "66"
+        "position": "65"
     },
     {
         "card_name": "Strike Through the Grass",
@@ -1541,15 +1541,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "263"
+        "position": "262"
     },
     {
-        "card_name": "Grisly Keepsake",
+        "card_name": "Incite Chaos",
         "number": 151,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "41"
+        "position": "56"
     },
     {
         "card_name": "Taste Test",
@@ -1557,7 +1557,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "70"
+        "position": "69"
     },
     {
         "card_name": "Uplifting Alchemy",
@@ -1584,12 +1584,12 @@
         "position": "26"
     },
     {
-        "card_name": "Incite Chaos",
+        "card_name": "Kindle the Swarm",
         "number": 152,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "56"
+        "position": "306"
     },
     {
         "card_name": "Valley Mender Giant",
@@ -1597,7 +1597,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "65"
+        "position": "64"
     },
     {
         "card_name": "Wildflower Wanderer",
@@ -1605,7 +1605,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "301"
+        "position": "300"
     },
     {
         "card_name": "Shimmering Lake Scuttler",
@@ -1613,7 +1613,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "304"
+        "position": "303"
     },
     {
         "card_name": "Vitality Extraction",
@@ -1637,7 +1637,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "67"
+        "position": "66"
     },
     {
         "card_name": "er"
@@ -1658,7 +1658,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "254"
+        "position": "253"
     },
     {
         "card_name": "Formula Shaper",
@@ -1666,7 +1666,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "115"
+        "position": "114"
     },
     {
         "card_name": "Bramble, Wings of Malice",
@@ -1674,7 +1674,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "255"
+        "position": "254"
     },
     {
         "card_name": "Gourd, the Overgrown",
@@ -1682,7 +1682,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "256"
+        "position": "255"
     },
     {
         "card_name": "Divine Herdmaster",
@@ -1690,7 +1690,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "261"
+        "position": "260"
     },
     {
         "card_name": "Knowledge Whisperer",
@@ -1698,7 +1698,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "233"
+        "position": "232"
     },
     {
         "card_name": "Graveplasm",
@@ -1706,7 +1706,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "234"
+        "position": "233"
     },
     {
         "card_name": "Hollow Rider",
@@ -1714,7 +1714,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "224"
+        "position": "223"
     },
     {
         "card_name": "Village Leveler",
@@ -1722,7 +1722,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "236"
+        "position": "235"
     },
     {
         "card_name": "Cranky Ol' Tommon",
@@ -1730,7 +1730,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "231"
+        "position": "230"
     },
     {
         "card_name": "Naydel, Guide of Mists",
@@ -1738,7 +1738,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "223"
+        "position": "222"
     },
     {
         "card_name": "Maeve Nightshade",
@@ -1746,7 +1746,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "297"
+        "position": "296"
     },
     {
         "card_name": "Vile Deeds",
@@ -1754,7 +1754,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "235"
+        "position": "234"
     },
     {
         "card_name": "Wildrite Channeler",
@@ -1762,7 +1762,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "225"
+        "position": "224"
     },
     {
         "card_name": "Justiciar of the Equinox",
@@ -1770,7 +1770,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "232"
+        "position": "231"
     },
     {
         "card_name": "Sanitarium Matron",
@@ -1778,7 +1778,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "90"
+        "position": "89"
     },
     {
         "card_name": "Corinna, Catalyst Genious",
@@ -1786,7 +1786,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "92"
+        "position": "91"
     },
     {
         "card_name": "Grel, Court-Caller Minstrel",
@@ -1794,7 +1794,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "95"
+        "position": "94"
     },
     {
         "card_name": "Blazing Root Brute",
@@ -1802,7 +1802,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "93"
+        "position": "92"
     },
     {
         "card_name": "Holly, Faithful Apiarist",
@@ -1810,7 +1810,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "98"
+        "position": "97"
     },
     {
         "card_name": "Shifting Pendant",
@@ -1818,7 +1818,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "109"
+        "position": "108"
     },
     {
         "card_name": "Runoff Monstrosity",
@@ -1826,7 +1826,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "91"
+        "position": "90"
     },
     {
         "card_name": "Needletooth Coven",
@@ -1834,7 +1834,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "96"
+        "position": "95"
     },
     {
         "card_name": "Searing Growth",
@@ -1842,7 +1842,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "94"
+        "position": "93"
     },
     {
         "card_name": "Woad-Flute Harmonizer",
@@ -1850,7 +1850,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "97"
+        "position": "96"
     },
     {
         "card_name": "er"
@@ -1873,7 +1873,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "259"
+        "position": "258"
     },
     {
         "card_name": "Winry, Ascended Battlemage",
@@ -1881,7 +1881,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "258"
+        "position": "257"
     },
     {
         "card_name": "Monarch of the Lost Cycle",
@@ -1889,15 +1889,15 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "260"
+        "position": "259"
     },
     {
-        "card_name": "Thistle, Sting of Whimsy",
+        "card_name": "Thistle, Whimsy's Sting",
         "number": 245,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "262"
+        "position": "261"
     },
     {
         "card_name": "Oddity Forager",
@@ -1905,7 +1905,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "257"
+        "position": "256"
     },
     {
         "card_name": "Envoy of Shadows",
@@ -1913,7 +1913,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "239"
+        "position": "238"
     },
     {
         "card_name": "Nettle, Sparkwing Prodigy",
@@ -1921,7 +1921,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "227"
+        "position": "226"
     },
     {
         "card_name": "Rotmonger",
@@ -1929,7 +1929,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "230"
+        "position": "229"
     },
     {
         "card_name": "Clover, Shieldbreaker",
@@ -1937,7 +1937,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "238"
+        "position": "237"
     },
     {
         "card_name": "Illicit Transcription",
@@ -1945,7 +1945,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "237"
+        "position": "236"
     },
     {
         "card_name": "Mirth, Umbral Mistress",
@@ -1953,7 +1953,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "229"
+        "position": "228"
     },
     {
         "card_name": "Purge the Archives",
@@ -1961,7 +1961,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "240"
+        "position": "239"
     },
     {
         "card_name": "Winds of Decay",
@@ -1969,7 +1969,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "241"
+        "position": "240"
     },
     {
         "card_name": "Swarmlings",
@@ -1977,7 +1977,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "228"
+        "position": "227"
     },
     {
         "card_name": "Tresspassing Forager",
@@ -1985,7 +1985,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "226"
+        "position": "225"
     },
     {
         "card_name": "Creeping Fatemother",
@@ -1993,7 +1993,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "99"
+        "position": "98"
     },
     {
         "card_name": "Stormflux Theorist",
@@ -2001,7 +2001,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "101"
+        "position": "100"
     },
     {
         "card_name": "Exhumer of the Fens",
@@ -2009,7 +2009,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "103"
+        "position": "102"
     },
     {
         "card_name": "Swarmcaller Marshal",
@@ -2017,7 +2017,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "105"
+        "position": "104"
     },
     {
         "card_name": "Myrtlewort Trickster",
@@ -2025,7 +2025,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "107"
+        "position": "106"
     },
     {
         "card_name": "Inevitable Enforcer",
@@ -2033,7 +2033,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "100"
+        "position": "99"
     },
     {
         "card_name": "Yvryg, Echo Manifest",
@@ -2041,7 +2041,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "102"
+        "position": "101"
     },
     {
         "card_name": "Tombyard Celebrant",
@@ -2049,7 +2049,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "104"
+        "position": "103"
     },
     {
         "card_name": "Warthorn Stinger",
@@ -2057,7 +2057,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "106"
+        "position": "105"
     },
     {
         "card_name": "Streamside Awakener",
@@ -2065,7 +2065,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "108"
+        "position": "107"
     },
     {
         "card_name": "er"
@@ -2086,7 +2086,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "253"
+        "position": "252"
     },
     {
         "card_name": "Crow's Scythe",
@@ -2094,7 +2094,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "274"
+        "position": "273"
     },
     {
         "card_name": "Resurrection Potion",
@@ -2102,7 +2102,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "242"
+        "position": "241"
     },
     {
         "card_name": "Sinister Scarecrow",
@@ -2110,7 +2110,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "243"
+        "position": "242"
     },
     {
         "card_name": "Comforting Candle",
@@ -2118,7 +2118,7 @@
         "shape": "transform double faced",
         "set": "HHRR",
         "rotated": false,
-        "position": "280"
+        "position": "279"
     },
     {
         "card_name": "Grainfield Guardian",
@@ -2126,7 +2126,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "166"
+        "position": "165"
     },
     {
         "card_name": "Herbal Safeguard",
@@ -2134,7 +2134,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "168"
+        "position": "167"
     },
     {
         "card_name": "Pocket Potion",
@@ -2142,7 +2142,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "167"
+        "position": "166"
     },
     {
         "card_name": "Cursed Tome",
@@ -2150,7 +2150,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "75"
+        "position": "74"
     },
     {
         "card_name": "Drifting Scarecrow",
@@ -2158,7 +2158,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "71"
+        "position": "70"
     },
     {
         "card_name": "Harvesting Tools",
@@ -2166,7 +2166,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "72"
+        "position": "71"
     },
     {
         "card_name": "Hemlock Strawjack",
@@ -2174,7 +2174,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "74"
+        "position": "73"
     },
     {
         "card_name": "Vial of Crone's Grip",
@@ -2182,7 +2182,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "73"
+        "position": "72"
     },
     {
         "card_name": "e"
@@ -2211,7 +2211,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "170"
+        "position": "169"
     },
     {
         "card_name": "Inkwater Boardwalk",
@@ -2219,7 +2219,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "175"
+        "position": "174"
     },
     {
         "card_name": "Deadfall Marsh",
@@ -2227,7 +2227,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "187"
+        "position": "186"
     },
     {
         "card_name": "Fungal Foothills",
@@ -2235,7 +2235,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "173"
+        "position": "172"
     },
     {
         "card_name": "Treeline Meadows",
@@ -2243,7 +2243,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "176"
+        "position": "175"
     },
     {
         "card_name": "er"
@@ -2266,7 +2266,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "172"
+        "position": "171"
     },
     {
         "card_name": "Crimson-Mist Falls",
@@ -2274,7 +2274,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "174"
+        "position": "173"
     },
     {
         "card_name": "Fogfen Crossing",
@@ -2282,7 +2282,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "177"
+        "position": "176"
     },
     {
         "card_name": "Wildflower Valley",
@@ -2290,7 +2290,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "171"
+        "position": "170"
     },
     {
         "card_name": "Veilbrook Basin",
@@ -2298,7 +2298,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "178"
+        "position": "177"
     },
     {
         "card_name": "er"
@@ -2321,7 +2321,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "244"
+        "position": "243"
     },
     {
         "card_name": "Faeverge Pass",
@@ -2329,7 +2329,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "245"
+        "position": "244"
     },
     {
         "card_name": "Alchemist's Cottage",
@@ -2337,7 +2337,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "169"
+        "position": "168"
     },
     {
         "card_name": "Forgotten Garden",
@@ -2345,7 +2345,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "298"
+        "position": "297"
     },
     {
         "card_name": "e"
@@ -2371,47 +2371,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "181"
-    },
-    {
-        "card_name": "Island",
-        "number": 285,
-        "shape": "normal",
-        "set": "HHRR",
-        "rotated": false,
-        "position": "182"
-    },
-    {
-        "card_name": "Swamp",
-        "number": 287,
-        "shape": "normal",
-        "set": "HHRR",
-        "rotated": false,
-        "position": "183"
-    },
-    {
-        "card_name": "Mountain",
-        "number": 289,
-        "shape": "normal",
-        "set": "HHRR",
-        "rotated": false,
-        "position": "184"
-    },
-    {
-        "card_name": "Forest",
-        "number": 291,
-        "shape": "normal",
-        "set": "HHRR",
-        "rotated": false,
-        "position": "185"
-    },
-    {
-        "card_name": "Plains",
-        "number": 283,
-        "shape": "normal",
-        "set": "HHRR",
-        "rotated": false,
-        "position": "275"
+        "position": "180"
     },
     {
         "card_name": "Island",
@@ -2419,7 +2379,47 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "276"
+        "position": "181"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 287,
+        "shape": "normal",
+        "set": "HHRR",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 289,
+        "shape": "normal",
+        "set": "HHRR",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "Forest",
+        "number": 291,
+        "shape": "normal",
+        "set": "HHRR",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Plains",
+        "number": 283,
+        "shape": "normal",
+        "set": "HHRR",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "Island",
+        "number": 285,
+        "shape": "normal",
+        "set": "HHRR",
+        "rotated": false,
+        "position": "275"
     },
     {
         "card_name": "Swamp",
@@ -2427,7 +2427,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "277"
+        "position": "276"
     },
     {
         "card_name": "Mountain",
@@ -2435,7 +2435,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "278"
+        "position": "277"
     },
     {
         "card_name": "Forest",
@@ -2443,7 +2443,7 @@
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "279"
+        "position": "278"
     },
     {
         "card_name": "er"
@@ -2464,7 +2464,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "293"
+        "position": "292"
     },
     {
         "card_name": "Potion",
@@ -2472,7 +2472,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "292"
+        "position": "291"
     },
     {
         "card_name": "Treasure",
@@ -2480,7 +2480,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "294"
+        "position": "293"
     },
     {
         "card_name": "Peasant",
@@ -2488,7 +2488,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "283"
+        "position": "282"
     },
     {
         "card_name": "Rat",
@@ -2496,7 +2496,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "288"
+        "position": "287"
     },
     {
         "card_name": "Faerie Assassin",
@@ -2504,7 +2504,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "284"
+        "position": "283"
     },
     {
         "card_name": "Amarsil",
@@ -2512,7 +2512,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "289"
+        "position": "288"
     },
     {
         "card_name": "Elf Ranger",
@@ -2520,7 +2520,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "290"
+        "position": "289"
     },
     {
         "card_name": "Spider",
@@ -2528,7 +2528,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "299"
+        "position": "298"
     },
     {
         "card_name": "Elemental",
@@ -2536,7 +2536,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "286"
+        "position": "285"
     },
     {
         "card_name": "Faerie Soldier",
@@ -2544,7 +2544,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "287"
+        "position": "286"
     },
     {
         "card_name": "Insect",
@@ -2552,7 +2552,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "285"
+        "position": "284"
     },
     {
         "card_name": "Shade",
@@ -2560,7 +2560,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "282"
+        "position": "281"
     },
     {
         "card_name": "Zombie Soldier",
@@ -2568,7 +2568,7 @@
         "shape": "token",
         "set": "HHRR",
         "rotated": false,
-        "position": "291"
+        "position": "290"
     },
     {
         "card_name": "e"

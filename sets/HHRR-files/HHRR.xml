@@ -582,7 +582,7 @@ When this creature enters, up to one other target creature gets +1/+1 until end 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Dog</type>
+				<type>Creature — Faerie Dog</type>
 				<maintype>Creature</maintype>
 				<manacost>R</manacost>
 				<cmc>1</cmc>
@@ -597,7 +597,7 @@ When this creature enters, up to one other target creature gets +1/+1 until end 
 			<text>When this creature enters, you may discard a card. If you do, choose one —
 • Create a Treasure token.
 • Draw a card.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/33.png" num="131">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/33.png" num="130">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -615,7 +615,7 @@ When this creature enters, up to one other target creature gets +1/+1 until end 
 			<name>Canopy Skirmisher</name>
 			<text>This creature has first strike during your turn.
 Whenever this creature and at least one other creature attack, this creature gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/34.png" num="134">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/34.png" num="133">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -633,7 +633,7 @@ Whenever this creature and at least one other creature attack, this creature gai
 			<name>Burgundy Spire Initiate</name>
 			<text>Emanate — Whenever a nonland permanent you control enters and wasn&apos;t cast, untap this creature. This ability triggers only once each turn.
 {T}: Burgundy Spire Initiate deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/35.png" num="132">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/35.png" num="131">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -650,7 +650,7 @@ Whenever this creature and at least one other creature attack, this creature gai
 		<card>
 			<name>Brambleblood Channeler</name>
 			<text>When this creature enters, exile the top card of your library. You may play that cards until the end of your next turn.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/36.png" num="130">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/36.png" num="129">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -669,7 +669,7 @@ Whenever this creature and at least one other creature attack, this creature gai
 			<text>Reach
 When this creature enters, it deals 2 damage to target creature you don&apos;t control.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/37.png" num="139">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/37.png" num="138">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -687,7 +687,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<name>Flash of Resolve</name>
 			<text>Target creature gains first strike until end of turn.
 Emanate — That creature gains double strike until end of turn instead if a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/38.png" num="148">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/38.png" num="147">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -704,7 +704,7 @@ Emanate — That creature gains double strike until end of turn instead if a non
 			<name>Firebite Infusion</name>
 			<text>Firebite Infusion deals 3 damage to any target.
 Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/39.png" num="146">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/39.png" num="145">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -720,7 +720,7 @@ Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &q
 		<card>
 			<name>Firebelly Brew</name>
 			<text>Firebelly Brew deals 2 damage to target creature. It deals 4 damage to that creature instead if it has a counter on it.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/40.png" num="145">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/40.png" num="144">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -737,7 +737,7 @@ Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &q
 			<name>Grisly Keepsake</name>
 			<text>When this artifact enters, you may discard a card. If you do, draw two cards.
 {R}, {T}, Sacrifice this artifact: Target creature can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/41.png" num="151">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/41.png" num="150">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -959,7 +959,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Cliffside Fury Rouser</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
 Creatures you control with power 4 or greater have haste.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/54.png" num="136">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/54.png" num="135">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -977,7 +977,7 @@ Creatures you control with power 4 or greater have haste.</text>
 			<name>Devious Pyroweevil</name>
 			<text>When this creature enters, create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {T}: Add {R}.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/55.png" num="142">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/55.png" num="140">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -996,7 +996,7 @@ Creatures you control with power 4 or greater have haste.</text>
 			<text>Choose one —
 • Exile the top three cards of your library. You may play one of them until the end of your next turn.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/56.png" num="152">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/56.png" num="151">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1010,28 +1010,10 @@ Creatures you control with power 4 or greater have haste.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Dance of Embers</name>
-			<text>Enchant creature
-When this Aura enters, enchanted creature gains menace until end of turn.
-Enchanted creature gets +1/+0 and has haste.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/57.png" num="140">HHRR</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Grovetender Druid</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 When this creature enters, untap target creature you control.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/58.png" num="177">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/57.png" num="177">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1049,7 +1031,7 @@ When this creature enters, untap target creature you control.</text>
 			<name>Ravenous Barktail</name>
 			<text>When this creature dies, look at the top card of your library. If that card is a land card, you may reveal it and put it into your hand.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/59.png" num="190">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/58.png" num="190">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1067,7 +1049,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Orchard Ranger</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 Reach (This creature can block creatures with flying.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/60.png" num="188">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/59.png" num="188">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1085,7 +1067,7 @@ Reach (This creature can block creatures with flying.)</text>
 			<name>Lumbering Crop-Guard</name>
 			<text>Vigilance, reach
 At the beginning of combat on your turn, if you control a creature with power 4 or greater, this creature gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/61.png" num="183">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/60.png" num="183">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1102,7 +1084,7 @@ At the beginning of combat on your turn, if you control a creature with power 4 
 		<card>
 			<name>Luminous Hart</name>
 			<text>When this creature enters, you may play an additional land this turn.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/62.png" num="184">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/61.png" num="184">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1120,7 +1102,7 @@ At the beginning of combat on your turn, if you control a creature with power 4 
 			<name>Gentle Loamtender</name>
 			<text>When this creature dies, put a +1/+1 counter on target creature you control.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/63.png" num="176">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/62.png" num="176">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1138,7 +1120,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Avenger of the Grove</name>
 			<text>When this creature enters, create a 2/2 green Elf Ranger creature with reach.
 This creature can&apos;t be blocked by more than one creature.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/64.png" num="168">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/63.png" num="168">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1156,7 +1138,7 @@ This creature can&apos;t be blocked by more than one creature.</text>
 			<name>Valley Mender Giant</name>
 			<text>Trample, reach
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/65.png" num="202">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/64.png" num="202">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1173,7 +1155,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Sylvan Purity</name>
 			<text>Destroy target artifact, enchantment, or creature with flying.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/66.png" num="197">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/65.png" num="197">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1189,7 +1171,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Wildroot Aegis</name>
 			<text>Put a +1/+1 counter on target creature. It gains indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/67.png" num="205">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/66.png" num="205">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1206,7 +1188,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<name>Drop of Foxglove</name>
 			<text>Target creature gets +2/+2 and gains deathtouch until end of turn.
 Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/68.png" num="172">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/67.png" num="172">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1222,7 +1204,7 @@ Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &q
 		<card>
 			<name>Bountiful Yield</name>
 			<text>Search your library for a basic land card and put it onto the battlefield tapped, shuffle, then you may harvest. If you do, draw a card. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/69.png" num="170">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/68.png" num="170">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1239,7 +1221,7 @@ Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &q
 			<name>Taste Test</name>
 			<text>When this enchantment enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Whenever a token you control enters, you gain 1 life.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/70.png" num="198">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/69.png" num="198">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1255,7 +1237,7 @@ Whenever a token you control enters, you gain 1 life.</text>
 		<card>
 			<name>Drifting Scarecrow</name>
 			<text>Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/71.png" num="259">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/70.png" num="259">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1273,7 +1255,7 @@ Whenever a token you control enters, you gain 1 life.</text>
 Equipped creature gets +1/+0.
 Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on it.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/72.png" num="261">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/71.png" num="261">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1289,7 +1271,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>{T}: Add one mana of any color.
 {T}: Put a +1/+1 counter on this artifact.
 {2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/73.png" num="268">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/72.png" num="268">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1304,7 +1286,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Hemlock Strawjack</name>
 			<text>Defender (This creature can&apos;t attack.)
 Reach (This creature can block creatures with flying.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/74.png" num="262">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/73.png" num="262">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1320,7 +1302,7 @@ Reach (This creature can block creatures with flying.)</text>
 			<name>Cursed Tome</name>
 			<text>When this artifact enters, scry 2.
 {5}, {T}, Sacrifice this artifact: Destroy target nonland permanent.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/75.png" num="258">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/74.png" num="258">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1335,7 +1317,7 @@ Reach (This creature can block creatures with flying.)</text>
 			<name>Farmshade</name>
 			<text>{1}, Sacrifice this creature: Another target creature you control gains indestructible until end of turn.
 When this creature dies, create a tapped 1/1 white and black Shade creature token.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/76.png" num="12">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/75.png" num="12">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1354,7 +1336,7 @@ When this creature dies, create a tapped 1/1 white and black Shade creature toke
 			<text>Flying
 This creature&apos;s power is equal to the number of creatures you control.
 Other Faeries you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/77.png" num="28">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/76.png" num="28">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1371,7 +1353,7 @@ Other Faeries you control get +1/+1.</text>
 		<card>
 			<name>Grainshare Weavers</name>
 			<text>Whenever one or more other creatures you control enter, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/78.png" num="18">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/77.png" num="18">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1389,7 +1371,7 @@ Other Faeries you control get +1/+1.</text>
 			<name>Grieving Waif</name>
 			<text>Memorialize {1}{W} (You may cast this for {1}{W} if you sacrificed a nonland permanent this turn.)
 Whenever you gain life, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/79.png" num="19">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/78.png" num="19">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1407,7 +1389,7 @@ Whenever you gain life, this creature gets +1/+1 until end of turn.</text>
 			<name>Devout Shadekin</name>
 			<text>Memorialize {2}{W} (You may cast this for {2}{W} if you sacrificed a nonland permanent this turn.)
 When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/80.png" num="8">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/79.png" num="8">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1425,7 +1407,7 @@ When this creature enters, exile up to one other target nonland permanent until 
 			<name>Eccentric Infuser</name>
 			<text>When this creature enters, create a Potion token with a lifelink counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {W}, {T}: Create a Potion token if you don&apos;t control a Potion. Then put a +1/+1 counter on a Potion you control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/81.png" num="9">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/80.png" num="9">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1443,7 +1425,7 @@ When this creature enters, exile up to one other target nonland permanent until 
 			<name>Meadow-Braid Sanctifier</name>
 			<text>Flying
 When this creature enters, you may harvest. When you do, exile another target nonland permanent. Return it to the battlefield tapped under its owner&apos;s control at the beginning of the next end step. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/82.png" num="26">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/81.png" num="26">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1461,7 +1443,7 @@ When this creature enters, you may harvest. When you do, exile another target no
 			<name>Briarbush Forecaster</name>
 			<text>Flying
 Whenever you cast a Faerie spell, scry 1. If this is the second time this ability has resolved this turn, Faeries you control get +1/+1 until end of turn. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/83.png" num="5">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/82.png" num="5">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1478,7 +1460,7 @@ Whenever you cast a Faerie spell, scry 1. If this is the second time this abilit
 		<card>
 			<name>Fieldsworn Exemplar</name>
 			<text>Whenever this creature attacks, you may harvest. If you do, it gains double strike until end of turn. Otherwise, it gains first strike until end of turn. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/84.png" num="14">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/83.png" num="14">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1496,7 +1478,7 @@ Whenever you cast a Faerie spell, scry 1. If this is the second time this abilit
 			<name>Wheatcrest Paladin</name>
 			<text>Vigilance
 When this creature enters, destroy up to one target tapped creature.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/85.png" num="40">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/84.png" num="40">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1513,7 +1495,7 @@ When this creature enters, destroy up to one target tapped creature.</text>
 		<card>
 			<name>Forced Fieldwork</name>
 			<text>Exile target creature. Its controller creates a 1/1 white Peasant creature token with vigilance.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/86.png" num="15">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/85.png" num="15">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1530,7 +1512,7 @@ When this creature enters, destroy up to one target tapped creature.</text>
 			<name>Sanctuary Purge</name>
 			<text>As an additional cost to cast this spell, you may sacrifice a creature.
 Destroy target artifact, enchantment, or creature with power 4 or greater. If this spell&apos;s additional cost was paid, exile target creature instead.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/87.png" num="34">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/86.png" num="34">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1546,7 +1528,7 @@ Destroy target artifact, enchantment, or creature with power 4 or greater. If th
 		<card>
 			<name>Liturgy of Abundance</name>
 			<text>Creatures you control get +2/+0 until end of turn, then you may harvest. If you do, those creatures also gain lifelink until end of turn. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/88.png" num="24">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/87.png" num="24">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1562,7 +1544,7 @@ Destroy target artifact, enchantment, or creature with power 4 or greater. If th
 		<card>
 			<name>Umbral Veil</name>
 			<text>Exile target creature you control. If that creature was a Shade, draw a card. Then return the exiled creature to battlefield under its owner&apos;s control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/89.png" num="38">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/88.png" num="38">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1580,7 +1562,7 @@ Destroy target artifact, enchantment, or creature with power 4 or greater. If th
 			<text>When this creature enters, choose one —
 • Destroy target artifact or enchantment.
 • Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/90.png" num="237">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/89.png" num="237">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1598,7 +1580,7 @@ Destroy target artifact, enchantment, or creature with power 4 or greater. If th
 			<name>Runoff Monstrosity</name>
 			<text>This creature enters with a deathtouch counter on it.
 This creature gets +1/+1 for each different kind of counter on it.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/91.png" num="236">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/90.png" num="236">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1615,7 +1597,7 @@ This creature gets +1/+1 for each different kind of counter on it.</text>
 		<card>
 			<name>Corinna, Catalyst Genious</name>
 			<text>Whenever Corinna enters or attacks, create a Potion token if you don&apos;t control a Potion. Then put your choice of a +1/+1, flying, menace, or lifelink counter on a Potion you control that doesn&apos;t already have a counter of that kind on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/92.png" num="209">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/91.png" num="209">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1633,7 +1615,7 @@ This creature gets +1/+1 for each different kind of counter on it.</text>
 			<name>Blazing Root Brute</name>
 			<text>This creature has trample and haste as long as it has power 4 or greater.
 {RG}: This creature gets +1/-1 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/93.png" num="206">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/92.png" num="206">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1650,7 +1632,7 @@ This creature gets +1/+1 for each different kind of counter on it.</text>
 		<card>
 			<name>Searing Growth</name>
 			<text>Target creature gets +3/+3 and gains trample until end of turn. You may have it deal damage equal to its power to target creature you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/94.png" num="238">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/93.png" num="238">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1667,7 +1649,7 @@ This creature gets +1/+1 for each different kind of counter on it.</text>
 			<name>Grel, Court-Caller Minstrel</name>
 			<text>Menace
 Emanate — Whenever Grel attacks, if a nonland permanent you control entered this turn and wasn&apos;t cast, another target attacking creature gets +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/95.png" num="219">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/94.png" num="219">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1684,7 +1666,7 @@ Emanate — Whenever Grel attacks, if a nonland permanent you control entered th
 		<card>
 			<name>Needletooth Coven</name>
 			<text>At the beginning of combat on your turn, you may pay {2}. If you do, create 2/2 red Faerie Assassin creature token with haste. Sacrifice that token at end of combat.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/96.png" num="231">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/95.png" num="231">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1701,7 +1683,7 @@ Emanate — Whenever Grel attacks, if a nonland permanent you control entered th
 		<card>
 			<name>Woad-Flute Harmonizer</name>
 			<text>Each other nontoken creature you control enters with an additional +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/97.png" num="254">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/96.png" num="254">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1720,7 +1702,7 @@ Emanate — Whenever Grel attacks, if a nonland permanent you control entered th
 			<text>At the beginning of your upkeep, you may harvest. If you do, choose one — (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)
 • Create a 2/1 green and white Insect creature token with flying.
 • Draw a card.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/98.png" num="221">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/97.png" num="221">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1738,7 +1720,7 @@ Emanate — Whenever Grel attacks, if a nonland permanent you control entered th
 			<name>Creeping Fatemother</name>
 			<text>When this creature enters, create a 1/1 white and black Shade creature token.
 {1}, Sacrifice another creature: Each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/99.png" num="211">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/98.png" num="211">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1757,7 +1739,7 @@ Emanate — Whenever Grel attacks, if a nonland permanent you control entered th
 			<text>Memorialize {2}{W}{B} (You may cast this for {2}{W}{B} if you sacrificed a nonland permanent this turn.)
 Menace, lifelink
 Other Shades you control have lifelink.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/100.png" num="223">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/99.png" num="223">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1775,7 +1757,7 @@ Other Shades you control have lifelink.</text>
 			<name>Stormflux Theorist</name>
 			<text>When this creature enters, you may discard a card. If you do, draw a card.
 {U}{R}, {T}: Create a 1/1 blue and red Elemental creature token with prowess. Activate only as a sorcery. (Whenever you cast a noncreature spell, creatures you control with prowess get +1/+1 until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/101.png" num="241">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/100.png" num="241">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1792,7 +1774,7 @@ Other Shades you control have lifelink.</text>
 		<card>
 			<name>Yvryg, Echo Manifest</name>
 			<text>Emanate — Whenever a nonland permanent you control entered this turn and wasn&apos;t cast, the next instant or sorcery spell you cast this turn costs {2} less to cast. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/102.png" num="255">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/101.png" num="255">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1810,7 +1792,7 @@ Other Shades you control have lifelink.</text>
 			<name>Exhumer of the Fens</name>
 			<text>When this creature enters, mill two cards, then return up to one target land or creature card from your graveyard to your hand.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/103.png" num="214">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/102.png" num="214">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1827,7 +1809,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 		<card>
 			<name>Tombyard Celebrant</name>
 			<text>Whenever a creature you control enters from a graveyard for the first time during each of your turns, you may draw a card. If you don&apos;t, return up to one target land card from your graveyard to the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/104.png" num="246">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/103.png" num="246">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1845,7 +1827,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Swarmcaller Marshal</name>
 			<text>Flying
 Whenever this creature enters or you cast another Faerie spell, create a 1/1 red and white Faerie Soldier creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/105.png" num="243">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/104.png" num="243">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1863,7 +1845,7 @@ Whenever this creature enters or you cast another Faerie spell, create a 1/1 red
 			<name>Warthorn Stinger</name>
 			<text>Flying
 Whenever this creature enters or attacks, it deals 1 damage to target opponent for each Faerie that entered this turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/106.png" num="250">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/105.png" num="250">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1882,7 +1864,7 @@ Whenever this creature enters or attacks, it deals 1 damage to target opponent f
 			<text>Flash
 Flying
 When this creature enters, counter target spell unless its controller pays {2}.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/107.png" num="229">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/106.png" num="229">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1900,7 +1882,7 @@ When this creature enters, counter target spell unless its controller pays {2}.<
 			<name>Streamside Awakener</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Whenever this creature enters or you cast a spell during an opponent&apos;s turn, you may untap target permanent. If you don&apos;t, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/108.png" num="242">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/107.png" num="242">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1918,7 +1900,7 @@ Whenever this creature enters or you cast a spell during an opponent&apos;s turn
 			<name>Shifting Pendant</name>
 			<text>When this artifact enters, exile target creature you control. Return it to the battlefield under its owner&apos;s control.
 {T}, Sacrifice this artifact: Exile target creature. Return it to the battlefield tapped under its owner&apos;s control at the beginning of the next end step. If you control that creature, untap it.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/109.png" num="239">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/108.png" num="239">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1936,7 +1918,7 @@ Whenever this creature enters or you cast a spell during an opponent&apos;s turn
 			<text>Flash
 Flying
 {2}{U}, Exile this card from your graveyard: Return target instant or creature card with flash from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/110.png" num="64">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/109.png" num="64">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1953,7 +1935,7 @@ Flying
 		<card>
 			<name>Incantation Cataloger</name>
 			<text>When this creature enters, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. If you do, put the rest on the bottom of your library in any order.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/111.png" num="60">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/110.png" num="60">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1971,7 +1953,7 @@ Flying
 			<name>Masterful Infusionist</name>
 			<text>When this creature enters, create a Potion token with a flying counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {U}, {T}: Create a Potion token if you don&apos;t control a Potion. Then put a +1/+1 counter on a Potion you control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/112.png" num="63">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/111.png" num="63">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1989,7 +1971,7 @@ Flying
 			<name>Shadow Shrieker</name>
 			<text>Flying
 Whenever this creature deals combat damage to a player, you may draw a card. If you don&apos;t, untap this creature.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/113.png" num="72">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/112.png" num="72">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2008,7 +1990,7 @@ Whenever this creature deals combat damage to a player, you may draw a card. If 
 			<text>Flash
 When this creature enters, exile up to one other target creature. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
 {3}{U}, {T}: Return target creature you control to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/114.png" num="74">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/113.png" num="74">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2025,7 +2007,7 @@ When this creature enters, exile up to one other target creature. Return it to t
 		<card>
 			<name>Formula Shaper</name>
 			<text>When this creature enters, exile creature cards from graveyards, then create a Potion token. The token enters with a flying counter on it if a card exiled this way had flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/115.png" num="215">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/114.png" num="215">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2043,7 +2025,7 @@ When this creature enters, exile up to one other target creature. Return it to t
 			<name>Inquisitive Examiner</name>
 			<text>When this creature enters, create a Potion token with a prowess and a vigilance counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 Whenever you sacrifice a Potion with two or more counters on it, draw a card.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/116.png" num="61">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/115.png" num="61">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2061,7 +2043,7 @@ Whenever you sacrifice a Potion with two or more counters on it, draw a card.</t
 			<name>Tattercloak Presence</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 When this creature enters, return target nonland permanent an opponent controls to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/117.png" num="76">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/116.png" num="76">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2081,7 +2063,7 @@ When this creature enters, return target nonland permanent an opponent controls 
 Enchant creature
 When this Aura enters, tap enchanted creature.
 Enchanted creature doesn&apos;t untap during its controller&apos;s untap step and its activated abilities can&apos;t be activated.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/118.png" num="56">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/117.png" num="56">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2098,7 +2080,7 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step an
 			<name>Calcinate</name>
 			<text>Emanate — This spell costs {1}{U} less to cast if a nonland permanent you control entered this turn and wasn&apos;t cast.
 Counter target spell.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/119.png" num="49">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/118.png" num="49">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2115,7 +2097,7 @@ Counter target spell.</text>
 			<name>Twisted Machinations</name>
 			<text>Move a counter from target creature or artifact onto another target creature or artifact.
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/120.png" num="80">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/119.png" num="80">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2131,7 +2113,7 @@ Draw a card.</text>
 		<card>
 			<name>Thirst for Answers</name>
 			<text>Draw three cards, then discard two cards unless you discard an instant or sorcery card.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/121.png" num="78">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/120.png" num="78">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2147,7 +2129,7 @@ Draw a card.</text>
 		<card>
 			<name>Compulsory Reading</name>
 			<text>Tap X target creatures, distribute three stun counters among tapped creatures your opponents control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/122.png" num="50">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/121.png" num="50">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2163,7 +2145,7 @@ Draw a card.</text>
 		<card>
 			<name>Tincture Trade</name>
 			<text>Exchange control of target artifact or enchantment you control and target permanent an opponent controls that shares one of those types with it.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/123.png" num="79">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/122.png" num="79">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2180,7 +2162,7 @@ Draw a card.</text>
 			<name>Dialectician Mentor</name>
 			<text>Whenever you cast a spell during an opponent&apos;s turn, untap target creature or artifact you control.
 Whenever an opponent casts a spell during your turn, scry 2.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/124.png" num="53">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/123.png" num="53">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2198,7 +2180,7 @@ Whenever an opponent casts a spell during your turn, scry 2.</text>
 			<name>Insatiable Umbra</name>
 			<text>Lifelink
 Sacrifice a creature: This creature gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/125.png" num="103">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/124.png" num="103">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2216,7 +2198,7 @@ Sacrifice a creature: This creature gets +1/+1 until end of turn.</text>
 			<name>Dusk-Rose Acolyte</name>
 			<text>When this creature enters, create a Potion token with a deathtouch counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {B}, {T}: Create a Potion token if you don&apos;t control a Potion. Then put +1/+1 counter on a Potion you control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/126.png" num="95">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/125.png" num="95">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2234,7 +2216,7 @@ Sacrifice a creature: This creature gets +1/+1 until end of turn.</text>
 			<name>Resurgent Residue</name>
 			<text>{1}{B}, {T}: Remove a counter from this creature.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/127.png" num="113">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/126.png" num="113">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2251,7 +2233,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 		<card>
 			<name>Forbidden Ingredients</name>
 			<text>Destroy target creature. If it had counters on it, create a Potion token with those counters on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/128.png" num="98">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/127.png" num="98">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2268,7 +2250,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Zealous Fateweaver</name>
 			<text>Memorialize {2}{B} (You may cast this for {2}{B} if you sacrificed a nonland permanent this turn.)
 Whenever this creature or another nontoken creature dies, create a 1/1 white and black Shade creature token.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/129.png" num="123">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/128.png" num="123">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2285,7 +2267,7 @@ Whenever this creature or another nontoken creature dies, create a 1/1 white and
 		<card>
 			<name>Plaguefield Shambler</name>
 			<text>Emanate — When this creature enters, if a nonland permanent you control entered this turn and wasn&apos;t cast, target creature you don&apos;t control gets -2/-2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/130.png" num="110">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/129.png" num="110">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2303,7 +2285,7 @@ Whenever this creature or another nontoken creature dies, create a 1/1 white and
 			<name>Carcass Claimer</name>
 			<text>Flying, deathtouch
 Whenever a creature with one or more kinds of counters on it dies, each opponent loses that much life.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/131.png" num="85">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/130.png" num="85">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2321,7 +2303,7 @@ Whenever a creature with one or more kinds of counters on it dies, each opponent
 			<name>Putrid Kelpie</name>
 			<text>When this creature dies, if it had decayed, put a decayed counter on up to one target creature.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/132.png" num="111">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/131.png" num="111">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2339,7 +2321,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Sanity Robber</name>
 			<text>Flying
 When this creature enters, target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/133.png" num="115">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/132.png" num="115">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2358,7 +2340,7 @@ When this creature enters, target opponent reveals their hand. You choose a nonc
 			<text>Choose one —
 • Destroy target creature with one or more counters on it.
 • Target creature gets -2/-2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/134.png" num="102">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/133.png" num="102">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2375,7 +2357,7 @@ When this creature enters, target opponent reveals their hand. You choose a nonc
 			<name>Rules of Reckoning</name>
 			<text>Memorialize {B} (You may cast this for {B} if you sacrificed a nonland permanent this turn.)
 All creatures get -1/-1 until end of turn. Until end of turn, whenever a creature dies, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/135.png" num="114">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/134.png" num="114">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2392,7 +2374,7 @@ All creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 			<name>Dark Court Whispers</name>
 			<text>When this enchantment enters, return target creature card from your graveyard to your hand.
 {2}{B}, Sacrifice a creature: Return this enchantment to your hand.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/136.png" num="89">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/135.png" num="89">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2408,7 +2390,7 @@ All creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 		<card>
 			<name>Defiled Return</name>
 			<text>Return target creature card from a graveyard to the battlefield. Then if you don&apos;t own that creature, put a decayed counter on it. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/137.png" num="91">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/136.png" num="91">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2424,7 +2406,7 @@ All creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 		<card>
 			<name>Overspill</name>
 			<text>Put a menace counter on up to one target Potion you control, then choose a permanent you control. For each kind of counter on that permanent, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/138.png" num="108">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/137.png" num="108">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2441,7 +2423,7 @@ All creatures get -1/-1 until end of turn. Until end of turn, whenever a creatur
 			<name>Bloodletter Pixie</name>
 			<text>Flying
 Whenever another creature you control enters, this creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/139.png" num="128">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/138.png" num="128">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2459,7 +2441,7 @@ Whenever another creature you control enters, this creature deals 1 damage to ea
 			<name>Vitriol Transmuter</name>
 			<text>When this creature enters, create a Potion token with a menace counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {R}, {T}: Create a Potion token if you don&apos;t control a Potion. Then put a +1/+1 counter on a Potion you control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/140.png" num="164">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/139.png" num="164">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2477,7 +2459,7 @@ Whenever another creature you control enters, this creature deals 1 damage to ea
 			<name>Glimmersap Gatherer</name>
 			<text>This creature has first strike during your turn.
 Other Faeries you control have menace.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/141.png" num="150">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/140.png" num="149">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2495,7 +2477,7 @@ Other Faeries you control have menace.</text>
 			<name>Vale Multiye</name>
 			<text>Trample
 When this creature enters, if you control a creature with power 4 or greater, this creature gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/142.png" num="163">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/141.png" num="163">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2512,7 +2494,7 @@ When this creature enters, if you control a creature with power 4 or greater, th
 		<card>
 			<name>Emanator Mage</name>
 			<text>Emanate — Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent. If a nonland permanent you control entered this turn and wasn&apos;t cast, this creature deals 3 damage to each opponent instead.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/143.png" num="143">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/142.png" num="141">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2530,7 +2512,7 @@ When this creature enters, if you control a creature with power 4 or greater, th
 			<name>Burgundy Tome Hoarder</name>
 			<text>Flying
 When this creature enters, exile the top two cards of your library. You may play those cards until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/144.png" num="133">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/143.png" num="132">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2548,7 +2530,7 @@ When this creature enters, exile the top two cards of your library. You may play
 			<name>Crone&apos;s Hex</name>
 			<text>Crone&apos;s Hex deals 2 damage divided as you choose among up to two target creatures.
 Crone&apos;s Hex deals 1 damage to target player.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/145.png" num="138">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/144.png" num="137">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2566,7 +2548,7 @@ Crone&apos;s Hex deals 1 damage to target player.</text>
 			<text>Destroy target artifact, then choose one —
 • Shatter Flask deals 3 damage to that artifact&apos;s controller.
 • Create a Potion token with two +1/+1 counters on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/146.png" num="161">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/145.png" num="161">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2582,7 +2564,7 @@ Crone&apos;s Hex deals 1 damage to target player.</text>
 		<card>
 			<name>Controlled Burn</name>
 			<text>Controlled Burn deals 2 damage to each creature. If a total of 10 or more damage was dealt this way, add {R}{R}{R}{R}.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/147.png" num="137">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/146.png" num="136">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2599,7 +2581,7 @@ Crone&apos;s Hex deals 1 damage to target player.</text>
 			<name>Frenzied Discovery</name>
 			<text>As an additional cost to cast this spell discard a card.
 Emanate — Draw two cards. if a nonland permanent you control entered this turn and wasn&apos;t cast, draw three cards instead.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/148.png" num="149">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/147.png" num="148">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2617,7 +2599,7 @@ Emanate — Draw two cards. if a nonland permanent you control entered this turn
 			<text>Choose one —
 • Terminal Discharge deals 6 damage to target creature. If that creature would die this turn, exile it instead.
 • Terminal Discharge deals 2 damage to each creature you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/149.png" num="162">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/148.png" num="162">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2631,11 +2613,11 @@ Emanate — Draw two cards. if a nonland permanent you control entered this turn
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Bloodlust Blade</name>
-			<text>When this Equipment enters, attach it to target creature you control. That creature gains double strike until end of turn.
+			<name>Fidget&apos;s Thorn</name>
+			<text>When this Equipment enters, you may attach it to target Faerie you control. If you do, that creature gains double strike until end of turn.
 Equipped creature gets +2/+0.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/150.png" num="129">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/149.png" num="143">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2653,7 +2635,7 @@ Equip {2}</text>
 			<text>Reach
 When this creature enters, mill two cards.
 Sacrifice this creature: Return target basic land card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/151.png" num="175">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/150.png" num="175">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2670,7 +2652,7 @@ Sacrifice this creature: Return target basic land card from your graveyard to yo
 		<card>
 			<name>Alyra&apos;s Dignitary</name>
 			<text>When this creature enters, you may harvest. If you do, search your library for a basic land card and put it onto the battlefield tapped and shuffle. Otherwise, put a +1/+1 counter on target creature you control. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/152.png" num="166">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/151.png" num="166">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2688,7 +2670,7 @@ Sacrifice this creature: Return target basic land card from your graveyard to yo
 			<name>Hermetic Vessel-Keeper</name>
 			<text>When this creature enters, create a Potion token with a trample counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {G}, {T}: Create a Potion token if you don&apos;t control a Potion. Create a Potion token if you don&apos;t control a Potion. Then put +1/+1 counter on a Potion you control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/153.png" num="181">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/152.png" num="181">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2705,7 +2687,7 @@ Sacrifice this creature: Return target basic land card from your graveyard to yo
 		<card>
 			<name>Treeline Watcher</name>
 			<text>When this creature enters, if you control a creature with power 4 or greater, return up to one target permanent from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/154.png" num="201">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/153.png" num="201">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2724,7 +2706,7 @@ Sacrifice this creature: Return target basic land card from your graveyard to yo
 			<text>Flash
 Reach
 Whenever this creature or another creature you control enters during an opponent&apos;s turn, put a +1/+1 counter on that creature.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/155.png" num="189">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/154.png" num="189">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2742,7 +2724,7 @@ Whenever this creature or another creature you control enters during an opponent
 			<name>Rotrunner Brute</name>
 			<text>Creatures you control with decayed have trample.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/156.png" num="192">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/155.png" num="192">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2760,7 +2742,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Harvest Warden</name>
 			<text>Vigilance
 Whenever this creature attacks, you may harvest. If you do, it gets +2/+2 until end of turn. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/157.png" num="180">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/156.png" num="180">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2778,7 +2760,7 @@ Whenever this creature attacks, you may harvest. If you do, it gets +2/+2 until 
 			<name>Rustgill River-Mixers</name>
 			<text>When this creature enters, create a Potion token with a deathtouch counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 When this creature dies, untap each tapped creature you control.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/158.png" num="194">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/157.png" num="194">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2796,7 +2778,7 @@ When this creature dies, untap each tapped creature you control.</text>
 			<name>Eithana, Treepaw Scout</name>
 			<text>Whenever you cast a creature spell, put a +1/+1 counter on Eithana.
 {G}, {T}, Remove any number of counters from Eithana: Create Amarsil, a legendary X/X green Wolf creature token with trample, where X is the number of counters removed this way. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/159.png" num="174">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/158.png" num="174">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2815,7 +2797,7 @@ When this creature dies, untap each tapped creature you control.</text>
 			<text>Trample
 Creatures you control with decayed get +1/+1.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/160.png" num="187">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/159.png" num="187">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2832,7 +2814,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 		<card>
 			<name>Bloomsurge</name>
 			<text>Look at the top five cards of your library. Put up to two basic land cards from among them onto the battlefield tapped, then put the rest into your graveyard or on the bottom of your library in any order.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/161.png" num="169">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/160.png" num="169">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2848,7 +2830,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 		<card>
 			<name>Rotting Strength</name>
 			<text>Put a decayed counter on target creature you control. It gets +2/+2 until end of turn. You may have that creature fight target creature you don&apos;t control. (A decayed creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/162.png" num="193">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/161.png" num="193">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2865,7 +2847,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Reactive Remedy</name>
 			<text>Create a Potion token with two +1/+1 counters on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 Until end of turn, you may activate abilities of Potions at any time you could play an instant.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/163.png" num="191">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/162.png" num="191">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2882,7 +2864,7 @@ Until end of turn, you may activate abilities of Potions at any time you could p
 			<name>Territory Encroachment</name>
 			<text>When this enchantment enters, target creature you control must be blocked this turn if able. If that creature has power 4 or greater, draw a card.
 Whenever a creature you control with power 4 or greater enters, draw a card.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/164.png" num="199">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/163.png" num="199">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2900,7 +2882,7 @@ Whenever a creature you control with power 4 or greater enters, draw a card.</te
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 Enchant creature
 Enchanted creature gets +3/+3.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/165.png" num="185">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/164.png" num="185">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2917,7 +2899,7 @@ Enchanted creature gets +3/+3.</text>
 			<name>Grainfield Guardian</name>
 			<text>{T}: Add one mana of any color.
 {2}, {T}, Sacrifice this creature: Exile target opponent&apos;s graveyard.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/166.png" num="260">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/165.png" num="260">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2934,7 +2916,7 @@ Enchanted creature gets +3/+3.</text>
 			<text>Flash
 This artifact enters with your choice of a counter on it from among flying, haste, lifelink, menace, trample, or vigilance.
 {2}, {T}, Sacrifice this artifact: Put its counters on target creature.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/167.png" num="265">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/166.png" num="265">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2949,7 +2931,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<name>Herbal Safeguard</name>
 			<text>This artifact enters with a +1/+1 and a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 {2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/168.png" num="263">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/167.png" num="263">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2964,7 +2946,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<name>Alchemist&apos;s Cottage</name>
 			<text>{T}: Add {C}.
 {3}, {T}: Create a Potion token if you don&apos;t control a Potion. Create a Potion token if you don&apos;t control a Potion. Then put +1/+1 counter on a Potion you control. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/169.png" num="269">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/168.png" num="269">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2980,7 +2962,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {W} or {U}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/170.png" num="278">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/169.png" num="278">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2997,7 +2979,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/171.png" num="282">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/170.png" num="282">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3014,7 +2996,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/172.png" num="274">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/171.png" num="274">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3031,7 +3013,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {R} or {G}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/173.png" num="277">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/172.png" num="277">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3048,7 +3030,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/174.png" num="271">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/173.png" num="271">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3065,7 +3047,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/175.png" num="279">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/174.png" num="279">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3082,7 +3064,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/176.png" num="280">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/175.png" num="280">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3099,7 +3081,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {B} or {G}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/177.png" num="275">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/176.png" num="275">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3116,7 +3098,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/178.png" num="281">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/177.png" num="281">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3132,7 +3114,7 @@ This artifact enters with your choice of a counter on it from among flying, hast
 			<name>Idina, Abundant Caretaker</name>
 			<text>When Idina enters, put a vigilance counter on up to one target creature or artifact you control.
 Creatures you control with one or more counters on them get +1/+1 and have &quot;Ward—Harvest.&quot; (Whenever that creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2} or removes a +1/+1 counter from a permanent they control.)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/179.png" num="22">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/178.png" num="22">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3150,7 +3132,7 @@ Creatures you control with one or more counters on them get +1/+1 and have &quot
 			<name>Bramblewing Ambusher</name>
 			<text>Flying
 Whenever this creature attacks, you may put a creature card with mana value X or less from your hand onto the battlefield tapped and attacking, where X is the number of attacking creatures you control.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/180.png" num="4">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/179.png" num="4">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3167,7 +3149,7 @@ Whenever this creature attacks, you may put a creature card with mana value X or
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/181.png" num="284">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/180.png" num="284">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3182,7 +3164,7 @@ Whenever this creature attacks, you may put a creature card with mana value X or
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/182.png" num="285">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/181.png" num="286">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3197,7 +3179,7 @@ Whenever this creature attacks, you may put a creature card with mana value X or
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/183.png" num="287">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/182.png" num="287">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3212,7 +3194,7 @@ Whenever this creature attacks, you may put a creature card with mana value X or
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/184.png" num="289">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/183.png" num="289">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3227,7 +3209,7 @@ Whenever this creature attacks, you may put a creature card with mana value X or
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/185.png" num="291">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/184.png" num="291">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3244,7 +3226,7 @@ Whenever this creature attacks, you may put a creature card with mana value X or
 			<text>Kicker {2}{R} (You may pay an additional {2}{R} as you cast this spell.)
 Menace
 When this creature enters, if it was kicked, gain control of target creature an opponent controls until end of turn and untap it. It gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/186.png" num="158">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/185.png" num="158">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3263,7 +3245,7 @@ When this creature enters, if it was kicked, gain control of target creature an 
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 {T}, Sacrifice this land: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/187.png" num="272">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/186.png" num="272">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3280,7 +3262,7 @@ When this creature enters, if it was kicked, gain control of target creature an 
 			<text>Lifelink
 Sacrifice this creature: Target creature you control gains hexproof until end of turn.
 When this creature dies, create X 1/1 white and black Shade creature tokens, where X is the amount of life you gained this turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/188.png" num="2">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/187.png" num="2">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3298,7 +3280,7 @@ When this creature dies, create X 1/1 white and black Shade creature tokens, whe
 			<name>Alessa, Warden Paragon</name>
 			<text>Vigilance
 Whenever Alessa attacks, exile up to one other target creature you own, then return it to the battlefield under your control tapped and attacking.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/189.png" num="1">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/188.png" num="1">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3315,7 +3297,7 @@ Whenever Alessa attacks, exile up to one other target creature you own, then ret
 		<card>
 			<name>Devoted Dinner-Caller</name>
 			<text>When this creature enters, distribute X +1/+1 counters among any number of creatures you control.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/190.png" num="7">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/189.png" num="7">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3332,7 +3314,7 @@ Whenever Alessa attacks, exile up to one other target creature you own, then ret
 		<card>
 			<name>Fallow the Farmland</name>
 			<text>Destroy all creatures and tokens. Each opponent can&apos;t create tokens until the end of their next turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/191.png" num="11">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/190.png" num="11">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3348,7 +3330,7 @@ Whenever Alessa attacks, exile up to one other target creature you own, then ret
 		<card>
 			<name>Preserved Essence</name>
 			<text>When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield. Then create a Potion token with X +1/+1 counters on it, where X is the exiled creature&apos;s mana value. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/192.png" num="30">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/191.png" num="30">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3364,7 +3346,7 @@ Whenever Alessa attacks, exile up to one other target creature you own, then ret
 		<card>
 			<name>Hallowed Blessing</name>
 			<text>Exile target permanent you own, then return it to the battlefield under its owner&apos;s control with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/193.png" num="20">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/192.png" num="20">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3380,7 +3362,7 @@ Whenever Alessa attacks, exile up to one other target creature you own, then ret
 		<card>
 			<name>Coralia Trickweaver</name>
 			<text>Whenever you cast a noncreature spell during an opponent&apos;s turn, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/194.png" num="51">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/193.png" num="51">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3398,7 +3380,7 @@ Whenever Alessa attacks, exile up to one other target creature you own, then ret
 			<name>Distillation Savant</name>
 			<text>Whenever one or more of a kind of counter not already on this creature are put onto it, create a Potion token with that kind of counter on it and draw a card. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {T}: Move a counter from another target creature or artifact you control onto this creature.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/195.png" num="54">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/194.png" num="54">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3418,7 +3400,7 @@ Whenever Alessa attacks, exile up to one other target creature you own, then ret
 Flying
 When this creature enters, counter up to one target activated or triggered ability.
 Whenever this creature deals combat damage to a player, draw a card.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/196.png" num="65">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/195.png" num="65">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3435,7 +3417,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 		<card>
 			<name>Dennig, Stoic Demonstrator</name>
 			<text>Emanate — You may look at the top card of your library any time. You may cast instant or sorcery spells from the top of your library as long as a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/197.png" num="52">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/196.png" num="52">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3453,7 +3435,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 			<name>Aethergate Cleric</name>
 			<text>When this creature enters, scry 2, then mill three cards.
 {U}, {T}: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/198.png" num="43">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/197.png" num="43">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3471,7 +3453,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 			<name>Tempo Flux</name>
 			<text>Spells you cast during an opponent&apos;s turn cost {1} less to cast.
 Spells opponents cast during your turn cost {1} more to cast.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/199.png" num="77">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/198.png" num="77">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3487,7 +3469,7 @@ Spells opponents cast during your turn cost {1} more to cast.</text>
 		<card>
 			<name>Refract</name>
 			<text>Counter target spell. You may cast a noncreature spell with equal or lesser mana value from your hand without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/200.png" num="68">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/199.png" num="68">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3504,7 +3486,7 @@ Spells opponents cast during your turn cost {1} more to cast.</text>
 			<name>Vaporous Elevation</name>
 			<text>Put a flying counter on target creature you control.
 Target player draws a card for each kind of counter among permanents they control.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/201.png" num="81">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/200.png" num="81">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3522,7 +3504,7 @@ Target player draws a card for each kind of counter among permanents they contro
 			<text>Memorialize {B}{B} (You may cast this for {B}{B} if you sacrificed a nonland permanent this turn.)
 Flying, lifelink
 Whenever another creature you control dies, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, put a lifelink counter on another target creature you control.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/202.png" num="122">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/201.png" num="122">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3539,7 +3521,7 @@ Whenever another creature you control dies, put a +1/+1 counter on target creatu
 		<card>
 			<name>Granny Hagfoot</name>
 			<text>When Granny Hagfoot enters, target opponent sacrifices a nontoken creature of their choice. Return it to the battlefield under your control with a deathtouch and a decayed counter on it.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/203.png" num="100">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/202.png" num="100">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3557,7 +3539,7 @@ Whenever another creature you control dies, put a +1/+1 counter on target creatu
 			<name>Lantana, Cruel Conspirator</name>
 			<text>Whenever Lantana attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on Lantana.
 Lantana can&apos;t be blocked as long as another creature died this turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/204.png" num="104">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/203.png" num="104">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3576,7 +3558,7 @@ Lantana can&apos;t be blocked as long as another creature died this turn.</text>
 			<text>Menace
 This creature can&apos;t block.
 Emanate — {1}{B}: Return this card from your graveyard to the battlefield. Activate only if a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/205.png" num="88">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/204.png" num="88">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3594,7 +3576,7 @@ Emanate — {1}{B}: Return this card from your graveyard to the battlefield. Act
 			<name>Noxious Sewer Brewer</name>
 			<text>When this creature enters, create a Potion token with two +1/+1 counters on it.
 {1}{B}, {T}, Sacrifice a Potion you control: Create a 0/0 black Rat creature token with &quot;This creature gets +1/+1 for each kind of counter on it.&quot; and put that Potion&apos;s counters on it. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/206.png" num="106">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/205.png" num="106">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3611,7 +3593,7 @@ Emanate — {1}{B}: Return this card from your graveyard to the battlefield. Act
 		<card>
 			<name>Search for Shadows</name>
 			<text>Search your library for a Shade card, reveal it, put it into your hand, then shuffle. If two or more nontoken creatures you control died this turn, instead search your library for any card, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/207.png" num="116">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/206.png" num="116">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3628,7 +3610,7 @@ Emanate — {1}{B}: Return this card from your graveyard to the battlefield. Act
 			<name>Delirious Insight</name>
 			<text>Up to one target creature gets -X/-X until end of turn.
 Target player draws X cards and loses X life.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/208.png" num="92">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/207.png" num="92">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3645,7 +3627,7 @@ Target player draws X cards and loses X life.</text>
 			<name>Fidget, Pixie Crownling</name>
 			<text>Flying, haste
 Whenever Fidget attacks, she gets +X/+0 until end of turn, where X is the number of attacking creatures you control. If X is 3 or greater, other Faeries you control get +1/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/209.png" num="144">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/208.png" num="142">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3664,7 +3646,7 @@ Whenever Fidget attacks, she gets +X/+0 until end of turn, where X is the number
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Elemental creature token with prowess.
 {R}, Sacrifice a token: Exile the top card of your library. You may play it until end of turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/210.png" num="135">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/209.png" num="134">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3682,7 +3664,7 @@ Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Element
 			<name>Blazette&apos;s Cuddlebeast</name>
 			<text>Flying
 When this creature enters, it deals 5 damage to up to one target creature. Then destroy up to one target artifact and double the power of up to one other target creature you control until end of turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/211.png" num="126">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/210.png" num="126">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3700,7 +3682,7 @@ When this creature enters, it deals 5 damage to up to one target creature. Then 
 			<name>Lowlands Blacksmith</name>
 			<text>Whenever this creature or another creature you control with power 4 or greater enters, create a Treasure token.
 Whenever you sacrifice an artifact, target creature you control gets +1/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/212.png" num="153">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/211.png" num="153">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3718,7 +3700,7 @@ Whenever you sacrifice an artifact, target creature you control gets +1/+1 until
 			<name>Manic Inoculator</name>
 			<text>When this creature enters, create a Potion token with a first strike, a haste, and a +1/+1 counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 Whenever you sacrifice a Potion, this creature deals damage equal to the number of counters on it to target opponent.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/213.png" num="155">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/212.png" num="155">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3737,7 +3719,7 @@ Whenever you sacrifice a Potion, this creature deals damage equal to the number 
 			<text>Choose one —
 • Change the target of target spell or ability with a single target.
 • Target creature deals damage to itself equal to its power.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/214.png" num="159">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/213.png" num="159">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3753,7 +3735,7 @@ Whenever you sacrifice a Potion, this creature deals damage equal to the number 
 		<card>
 			<name>Bitter Betrayal</name>
 			<text>Gain control of target creature an opponent controls until end of turn and untap it. It gains haste until end of turn. You may have it deal damage equal to its power to its owner.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/215.png" num="124">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/214.png" num="124">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3770,7 +3752,7 @@ Whenever you sacrifice a Potion, this creature deals damage equal to the number 
 			<name>Ruination Blast</name>
 			<text>Ruination Blast deals X damage to each creature, where X is the number of creatures and artifacts you control.
 Destroy all artifacts.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/216.png" num="160">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/215.png" num="160">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3787,7 +3769,7 @@ Destroy all artifacts.</text>
 			<name>Alyra, Orchard&apos;s Heart</name>
 			<text>Ward {2}
 Whenever Alyra or another creature you control enters, you may harvest. If you do, untap each creature you control, then draw a card. This ability triggers only once each turn. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/217.png" num="165">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/216.png" num="165">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3806,7 +3788,7 @@ Whenever Alyra or another creature you control enters, you may harvest. If you d
 			<text>When this creature enters, create a Food token.
 Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on another target creature you control.
 {1}{G}, {T}: Create a Food token.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/218.png" num="179">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/217.png" num="179">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3824,7 +3806,7 @@ Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on anot
 			<name>Thrumm, Savage Soverign</name>
 			<text>When Thrumm enters, if it has decayed, return target creature card from your graveyard to your hand. Otherwise, Thrumm fights target creature you don&apos;t control.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/219.png" num="200">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/218.png" num="200">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3841,7 +3823,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 		<card>
 			<name>Choking Roots</name>
 			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. Add an amount of {G} equal to the excess damage dealt this way. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/220.png" num="171">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/219.png" num="171">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3857,7 +3839,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 		<card>
 			<name>Harmonic Sanctuary</name>
 			<text>Reveal the top five cards of your library. You may put a permanent card from among them onto the battlefield with a hexproof counter on it and the rest into the graveyard.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/221.png" num="178">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/220.png" num="178">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3874,7 +3856,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Venom Synthesis</name>
 			<text>When this enchantment enters, create a Potion token with a deathtouch counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 Whenever you sacrifice a Potion, if it had counters on it, choose one of them. Create a 1/1 green Spider creature token and put a counter of the chosen kind on it.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/222.png" num="203">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/221.png" num="203">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3891,7 +3873,7 @@ Whenever you sacrifice a Potion, if it had counters on it, choose one of them. C
 			<name>Naydel, Guide of Mists</name>
 			<text>Vigilance
 If a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/223.png" num="230">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/222.png" num="230">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3909,7 +3891,7 @@ If a creature you control entering causes a triggered ability of a permanent you
 			<name>Hollow Rider</name>
 			<text>At the beginning of combat on your turn, you may exile a creature card from your graveyard. When you do, create a tapped Treasure token.
 Emanate — Whenever a nonland permanent you control enters and wasn&apos;t cast, this creature gains double strike until end of turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/224.png" num="220">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/223.png" num="220">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3927,7 +3909,7 @@ Emanate — Whenever a nonland permanent you control enters and wasn&apos;t cast
 			<name>Wildrite Channeler</name>
 			<text>Haste
 Whenever another creature you control with power 4 or greater enters, you may discard a card. If you do, that creature fights target creature you don&apos;t control.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/225.png" num="251">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/224.png" num="251">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3946,7 +3928,7 @@ Whenever another creature you control with power 4 or greater enters, you may di
 			<text>Flash
 Spells you cast during an opponent&apos;s turn can&apos;t be countered.
 When this creature enters, counter target spell.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/226.png" num="247">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/225.png" num="247">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3964,7 +3946,7 @@ When this creature enters, counter target spell.</text>
 			<name>Nettle, Sparkwing Prodigy</name>
 			<text>Flying
 Emanate — At the beginning of combat on your turn, if a nonland permanent you control entered this turn and wasn&apos;t cast, Nettle gets +X/+0 until end of turn, where X is the greatest mana value among noncreature spells you cast this turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/227.png" num="232">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/226.png" num="232">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3982,7 +3964,7 @@ Emanate — At the beginning of combat on your turn, if a nonland permanent you 
 			<name>Swarmlings</name>
 			<text>Flying, haste
 Whenever this creature attacks, create a 1/1 white and red Faerie Soldier creature token with flying. If you control five or more Faeries, create a token that&apos;s a copy of this creature instead. Tokens created this way enter tapped and attacking.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/228.png" num="244">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/227.png" num="244">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4000,7 +3982,7 @@ Whenever this creature attacks, create a 1/1 white and red Faerie Soldier creatu
 			<name>Mirth, Umbral Mistress</name>
 			<text>Whenever another creature dies, you may pay 1 life. If you do, draw a card.
 Sacrifice a creature: Other Shades you control get +1/+1 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/229.png" num="227">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/228.png" num="227">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4018,7 +4000,7 @@ Sacrifice a creature: Other Shades you control get +1/+1 until end of turn. Acti
 			<name>Rotmonger</name>
 			<text>Other creatures you control have rotting.
 Rotting (When this dies, if it didn&apos;t have decayed, return it to the battlefield with a decayed counter. While decayed, it can&apos;t block. Sacrifice it at end of combat when it attacks.)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/230.png" num="235">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/229.png" num="235">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4036,7 +4018,7 @@ Rotting (When this dies, if it didn&apos;t have decayed, return it to the battle
 			<name>Cranky Ol&apos; Tommon</name>
 			<text>Vigilance, reach
 If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on it instead.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/231.png" num="210">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/230.png" num="210">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4054,7 +4036,7 @@ If one or more +1/+1 counters would be put on a permanent you control, that many
 			<name>Justiciar of the Equinox</name>
 			<text>Flying, trample
 Whenever this creature deals combat damage to a player, distribute that many +1/+1 counters among any number of other target creatures you control.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/232.png" num="224">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/231.png" num="224">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4072,7 +4054,7 @@ Whenever this creature deals combat damage to a player, distribute that many +1/
 			<name>Knowledge Whisperer</name>
 			<text>Ward {2}
 When this creature enters, exile up to one other target creature and up to one target noncreature, nonland permanent until this creature leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/233.png" num="225">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/232.png" num="225">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4089,7 +4071,7 @@ When this creature enters, exile up to one other target creature and up to one t
 		<card>
 			<name>Graveplasm</name>
 			<text>At the beginning of combat on your turn, you may exile a creature card from a graveyard. If you do, until end of turn, Graveplasm becomes a copy of that card, except its base power and toughness are each equal to the number of cards exiled with Graveplasm.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/234.png" num="218">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/233.png" num="218">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4108,7 +4090,7 @@ When this creature enters, exile up to one other target creature and up to one t
 			<text>Choose one or both —
 • Discard up to two cards, then draw that many cards.
 • Destroy target creature or artifact.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/235.png" num="248">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/234.png" num="248">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4126,7 +4108,7 @@ When this creature enters, exile up to one other target creature and up to one t
 			<text>Trample
 When this creature enters, destroy all artifacts and enchantments.
 Whenever an artifact or enchantment enters, destroy it.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/236.png" num="249">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/235.png" num="249">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4143,7 +4125,7 @@ Whenever an artifact or enchantment enters, destroy it.</text>
 		<card>
 			<name>Illicit Transcription</name>
 			<text>Return target nonland permanent to its owner&apos;s hand. Then create a Potion token with X +1/+1 counters on it, where X is that permanent&apos;s mana value. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/237.png" num="222">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/236.png" num="222">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4161,7 +4143,7 @@ Whenever an artifact or enchantment enters, destroy it.</text>
 			<text>Flying, trample
 Permanents your opponent&apos;s control lose and can&apos;t gain ward, shroud, hexproof, or indestructible.
 Whenever a creature you control becomes blocked, Clover deals 1 damage to the blocking creature&apos;s controller.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/238.png" num="208">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/237.png" num="208">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4180,7 +4162,7 @@ Whenever a creature you control becomes blocked, Clover deals 1 damage to the bl
 			<text>Flying
 When this creature enters, exile up to one target nonland permanent.
 {W}{B}: This creature gains deathtouch and lifelink until end of turn.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/239.png" num="213">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/238.png" num="213">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4197,7 +4179,7 @@ When this creature enters, exile up to one target nonland permanent.
 		<card>
 			<name>Purge the Archives</name>
 			<text>Look at the top X cards in your library, put any number of them into your hand and the rest into your graveyard. Purge the Archives deals damage equal to the number of cards put into your graveyard this way to each creature target player controls.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/240.png" num="234">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/239.png" num="234">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4214,7 +4196,7 @@ When this creature enters, exile up to one target nonland permanent.
 			<name>Winds of Decay</name>
 			<text>At the beginning of each player&apos;s end step, that player puts a decayed counter on a creature they control without decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Whenever a creature with decayed dies, untap target land you control.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/241.png" num="252">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/240.png" num="252">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4231,7 +4213,7 @@ Whenever a creature with decayed dies, untap target land you control.</text>
 			<name>Resurrection Potion</name>
 			<text>When this Potion enters, exile target creature card from a graveyard, then put a +1/+1 counter on this Potion.
 {2}, {T}, Sacrifice this artifact: Put the card exiled with this Potion onto the battlefield under your control with this Potion&apos;s counters on it. That creature&apos;s base power and toughness is 0/0. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/242.png" num="266">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/241.png" num="266">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4246,7 +4228,7 @@ Whenever a creature with decayed dies, untap target land you control.</text>
 			<name>Sinister Scarecrow</name>
 			<text>When this creature enters, you may sacrifice a nonland permanent. If you do, search your library for a basic land card, put it onto the battlefield, then shuffle.
 When this creature dies, you may sacrifice a land. If you do, draw two cards.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/243.png" num="267">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/242.png" num="267">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4262,7 +4244,7 @@ When this creature dies, you may sacrifice a land. If you do, draw two cards.</t
 			<name>Burgundy Spire</name>
 			<text>{T}: Add {C}.
 {2}, {T}: Choose a color. Add one mana of that color for each kind of counter among permanents you control.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/244.png" num="270">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/243.png" num="270">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4278,7 +4260,7 @@ When this creature dies, you may sacrifice a land. If you do, draw two cards.</t
 			<text>You may have this land enter tapped. If you do, put a +1/+1 counter on target creature you control.
 {T}: Add {C}.
 {3}, {T}, Remove a counter from a creature you control: Draw a card.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/245.png" num="273">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/244.png" num="273">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4294,7 +4276,7 @@ When this creature dies, you may sacrifice a land. If you do, draw two cards.</t
 			<text>Vigilance
 Whenever Gerome enters or attacks, you may harvest. If you do, target creature gains first strike until end of turn. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)
 Whenever you harvest, create a 1/1 white Peasant creature token with vigilance.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/246.png" num="17">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/245.png" num="17">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4312,7 +4294,7 @@ Whenever you harvest, create a 1/1 white Peasant creature token with vigilance.<
 			<name>Ophelia, Fate&apos;s Cartographer</name>
 			<text>When this creature enters, return up to X target Shade creature cards from your graveyard to the battlefield, where X is the amount of life you gained this turn.
 {B}: Target Shade you control gets +1/+1 until end of turn.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/247.png" num="27">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/246.png" num="27">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4330,7 +4312,7 @@ Whenever you harvest, create a 1/1 white Peasant creature token with vigilance.<
 			<name>Arabos, Spire Archmage</name>
 			<text>Whenever you cast an instant or sorcery spell from your hand, you may exile that spell. When you do, exile another target creature you control, then return it to the battlefield under its owner&apos;s control. Do this only once each turn.
 Emanate — {2}{U}, {T}: Cast target spell exiled with Arabos without paying its mana cost. Activate only if a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/248.png" num="45">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/247.png" num="45">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4350,7 +4332,7 @@ Emanate — {2}{U}, {T}: Cast target spell exiled with Arabos without paying its
 Flying, vigilance
 Whenever you cast a spell during an opponent&apos;s turn, you may draw a card. If you do, discard a card.
 {1}{U}, {T}: The next creature spell you cast this turn may be cast as though it had flash.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/249.png" num="75">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/248.png" num="75">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4368,7 +4350,7 @@ Whenever you cast a spell during an opponent&apos;s turn, you may draw a card. I
 			<name>Maplescale Tyrant</name>
 			<text>Flying, trample
 When this creature enters, you may remove any number of +1/+1 counters from among creatures you control. When you do, create that many Treasure tokens, then this creature deals that much damage to any target.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/250.png" num="156">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/249.png" num="156">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4386,7 +4368,7 @@ When this creature enters, you may remove any number of +1/+1 counters from amon
 			<name>Hydrevan, Ranger General</name>
 			<text>Whenever Hydrevan enters or attacks, create a 2/2 green Elf Ranger creature token with reach.
 {2}{G}{G}: Put X +1/+1 counters on each other creature you control, where X is the number of creatures you control with power 4 or greater.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/251.png" num="182">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/250.png" num="182">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4404,7 +4386,7 @@ When this creature enters, you may remove any number of +1/+1 counters from amon
 			<name>Ascetic Botanist</name>
 			<text>When this creature enters, create a Potion token with two +1/+1 counters on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {T}, Sacrifice a Potion you control: Add X mana of any combination of colors, where X is the number of counters on that Potion. When you do, put those counters on target creature.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/252.png" num="167">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/251.png" num="167">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4423,7 +4405,7 @@ When this creature enters, you may remove any number of +1/+1 counters from amon
 			<text>Whenever The Midnight Solution enters or you sacrifice a Potion, put a dose counter on The Midnight Solution.
 Creatures you control with dose counters on them have all the activated and triggered abilities of all other creatures with dose counters on them.
 {2}, {T}, Remove a dose counter from The Midnight Solution: Put a dose counter on target creature. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/253.png" num="264">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/252.png" num="264">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4439,7 +4421,7 @@ Creatures you control with dose counters on them have all the activated and trig
 			<text>Flying, vigilance
 When Solstice enters, exile each other creature you control, then return them to the battlefield under their owner&apos;s control.
 Whenever another creature enters under your control from exile, draw a card.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/254.png" num="240">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/253.png" num="240">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4457,7 +4439,7 @@ Whenever another creature enters under your control from exile, draw a card.</te
 			<name>Bramble, Wings of Malice</name>
 			<text>Flying
 Whenever Bramble attacks, return up to one creature card with mana value 2 or less from your graveyard to the battlefield tapped and attacking. Exile it at end of combat.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/255.png" num="207">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/254.png" num="207">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4476,7 +4458,7 @@ Whenever Bramble attacks, return up to one creature card with mana value 2 or le
 			<text>Trample
 Whenever Gourd deals combat damage to a player, create a Food token and put that many +1/+1 counters on it. It becomes a 0/0 creature in addition to its other types.
 Whenever a Food you control dies, put its counters on Gourd. If it had no counters on it, Gourd deals 2 damage to each opponent.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/256.png" num="217">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/255.png" num="217">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4494,7 +4476,7 @@ Whenever a Food you control dies, put its counters on Gourd. If it had no counte
 			<name>Oddity Forager</name>
 			<text>Whenever you cast a spell during an opponent&apos;s turn, you may put a basic land card from your hand onto the battlefield tapped.
 {T}: Untap another target permanent.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/257.png" num="233">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/256.png" num="233">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4512,7 +4494,7 @@ Whenever a Food you control dies, put its counters on Gourd. If it had no counte
 			<name>Winry, Ascended Battlemage</name>
 			<text>Whenever you cast an instant or sorcery spell, if Winry isn&apos;t attacking, put a +1/+1 counter on her.
 Whenever Winry attacks, you may remove any number of +1/+1 counters from her. If you do, you may cast an instant or sorcery spell with mana value X or less without paying its mana cost, where X is the number of counters removed this way.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/258.png" num="253">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/257.png" num="253">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4531,7 +4513,7 @@ Whenever Winry attacks, you may remove any number of +1/+1 counters from her. If
 			<text>Lifelink
 Gaul&apos;s power is equal to the number of Shades on the battlefield.
 Whenever you gain life, choose target creature. It becomes a Shade in addition to its other types, then if you don&apos;t control that creature, its controller loses 1 life.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/259.png" num="216">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/258.png" num="216">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4550,7 +4532,7 @@ Whenever you gain life, choose target creature. It becomes a Shade in addition t
 			<text>Menace, trample
 During combat on your turn, creatures you control with decayed can&apos;t be sacrificed.
 {T}, Exile two creature cards from your graveyard: Create a 3/3 black and green Zombie Soldier creature token with decayed and trample.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/260.png" num="228">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/259.png" num="228">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4567,7 +4549,7 @@ During combat on your turn, creatures you control with decayed can&apos;t be sac
 		<card>
 			<name>Divine Herdmaster</name>
 			<text>When this creature enters, harvest any number of times. Until end of turn, other creatures you control get +1/+1 for each time you&apos;ve harvested this turn. (To harvest, pay {2} or remove a +1/+1 counter from a permanent you control.)</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/261.png" num="212">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/260.png" num="212">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4582,10 +4564,10 @@ During combat on your turn, creatures you control with decayed can&apos;t be sac
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Thistle, Sting of Whimsy</name>
+			<name>Thistle, Whimsy&apos;s Sting</name>
 			<text>Flying, first strike
 Whenever Thistle attacks, up to one other target attacking creature gets +2/+0 until end of turn. If that creature is a Faerie or Rogue, exile the top card of your library. You may play that card this turn.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/262.png" num="245">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/261.png" num="245">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4602,7 +4584,7 @@ Whenever Thistle attacks, up to one other target attacking creature gets +2/+0 u
 		<card>
 			<name>Sister of the Fens</name>
 			<text>When this creature enters, each player sacrifices a creature. Each player who can&apos;t discards a card instead.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/263.png" num="118">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/262.png" num="118">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4620,7 +4602,7 @@ Whenever Thistle attacks, up to one other target attacking creature gets +2/+0 u
 			<name>Spiritual Remedy</name>
 			<text>Return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
 Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/264.png" num="35">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/263.png" num="35">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4637,7 +4619,7 @@ Create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &q
 			<name>Fogstep</name>
 			<text>Exile target creature you control, then return it to the battlefield under its owner&apos;s control.
 Draw a card.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/265.png" num="58">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/264.png" num="58">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4654,7 +4636,7 @@ Draw a card.</text>
 			<name>Void Gaze</name>
 			<text>Exile target opponent&apos;s graveyard.
 Scry 1, then draw a card and you lose 1 life.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/266.png" num="121">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/265.png" num="121">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4670,7 +4652,7 @@ Scry 1, then draw a card and you lose 1 life.</text>
 		<card>
 			<name>Mirrorborn Alpha</name>
 			<text>Whenever this creature attacks, if it isn&apos;t a copy, create a token that&apos;s a copy of it. It enters tapped and attacking. Exile each token created this way at end of combat.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/267.png" num="157">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/266.png" num="157">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4688,7 +4670,7 @@ Scry 1, then draw a card and you lose 1 life.</text>
 			<name>Deadfall Corpse-Eater</name>
 			<text>Haste
 Whenever this creature attacks, you may exile target creature card from your graveyard. If you do, this creature gets +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/268.png" num="141">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/267.png" num="139">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4706,7 +4688,7 @@ Whenever this creature attacks, you may exile target creature card from your gra
 			<name>Flared Ego</name>
 			<text>Target creature gets +2/+0 and gains haste until end of turn.
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/269.png" num="147">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/268.png" num="146">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4722,7 +4704,7 @@ Draw a card.</text>
 		<card>
 			<name>Wild Retribution</name>
 			<text>Until end of turn, target creature you control gets +X/+X and gains your choice of reach or trample.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/270.png" num="204">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/269.png" num="204">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4739,7 +4721,7 @@ Draw a card.</text>
 			<name>Dark Whimsy</name>
 			<text>Whenever a nontoken creature you control dies, you may pay 1 life. If you do, create a Treasure token.
 Whenever a nontoken creature an opponent controls dies, its controller loses 2 life unless they discard a card.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/271.png" num="90">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/270.png" num="90">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4757,7 +4739,7 @@ Whenever a nontoken creature an opponent controls dies, its controller loses 2 l
 			<text>Flash
 Reach
 You may cast creature spells with mana value 4 or less as though they had flash.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/272.png" num="195">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/271.png" num="195">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4775,7 +4757,7 @@ You may cast creature spells with mana value 4 or less as though they had flash.
 			<name>Moss-Basker Alpha</name>
 			<text>Trample
 Whenever this creature attacks, untap target land you control for each attacking creature with power 4 or greater.</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/273.png" num="186">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/272.png" num="186">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4795,7 +4777,7 @@ Whenever this creature attacks, untap target land you control for each attacking
 When this Equipment enters, you may sacrifice a creature. When you do, attach this Equipment to target creature you control.
 Equipped creature has deathtouch and hexproof.
 Equip {4}</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/274.png" num="257">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/273.png" num="257">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4809,7 +4791,7 @@ Equip {4}</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/275.png" num="283">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/274.png" num="283">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4824,7 +4806,7 @@ Equip {4}</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/276.png" num="286">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/275.png" num="285">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4839,7 +4821,7 @@ Equip {4}</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/277.png" num="288">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/276.png" num="288">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4854,7 +4836,7 @@ Equip {4}</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/278.png" num="290">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/277.png" num="290">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4869,7 +4851,7 @@ Equip {4}</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/279.png" num="292">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/278.png" num="292">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4888,7 +4870,7 @@ Equip {2}
 When equipped creature dies, return it to the battlefield and attach Comforting Candle do it. Then transform Comforting Candle.
 ---
 (Back): Consuming Flame</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/280_front.png" num="256a">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/279_front.png" num="256a">HHRR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4906,7 +4888,7 @@ When equipped creature dies, return it to the battlefield and attach Comforting 
 Whenever equipped creature leaves the battlefield, transform Consuming Flame
 ---
 (Front): Comforting Candle</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/280_back.png" num="256b">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/279_back.png" num="256b">HHRR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4921,7 +4903,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Shade HHRR</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/282.png" num="10">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/281.png" num="10">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4939,7 +4921,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Peasant HHRR</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/283.png" num="1">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/282.png" num="1">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4957,7 +4939,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Faerie Assassin HHRR</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/284.png" num="3">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/283.png" num="3">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4975,7 +4957,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Insect HHRR</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/285.png" num="9">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/284.png" num="9">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4993,7 +4975,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Elemental HHRR</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/286.png" num="7">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/285.png" num="7">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5011,7 +4993,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Faerie Soldier HHRR</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/287.png" num="8">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/286.png" num="8">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5029,7 +5011,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Rat HHRR</name>
 			<text>This creature gets +1/+1 for each kind of counter on it.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/288.png" num="2">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/287.png" num="2">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5047,7 +5029,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Amarsil HHRR</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/289.png" num="4">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/288.png" num="4">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5065,7 +5047,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Elf Ranger HHRR</name>
 			<text>Reach</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/290.png" num="5">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/289.png" num="5">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5083,7 +5065,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Zombie Soldier HHRR</name>
 			<text>Trample, decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/291.png" num="11">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/290.png" num="11">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5101,7 +5083,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Potion HHRR</name>
 			<text>{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/292.png" num="13">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/291.png" num="13">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5116,7 +5098,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Food HHRR</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/293.png" num="12">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/292.png" num="12">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5131,7 +5113,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Treasure HHRR</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/294.png" num="14">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/293.png" num="14">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5146,7 +5128,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Prioritize</name>
 			<text>Emanate — Counter target spell unless its controller pays {2}. If a nonland permanent you control entered this turn and wasn&apos;t cast, counter that spell unless its controller pays {4} instead.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/295.png" num="66">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/294.png" num="66">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5162,7 +5144,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Starlight Cradle</name>
 			<text>At the beginning of your end step, you may tap an untapped nontoken Faerie you control. If you do, create a 1/1 red and white Faerie Soldier creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/296.png" num="36">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/295.png" num="36">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5179,7 +5161,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 			<name>Maeve Nightshade</name>
 			<text>At the beginning of your end step, draw a card for each Potion you sacrificed this turn.
 {X}{UB}, {T}, Choose X kinds of counters from among creatures you control: Create a Potion token with one of each of those chosen kinds of counters on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/297.png" num="226">HHRR</set>
+			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/296.png" num="226">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5198,7 +5180,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 			<text>{T}: Add {C}.
 {1}, {T}: Add one mana of any color.
 {4}, {T}, Sacrifice this land: Put two +1/+1 counters on target creature or artifact you control. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/298.png" num="276">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/297.png" num="276">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5212,7 +5194,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 		<card>
 			<name>Spider HHRR</name>
 			<text></text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/299.png" num="6">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/298.png" num="6">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5231,7 +5213,7 @@ Whenever equipped creature leaves the battlefield, transform Consuming Flame
 			<name>Midnight Harbinger</name>
 			<text>Menace
 Emanate — Whenever this creature attacks, if a nonland permanent you control entered this turn and wasn&apos;t cast, other creatures you control gain menace until end of turn.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/300.png" num="105">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/299.png" num="105">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5249,7 +5231,7 @@ Emanate — Whenever this creature attacks, if a nonland permanent you control e
 			<name>Wildflower Wanderer</name>
 			<text>When this creature enters, you gain 3 life.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/301.png" num="41">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/300.png" num="41">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5268,7 +5250,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Flying, haste
 Other creatures you control have haste and attack each turn if able.
 Whenever another creature you control deals combat damage to a player, sacrifice it. When you do, it deals damage to that player equal to its power.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/302.png" num="125">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/301.png" num="125">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5287,7 +5269,7 @@ Whenever another creature you control deals combat damage to a player, sacrifice
 			<text>Flying, deathtouch
 Other creatures you control with two or more deathtouch counters on them have shroud. (It can&apos;t be the target of spells or abilities.)
 Whenever another creature dies, put a deathtouch counter on another target creature you control.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/303.png" num="107">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/302.png" num="107">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5305,7 +5287,7 @@ Whenever another creature dies, put a deathtouch counter on another target creat
 			<name>Shimmering Lake Scuttler</name>
 			<text>As long as this creature has a counter on it, it gets +2/+0.
 {1}{U}: If this creature doesn&apos;t have vigilance, put a vigilance counter on it. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/304.png" num="73">HHRR</set>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/303.png" num="73">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5323,7 +5305,7 @@ Whenever another creature dies, put a deathtouch counter on another target creat
 			<name>Veilbrook Aetherwing</name>
 			<text>Flying
 Emanate — When this creature enters, if a nonland permanent you control entered this turn and wasn&apos;t cast, draw two cards, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/305.png" num="82">HHRR</set>
+			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/304.png" num="82">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5340,7 +5322,7 @@ Emanate — When this creature enters, if a nonland permanent you control entere
 		<card>
 			<name>Exenterate</name>
 			<text>Destroy target creature. That creature&apos;s controller may search their library for a card, put it into their hand, then shuffle.</text>
-			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/306.png" num="96">HHRR</set>
+			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/305.png" num="96">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5350,6 +5332,22 @@ Emanate — When this creature enters, if a nonland permanent you control entere
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kindle the Swarm</name>
+			<text>Target creature you control gets +1/+0 for each creature you control. If that creature is a Faerie, it also gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/306.png" num="152">HHRR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
