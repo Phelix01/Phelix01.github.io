@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Nyxpetal, Numbing Needle",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "Noxious Sewer Brewer",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -337,7 +337,7 @@
     },
     {
         "card_name": "Search for Shadows",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -696,12 +696,12 @@
         "position": "111"
     },
     {
-        "card_name": "Midnight Harbinger",
+        "card_name": "Malignant Research",
         "number": 105,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "299"
+        "position": "265"
     },
     {
         "card_name": "Flared Ego",
@@ -736,12 +736,12 @@
         "position": "109"
     },
     {
-        "card_name": "Overspill",
-        "number": 108,
+        "card_name": "Midnight Harbinger",
+        "number": 106,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "137"
+        "position": "299"
     },
     {
         "card_name": "Frenzied Discovery",
@@ -776,12 +776,12 @@
         "position": "112"
     },
     {
-        "card_name": "Plaguefield Shambler",
-        "number": 110,
+        "card_name": "Overspill",
+        "number": 109,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "129"
+        "position": "137"
     },
     {
         "card_name": "Glimmersap Gatherer",
@@ -816,12 +816,12 @@
         "position": "113"
     },
     {
-        "card_name": "Putrid Kelpie",
+        "card_name": "Plaguefield Shambler",
         "number": 111,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "131"
+        "position": "129"
     },
     {
         "card_name": "Mirrorborn Alpha",
@@ -856,12 +856,12 @@
         "position": "116"
     },
     {
-        "card_name": "Resurgent Residue",
-        "number": 113,
+        "card_name": "Putrid Kelpie",
+        "number": 112,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "126"
+        "position": "131"
     },
     {
         "card_name": "Paddock Snatcher",
@@ -896,12 +896,12 @@
         "position": "120"
     },
     {
-        "card_name": "Rules of Reckoning",
+        "card_name": "Resurgent Residue",
         "number": 114,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "134"
+        "position": "126"
     },
     {
         "card_name": "Shatter Flask",
@@ -936,12 +936,12 @@
         "position": "122"
     },
     {
-        "card_name": "Sanity Robber",
+        "card_name": "Rules of Reckoning",
         "number": 115,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "132"
+        "position": "134"
     },
     {
         "card_name": "Terminal Discharge",
@@ -976,12 +976,12 @@
         "position": "119"
     },
     {
-        "card_name": "Void Gaze",
-        "number": 121,
+        "card_name": "Sanity Robber",
+        "number": 116,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "265"
+        "position": "132"
     },
     {
         "card_name": "Vale Multiye",
@@ -1417,7 +1417,7 @@
     },
     {
         "card_name": "Petalshade Spy",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1457,7 +1457,7 @@
     },
     {
         "card_name": "Redcap Crypt Collector",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1497,7 +1497,7 @@
     },
     {
         "card_name": "Sift Through Bones",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1537,7 +1537,7 @@
     },
     {
         "card_name": "Sister of the Fens",
-        "number": 118,
+        "number": 119,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1577,7 +1577,7 @@
     },
     {
         "card_name": "Skinner of the Nightwood",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1617,7 +1617,7 @@
     },
     {
         "card_name": "Vitality Extraction",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,

@@ -1,4 +1,19 @@
-﻿VERSION 46 CHANGELOG
+﻿VERSION 47 CHANGELOG
+====================
+
+Malignant Research added.
+
+Void Gaze removed.
+
+Bramble, Wings of Malice
+type: Legendary Creature — Faerie Warlock => Legendary Creature — Harpy Warlock
+
+Kindle the Swarm
+cost: {2}{R} => {1}{R}
+rules_text: Target creature you control gets +1/+0 for each creature you control. If that creature is a Faerie, it also gains menace until end of turn. => Target creature you control gets +1/+0 until end of turn for each creature you control. If that creature is a Faerie, it also gains menace until end of turn.
+
+
+VERSION 46 CHANGELOG
 ====================
 
 Fidget's Thorn added.

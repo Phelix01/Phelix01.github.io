@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Goblin Alchemist",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Nymph Rogue",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/22.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/26.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/29.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Ooze",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/126.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Peasant",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/129.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/131.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/132.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/134.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/137.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Alchemist",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/205.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/206.png"
 			}
@@ -2544,7 +2544,7 @@
 			"name": "Bramble, Wings of Malice",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Faerie Warlock",
+			"type": "Legendary Creature — Harpy Warlock",
 			"collector_number": "207",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/254.png"
@@ -2625,7 +2625,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Hag Wizard",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/262.png"
 			}
@@ -2651,11 +2651,11 @@
 			}
 		},
 		{
-			"name": "Void Gaze",
+			"name": "Malignant Research",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/265.png"
 			}
@@ -2992,7 +2992,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Nightmare",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/299.png"
 			}
@@ -3022,7 +3022,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Faerie Assassin",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/302.png"
 			}
@@ -3060,7 +3060,7 @@
 		{
 			"name": "Kindle the Swarm",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
@@ -3263,7 +3263,7 @@
 	4 Paddock Snatcher
 	4 Deadfall Marsh
 	4 Spiritual Remedy
-	4 Void Gaze
+	4 Malignant Research
 	4 Mirrorborn Alpha
 	4 Deadfall Corpse-Eater
 	4 Flared Ego
@@ -3697,7 +3697,7 @@
 	12 Sister of the Fens
 	6 Spiritual Remedy
 	12 Fogstep
-	6 Void Gaze
+	6 Malignant Research
 	6 Mirrorborn Alpha
 	6 Deadfall Corpse-Eater
 	6 Flared Ego
@@ -3980,7 +3980,7 @@
 	6 Sister of the Fens
 	15 Spiritual Remedy
 	6 Fogstep
-	15 Void Gaze
+	15 Malignant Research
 	15 Mirrorborn Alpha
 	15 Deadfall Corpse-Eater
 	15 Flared Ego
