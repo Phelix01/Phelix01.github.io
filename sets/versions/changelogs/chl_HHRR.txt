@@ -1,4 +1,43 @@
-﻿VERSION 47 CHANGELOG
+﻿VERSION 48 CHANGELOG
+====================
+
+
+
+Petalshade Spy
+rules_text: [i]Emanate[/i] — Whenever a nonland permanent you control entered this turn and wasn't cast, this creature gains deathtouch until end of turn. => [i]Emanate[/i] — Whenever a nonland permanent you control enters and wasn't cast, this creature gains deathtouch until end of turn.
+
+Skinner of the Nightwood
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, this creature gets +2/+0 until end of turn. This ability triggers only once each turn. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Emanate[/i] — Whenever this creature attacks, if a nonland permanent you control entered this turn and wasn't cast, this creature gets +2/+0 until end of turn.
+
+Burgundy Spire Initiate
+flavor_text: [i]They're promised that life at the Spire will make them burn with knowledge. Some choose to skip the metaphor.[/i] => [i]Initiates are promised life at the Spire will make them burn with knowledge.[/i]
+
+Flash of Resolve
+rules_text: Target creature gains first strike until end of turn.
+[i]Emanate[/i] — That creature gains double strike until end of turn instead if a nonland permanent you control entered this turn and wasn't cast. => Target creature you control gets +1/+1 and gains first strike until end of turn.
+[i]Emanate[/i] — That creature gets +1/+1 and gains double strike until end of turn instead if a nonland permanent you control entered this turn and wasn't cast.
+
+Eager Thaumaturge
+rules_text: [i]Emanate[/i] — This creature cannot be blocked as long as a nonland permanent you control entered this turn and wasn't cast. => [i]Emanate[/i] — Whenever a nonland permanent you control enters and wasn't cast, this creature can't be blocked this turn.
+
+Yvryg, Echo Manifest
+rules_text: [i]Emanate[/i] — Whenever a nonland permanent you control entered this turn and wasn't cast, the next instant or sorcery spell you cast this turn costs {2} less to cast. This ability triggers only once each turn. => [i]Emanate[/i] — Whenever a nonland permanent you control enters this turn and wasn't cast, the next instant or sorcery spell you cast this turn costs {2} less to cast. This ability triggers only once each turn.
+
+Dennig, Stoic Demonstrator
+rules_text: [i]Emanate[/i] — You may look at the top card of your library any time. You may cast instant or sorcery spells from the top of your library as long as a nonland permanent you control entered this turn and wasn't cast. => You may look at the top card of your library any time.
+You may cast instant or sorcery spells from the top of your library.
+[i]Emanate[/i] — Whenever one or more nonland permanents you control enter and weren't cast, draw a card.
+flavor_text: [i]“Observe the structure, maintain frequency, and never let your focus waver.”[/i] => [i][/i]
+
+Hollow Rider
+rules_text: At the beginning of combat on your turn, you may exile a creature card from your graveyard. When you do, create a tapped Treasure token.
+[i]Emanate[/i] — Whenever a nonland permanent you control enters and wasn't cast, this creature gains double strike until end of turn. => At the beginning of combat on your turn, you may exile a creature card from your graveyard. When you do, create a tapped Treasure token.
+[i]Emanate[/i] — Whenever this creature attacks, if a nonland permanent you control entered this turn and wasn't cast, this creature gains double strike until end of turn.
+
+
+VERSION 47 CHANGELOG
 ====================
 
 Malignant Research added.

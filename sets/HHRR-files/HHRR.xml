@@ -5,7 +5,7 @@
 			<name>HHRR</name>
 			<longname>Hearth-Hollow: Root &amp; Remedy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-06</releasedate>
+			<releasedate>2026-10-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -400,7 +400,7 @@ Enchanted creature is a colorless Treasure artifact with, &quot;{T}, Sacrifice t
 		</card>
 		<card>
 			<name>Petalshade Spy</name>
-			<text>Emanate — Whenever a nonland permanent you control entered this turn and wasn&apos;t cast, this creature gains deathtouch until end of turn.</text>
+			<text>Emanate — Whenever a nonland permanent you control enters and wasn&apos;t cast, this creature gains deathtouch until end of turn.</text>
 			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/22.png" num="110">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -474,7 +474,7 @@ When this creature enters or dies, each opponent loses 1 life and you gain 1 lif
 		<card>
 			<name>Skinner of the Nightwood</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
-Emanate — Whenever a nonland permanent you control enters this turn and wasn&apos;t cast, this creature gets +2/+0 until end of turn. This ability triggers only once each turn.</text>
+Emanate — Whenever this creature attacks, if a nonland permanent you control entered this turn and wasn&apos;t cast, this creature gets +2/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/26.png" num="120">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -685,8 +685,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		</card>
 		<card>
 			<name>Flash of Resolve</name>
-			<text>Target creature gains first strike until end of turn.
-Emanate — That creature gains double strike until end of turn instead if a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
+			<text>Target creature you control gets +1/+1 and gains first strike until end of turn.
+Emanate — That creature gets +1/+1 and gains double strike until end of turn instead if a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
 			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/38.png" num="147">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -838,7 +838,7 @@ When this creature enters, target creature an opponent controls gets -2/-0 until
 		</card>
 		<card>
 			<name>Eager Thaumaturge</name>
-			<text>Emanate — This creature cannot be blocked as long as a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
+			<text>Emanate — Whenever a nonland permanent you control enters and wasn&apos;t cast, this creature can&apos;t be blocked this turn.</text>
 			<set rarity="common" picurl="https://phelix01.github.io/sets/HHRR-files/img/47.png" num="55">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -1773,7 +1773,7 @@ Other Shades you control have lifelink.</text>
 		</card>
 		<card>
 			<name>Yvryg, Echo Manifest</name>
-			<text>Emanate — Whenever a nonland permanent you control entered this turn and wasn&apos;t cast, the next instant or sorcery spell you cast this turn costs {2} less to cast. This ability triggers only once each turn.</text>
+			<text>Emanate — Whenever a nonland permanent you control enters this turn and wasn&apos;t cast, the next instant or sorcery spell you cast this turn costs {2} less to cast. This ability triggers only once each turn.</text>
 			<set rarity="uncommon" picurl="https://phelix01.github.io/sets/HHRR-files/img/101.png" num="255">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3416,7 +3416,9 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 		</card>
 		<card>
 			<name>Dennig, Stoic Demonstrator</name>
-			<text>Emanate — You may look at the top card of your library any time. You may cast instant or sorcery spells from the top of your library as long as a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
+			<text>You may look at the top card of your library any time.
+You may cast instant or sorcery spells from the top of your library.
+Emanate — Whenever one or more nonland permanents you control enter and weren&apos;t cast, draw a card.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/196.png" num="52">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3890,7 +3892,7 @@ If a creature you control entering causes a triggered ability of a permanent you
 		<card>
 			<name>Hollow Rider</name>
 			<text>At the beginning of combat on your turn, you may exile a creature card from your graveyard. When you do, create a tapped Treasure token.
-Emanate — Whenever a nonland permanent you control enters and wasn&apos;t cast, this creature gains double strike until end of turn.</text>
+Emanate — Whenever this creature attacks, if a nonland permanent you control entered this turn and wasn&apos;t cast, this creature gains double strike until end of turn.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/223.png" num="220">HHRR</set>
 			<prop>
 				<layout>normal</layout>
