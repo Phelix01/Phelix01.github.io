@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Maplescale Tyrant",
-        "number": 156,
+        "number": 155,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Fidget, Pixie Crownling",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Lowlands Blacksmith",
-        "number": 153,
+        "number": 152,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Manic Inoculator",
-        "number": 155,
+        "number": 154,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Punish Recklessness",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Ruination Blast",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -504,12 +504,12 @@
         "position": "136"
     },
     {
-        "card_name": "Controlled Burn",
+        "card_name": "Crone's Hex",
         "number": 136,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "146"
+        "position": "144"
     },
     {
         "card_name": "Eithana, Treepaw Scout",
@@ -544,12 +544,12 @@
         "position": "125"
     },
     {
-        "card_name": "Crone's Hex",
-        "number": 137,
+        "card_name": "Deadfall Corpse-Eater",
+        "number": 138,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "144"
+        "position": "267"
     },
     {
         "card_name": "Faebark Offshoot",
@@ -584,12 +584,12 @@
         "position": "127"
     },
     {
-        "card_name": "Deadfall Corpse-Eater",
-        "number": 139,
+        "card_name": "Emanation Mage",
+        "number": 140,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "267"
+        "position": "142"
     },
     {
         "card_name": "Harvest Warden",
@@ -624,12 +624,12 @@
         "position": "133"
     },
     {
-        "card_name": "Emanator Mage",
-        "number": 141,
+        "card_name": "Fidget's Thorn",
+        "number": 142,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "142"
+        "position": "149"
     },
     {
         "card_name": "Hermetic Vessel-Keeper",
@@ -664,12 +664,12 @@
         "position": "124"
     },
     {
-        "card_name": "Fidget's Thorn",
-        "number": 143,
+        "card_name": "Flared Ego",
+        "number": 145,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "149"
+        "position": "268"
     },
     {
         "card_name": "Manifest Ferocity",
@@ -704,12 +704,12 @@
         "position": "265"
     },
     {
-        "card_name": "Flared Ego",
-        "number": 146,
+        "card_name": "Frenzied Discovery",
+        "number": 147,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "268"
+        "position": "147"
     },
     {
         "card_name": "Mulching Sovereign",
@@ -744,12 +744,12 @@
         "position": "299"
     },
     {
-        "card_name": "Frenzied Discovery",
+        "card_name": "Glimmersap Gatherer",
         "number": 148,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "147"
+        "position": "140"
     },
     {
         "card_name": "Outpost Marksman",
@@ -784,12 +784,12 @@
         "position": "137"
     },
     {
-        "card_name": "Glimmersap Gatherer",
-        "number": 149,
+        "card_name": "Mirrorborn Alpha",
+        "number": 156,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "140"
+        "position": "266"
     },
     {
         "card_name": "Reactive Remedy",
@@ -824,12 +824,12 @@
         "position": "129"
     },
     {
-        "card_name": "Mirrorborn Alpha",
+        "card_name": "Paddock Snatcher",
         "number": 157,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "266"
+        "position": "185"
     },
     {
         "card_name": "Rotrunner Brute",
@@ -864,12 +864,12 @@
         "position": "131"
     },
     {
-        "card_name": "Paddock Snatcher",
-        "number": 158,
+        "card_name": "Shatter Flask",
+        "number": 160,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "185"
+        "position": "145"
     },
     {
         "card_name": "Rotting Strength",
@@ -904,12 +904,12 @@
         "position": "126"
     },
     {
-        "card_name": "Shatter Flask",
+        "card_name": "Terminal Discharge",
         "number": 161,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "145"
+        "position": "148"
     },
     {
         "card_name": "Rustgill River-Mixers",
@@ -944,12 +944,12 @@
         "position": "134"
     },
     {
-        "card_name": "Terminal Discharge",
+        "card_name": "Uncontrolled Burn",
         "number": 162,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
-        "position": "148"
+        "position": "146"
     },
     {
         "card_name": "Territory Encroachment",
@@ -1305,7 +1305,7 @@
     },
     {
         "card_name": "Cropfire Incinerator",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1345,7 +1345,7 @@
     },
     {
         "card_name": "Devious Pyroweevil",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1385,7 +1385,7 @@
     },
     {
         "card_name": "Firebelly Brew",
-        "number": 144,
+        "number": 143,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1425,7 +1425,7 @@
     },
     {
         "card_name": "Firebite Infusion",
-        "number": 145,
+        "number": 144,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1465,7 +1465,7 @@
     },
     {
         "card_name": "Flash of Resolve",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1505,7 +1505,7 @@
     },
     {
         "card_name": "Grisly Keepsake",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1545,7 +1545,7 @@
     },
     {
         "card_name": "Incite Chaos",
-        "number": 151,
+        "number": 150,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1585,7 +1585,7 @@
     },
     {
         "card_name": "Kindle the Swarm",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,
@@ -1625,7 +1625,7 @@
     },
     {
         "card_name": "Loyal Pixiepaw",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "HHRR",
         "rotated": false,

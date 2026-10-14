@@ -1,4 +1,66 @@
-﻿VERSION 48 CHANGELOG
+﻿VERSION 49 CHANGELOG
+====================
+
+Emanation Mage added.
+Uncontrolled Burn added.
+
+Emanator Mage removed.
+Controlled Burn removed.
+
+Gilded Stasis
+rules_text: Enchant creature or Treasure
+Enchanted creature is a colorless Treasure artifact with, “{T}, Sacrifice this artifact: Add one mana of any color.” => Enchant creature or Treasure
+Enchanted permanent is a colorless Treasure artifact with, “{T}, Sacrifice this artifact: Add one mana of any color.”
+
+Sanctuary Purge
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature.
+Destroy target artifact, enchantment, or creature with power 4 or greater. If this spell's additional cost was paid, exile target creature instead. => Kicker—Sacrifice a creature. [i](You may sacrifice a creature in addition to any other costs as you cast this spell.)[/i]
+Destroy target artifact, enchantment, or creature with power 4 or greater. If this spell was kicked, exile target creature instead.
+
+Faebark Offshoot
+rules_text: Reach
+When this creature enters, mill two cards.
+Sacrifice this creature: Return target basic land card from your graveyard to your hand. => Reach
+When this creature enters, mill two cards.
+Sacrifice this creature: Return target land card from your graveyard to your hand.
+
+Alchemist's Cottage
+rules_text: {T}: Add {C}.
+{3}, {T}: Create a Potion token if you don't control a Potion. Create a Potion token if you don't control a Potion. Then put +1/+1 counter on a Potion you control. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => {T}: Add {C}.
+{3}, {T}: Create a Potion token if you don't control a Potion. Then put +1/+1 counter on a Potion you control. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+
+Mirth, Umbral Mistress
+rules_text: Whenever another creature dies, you may pay 1 life. If you do, draw a card.
+Sacrifice a creature: Other Shades you control get +1/+1 until end of turn. Activate only as a sorcery. => Whenever a nontoken creature you control dies, you may pay 1 life. If you do, draw a card.
+Sacrifice another creature: Shades you control get +1/+1 until end of turn.
+
+Justiciar of the Equinox
+artist: Midjourney => ari targownik
+
+Resurrection Potion
+rules_text: When this Potion enters, exile target creature card from a graveyard, then put a +1/+1 counter on this Potion.
+{2}, {T}, Sacrifice this artifact: Put the card exiled with this Potion onto the battlefield under your control with this Potion's counters on it. That creature's base power and toughness is 0/0. Activate only as a sorcery. => When this Potion enters, exile target creature card from a graveyard, then put a +1/+1 counter on this Potion.
+{2}, {T}, Sacrifice this Potion: Put the card exiled with this Potion onto the battlefield under your control with this Potion's counters on it. That creature's base power and toughness is 0/0. Activate only as a sorcery.
+
+Swift Shadowhawk
+rules_text: Flash
+Flying, vigilance
+Whenever you cast a spell during an opponent's turn, you may draw a card. If you do, discard a card.
+{1}{U}, {T}: The next creature spell you cast this turn may be cast as though it had flash. => Flash
+Flying, vigilance
+Whenever you cast a spell during an opponent's turn, draw a card.
+{1}{U}, {T}: The next creature spell you cast this turn may be cast as though it had flash.
+
+Winry, Ascended Battlemage
+rules_text: Whenever you cast an instant or sorcery spell, if Winry isn't attacking, put a +1/+1 counter on her.
+Whenever Winry attacks, you may remove any number of +1/+1 counters from her. If you do, you may cast an instant or sorcery spell with mana value X or less without paying its mana cost, where X is the number of counters removed this way. => Whenever you cast an instant or sorcery spell, if Winry isn't attacking, put a +1/+1 counter on her.
+Whenever Winry attacks, you may remove any number of +1/+1 counters from her. If you do, you may cast an instant or sorcery spell with mana value X or less from your hand without paying its mana cost, where X is the number of counters removed this way.
+
+Faerie Assassin
+artist: Midjourney => Fall Fox
+
+
+VERSION 48 CHANGELOG
 ====================
 
 

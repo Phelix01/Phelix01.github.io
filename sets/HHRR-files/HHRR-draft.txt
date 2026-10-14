@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Faerie Dog",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/32.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Spirit Elemental",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/41.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Devil Alchemist",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/55.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/56.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Faerie Druid",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/140.png"
 			}
@@ -1421,11 +1421,11 @@
 			}
 		},
 		{
-			"name": "Emanator Mage",
+			"name": "Emanation Mage",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Sorcerer",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/142.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/144.png"
 			}
@@ -1455,17 +1455,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/145.png"
 			}
 		},
 		{
-			"name": "Controlled Burn",
+			"name": "Uncontrolled Burn",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Instant",
-			"collector_number": "136",
+			"type": "Sorcery",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/146.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/147.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/148.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/149.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Troll",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/185.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Faerie Noble",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/208.png"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Dwarf Artificer",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/211.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elf Alchemist",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/212.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/213.png"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/215.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/249.png"
 			}
@@ -2665,7 +2665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Faerie Beast",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/266.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Zombie Horror",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/267.png"
 			}
@@ -2685,7 +2685,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/268.png"
 			}
@@ -3062,7 +3062,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/306.png"
 			}
@@ -3224,11 +3224,11 @@
 	4 Vitriol Transmuter
 	4 Glimmersap Gatherer
 	4 Vale Multiye
-	4 Emanator Mage
+	4 Emanation Mage
 	4 Burgundy Tome Hoarder
 	4 Crone's Hex
 	4 Shatter Flask
-	4 Controlled Burn
+	4 Uncontrolled Burn
 	4 Frenzied Discovery
 	4 Terminal Discharge
 	4 Fidget's Thorn
@@ -3579,11 +3579,11 @@
 	6 Vitriol Transmuter
 	6 Glimmersap Gatherer
 	6 Vale Multiye
-	6 Emanator Mage
+	6 Emanation Mage
 	6 Burgundy Tome Hoarder
 	6 Crone's Hex
 	6 Shatter Flask
-	6 Controlled Burn
+	6 Uncontrolled Burn
 	6 Frenzied Discovery
 	6 Terminal Discharge
 	6 Fidget's Thorn
@@ -3862,11 +3862,11 @@
 	15 Vitriol Transmuter
 	15 Glimmersap Gatherer
 	15 Vale Multiye
-	15 Emanator Mage
+	15 Emanation Mage
 	15 Burgundy Tome Hoarder
 	15 Crone's Hex
 	15 Shatter Flask
-	15 Controlled Burn
+	15 Uncontrolled Burn
 	15 Frenzied Discovery
 	15 Terminal Discharge
 	15 Fidget's Thorn
