@@ -1,4 +1,31 @@
-﻿VERSION 49 CHANGELOG
+﻿VERSION 50 CHANGELOG
+====================
+
+
+
+Formula Shaper
+cost: {U}{U}{B}{B} => {1}{U}{B}
+
+Solstice, The Seedspeaker
+rules_text: Flying, vigilance
+When Solstice enters, exile each other creature you control, then return them to the battlefield under their owner's control.
+Whenever another creature enters under your control from exile, draw a card. => Flying, vigilance
+When Solstice enters, if you cast it, exile each other creature you control, then return them to the battlefield under their owner's control.
+
+Bramble, Wings of Malice
+rules_text: Flying
+Whenever Bramble attacks, return up to one creature card with mana value 2 or less from your graveyard to the battlefield tapped and attacking. Exile it at end of combat. => Flying
+Whenever Bramble attacks, return up to one target creature card with mana value 2 or less from your graveyard to the battlefield tapped and attacking. Exile it at end of combat.
+
+Gourd, the Overgrown
+rules_text: Trample
+Whenever Gourd deals combat damage to a player, create a Food token and put that many +1/+1 counters on it. It becomes a 0/0 creature in addition to its other types.
+Whenever a Food you control dies, put its counters on Gourd. If it had no counters on it, Gourd deals 2 damage to each opponent. => Trample
+Whenever Gourd deals combat damage to a player, create a Food token and put that many +1/+1 counters on it. It becomes a 0/0 creature in addition to its other types.
+Whenever a Food you control dies, put its counters on Gourd.
+
+
+VERSION 49 CHANGELOG
 ====================
 
 Emanation Mage added.

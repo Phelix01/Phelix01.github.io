@@ -5,7 +5,7 @@
 			<name>HHRR</name>
 			<longname>Hearth-Hollow: Root &amp; Remedy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-14</releasedate>
+			<releasedate>2026-10-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2013,8 +2013,8 @@ When this creature enters, exile up to one other target creature. Return it to t
 				<side>front</side>
 				<type>Creature — Human Alchemist</type>
 				<maintype>Creature</maintype>
-				<manacost>UUBB</manacost>
-				<cmc>4</cmc>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>3/3</pt>
@@ -4421,8 +4421,7 @@ Creatures you control with dose counters on them have all the activated and trig
 		<card>
 			<name>Solstice, The Seedspeaker</name>
 			<text>Flying, vigilance
-When Solstice enters, exile each other creature you control, then return them to the battlefield under their owner&apos;s control.
-Whenever another creature enters under your control from exile, draw a card.</text>
+When Solstice enters, if you cast it, exile each other creature you control, then return them to the battlefield under their owner&apos;s control.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/253.png" num="240">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4440,7 +4439,7 @@ Whenever another creature enters under your control from exile, draw a card.</te
 		<card>
 			<name>Bramble, Wings of Malice</name>
 			<text>Flying
-Whenever Bramble attacks, return up to one creature card with mana value 2 or less from your graveyard to the battlefield tapped and attacking. Exile it at end of combat.</text>
+Whenever Bramble attacks, return up to one target creature card with mana value 2 or less from your graveyard to the battlefield tapped and attacking. Exile it at end of combat.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/254.png" num="207">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4459,7 +4458,7 @@ Whenever Bramble attacks, return up to one creature card with mana value 2 or le
 			<name>Gourd, the Overgrown</name>
 			<text>Trample
 Whenever Gourd deals combat damage to a player, create a Food token and put that many +1/+1 counters on it. It becomes a 0/0 creature in addition to its other types.
-Whenever a Food you control dies, put its counters on Gourd. If it had no counters on it, Gourd deals 2 damage to each opponent.</text>
+Whenever a Food you control dies, put its counters on Gourd.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/255.png" num="217">HHRR</set>
 			<prop>
 				<layout>normal</layout>

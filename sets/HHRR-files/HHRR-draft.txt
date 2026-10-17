@@ -1143,7 +1143,7 @@
 		{
 			"name": "Formula Shaper",
 			"rarity": "mythic",
-			"mana_cost": "{U}{U}{B}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Alchemist",
 			"collector_number": "215",
 			"image_uris": {
