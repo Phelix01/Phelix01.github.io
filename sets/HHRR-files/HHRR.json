@@ -3834,7 +3834,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 287,
+            "number": 288,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3855,7 +3855,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 289,
+            "number": 290,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -5489,27 +5489,6 @@
             "notes": ""
         },
         {
-            "card_name": "Thistle, Whimsy's Sting",
-            "color": "WR",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Faerie Rogue",
-            "number": 245,
-            "color_identity": "WR",
-            "cost": "{R}{R}{W}",
-            "rules_text": "Flying, first strike\nWhenever Thistle attacks, up to one other target attacking creature gets +2/+0 until end of turn. If that creature is a Faerie or Rogue, exile the top card of your library. You may play that card this turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "HHRR",
-            "loyalty": "",
-            "artist": "Taras Susak",
-            "alias": "",
-            "position": "261",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "Sister of the Fens",
             "color": "B",
             "rarity": "common",
@@ -5526,7 +5505,7 @@
             "loyalty": "",
             "artist": "Tatyana Kupriyanova",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "rotated": false,
             "notes": ""
         },
@@ -5547,7 +5526,7 @@
             "loyalty": "",
             "artist": "Joshua Cairos",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "rotated": false,
             "notes": ""
         },
@@ -5568,7 +5547,7 @@
             "loyalty": "",
             "artist": "ivana abbate",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "rotated": false,
             "notes": ""
         },
@@ -5589,7 +5568,7 @@
             "loyalty": "",
             "artist": "satoshi kamanaka",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "rotated": false,
             "notes": ""
         },
@@ -5610,7 +5589,7 @@
             "loyalty": "",
             "artist": "teaghan gokey",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "rotated": false,
             "notes": ""
         },
@@ -5631,7 +5610,7 @@
             "loyalty": "",
             "artist": "Adrian Bi\u0142oz\u00f3r",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "rotated": false,
             "notes": ""
         },
@@ -5652,7 +5631,7 @@
             "loyalty": "",
             "artist": "septimius ferdian",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "rotated": false,
             "notes": ""
         },
@@ -5673,7 +5652,7 @@
             "loyalty": "",
             "artist": "claudio pozas",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "rotated": false,
             "notes": ""
         },
@@ -5694,7 +5673,7 @@
             "loyalty": "",
             "artist": "joya filomena",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "rotated": false,
             "notes": ""
         },
@@ -5715,7 +5694,7 @@
             "loyalty": "",
             "artist": "wesley gardner",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "rotated": false,
             "notes": ""
         },
@@ -5736,7 +5715,7 @@
             "loyalty": "",
             "artist": "nathaniel himawan",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "rotated": false,
             "notes": ""
         },
@@ -5757,7 +5736,7 @@
             "loyalty": "",
             "artist": "anato finnstark",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "rotated": false,
             "notes": ""
         },
@@ -5778,7 +5757,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "rotated": false,
             "notes": ""
         },
@@ -5799,7 +5778,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "rotated": false,
             "notes": ""
         },
@@ -5808,7 +5787,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 288,
+            "number": 287,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -5820,7 +5799,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "rotated": false,
             "notes": ""
         },
@@ -5829,7 +5808,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 290,
+            "number": 289,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -5841,7 +5820,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "rotated": false,
             "notes": ""
         },
@@ -5862,7 +5841,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "rotated": false,
             "notes": ""
         },
@@ -5883,7 +5862,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "card_name2": "Consuming Flame",
             "color2": "",
             "type2": "Artifact \u2014 Equipment",
@@ -5916,7 +5895,7 @@
             "loyalty": "",
             "artist": "dariusz kieliszek",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "rotated": false,
             "notes": ""
         },
@@ -5937,7 +5916,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "rotated": false,
             "notes": ""
         },
@@ -5958,7 +5937,7 @@
             "loyalty": "",
             "artist": "Fall Fox",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "rotated": false,
             "notes": ""
         },
@@ -5979,7 +5958,7 @@
             "loyalty": "",
             "artist": "Anna glabicka",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "rotated": false,
             "notes": ""
         },
@@ -6000,7 +5979,7 @@
             "loyalty": "",
             "artist": "Douglas Deri",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "rotated": false,
             "notes": ""
         },
@@ -6021,7 +6000,7 @@
             "loyalty": "",
             "artist": "Fall Fox",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "rotated": false,
             "notes": ""
         },
@@ -6042,7 +6021,7 @@
             "loyalty": "",
             "artist": "joelhustak",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "rotated": false,
             "notes": ""
         },
@@ -6063,7 +6042,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "rotated": false,
             "notes": ""
         },
@@ -6084,7 +6063,7 @@
             "loyalty": "",
             "artist": "David Frasheski",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "rotated": false,
             "notes": ""
         },
@@ -6105,7 +6084,7 @@
             "loyalty": "",
             "artist": "andrew kuzinskiy",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "rotated": false,
             "notes": ""
         },
@@ -6126,7 +6105,7 @@
             "loyalty": "",
             "artist": "Bethesda",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "rotated": false,
             "notes": ""
         },
@@ -6147,7 +6126,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "rotated": false,
             "notes": ""
         },
@@ -6168,7 +6147,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "rotated": false,
             "notes": ""
         },
@@ -6189,7 +6168,7 @@
             "loyalty": "",
             "artist": "Campbell White",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "rotated": false,
             "notes": ""
         },
@@ -6210,7 +6189,7 @@
             "loyalty": "",
             "artist": "Nelly Amosova",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "rotated": false,
             "notes": ""
         },
@@ -6231,7 +6210,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "rotated": false,
             "notes": ""
         },
@@ -6252,7 +6231,7 @@
             "loyalty": "",
             "artist": "RadoJavor",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "rotated": false,
             "notes": ""
         },
@@ -6273,7 +6252,7 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "rotated": false,
             "notes": ""
         },
@@ -6294,7 +6273,7 @@
             "loyalty": "",
             "artist": "Natalia Isaicheva",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "rotated": false,
             "notes": ""
         },
@@ -6315,7 +6294,7 @@
             "loyalty": "",
             "artist": "bragato",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "rotated": false,
             "notes": ""
         },
@@ -6336,7 +6315,7 @@
             "loyalty": "",
             "artist": "flavio greco",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "rotated": false,
             "notes": ""
         },
@@ -6357,7 +6336,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "rotated": false,
             "notes": ""
         },
@@ -6378,7 +6357,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "rotated": false,
             "notes": ""
         },
@@ -6399,7 +6378,7 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "rotated": false,
             "notes": ""
         },
@@ -6420,7 +6399,7 @@
             "loyalty": "",
             "artist": "flavio greco",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "rotated": false,
             "notes": ""
         },
@@ -6441,10 +6420,31 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
+            "position": "305",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Thistle, Whimsy's Sting",
+            "color": "WR",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Faerie Rogue",
+            "number": 245,
+            "color_identity": "WR",
+            "cost": "{1}{R}{W}",
+            "rules_text": "Flying, first strike\nWhenever Thistle attacks, choose one. If you control three or more attacking Faeries, choose both instead.\n\u2022 Other attacking creatures you control get +1/+1 until end of turn.\n\u2022 Exile the top card of your library. You may play it until end of turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HHRR",
+            "loyalty": "",
+            "artist": "Taras Susak",
+            "alias": "",
             "position": "306",
             "rotated": false,
             "notes": ""
         }
     ],
-    "version": 50
+    "version": 51
 }

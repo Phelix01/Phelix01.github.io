@@ -1,4 +1,19 @@
-﻿VERSION 50 CHANGELOG
+﻿VERSION 51 CHANGELOG
+====================
+
+
+
+Thistle, Whimsy's Sting
+cost: {R}{R}{W} => {1}{R}{W}
+rules_text: Flying, first strike
+Whenever Thistle attacks, up to one other target attacking creature gets +2/+0 until end of turn. If that creature is a Faerie or Rogue, exile the top card of your library. You may play that card this turn. => Flying, first strike
+Whenever Thistle attacks, choose one. If you control three or more attacking Faeries, choose both instead.
+• Other attacking creatures you control get +1/+1 until end of turn.
+• Exile the top card of your library. You may play it until end of turn.
+pt: 2/2 => 3/2
+
+
+VERSION 50 CHANGELOG
 ====================
 
 
