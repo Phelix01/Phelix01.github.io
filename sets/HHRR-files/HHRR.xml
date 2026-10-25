@@ -5,7 +5,7 @@
 			<name>HHRR</name>
 			<longname>Hearth-Hollow: Root &amp; Remedy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-24</releasedate>
+			<releasedate>2026-10-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3734,8 +3734,8 @@ Whenever Alyra or another creature you control enters, you may harvest. If you d
 		</card>
 		<card>
 			<name>Harvest Sprite</name>
-			<text>When this creature enters, create a Food token.
-Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on another target creature you control.
+			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{T}, Sacrifice a Food: Put a +1/+1 counter on target creature.
 {1}{G}, {T}: Create a Food token.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/214.png" num="179">HHRR</set>
 			<prop>
@@ -3743,11 +3743,11 @@ Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on anot
 				<side>front</side>
 				<type>Creature — Elemental Faerie</type>
 				<maintype>Creature</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4241,7 +4241,7 @@ Whenever you harvest, create a 1/1 white Peasant creature token with vigilance.<
 		</card>
 		<card>
 			<name>Ophelia, Fate&apos;s Cartographer</name>
-			<text>When this creature enters, return up to X target Shade creature cards from your graveyard to the battlefield, where X is the amount of life you gained this turn.
+			<text>When Ophelia enters, return up to X target Shade creature cards from your graveyard to the battlefield, where X is the amount of life you gained this turn.
 {B}: Target Shade you control gets +1/+1 until end of turn.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/243.png" num="27">HHRR</set>
 			<prop>
@@ -4259,7 +4259,7 @@ Whenever you harvest, create a 1/1 white Peasant creature token with vigilance.<
 		</card>
 		<card>
 			<name>Arabos, Spire Archmage</name>
-			<text>Whenever you cast an instant or sorcery spell from your hand, you may exile that spell. When you do, exile another target creature you control, then return it to the battlefield under its owner&apos;s control. Do this only once each turn.
+			<text>Whenever an instant or sorcery spell you control resolves, if it was cast from your hand, exile it.
 Emanate — {2}{U}, {T}: Cast target spell exiled with Arabos without paying its mana cost. Activate only if a nonland permanent you control entered this turn and wasn&apos;t cast.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/244.png" num="45">HHRR</set>
 			<prop>
@@ -4267,11 +4267,11 @@ Emanate — {2}{U}, {T}: Cast target spell exiled with Arabos without paying its
 				<side>front</side>
 				<type>Legendary Creature — Azra Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>3UU</manacost>
-				<cmc>5</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/3</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4287,8 +4287,8 @@ Whenever you cast a spell during an opponent&apos;s turn, draw a card.
 				<side>front</side>
 				<type>Creature — Bird</type>
 				<maintype>Creature</maintype>
-				<manacost>UU</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>2/2</pt>
@@ -4684,14 +4684,14 @@ You may cast creature spells with mana value 4 or less as though they had flash.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Moss-Basker Alpha</name>
+			<name>Mossbasker Behemoth</name>
 			<text>Trample
-Whenever this creature attacks, untap target land you control for each attacking creature with power 4 or greater.</text>
+Whenever a creature you control with power 4 or greater attacks, untap up to one target land you control.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/268.png" num="186">HHRR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Lizard</type>
+				<type>Creature — Beast</type>
 				<maintype>Creature</maintype>
 				<manacost>2GG</manacost>
 				<cmc>4</cmc>
@@ -5304,7 +5304,7 @@ Whenever Thistle attacks, choose one. If you control three or more attacking Fae
 		<card>
 			<name>Fidget, Pixie Crownling</name>
 			<text>Flying, first strike
-Whenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget&apos;s power. If X is 0 or less, put a +1/+1 counter on another target creature you control.</text>
+Whenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget&apos;s power. If X is 0 or less, put a +1/+1 counter on up to one other target creature you control.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/304.png" num="141">HHRR</set>
 			<prop>
 				<layout>normal</layout>

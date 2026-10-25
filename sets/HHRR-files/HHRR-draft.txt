@@ -2143,7 +2143,7 @@
 		{
 			"name": "Harvest Sprite",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Elemental Faerie",
 			"collector_number": "179",
 			"image_uris": {
@@ -2443,7 +2443,7 @@
 		{
 			"name": "Arabos, Spire Archmage",
 			"rarity": "mythic",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Azra Wizard",
 			"collector_number": "45",
 			"image_uris": {
@@ -2453,7 +2453,7 @@
 		{
 			"name": "Swift Shadowhawk",
 			"rarity": "mythic",
-			"mana_cost": "{U}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird",
 			"collector_number": "75",
 			"image_uris": {
@@ -2681,10 +2681,10 @@
 			}
 		},
 		{
-			"name": "Moss-Basker Alpha",
+			"name": "Mossbasker Behemoth",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Lizard",
+			"type": "Creature — Beast",
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://phelix01.github.io/sets/HHRR-files/img/268.png"
@@ -3146,7 +3146,7 @@
 	1 Divine Herdmaster
 	2 Dark Whimsy
 	2 Sentinel of the Inner Grove
-	2 Moss-Basker Alpha
+	2 Mossbasker Behemoth
 	2 Crow's Scythe
 	2 Maeve Nightshade
 	1 Blazette, Blazing Blunder
@@ -3700,7 +3700,7 @@
 	6 Wild Retribution
 	2 Dark Whimsy
 	2 Sentinel of the Inner Grove
-	2 Moss-Basker Alpha
+	2 Mossbasker Behemoth
 	2 Crow's Scythe
 	6 Comforting Candle
 	12 Prioritize
@@ -3983,7 +3983,7 @@
 	15 Wild Retribution
 	7 Dark Whimsy
 	7 Sentinel of the Inner Grove
-	7 Moss-Basker Alpha
+	7 Mossbasker Behemoth
 	7 Crow's Scythe
 	15 Comforting Candle
 	6 Prioritize

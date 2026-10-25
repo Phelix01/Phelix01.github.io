@@ -1,4 +1,42 @@
-﻿VERSION 54 CHANGELOG
+﻿VERSION 55 CHANGELOG
+====================
+
+Mossbasker Behemoth added.
+
+Moss-Basker Alpha removed.
+
+Harvest Sprite
+cost: {2}{G} => {1}{G}
+rules_text: When this creature enters, create a Food token.
+Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on another target creature you control.
+{1}{G}, {T}: Create a Food token. => When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+{T}, Sacrifice a Food: Put a +1/+1 counter on target creature.
+{1}{G}, {T}: Create a Food token.
+flavor_text: [i]It is agreed by locals that a happy sprite makes for a heavy cart.[/i] => [i][/i]
+pt: 1/2 => 1/1
+
+Ophelia, Fate's Cartographer
+rules_text: When this creature enters, return up to X target Shade creature cards from your graveyard to the battlefield, where X is the amount of life you gained this turn.
+{B}: Target Shade you control gets +1/+1 until end of turn. => When Ophelia enters, return up to X target Shade creature cards from your graveyard to the battlefield, where X is the amount of life you gained this turn.
+{B}: Target Shade you control gets +1/+1 until end of turn.
+
+Arabos, Spire Archmage
+cost: {3}{U}{U} => {1}{U}
+rules_text: Whenever you cast an instant or sorcery spell from your hand, you may exile that spell. When you do, exile another target creature you control, then return it to the battlefield under its owner's control. Do this only once each turn.
+[i]Emanate[/i] — {2}{U}, {T}: Cast target spell exiled with Arabos without paying its mana cost. Activate only if a nonland permanent you control entered this turn and wasn't cast. => Whenever an instant or sorcery spell you control resolves, if it was cast from your hand, exile it.
+[i]Emanate[/i] — {2}{U}, {T}: Cast target spell exiled with Arabos without paying its mana cost. Activate only if a nonland permanent you control entered this turn and wasn't cast.
+pt: 3/3 => 1/3
+
+Swift Shadowhawk
+cost: {U}{U} => {2}{U}
+
+Fidget, Pixie Crownling
+rules_text: Flying, first strike
+Whenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget's power. If X is 0 or less, put a +1/+1 counter on another target creature you control. => Flying, first strike
+Whenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget's power. If X is 0 or less, put a +1/+1 counter on up to one other target creature you control.
+
+
+VERSION 54 CHANGELOG
 ====================
 
 
