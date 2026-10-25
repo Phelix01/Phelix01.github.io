@@ -5304,7 +5304,7 @@ Whenever Thistle attacks, choose one. If you control three or more attacking Fae
 		<card>
 			<name>Fidget, Pixie Crownling</name>
 			<text>Flying, first strike
-Whenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget&apos;s power. If X is 0 or less, exile the top card of your library. You may play it until end of turn.</text>
+Whenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget&apos;s power. If X is 0 or less, put a +1/+1 counter on another target creature you control.</text>
 			<set rarity="rare" picurl="https://phelix01.github.io/sets/HHRR-files/img/304.png" num="141">HHRR</set>
 			<prop>
 				<layout>normal</layout>

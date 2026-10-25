@@ -1,4 +1,15 @@
-﻿VERSION 53 CHANGELOG
+﻿VERSION 54 CHANGELOG
+====================
+
+
+
+Fidget, Pixie Crownling
+rules_text: Flying, first strike
+Whenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget's power. If X is 0 or less, exile the top card of your library. You may play it until end of turn. => Flying, first strike
+Whenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget's power. If X is 0 or less, put a +1/+1 counter on another target creature you control.
+
+
+VERSION 53 CHANGELOG
 ====================
 
 Umbral Calling added.

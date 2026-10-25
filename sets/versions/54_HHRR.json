@@ -6390,7 +6390,7 @@
             "number": 141,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Flying, first strike\nWhenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget's power. If X is 0 or less, exile the top card of your library. You may play it until end of turn.",
+            "rules_text": "Flying, first strike\nWhenever Fidget enters or attacks, other creatures you control get +X/+0 until end of turn, where X is Fidget's power. If X is 0 or less, put a +1/+1 counter on another target creature you control.",
             "flavor_text": "[i]\u201cSurrender? Never heard of that game, but it sounds terribly boring.\u201d[/i]",
             "pt": "0/3",
             "special_text": "",
