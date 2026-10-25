@@ -558,7 +558,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Horror",
-            "number": 120,
+            "number": 119,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Menace [i](This creature can't be blocked except by two or more creatures.)[/i]\n[i]Emanate[/i] \u2014 Whenever this creature attacks, if a nonland permanent you control entered this turn and wasn't cast, this creature gets +2/+0 until end of turn.",
@@ -600,7 +600,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 118,
+            "number": 117,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature or exile three creature cards from your graveyard.\nDraw two cards.",
@@ -3792,7 +3792,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 283,
+            "number": 284,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -3813,7 +3813,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 285,
+            "number": 286,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -3834,7 +3834,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 287,
+            "number": 288,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3876,7 +3876,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 291,
+            "number": 292,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -4236,7 +4236,7 @@
             "number": 122,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Memorialize {B}{B} [i](You may cast this for {B}{B} if you sacrificed a nonland permanent this turn.)[/i]\nFlying, lifelink\nWhenever another creature you control dies, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, put a lifelink counter on another target creature you control.",
+            "rules_text": "Memorialize {1}{B}{B} [i](You may cast this for {1}{B}{B} if you sacrificed a nonland permanent this turn.)[/i]\nFlying, lifelink\nWhenever another creature you control dies, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, put a lifelink counter on another target creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4334,14 +4334,14 @@
             "notes": ""
         },
         {
-            "card_name": "Search for Shadows",
+            "card_name": "Umbral Calling",
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 117,
+            "number": 120,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Search your library for a Shade card, reveal it, put it into your hand, then shuffle. If two or more nontoken creatures you control died this turn, instead search your library for any card, put it into your hand, then shuffle.",
+            "rules_text": "Target player sacrifices a creature of their choice. Then if three or more creatures died this turn, you may search your library for a Shade card, reveal it, put it into your hand, and shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4376,27 +4376,6 @@
             "notes": ""
         },
         {
-            "card_name": "Blazette's Cuddlebeast",
-            "color": "R",
-            "rarity": "rare",
-            "type": "Creature \u2014 Dragon",
-            "number": 126,
-            "color_identity": "R",
-            "cost": "{5}{R}{R}",
-            "rules_text": "Flying\nWhen this creature enters, it deals 5 damage to up to one target creature. Then destroy up to one target artifact and double the power of up to one other target creature until end of turn.",
-            "flavor_text": "[i]\u201cLook at all that destruction. Aren't you just the most precious thing ever!\u201d\n\u2014Blazette, Blazing Blunder[/i]",
-            "pt": "6/6",
-            "special_text": "",
-            "shape": "normal",
-            "set": "HHRR",
-            "loyalty": "",
-            "artist": "Midjourney",
-            "alias": "",
-            "position": "208",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "Lowlands Blacksmith",
             "color": "R",
             "rarity": "rare",
@@ -4413,7 +4392,7 @@
             "loyalty": "",
             "artist": "Vildor Trilov",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "rotated": false,
             "notes": ""
         },
@@ -4434,7 +4413,7 @@
             "loyalty": "",
             "artist": "romain kurdi",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "rotated": false,
             "notes": ""
         },
@@ -4455,7 +4434,7 @@
             "loyalty": "",
             "artist": "monztre",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "rotated": false,
             "notes": ""
         },
@@ -4476,7 +4455,7 @@
             "loyalty": "",
             "artist": "roman tishenin",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "rotated": false,
             "notes": ""
         },
@@ -4497,7 +4476,7 @@
             "loyalty": "",
             "artist": "septimius ferdian",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "rotated": false,
             "notes": ""
         },
@@ -4518,7 +4497,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "rotated": false,
             "notes": ""
         },
@@ -4539,7 +4518,7 @@
             "loyalty": "",
             "artist": "anna shulgina",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "rotated": false,
             "notes": ""
         },
@@ -4560,7 +4539,7 @@
             "loyalty": "",
             "artist": "diego roman",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "rotated": false,
             "notes": ""
         },
@@ -4581,7 +4560,7 @@
             "loyalty": "",
             "artist": "Adrian Virlan",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "rotated": false,
             "notes": ""
         },
@@ -4602,7 +4581,7 @@
             "loyalty": "",
             "artist": "Zoe Badini",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "rotated": false,
             "notes": ""
         },
@@ -4623,7 +4602,7 @@
             "loyalty": "",
             "artist": "Rapphael Pinna",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "rotated": false,
             "notes": ""
         },
@@ -4644,7 +4623,7 @@
             "loyalty": "",
             "artist": "helene lenoble",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "rotated": false,
             "notes": ""
         },
@@ -4665,7 +4644,7 @@
             "loyalty": "",
             "artist": "denys tsiperko",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "rotated": false,
             "notes": ""
         },
@@ -4686,7 +4665,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "rotated": false,
             "notes": ""
         },
@@ -4707,7 +4686,7 @@
             "loyalty": "",
             "artist": "Carolina Eade",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "rotated": false,
             "notes": ""
         },
@@ -4728,7 +4707,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "rotated": false,
             "notes": ""
         },
@@ -4749,7 +4728,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "rotated": false,
             "notes": ""
         },
@@ -4770,7 +4749,7 @@
             "loyalty": "",
             "artist": "Ari Targownik",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "rotated": false,
             "notes": ""
         },
@@ -4791,7 +4770,7 @@
             "loyalty": "",
             "artist": "Adam Duff",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "rotated": false,
             "notes": ""
         },
@@ -4812,7 +4791,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "rotated": false,
             "notes": ""
         },
@@ -4833,7 +4812,7 @@
             "loyalty": "",
             "artist": "ari targownik",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "rotated": false,
             "notes": ""
         },
@@ -4854,7 +4833,7 @@
             "loyalty": "",
             "artist": "edgarsh422",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "rotated": false,
             "notes": ""
         },
@@ -4875,7 +4854,7 @@
             "loyalty": "",
             "artist": "maxim kozlov",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "rotated": false,
             "notes": ""
         },
@@ -4896,7 +4875,7 @@
             "loyalty": "",
             "artist": "Peter Polach",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "rotated": false,
             "notes": ""
         },
@@ -4917,7 +4896,7 @@
             "loyalty": "",
             "artist": "zhang bo",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "rotated": false,
             "notes": ""
         },
@@ -4938,7 +4917,7 @@
             "loyalty": "",
             "artist": "kevin sidharta",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "rotated": false,
             "notes": ""
         },
@@ -4959,7 +4938,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "rotated": false,
             "notes": ""
         },
@@ -4980,7 +4959,7 @@
             "loyalty": "",
             "artist": "Sarah Miller",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "rotated": false,
             "notes": ""
         },
@@ -5001,7 +4980,7 @@
             "loyalty": "",
             "artist": "Dan Cohen",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "rotated": false,
             "notes": ""
         },
@@ -5022,7 +5001,7 @@
             "loyalty": "",
             "artist": "dmitry desyatov",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "rotated": false,
             "notes": ""
         },
@@ -5043,7 +5022,7 @@
             "loyalty": "",
             "artist": "andrea butera",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "rotated": false,
             "notes": ""
         },
@@ -5064,7 +5043,7 @@
             "loyalty": "",
             "artist": "Adam Danger Cook",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "rotated": false,
             "notes": ""
         },
@@ -5085,7 +5064,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "rotated": false,
             "notes": ""
         },
@@ -5106,7 +5085,7 @@
             "loyalty": "",
             "artist": "Kael",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "rotated": false,
             "notes": ""
         },
@@ -5127,7 +5106,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "rotated": false,
             "notes": ""
         },
@@ -5148,7 +5127,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "rotated": false,
             "notes": ""
         },
@@ -5169,7 +5148,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "rotated": false,
             "notes": ""
         },
@@ -5190,7 +5169,7 @@
             "loyalty": "",
             "artist": "mariah tekulve",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "rotated": false,
             "notes": ""
         },
@@ -5211,7 +5190,7 @@
             "loyalty": "",
             "artist": "andrea piparo",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "rotated": false,
             "notes": ""
         },
@@ -5232,7 +5211,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "rotated": false,
             "notes": ""
         },
@@ -5253,7 +5232,7 @@
             "loyalty": "",
             "artist": "Flame Croowz",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "rotated": false,
             "notes": ""
         },
@@ -5274,7 +5253,7 @@
             "loyalty": "",
             "artist": "Ulrick Net",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "rotated": false,
             "notes": ""
         },
@@ -5295,7 +5274,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "rotated": false,
             "notes": ""
         },
@@ -5316,7 +5295,7 @@
             "loyalty": "",
             "artist": "Lauren Walsh",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "rotated": false,
             "notes": ""
         },
@@ -5337,7 +5316,7 @@
             "loyalty": "",
             "artist": "Raluca Marinescu",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "rotated": false,
             "notes": ""
         },
@@ -5358,7 +5337,7 @@
             "loyalty": "",
             "artist": "brendan lancaster",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "rotated": false,
             "notes": ""
         },
@@ -5379,7 +5358,7 @@
             "loyalty": "",
             "artist": "I\u142fETTO",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "rotated": false,
             "notes": ""
         },
@@ -5400,7 +5379,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "rotated": false,
             "notes": ""
         },
@@ -5421,7 +5400,7 @@
             "loyalty": "",
             "artist": "arturna khodkin",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "rotated": false,
             "notes": ""
         },
@@ -5442,7 +5421,7 @@
             "loyalty": "",
             "artist": "Davood Moghaddami",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "rotated": false,
             "notes": ""
         },
@@ -5451,7 +5430,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Hag Wizard",
-            "number": 119,
+            "number": 118,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "When this creature enters, each player sacrifices a creature. Each player who can't discards a card instead.",
@@ -5463,7 +5442,7 @@
             "loyalty": "",
             "artist": "Tatyana Kupriyanova",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "rotated": false,
             "notes": ""
         },
@@ -5484,7 +5463,7 @@
             "loyalty": "",
             "artist": "Joshua Cairos",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "rotated": false,
             "notes": ""
         },
@@ -5505,7 +5484,7 @@
             "loyalty": "",
             "artist": "ivana abbate",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "rotated": false,
             "notes": ""
         },
@@ -5526,7 +5505,7 @@
             "loyalty": "",
             "artist": "satoshi kamanaka",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "rotated": false,
             "notes": ""
         },
@@ -5547,7 +5526,7 @@
             "loyalty": "",
             "artist": "teaghan gokey",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "rotated": false,
             "notes": ""
         },
@@ -5568,7 +5547,7 @@
             "loyalty": "",
             "artist": "Adrian Bi\u0142oz\u00f3r",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "rotated": false,
             "notes": ""
         },
@@ -5589,7 +5568,7 @@
             "loyalty": "",
             "artist": "septimius ferdian",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "rotated": false,
             "notes": ""
         },
@@ -5610,7 +5589,7 @@
             "loyalty": "",
             "artist": "claudio pozas",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "rotated": false,
             "notes": ""
         },
@@ -5631,7 +5610,7 @@
             "loyalty": "",
             "artist": "joya filomena",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "rotated": false,
             "notes": ""
         },
@@ -5652,7 +5631,7 @@
             "loyalty": "",
             "artist": "wesley gardner",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "rotated": false,
             "notes": ""
         },
@@ -5673,7 +5652,7 @@
             "loyalty": "",
             "artist": "nathaniel himawan",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "rotated": false,
             "notes": ""
         },
@@ -5694,7 +5673,7 @@
             "loyalty": "",
             "artist": "anato finnstark",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "rotated": false,
             "notes": ""
         },
@@ -5703,8 +5682,29 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 284,
+            "number": 283,
             "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HHRR",
+            "loyalty": "",
+            "artist": "Midjourney",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Island",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Island",
+            "number": 285,
+            "color_identity": "U",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
@@ -5720,32 +5720,11 @@
             "notes": ""
         },
         {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Island",
-            "number": 286,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "HHRR",
-            "loyalty": "",
-            "artist": "Midjourney",
-            "alias": "",
-            "position": "272",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 288,
+            "number": 287,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -5757,7 +5736,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "rotated": false,
             "notes": ""
         },
@@ -5778,7 +5757,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "rotated": false,
             "notes": ""
         },
@@ -5787,7 +5766,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 292,
+            "number": 291,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -5799,7 +5778,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "rotated": false,
             "notes": ""
         },
@@ -5820,7 +5799,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "card_name2": "Consuming Flame",
             "color2": "",
             "type2": "Artifact \u2014 Equipment",
@@ -5853,7 +5832,7 @@
             "loyalty": "",
             "artist": "dariusz kieliszek",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "rotated": false,
             "notes": ""
         },
@@ -5874,7 +5853,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "rotated": false,
             "notes": ""
         },
@@ -5895,7 +5874,7 @@
             "loyalty": "",
             "artist": "Fall Fox",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "rotated": false,
             "notes": ""
         },
@@ -5916,7 +5895,7 @@
             "loyalty": "",
             "artist": "Anna glabicka",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "rotated": false,
             "notes": ""
         },
@@ -5937,7 +5916,7 @@
             "loyalty": "",
             "artist": "Douglas Deri",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "rotated": false,
             "notes": ""
         },
@@ -5958,7 +5937,7 @@
             "loyalty": "",
             "artist": "Fall Fox",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "rotated": false,
             "notes": ""
         },
@@ -5979,7 +5958,7 @@
             "loyalty": "",
             "artist": "joelhustak",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "rotated": false,
             "notes": ""
         },
@@ -6000,7 +5979,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "rotated": false,
             "notes": ""
         },
@@ -6021,7 +6000,7 @@
             "loyalty": "",
             "artist": "David Frasheski",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "rotated": false,
             "notes": ""
         },
@@ -6042,7 +6021,7 @@
             "loyalty": "",
             "artist": "andrew kuzinskiy",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "rotated": false,
             "notes": ""
         },
@@ -6063,7 +6042,7 @@
             "loyalty": "",
             "artist": "Bethesda",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "rotated": false,
             "notes": ""
         },
@@ -6084,7 +6063,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "rotated": false,
             "notes": ""
         },
@@ -6105,7 +6084,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "rotated": false,
             "notes": ""
         },
@@ -6126,7 +6105,7 @@
             "loyalty": "",
             "artist": "Campbell White",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "rotated": false,
             "notes": ""
         },
@@ -6147,7 +6126,7 @@
             "loyalty": "",
             "artist": "Nelly Amosova",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "rotated": false,
             "notes": ""
         },
@@ -6168,7 +6147,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "rotated": false,
             "notes": ""
         },
@@ -6189,7 +6168,7 @@
             "loyalty": "",
             "artist": "RadoJavor",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "rotated": false,
             "notes": ""
         },
@@ -6210,7 +6189,7 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "rotated": false,
             "notes": ""
         },
@@ -6231,7 +6210,7 @@
             "loyalty": "",
             "artist": "Natalia Isaicheva",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "rotated": false,
             "notes": ""
         },
@@ -6252,7 +6231,7 @@
             "loyalty": "",
             "artist": "bragato",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "rotated": false,
             "notes": ""
         },
@@ -6273,7 +6252,7 @@
             "loyalty": "",
             "artist": "flavio greco",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "rotated": false,
             "notes": ""
         },
@@ -6294,7 +6273,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "rotated": false,
             "notes": ""
         },
@@ -6315,7 +6294,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "rotated": false,
             "notes": ""
         },
@@ -6336,7 +6315,7 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "rotated": false,
             "notes": ""
         },
@@ -6357,7 +6336,7 @@
             "loyalty": "",
             "artist": "flavio greco",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "rotated": false,
             "notes": ""
         },
@@ -6378,7 +6357,7 @@
             "loyalty": "",
             "artist": "Midjourney",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "rotated": false,
             "notes": ""
         },
@@ -6399,7 +6378,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "rotated": false,
             "notes": ""
         },
@@ -6420,7 +6399,7 @@
             "loyalty": "",
             "artist": "JeongSeok Lee",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "rotated": false,
             "notes": ""
         },
@@ -6441,10 +6420,31 @@
             "loyalty": "",
             "artist": "Tatsang Wang",
             "alias": "",
+            "position": "305",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Blazette's Cuddlebeast",
+            "color": "R",
+            "rarity": "rare",
+            "type": "Creature \u2014 Dragon",
+            "number": 126,
+            "color_identity": "R",
+            "cost": "{5}{R}{R}",
+            "rules_text": "Flying\nWhen this creature enters, choose two \u2014\n\u2022 This creature deals 5 damage to target creature.\n\u2022 Destroy up to two target artifacts.\n\u2022 Double the power of another target creature you control until end of turn.",
+            "flavor_text": "[i]\u201cAren't you just the most precious thing ever!\u201d\n\u2014Blazette, Blazing Blunder[/i]",
+            "pt": "6/6",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HHRR",
+            "loyalty": "",
+            "artist": "Midjourney",
+            "alias": "",
             "position": "306",
             "rotated": false,
             "notes": ""
         }
     ],
-    "version": 52
+    "version": 53
 }

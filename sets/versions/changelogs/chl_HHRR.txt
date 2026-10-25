@@ -1,4 +1,30 @@
-﻿VERSION 52 CHANGELOG
+﻿VERSION 53 CHANGELOG
+====================
+
+Umbral Calling added.
+
+Search for Shadows removed.
+
+Watcher of Endings
+rules_text: Memorialize {B}{B} [i](You may cast this for {B}{B} if you sacrificed a nonland permanent this turn.)[/i]
+Flying, lifelink
+Whenever another creature you control dies, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, put a lifelink counter on another target creature you control. => Memorialize {1}{B}{B} [i](You may cast this for {1}{B}{B} if you sacrificed a nonland permanent this turn.)[/i]
+Flying, lifelink
+Whenever another creature you control dies, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, put a lifelink counter on another target creature you control.
+
+Blazette's Cuddlebeast
+rules_text: Flying
+When this creature enters, it deals 5 damage to up to one target creature. Then destroy up to one target artifact and double the power of up to one other target creature until end of turn. => Flying
+When this creature enters, choose two —
+• This creature deals 5 damage to target creature.
+• Destroy up to two target artifacts.
+• Double the power of another target creature you control until end of turn.
+flavor_text: [i]“Look at all that destruction. Aren't you just the most precious thing ever!”
+—Blazette, Blazing Blunder[/i] => [i]“Aren't you just the most precious thing ever!”
+—Blazette, Blazing Blunder[/i]
+
+
+VERSION 52 CHANGELOG
 ====================
 
 
