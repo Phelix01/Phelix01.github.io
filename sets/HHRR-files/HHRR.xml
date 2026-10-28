@@ -5,7 +5,7 @@
 			<name>HHRR</name>
 			<longname>Hearth-Hollow: Root &amp; Remedy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-25</releasedate>
+			<releasedate>2026-10-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4333,8 +4333,8 @@ When this creature enters, you may remove any number of +1/+1 counters from amon
 		</card>
 		<card>
 			<name>Ascetic Botanist</name>
-			<text>When this creature enters, create a Potion token with two +1/+1 counters on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
-{T}, Sacrifice a Potion you control: Add X mana of any combination of colors, where X is the number of counters on that Potion. When you do, put those counters on target creature.</text>
+			<text>When this creature enters, create a Potion token with a +1/+1 counter on it. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
+{T}, Sacrifice a Potion: Add X mana of any combination of colors, where X is the number of counters on that Potion. When you do, put those counters on target creature.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/248.png" num="167">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4441,7 +4441,7 @@ Whenever a Food you control dies, put its counters on Gourd.</text>
 		<card>
 			<name>Winry, Ascended Battlemage</name>
 			<text>Whenever you cast an instant or sorcery spell, if Winry isn&apos;t attacking, put a +1/+1 counter on her.
-Whenever Winry attacks, you may remove any number of +1/+1 counters from her. If you do, you may cast an instant or sorcery spell with mana value X or less from your hand without paying its mana cost, where X is the number of counters removed this way.</text>
+Whenever Winry attacks, you may remove any number of +1/+1 counters from her. When you do, you may cast an instant or sorcery spell with mana value X or less from your hand without paying its mana cost, where X is the number of counters removed this way.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/254.png" num="253">HHRR</set>
 			<prop>
 				<layout>normal</layout>
@@ -5251,7 +5251,7 @@ Emanate — When this creature enters, if a nonland permanent you control entere
 		</card>
 		<card>
 			<name>Exenterate</name>
-			<text>Destroy target creature. That creature&apos;s controller may search their library for a card, put it into their hand, then shuffle.</text>
+			<text>Destroy target creature. If you controlled that creature, you may search your library for a card, put it into your hand, then shuffle. Otherwise, you lose life equal to its mana value.</text>
 			<set rarity="mythic" picurl="https://phelix01.github.io/sets/HHRR-files/img/301.png" num="96">HHRR</set>
 			<prop>
 				<layout>normal</layout>
